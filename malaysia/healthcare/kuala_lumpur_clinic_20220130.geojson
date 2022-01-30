@@ -1,0 +1,5853 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-01-30T07:25:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/11491893",
+        "addr:city": "Jinjang Utara Tambahan",
+        "addr:housenumber": "2",
+        "addr:postcode": "52000",
+        "addr:street": "Jalan Jinjang Setia 3",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Klinik Kesihatan Jinjang",
+        "name:zh": "增江健康诊所",
+        "phone": "+603-40427557",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.6547304,
+              3.2195298
+            ],
+            [
+              101.6547774,
+              3.2195291
+            ],
+            [
+              101.6547764,
+              3.2194615
+            ],
+            [
+              101.6551923,
+              3.2194555
+            ],
+            [
+              101.6551933,
+              3.2195297
+            ],
+            [
+              101.655167,
+              3.21953
+            ],
+            [
+              101.6551688,
+              3.2196567
+            ],
+            [
+              101.6549193,
+              3.2196603
+            ],
+            [
+              101.6549211,
+              3.2197887
+            ],
+            [
+              101.6548781,
+              3.2197899
+            ],
+            [
+              101.6548288,
+              3.2198427
+            ],
+            [
+              101.6548766,
+              3.2198888
+            ],
+            [
+              101.6549244,
+              3.2199348
+            ],
+            [
+              101.6548392,
+              3.2200162
+            ],
+            [
+              101.6547894,
+              3.219972
+            ],
+            [
+              101.6547456,
+              3.2199332
+            ],
+            [
+              101.6546877,
+              3.2199957
+            ],
+            [
+              101.654686,
+              3.2200543
+            ],
+            [
+              101.6545067,
+              3.2200569
+            ],
+            [
+              101.6545075,
+              3.2201133
+            ],
+            [
+              101.6544217,
+              3.2201146
+            ],
+            [
+              101.6544209,
+              3.2200629
+            ],
+            [
+              101.6543247,
+              3.2200643
+            ],
+            [
+              101.6543256,
+              3.220122
+            ],
+            [
+              101.6542357,
+              3.2201233
+            ],
+            [
+              101.6542349,
+              3.2200705
+            ],
+            [
+              101.6540471,
+              3.2200732
+            ],
+            [
+              101.654044,
+              3.219862
+            ],
+            [
+              101.6539813,
+              3.2198629
+            ],
+            [
+              101.65398,
+              3.2197754
+            ],
+            [
+              101.6540345,
+              3.2197746
+            ],
+            [
+              101.6540313,
+              3.2195515
+            ],
+            [
+              101.6540466,
+              3.2195513
+            ],
+            [
+              101.6540455,
+              3.2194751
+            ],
+            [
+              101.6544829,
+              3.2194687
+            ],
+            [
+              101.6544844,
+              3.2195746
+            ],
+            [
+              101.6545232,
+              3.219574
+            ],
+            [
+              101.6545216,
+              3.2194667
+            ],
+            [
+              101.6547294,
+              3.2194637
+            ],
+            [
+              101.6547304,
+              3.2195298
+            ]
+          ],
+          [
+            [
+              101.654213,
+              3.2196844
+            ],
+            [
+              101.6542155,
+              3.2198597
+            ],
+            [
+              101.6543004,
+              3.2198585
+            ],
+            [
+              101.6542979,
+              3.2196832
+            ],
+            [
+              101.654213,
+              3.2196844
+            ]
+          ],
+          [
+            [
+              101.654647,
+              3.2198443
+            ],
+            [
+              101.6547135,
+              3.2197523
+            ],
+            [
+              101.6547122,
+              3.2196705
+            ],
+            [
+              101.6545523,
+              3.2196723
+            ],
+            [
+              101.6545542,
+              3.219847
+            ],
+            [
+              101.654647,
+              3.2198443
+            ]
+          ]
+        ]
+      },
+      "id": "relation/11491893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/26456730",
+        "addr:city": "Kuala Lumpur",
+        "addr:postcode": "53000",
+        "addr:street": "Jalan Pahang",
+        "amenity": "clinic",
+        "barrier": "wall",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Institut Perubatan Respiratori",
+        "name:ms": "Institut Perubatan Respiratori",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "opening_hours:covid19": "same",
+        "operator": "Institut Perubatan Respiratori",
+        "operator:type": "government",
+        "phone": "+60340232966",
+        "short_name": "IPR",
+        "website": "http://www.moh.gov.my/index.php/pages/view/291"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.6997697,
+              3.1756722
+            ],
+            [
+              101.6998531,
+              3.1760595
+            ],
+            [
+              101.6998792,
+              3.1761764
+            ],
+            [
+              101.6982135,
+              3.1761602
+            ],
+            [
+              101.6980152,
+              3.1758874
+            ],
+            [
+              101.6978591,
+              3.1755498
+            ],
+            [
+              101.6976118,
+              3.1752271
+            ],
+            [
+              101.6994333,
+              3.1748741
+            ],
+            [
+              101.6995718,
+              3.1750226
+            ],
+            [
+              101.6996549,
+              3.1751832
+            ],
+            [
+              101.6997697,
+              3.1756722
+            ]
+          ]
+        ]
+      },
+      "id": "way/26456730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262965036",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Klinik Ibu Mengandung dan Kanak Kanak"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.6295336,
+              3.1403709
+            ],
+            [
+              101.6296227,
+              3.1401247
+            ],
+            [
+              101.6298159,
+              3.1401944
+            ],
+            [
+              101.6298048,
+              3.1402249
+            ],
+            [
+              101.6298513,
+              3.1402418
+            ],
+            [
+              101.6298575,
+              3.1402247
+            ],
+            [
+              101.6299126,
+              3.1402446
+            ],
+            [
+              101.6298748,
+              3.1403489
+            ],
+            [
+              101.6298376,
+              3.1404509
+            ],
+            [
+              101.6297846,
+              3.1404316
+            ],
+            [
+              101.6298217,
+              3.1403297
+            ],
+            [
+              101.6297758,
+              3.140313
+            ],
+            [
+              101.6297292,
+              3.1404415
+            ],
+            [
+              101.6295336,
+              3.1403709
+            ]
+          ]
+        ]
+      },
+      "id": "way/262965036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/415413448",
+        "addr:city": "Kuala Lumpur",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Kesihatan Kampung Pandan",
+        "phone": "+603-92810275"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.7321006,
+              3.1443549
+            ],
+            [
+              101.7321046,
+              3.1442923
+            ],
+            [
+              101.7322916,
+              3.1441818
+            ],
+            [
+              101.73253,
+              3.144041
+            ],
+            [
+              101.7326608,
+              3.1442779
+            ],
+            [
+              101.7327091,
+              3.1442532
+            ],
+            [
+              101.7327845,
+              3.1444041
+            ],
+            [
+              101.7327145,
+              3.144438
+            ],
+            [
+              101.7326944,
+              3.1444115
+            ],
+            [
+              101.7326303,
+              3.1444068
+            ],
+            [
+              101.7325606,
+              3.1444
+            ],
+            [
+              101.7321006,
+              3.1443549
+            ]
+          ]
+        ]
+      },
+      "id": "way/415413448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/504141877",
+        "addr:city": "Kuala Lumpur",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Jalan Hang Tuah"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.704544,
+              3.1377094
+            ],
+            [
+              101.7043234,
+              3.1373667
+            ],
+            [
+              101.7047468,
+              3.1371352
+            ],
+            [
+              101.704949,
+              3.1374725
+            ],
+            [
+              101.704544,
+              3.1377094
+            ]
+          ]
+        ]
+      },
+      "id": "way/504141877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/754774329",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Klinik 1 Malaysia Salak Selatan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.7021999,
+              3.091384
+            ],
+            [
+              101.7020861,
+              3.0914106
+            ],
+            [
+              101.7020521,
+              3.0912655
+            ],
+            [
+              101.7021659,
+              3.0912389
+            ],
+            [
+              101.7021999,
+              3.091384
+            ]
+          ]
+        ]
+      },
+      "id": "way/754774329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/790625812",
+        "amenity": "clinic",
+        "building": "commercial",
+        "healthcare": "clinic",
+        "name": "Klinik TTDI"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.629187,
+              3.1402684
+            ],
+            [
+              101.6292597,
+              3.1400623
+            ],
+            [
+              101.6293241,
+              3.140083
+            ],
+            [
+              101.6292513,
+              3.1402897
+            ],
+            [
+              101.629187,
+              3.1402684
+            ]
+          ]
+        ]
+      },
+      "id": "way/790625812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/793104313",
+        "addr:housenumber": "10",
+        "addr:street": "Jalan Tun Mohd Fuad 1",
+        "amenity": "clinic",
+        "building": "commercial",
+        "healthcare": "clinic",
+        "level": "0",
+        "name": "U.n.i Klinik"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.6290316,
+              3.1420053
+            ],
+            [
+              101.6292495,
+              3.1420807
+            ],
+            [
+              101.6292269,
+              3.142146
+            ],
+            [
+              101.6290089,
+              3.1420706
+            ],
+            [
+              101.6290316,
+              3.1420053
+            ]
+          ]
+        ]
+      },
+      "id": "way/793104313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/795530435",
+        "addr:housenumber": "42",
+        "addr:street": "Jalan Datuk Sulaiman",
+        "amenity": "clinic",
+        "building": "commercial",
+        "healthcare": "clinic",
+        "level": "0",
+        "name": "Klinik Kanak-Kanak TTDI"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.6295324,
+              3.1420285
+            ],
+            [
+              101.6293186,
+              3.1419567
+            ],
+            [
+              101.6293408,
+              3.1418908
+            ],
+            [
+              101.6295546,
+              3.1419626
+            ],
+            [
+              101.6295324,
+              3.1420285
+            ]
+          ]
+        ]
+      },
+      "id": "way/795530435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/795559247",
+        "addr:housenumber": "30",
+        "addr:street": "Jalan Datuk Sulaiman",
+        "amenity": "clinic",
+        "building": "commercial",
+        "healthcare": "clinic",
+        "level": "0",
+        "name": "Klinik Mediviron",
+        "name:ms": "Klinik Mediviron",
+        "name:zh": "马安药房",
+        "operator": "Klinik Mediviron",
+        "operator:wikidata": "Q97498892",
+        "operator:wikipedia": "ms:Klinik Mediviron"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.6295031,
+              3.1414523
+            ],
+            [
+              101.6297099,
+              3.1415252
+            ],
+            [
+              101.6296863,
+              3.141592
+            ],
+            [
+              101.6294795,
+              3.1415191
+            ],
+            [
+              101.6295031,
+              3.1414523
+            ]
+          ]
+        ]
+      },
+      "id": "way/795559247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/798617323",
+        "addr:housenumber": "21",
+        "addr:street": "Jalan Wan Kadir 2",
+        "amenity": "clinic",
+        "building": "commercial",
+        "healthcare": "clinic",
+        "level": "0",
+        "name": "Klinik Famili"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.6287403,
+              3.1393614
+            ],
+            [
+              101.6288179,
+              3.1391394
+            ],
+            [
+              101.6288754,
+              3.1391594
+            ],
+            [
+              101.6287977,
+              3.1393814
+            ],
+            [
+              101.6287403,
+              3.1393614
+            ]
+          ]
+        ]
+      },
+      "id": "way/798617323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/930075903",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.7021837,
+              3.1614974
+            ],
+            [
+              101.7020943,
+              3.1611144
+            ],
+            [
+              101.7022314,
+              3.1610667
+            ],
+            [
+              101.7023562,
+              3.1614359
+            ],
+            [
+              101.7021837,
+              3.1614974
+            ]
+          ]
+        ]
+      },
+      "id": "way/930075903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/996588562",
+        "addr:postcode": "56000",
+        "addr:street": "Jalan Yaacob Latif",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Kesihatan Cheras",
+        "opening_hours": "Mo-Fr 07:00-17:00",
+        "operator": "Kementerian Kesihatan Malaysia",
+        "operator:short": "KKM",
+        "operator:type": "government",
+        "operator:wikidata": "Q4294352",
+        "operator:wikipedia": "en:Ministry of Health (Malaysia)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.7271257,
+              3.1076431
+            ],
+            [
+              101.7267463,
+              3.107451
+            ],
+            [
+              101.7263154,
+              3.1070775
+            ],
+            [
+              101.726001,
+              3.1066445
+            ],
+            [
+              101.725963,
+              3.1060843
+            ],
+            [
+              101.7273344,
+              3.1061167
+            ],
+            [
+              101.7273968,
+              3.1063874
+            ],
+            [
+              101.7274103,
+              3.1067717
+            ],
+            [
+              101.7274916,
+              3.1069909
+            ],
+            [
+              101.7271257,
+              3.1076431
+            ]
+          ]
+        ]
+      },
+      "id": "way/996588562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1019907415",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "7",
+        "addr:postcode": "51100",
+        "addr:street": "Jalan 3/124",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Klinik Kesihatan Taman Batu Muda",
+        "name:ms": "Klinik Kesihatan Taman Batu Muda",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "opening_hours:covid19": "same",
+        "operator": "Kementerial Kesihatan Malaysia",
+        "operator:type": "government",
+        "phone": "+60362415322",
+        "website": "https://jknkl.moh.gov.my/index.php/klinik-kesihatan-batu-muda"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.6836409,
+              3.2121215
+            ],
+            [
+              101.6835664,
+              3.2106793
+            ],
+            [
+              101.6840232,
+              3.2105812
+            ],
+            [
+              101.6840232,
+              3.211345
+            ],
+            [
+              101.6845202,
+              3.2112535
+            ],
+            [
+              101.6845448,
+              3.2120876
+            ],
+            [
+              101.6836409,
+              3.2121215
+            ]
+          ]
+        ]
+      },
+      "id": "way/1019907415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/606523395",
+        "@relations": [
+          {
+            "role": "outline",
+            "rel": 8438737,
+            "reltags": {
+              "amenity": "clinic",
+              "healthcare": "clinic",
+              "type": "building"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.7089892,
+            3.1737146
+          ],
+          [
+            101.7086763,
+            3.1735923
+          ],
+          [
+            101.7088624,
+            3.1731176
+          ],
+          [
+            101.7088915,
+            3.173129
+          ],
+          [
+            101.7088997,
+            3.1731082
+          ],
+          [
+            101.7088704,
+            3.1730967
+          ],
+          [
+            101.7089593,
+            3.1728703
+          ],
+          [
+            101.7089877,
+            3.1728814
+          ],
+          [
+            101.7090168,
+            3.1728074
+          ],
+          [
+            101.7092462,
+            3.1728973
+          ],
+          [
+            101.7092191,
+            3.1729664
+          ],
+          [
+            101.7096558,
+            3.1731375
+          ],
+          [
+            101.7097249,
+            3.1731645
+          ],
+          [
+            101.7096618,
+            3.1733256
+          ],
+          [
+            101.7095901,
+            3.1732976
+          ],
+          [
+            101.7095614,
+            3.173371
+          ],
+          [
+            101.7095324,
+            3.1733597
+          ],
+          [
+            101.7095225,
+            3.173385
+          ],
+          [
+            101.709553,
+            3.1733969
+          ],
+          [
+            101.7094292,
+            3.1737126
+          ],
+          [
+            101.7095208,
+            3.1737484
+          ],
+          [
+            101.7094582,
+            3.173908
+          ],
+          [
+            101.7093738,
+            3.1738751
+          ],
+          [
+            101.70938,
+            3.1738594
+          ],
+          [
+            101.7091126,
+            3.1737549
+          ],
+          [
+            101.7091184,
+            3.1737402
+          ],
+          [
+            101.7089977,
+            3.1736931
+          ],
+          [
+            101.7089892,
+            3.1737146
+          ]
+        ]
+      },
+      "id": "way/606523395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/606523396",
+        "@relations": [
+          {
+            "role": "part",
+            "rel": 8438737,
+            "reltags": {
+              "amenity": "clinic",
+              "healthcare": "clinic",
+              "type": "building"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.7089823,
+            3.1736999
+          ],
+          [
+            101.7086927,
+            3.1735862
+          ],
+          [
+            101.7088713,
+            3.1731328
+          ],
+          [
+            101.7095461,
+            3.1733978
+          ],
+          [
+            101.7094003,
+            3.1737678
+          ],
+          [
+            101.7090151,
+            3.1736166
+          ],
+          [
+            101.7089823,
+            3.1736999
+          ]
+        ]
+      },
+      "id": "way/606523396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/606523400",
+        "@relations": [
+          {
+            "role": "part",
+            "rel": 8438737,
+            "reltags": {
+              "amenity": "clinic",
+              "healthcare": "clinic",
+              "type": "building"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.7089113,
+            3.1731234
+          ],
+          [
+            101.7089211,
+            3.1730977
+          ],
+          [
+            101.7088853,
+            3.1730841
+          ],
+          [
+            101.7089631,
+            3.1728803
+          ],
+          [
+            101.7093057,
+            3.1730107
+          ],
+          [
+            101.7092181,
+            3.1732402
+          ],
+          [
+            101.7089113,
+            3.1731234
+          ]
+        ]
+      },
+      "id": "way/606523400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/606523401",
+        "@relations": [
+          {
+            "role": "part",
+            "rel": 8438737,
+            "reltags": {
+              "amenity": "clinic",
+              "healthcare": "clinic",
+              "type": "building"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.7092245,
+            3.1732416
+          ],
+          [
+            101.7093137,
+            3.1730142
+          ],
+          [
+            101.7096402,
+            3.1731418
+          ],
+          [
+            101.7095584,
+            3.1733504
+          ],
+          [
+            101.7095316,
+            3.1733399
+          ],
+          [
+            101.7095242,
+            3.1733588
+          ],
+          [
+            101.7092245,
+            3.1732416
+          ]
+        ]
+      },
+      "id": "way/606523401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1556653442",
+        "addr:city": "Kuala Lumpur",
+        "addr:place": "Pantai Dalam",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Medic Bestari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6692729,
+          3.0939088
+        ]
+      },
+      "id": "node/1556653442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1563150534",
+        "addr:housenumber": "2",
+        "addr:postcode": "59100",
+        "addr:street": "Jalan Telawi",
+        "amenity": "clinic",
+        "email": "admin@feathair.com",
+        "healthcare": "clinic",
+        "healthcare:speciality": "hair_transplant",
+        "level": "1",
+        "name": "Feathair Hair Growth Center",
+        "opening_hours": "10:00-19:00",
+        "phone": "+60328563382",
+        "website": "http://www.feathair.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6705982,
+          3.1327165
+        ]
+      },
+      "id": "node/1563150534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2195180214",
+        "addr:city": "Kuala Lumpur",
+        "addr:place": "Sri Sentosa",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik HP Kwok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6535972,
+          3.0739944
+        ]
+      },
+      "id": "node/2195180214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2195180215",
+        "addr:city": "Kuala Lumpur",
+        "addr:place": "Times 89 Business Plaza",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Mediviron",
+        "name:ms": "Klinik Mediviron",
+        "name:zh": "马安药房",
+        "operator": "Klinik Mediviron",
+        "operator:wikidata": "Q97498892",
+        "operator:wikipedia": "ms:Klinik Mediviron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6529885,
+          3.0726796
+        ]
+      },
+      "id": "node/2195180215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2923152613",
+        "addr:city": "Kuala Lumpur",
+        "addr:street": "Jalan Cenderasari",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Kesihatan Tanglin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6908432,
+          3.1448764
+        ]
+      },
+      "id": "node/2923152613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3033804029",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "75A-1 Lot 780",
+        "addr:postcode": "5400",
+        "addr:street": "Jalan Keramat",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Menara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7289685,
+          3.1669089
+        ]
+      },
+      "id": "node/3033804029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4211695589",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Pakar Kulit Chow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7124123,
+          3.1353513
+        ]
+      },
+      "id": "node/4211695589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4211695789",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Pathlab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.712322,
+          3.1359583
+        ]
+      },
+      "id": "node/4211695789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4342159489",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik 1Malaysia",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.702297,
+          3.1615402
+        ]
+      },
+      "id": "node/4342159489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4503689289",
+        "addr:postcode": "58100",
+        "addr:street": "Jalan Desa Bakti",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Taman Desa",
+        "opening_hours": "Mo-Fr 09:00-13:00, 15:00-19:00; Sa 09:00-17:00; PH 09:00-13:00",
+        "operator": "Dr. Doshi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6834744,
+          3.103122
+        ]
+      },
+      "id": "node/4503689289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4580889190",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Suhaimi",
+        "name:en": "Klinik Suhaimi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7443384,
+          3.2012483
+        ]
+      },
+      "id": "node/4580889190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4580910090",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Pergigian Salwa",
+        "name:en": "Klinik Pergigian Salwa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7442648,
+          3.201333
+        ]
+      },
+      "id": "node/4580910090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4613981556",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Prima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6593612,
+          3.1761422
+        ]
+      },
+      "id": "node/4613981556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4625324852",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "160",
+        "addr:postcode": "59100",
+        "addr:street": "Jalan Maarof",
+        "amenity": "clinic",
+        "facebook": "https://www.facebook.com/clinicrxmy/",
+        "healthcare": "clinic",
+        "healthcare:speciality": "plastic_surgery",
+        "name": "Clinic RX",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su, PH off",
+        "phone": "+6014 9649121",
+        "website": "https://clinicrx.com.my/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6689238,
+          3.1423929
+        ]
+      },
+      "id": "node/4625324852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4664623261",
+        "addr:city": "Kuala Lumpur",
+        "addr:place": "Pantai Dalam",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Kesihatan Ibu & Anak Pantai Indah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6692917,
+          3.094
+        ]
+      },
+      "id": "node/4664623261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4664623269",
+        "addr:city": "Kuala Lumpur",
+        "addr:place": "Pantai Hillpark",
+        "alt_name": "Mediviron Pantai Hillpark",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Mediviron",
+        "name:ms": "Klinik Mediviron",
+        "name:zh": "马安药房",
+        "operator": "Klinik Mediviron",
+        "operator:wikidata": "Q97498892",
+        "operator:wikipedia": "ms:Klinik Mediviron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6651739,
+          3.1037624
+        ]
+      },
+      "id": "node/4664623269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4666427493",
+        "addr:city": "Kuala Lumpur",
+        "addr:street": "Jalan Klang Lama",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Pusat Rawatan Buasir Cheah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.67579,
+          3.0985299
+        ]
+      },
+      "id": "node/4666427493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4686332290",
+        "addr:street": "Jalan 2/98",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Traditional Chinese bone Doctors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7496444,
+          3.0975451
+        ]
+      },
+      "id": "node/4686332290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705755159",
+        "addr:city": "Kuala Lumpur",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Famili Soo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6871764,
+          3.090959
+        ]
+      },
+      "id": "node/4705755159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4706262039",
+        "addr:city": "Kuala Lumpur",
+        "addr:street": "Jalan Klang Lama",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Pakar Wanita Chong",
+        "name:en": "Chong Maternity Specialist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6729258,
+          3.086004
+        ]
+      },
+      "id": "node/4706262039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4706836295",
+        "addr:city": "Kuala Lumpur",
+        "addr:place": "OUG",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "paediatrics",
+        "name": "Klinik Kanak-kanak Ooi",
+        "name:en": "Ooi Child Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.67072,
+          3.0810447
+        ]
+      },
+      "id": "node/4706836295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4706836323",
+        "addr:city": "Kuala Lumpur",
+        "addr:place": "OUG",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Mediviron",
+        "name:ms": "Klinik Mediviron",
+        "name:zh": "马安药房",
+        "operator": "Klinik Mediviron",
+        "operator:wikidata": "Q97498892",
+        "operator:wikipedia": "ms:Klinik Mediviron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6720519,
+          3.0825324
+        ]
+      },
+      "id": "node/4706836323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4706836328",
+        "addr:city": "Kuala Lumpur",
+        "addr:place": "OUG",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik LPPKN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6727594,
+          3.0823039
+        ]
+      },
+      "id": "node/4706836328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4707064713",
+        "addr:city": "Kuala Lumpur",
+        "addr:place": "Taman Desa",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "The Kidney Dialysis Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6775959,
+          3.0972861
+        ]
+      },
+      "id": "node/4707064713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4710894403",
+        "addr:city": "Kuala Lumpur",
+        "addr:place": "Sri Sentosa",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Setia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6518029,
+          3.072614
+        ]
+      },
+      "id": "node/4710894403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4710894409",
+        "addr:city": "Kuala Lumpur",
+        "addr:place": "Times 89 Business Plaza",
+        "addr:suburb": "Sri Sentosa",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Chang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6529617,
+          3.0729813
+        ]
+      },
+      "id": "node/4710894409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4736542429",
+        "addr:street": "Jalan Ipoh",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Reddy Clinic",
+        "name:en": "Reddy Clinic",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6949308,
+          3.1701895
+        ]
+      },
+      "id": "node/4736542429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4736562924",
+        "addr:street": "Jalan Perhentian",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Pergigian Sentul",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "Kementerian Kesihatan Malaysia",
+        "operator:short": "KKM",
+        "operator:wikidata": "Q4294352",
+        "operator:wikipedia": "en:Ministry of Health (Malaysia)",
+        "source": "https://www.mapillary.com/app/?pKey=297104578856722&focus=photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6915376,
+          3.183658
+        ]
+      },
+      "id": "node/4736562924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4740968850",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik dan Surgeri Mesra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7431027,
+          3.1777349
+        ]
+      },
+      "id": "node/4740968850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4740968852",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Wangsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7431764,
+          3.1784808
+        ]
+      },
+      "id": "node/4740968852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4740968868",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Famili"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7415088,
+          3.1783449
+        ]
+      },
+      "id": "node/4740968868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4740968869",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Mediviron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7415061,
+          3.1782953
+        ]
+      },
+      "id": "node/4740968869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4740968936",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Kinik Idzham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7432423,
+          3.1795925
+        ]
+      },
+      "id": "node/4740968936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4745035496",
+        "addr:city": "Kuala Lumpur",
+        "addr:place": "Centrio Pantai Hillpark",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Pantai",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6659587,
+          3.1071713
+        ]
+      },
+      "id": "node/4745035496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4769200892",
+        "addr:city": "Kuala Lumpur",
+        "addr:place": "Brickfields",
+        "addr:street": "Jalan Rakyat",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Mediviron",
+        "name:ms": "Klinik Mediviron",
+        "name:zh": "马安药房",
+        "operator": "Klinik Mediviron",
+        "operator:wikidata": "Q97498892",
+        "operator:wikipedia": "ms:Klinik Mediviron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6836221,
+          3.1301664
+        ]
+      },
+      "id": "node/4769200892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4782173627",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "DBC Physiotherapy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6271272,
+          3.1408411
+        ]
+      },
+      "id": "node/4782173627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4961945829",
+        "addr:city": "Kuala Lumpur",
+        "addr:place": "Wangsa Link",
+        "addr:street": "Jalan Wangsa Delima 12",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Mediviron",
+        "name:ms": "Klinik Mediviron",
+        "name:zh": "马安药房",
+        "operator": "Klinik Mediviron",
+        "operator:wikidata": "Q97498892",
+        "operator:wikipedia": "ms:Klinik Mediviron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7418431,
+          3.1973567
+        ]
+      },
+      "id": "node/4961945829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5366157191",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Verve Specialist Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6468085,
+          3.1678948
+        ]
+      },
+      "id": "node/5366157191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5540040855",
+        "addr:housenumber": "G05, 106",
+        "addr:postcode": "55100",
+        "addr:street": "Jalan Pudu",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Neuropsy Clinic",
+        "phone": "0320312120",
+        "website": "http://brainmindspecialist.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7037097,
+          3.1457015
+        ]
+      },
+      "id": "node/5540040855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5817448917",
+        "amenity": "clinic",
+        "email": "info@cvskl.com",
+        "facebook": "https://www.facebook.com/cvskl/",
+        "healthcare": "clinic",
+        "healthcare:speciality": "cardiology",
+        "name": "Cardiac Vascular Sentral Kuala Lumpur",
+        "phone": "+603 2276 7999",
+        "short_name": "CVSKL",
+        "website": "https://www.cvskl.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6848937,
+          3.133487
+        ]
+      },
+      "id": "node/5817448917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6150936817",
+        "amenity": "clinic",
+        "contact:instagram": "https://www.instagram.com/edgeclinic/",
+        "facebook": "https://www.facebook.com/edgeclinic/",
+        "healthcare": "clinic",
+        "healthcare:speciality": "plastic_surgery",
+        "name": "Edge Clinic",
+        "opening_hours": "Mo-Fr 10:30-19:00; Sa,Su 10:30-18:00",
+        "website": "https://edgeclinic.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6768204,
+          3.1004519
+        ]
+      },
+      "id": "node/6150936817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6156680442",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Obstetrik Dan Ginekologi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7037259,
+          3.1710214
+        ]
+      },
+      "id": "node/6156680442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6158522236",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Mediclinic Won Zul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.682826,
+          3.1034953
+        ]
+      },
+      "id": "node/6158522236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6185481485",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Kuala Lumpur Sports Medicine Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6654735,
+          3.1523132
+        ]
+      },
+      "id": "node/6185481485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6545294486",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Templer",
+        "opening_hours": "Mo-Su 08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7327292,
+          3.1013859
+        ]
+      },
+      "id": "node/6545294486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6545298686",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Leong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7335283,
+          3.1020735
+        ]
+      },
+      "id": "node/6545298686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6546305988",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Pakar Perubatan Pertama",
+        "name:zh": "第一耳科中心",
+        "source": "https://www.mapillary.com/app/?pKey=GAp6ibOmAxh51vRShzCHrx&focus=photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7296417,
+          3.1126563
+        ]
+      },
+      "id": "node/6546305988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6546324286",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Kanak-Kanak Ew / Wanita Ng Yew Teck",
+        "source": "https://www.mapillary.com/app/?pKey=rSSEmtBac9s2vMzMzzo8bh&focus=photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7296783,
+          3.1125361
+        ]
+      },
+      "id": "node/6546324286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6550552785",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Cheras Dialysis Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7321992,
+          3.1027971
+        ]
+      },
+      "id": "node/6550552785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6561831094",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Mycare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6919888,
+          3.0712883
+        ]
+      },
+      "id": "node/6561831094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6602343590",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Mediviron",
+        "name:ms": "Klinik Mediviron",
+        "name:zh": "马安药房",
+        "operator": "Klinik Mediviron",
+        "operator:wikidata": "Q97498892",
+        "operator:wikipedia": "ms:Klinik Mediviron",
+        "source": "https://www.mapillary.com/app/?pKey=XJo55PwoxkYUyJF43CNKaV&focus=photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.735683,
+          3.0822747
+        ]
+      },
+      "id": "node/6602343590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6604323885",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Alam Medic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7323682,
+          3.1005261
+        ]
+      },
+      "id": "node/6604323885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7117051410",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Poliklinik Pudu",
+        "opening_hours": "Sa-Su 00:00-24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7125469,
+          3.1356125
+        ]
+      },
+      "id": "node/7117051410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7249576786",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "plastic_surgery",
+        "name": "Premier Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6709251,
+          3.1329673
+        ]
+      },
+      "id": "node/7249576786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7249577085",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "level": "0",
+        "name": "O2 Klinik Signature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6706277,
+          3.1327748
+        ]
+      },
+      "id": "node/7249577085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7281346575",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6687521,
+          3.1966948
+        ]
+      },
+      "id": "node/7281346575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7301462891",
+        "addr:city": "Kuala Lumpur",
+        "addr:postcode": "51200",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Komuniti Kementerian Kesihatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6693724,
+          3.2199632
+        ]
+      },
+      "id": "node/7301462891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7301462892",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Komuniti PPR Taman Wahyu 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6695719,
+          3.2210075
+        ]
+      },
+      "id": "node/7301462892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7301462893",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Selayang Hospital Cataract Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6708749,
+          3.2239931
+        ]
+      },
+      "id": "node/7301462893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7301462894",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik SNH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6711941,
+          3.2246631
+        ]
+      },
+      "id": "node/7301462894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7301462895",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Shafi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6657933,
+          3.221027
+        ]
+      },
+      "id": "node/7301462895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7301462896",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Thong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6625467,
+          3.216937
+        ]
+      },
+      "id": "node/7301462896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7301462897",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Robin Ong Dan Goh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6589956,
+          3.2167666
+        ]
+      },
+      "id": "node/7301462897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7301462898",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Poliklinik dan Surgeri Jinjang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6580943,
+          3.2089619
+        ]
+      },
+      "id": "node/7301462898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7301462899",
+        "amenity": "clinic",
+        "facebook": "https://www.facebook.com/LianAnnTCM/",
+        "healthcare": "clinic",
+        "name": "Lian Ann Chinese Medical Health care",
+        "opening_hours": "Mo-Fr 09:30-19:00; Sa 09:30-17:00",
+        "phone": "+60362570255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6702542,
+          3.2116434
+        ]
+      },
+      "id": "node/7301462899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7301462900",
+        "amenity": "clinic",
+        "facebook": "https://www.facebook.com/klinikrosh/",
+        "healthcare": "clinic",
+        "name": "Klinik Rosh",
+        "opening_hours": "Mo-Fr 09:30-22:00; Sa 09:00-14:00; Su 10:00-22:00",
+        "phone": "+60179482071"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6697948,
+          3.211552
+        ]
+      },
+      "id": "node/7301462900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7301462901",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Chin Chee Yeong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6731122,
+          3.2114992
+        ]
+      },
+      "id": "node/7301462901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7301462902",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Famili dan Surgeri Lim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6577614,
+          3.2083067
+        ]
+      },
+      "id": "node/7301462902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7301462903",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Poliklinik Gomez Kepong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6529093,
+          3.2135086
+        ]
+      },
+      "id": "node/7301462903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7301462904",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "9",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Selingsing 3",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Poliklinik Sri Kuching",
+        "name:ms": "Poliklinik Sri Kuching",
+        "name:zh": "王吴医务所",
+        "name:zh-Hant": "王吳醫務所",
+        "opening_hours": "Mo-Fr 09:00-16:30,18:00-20:00; Sa 09:00-15:00",
+        "opening_hours:covid19": "same",
+        "operator": "Poliklinik Sri Kuching",
+        "operator:type": "private",
+        "phone": "+60362500336",
+        "website": "https://www.facebook.com/pages/Poliklinik-Sri-Kuching/427291077379862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6724868,
+          3.1975625
+        ]
+      },
+      "id": "node/7301462904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7313133231",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Ong & Cheong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6920498,
+          3.0669808
+        ]
+      },
+      "id": "node/7313133231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7313133232",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Chin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6900537,
+          3.0672847
+        ]
+      },
+      "id": "node/7313133232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7313133233",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Dr. Spina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6900749,
+          3.0675321
+        ]
+      },
+      "id": "node/7313133233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7313133234",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Sentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6900891,
+          3.06814
+        ]
+      },
+      "id": "node/7313133234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7313133235",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Poliklinik Kumpulan Sentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6900891,
+          3.0687479
+        ]
+      },
+      "id": "node/7313133235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7313133237",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Mediviron",
+        "name:ms": "Klinik Mediviron",
+        "name:zh": "马安药房",
+        "operator": "Klinik Mediviron",
+        "operator:wikidata": "Q97498892",
+        "operator:wikipedia": "ms:Klinik Mediviron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6908536,
+          3.0698788
+        ]
+      },
+      "id": "node/7313133237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7313133238",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Sena Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.691998,
+          3.0698145
+        ]
+      },
+      "id": "node/7313133238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7313133239",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clinic RX Sri Petaling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6939391,
+          3.070116
+        ]
+      },
+      "id": "node/7313133239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7313133240",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Bella Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6941917,
+          3.0691192
+        ]
+      },
+      "id": "node/7313133240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7313133241",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "The Doctors Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6880418,
+          3.0524116
+        ]
+      },
+      "id": "node/7313133241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7313133242",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik ICON Bukit Jalil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6791862,
+          3.0519919
+        ]
+      },
+      "id": "node/7313133242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7313133243",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Ng Poh Huat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6740208,
+          3.0575205
+        ]
+      },
+      "id": "node/7313133243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7313133244",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "BeauLife Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.673497,
+          3.0589666
+        ]
+      },
+      "id": "node/7313133244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7313133245",
+        "amenity": "clinic",
+        "branch": "Bukit Jalil",
+        "healthcare": "clinic",
+        "name": "Klinik Mediviron",
+        "name:ms": "Klinik Mediviron",
+        "name:zh": "马安药房",
+        "operator": "Klinik Mediviron",
+        "operator:wikidata": "Q97498892",
+        "operator:wikipedia": "ms:Klinik Mediviron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6731296,
+          3.0596494
+        ]
+      },
+      "id": "node/7313133245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7313133246",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Familycare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.673408,
+          3.0600957
+        ]
+      },
+      "id": "node/7313133246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7313133247",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Elamedic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6762369,
+          3.0615772
+        ]
+      },
+      "id": "node/7313133247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7313133248",
+        "amenity": "clinic",
+        "branch": "OUG Parklane",
+        "healthcare": "clinic",
+        "name": "Klinik Mediviron",
+        "name:ms": "Klinik Mediviron",
+        "name:zh": "马安药房",
+        "operator": "Klinik Mediviron",
+        "operator:wikidata": "Q97498892",
+        "operator:wikipedia": "ms:Klinik Mediviron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6575042,
+          3.0686985
+        ]
+      },
+      "id": "node/7313133248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7313133249",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Mediviron",
+        "name:ms": "Klinik Mediviron",
+        "name:zh": "马安药房",
+        "operator": "Klinik Mediviron",
+        "operator:wikidata": "Q97498892",
+        "operator:wikipedia": "ms:Klinik Mediviron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7103899,
+          3.0625025
+        ]
+      },
+      "id": "node/7313133249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7313133251",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik 1Malaysia Raya Permai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7048057,
+          3.0616688
+        ]
+      },
+      "id": "node/7313133251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7313133252",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Keluarga ATM Sg. Besi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7180512,
+          3.0588293
+        ]
+      },
+      "id": "node/7313133252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314227586",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Kesihatan Muhibbah",
+        "operator": "Kementerian Kesihatan Malaysia",
+        "operator:short": "KKM",
+        "operator:wikidata": "Q4294352",
+        "operator:wikipedia": "en:Ministry of Health (Malaysia)",
+        "source": "https://openstreetcam.org/details/2170770/1216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6593915,
+          3.063174
+        ]
+      },
+      "id": "node/7314227586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314227587",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Poliklinik Perdana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6579012,
+          3.0673276
+        ]
+      },
+      "id": "node/7314227587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314227588",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Sharon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6579844,
+          3.0734964
+        ]
+      },
+      "id": "node/7314227588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314227589",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Poliklinik & Surgeri Ritwika"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.663201,
+          3.072623
+        ]
+      },
+      "id": "node/7314227589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314227590",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Lee & Cheong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6719973,
+          3.0724473
+        ]
+      },
+      "id": "node/7314227590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314227591",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Kanak - Kanak Pauline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6725997,
+          3.0730442
+        ]
+      },
+      "id": "node/7314227591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314365870",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Komuniti Pinggiran Bukit Jalil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6523059,
+          3.0477808
+        ]
+      },
+      "id": "node/7314365870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314365873",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Ozhean A.M Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6718437,
+          3.0534013
+        ]
+      },
+      "id": "node/7314365873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314365874",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Royal Smile Dental Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6698926,
+          3.0495789
+        ]
+      },
+      "id": "node/7314365874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314365875",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CY Child Specialist Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6738407,
+          3.0578788
+        ]
+      },
+      "id": "node/7314365875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314365876",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "DentalFirst Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6733123,
+          3.0601785
+        ]
+      },
+      "id": "node/7314365876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314365877",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Tiny Tots Children Specialist Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6789354,
+          3.0522867
+        ]
+      },
+      "id": "node/7314365877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314365880",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Yuen Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6931194,
+          3.0703308
+        ]
+      },
+      "id": "node/7314365880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314365882",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "EE Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6918349,
+          3.0703323
+        ]
+      },
+      "id": "node/7314365882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314365883",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Poliklinik Perubatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6809809,
+          3.0775681
+        ]
+      },
+      "id": "node/7314365883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314365884",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Hope"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6816757,
+          3.0834678
+        ]
+      },
+      "id": "node/7314365884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314400585",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Kuchai Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6913471,
+          3.0868728
+        ]
+      },
+      "id": "node/7314400585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314400586",
+        "amenity": "clinic",
+        "branch": "Kuchai Lama",
+        "healthcare": "clinic",
+        "name": "Klinik Mediviron",
+        "name:ms": "Klinik Mediviron",
+        "name:zh": "马安药房",
+        "operator": "Klinik Mediviron",
+        "operator:wikidata": "Q97498892",
+        "operator:wikipedia": "ms:Klinik Mediviron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6875799,
+          3.0896621
+        ]
+      },
+      "id": "node/7314400586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314400587",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Lai Medic Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6881816,
+          3.0913525
+        ]
+      },
+      "id": "node/7314400587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314400588",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Poliklinik Avicenna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7107622,
+          3.0779179
+        ]
+      },
+      "id": "node/7314400588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314400589",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Komuniti Desa Tun Razak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7156679,
+          3.0783695
+        ]
+      },
+      "id": "node/7314400589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314400590",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Cure & Care 1Malaysia Sungai Besi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7135168,
+          3.0817664
+        ]
+      },
+      "id": "node/7314400590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314400591",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Komuniti Seri Malaysia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7112631,
+          3.0813054
+        ]
+      },
+      "id": "node/7314400591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314400593",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Maamor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7142723,
+          3.0721191
+        ]
+      },
+      "id": "node/7314400593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314704257",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Zhou Specialist Dental & Implantology Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7457938,
+          3.0571764
+        ]
+      },
+      "id": "node/7314704257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314704258",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Poliklinik Cahaya Cheras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7467149,
+          3.0574564
+        ]
+      },
+      "id": "node/7314704258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314704259",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Pakar Kanak - kanak Pediacare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7492379,
+          3.057463
+        ]
+      },
+      "id": "node/7314704259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314704260",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "dentist",
+        "name": "Klinik Pergigian Dentcare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7485804,
+          3.0580262
+        ]
+      },
+      "id": "node/7314704260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314704261",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Klinik Britain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7483602,
+          3.0580362
+        ]
+      },
+      "id": "node/7314704261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314704262",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Alam Damai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7440464,
+          3.0617768
+        ]
+      },
+      "id": "node/7314704262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314704263",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Selvamuthu dan Rakan - rakan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7440464,
+          3.0617232
+        ]
+      },
+      "id": "node/7314704263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314704264",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Ruqyah Syari'iyyah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7423134,
+          3.0627965
+        ]
+      },
+      "id": "node/7314704264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314704268",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Healthmate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7429258,
+          3.070309
+        ]
+      },
+      "id": "node/7314704268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314704269",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Komuniti Alam Damai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7427516,
+          3.0715894
+        ]
+      },
+      "id": "node/7314704269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314704270",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Khoo's Baby and Child Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7373518,
+          3.0744416
+        ]
+      },
+      "id": "node/7314704270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314704271",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Dr. Nurul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7372505,
+          3.07449
+        ]
+      },
+      "id": "node/7314704271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314704272",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Kesihatan Meditech"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7364315,
+          3.0746087
+        ]
+      },
+      "id": "node/7314704272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314704273",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Pusat Hemodialisis Yayasan Al - Sultan Abdullah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7368052,
+          3.0764484
+        ]
+      },
+      "id": "node/7314704273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315469363",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Dr. Ko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7136161,
+          3.1293148
+        ]
+      },
+      "id": "node/7315469363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315469364",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Dr Leela Ratos dan Rakan - rakan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7149381,
+          3.1327435
+        ]
+      },
+      "id": "node/7315469364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315469365",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Ng dan Lee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7132058,
+          3.1347205
+        ]
+      },
+      "id": "node/7315469365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315469366",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Tsu & Ng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7131029,
+          3.1348614
+        ]
+      },
+      "id": "node/7315469366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315469367",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Ho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7130395,
+          3.1349546
+        ]
+      },
+      "id": "node/7315469367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315469368",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik H & W"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7127104,
+          3.1347897
+        ]
+      },
+      "id": "node/7315469368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315469369",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Pusat Perubatan N & L Medical Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7126578,
+          3.1348423
+        ]
+      },
+      "id": "node/7315469369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315469370",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Seri Bintang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7126195,
+          3.134902
+        ]
+      },
+      "id": "node/7315469370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315469371",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Poliklinik Tham & Ng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7123428,
+          3.1354238
+        ]
+      },
+      "id": "node/7315469371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315469372",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Pakar Kulit Chow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7122176,
+          3.1354509
+        ]
+      },
+      "id": "node/7315469372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315469373",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Sri Intan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.711921,
+          3.1359332
+        ]
+      },
+      "id": "node/7315469373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315469374",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "The KL Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7213237,
+          3.1292543
+        ]
+      },
+      "id": "node/7315469374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315469377",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Keluarga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.732174,
+          3.2014056
+        ]
+      },
+      "id": "node/7315469377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315469378",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Pertama Wagsa Maju"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7322359,
+          3.2012643
+        ]
+      },
+      "id": "node/7315469378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315469379",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Dr Alyna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7410895,
+          3.1965958
+        ]
+      },
+      "id": "node/7315469379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315469380",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Anggun Medi - Klinik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7425644,
+          3.1979169
+        ]
+      },
+      "id": "node/7315469380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315469381",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik & Surgeri Permai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7450043,
+          3.1987218
+        ]
+      },
+      "id": "node/7315469381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315469382",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Mutiara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7449484,
+          3.1986355
+        ]
+      },
+      "id": "node/7315469382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315469383",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Khor",
+        "name:zh": "柯医务所",
+        "source": "https://www.mapillary.com/app/?pKey=1199893157196735"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.720755,
+          3.2058881
+        ]
+      },
+      "id": "node/7315469383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315469384",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Danau Kota",
+        "source": "https://www.mapillary.com/app/?pKey=126255116328827"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7197309,
+          3.2074675
+        ]
+      },
+      "id": "node/7315469384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315487385",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Poliklinik Zazali",
+        "source": "https://www.mapillary.com/app/?pKey=3083919821836048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7197311,
+          3.2081816
+        ]
+      },
+      "id": "node/7315487385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315487386",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Pertama Danau Kota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7178069,
+          3.2065655
+        ]
+      },
+      "id": "node/7315487386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315487387",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Maju"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7183358,
+          3.2102275
+        ]
+      },
+      "id": "node/7315487387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315487389",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Pesona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7155557,
+          3.1989331
+        ]
+      },
+      "id": "node/7315487389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315487391",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Komuniti Danau Kota",
+        "source": "https://openstreetcam.org/details/2035942/3600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7128926,
+          3.1990958
+        ]
+      },
+      "id": "node/7315487391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315487392",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "27",
+        "addr:postcode": "53300",
+        "addr:street": "Jalan Prima Setapak 3",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Klinik KJ Lim",
+        "name:ms": "Klinik KJ Lim",
+        "name:zh": "林药房",
+        "name:zh-Hant": "林藥房",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 09:00-13:00",
+        "opening_hours:covid19": "same",
+        "operator": "Klinik KJ Lim",
+        "operator:type": "private",
+        "phone": "+60340211878",
+        "source": "https://www.mapillary.com/app/?pKey=314616943679056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7128088,
+          3.1979661
+        ]
+      },
+      "id": "node/7315487392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315487393",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik TVS Medicare",
+        "source": "https://www.mapillary.com/app/?pKey=547515406682375&focus=photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7102845,
+          3.2005292
+        ]
+      },
+      "id": "node/7315487393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315487394",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Murni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7206761,
+          3.201801
+        ]
+      },
+      "id": "node/7315487394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315487395",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Idzham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7211743,
+          3.2023061
+        ]
+      },
+      "id": "node/7315487395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315487396",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Homeopathy & Akupuntur Dr Nik Omar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7216413,
+          3.2026325
+        ]
+      },
+      "id": "node/7315487396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315487397",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik 1Malaysia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7088474,
+          3.212217
+        ]
+      },
+      "id": "node/7315487397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315533281",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik 1Malaysia Taman Melati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7206388,
+          3.2173369
+        ]
+      },
+      "id": "node/7315533281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315533282",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Idzham",
+        "source": "https://www.mapillary.com/app/?pKey=SD399bt1E8tMGIGFVj931b&focus=photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7125743,
+          3.2136192
+        ]
+      },
+      "id": "node/7315533282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315533283",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Pergigian Azlina Gombak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7125911,
+          3.2132978
+        ]
+      },
+      "id": "node/7315533283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315533284",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Setia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7119688,
+          3.2130401
+        ]
+      },
+      "id": "node/7315533284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315552085",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "dentist",
+        "name": "Klinik Pergigian Setia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7118928,
+          3.2129946
+        ]
+      },
+      "id": "node/7315552085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315552086",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Rosanah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7116095,
+          3.2124136
+        ]
+      },
+      "id": "node/7315552086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315552089",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik KL Trader Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7030602,
+          3.2043277
+        ]
+      },
+      "id": "node/7315552089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315552090",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Poliklinik Central & Surgeri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7022078,
+          3.205371
+        ]
+      },
+      "id": "node/7315552090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7317774143",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Komuniti PPR Intan Baiduri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6530059,
+          3.2324483
+        ]
+      },
+      "id": "node/7317774143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7317774144",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Raj"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6482285,
+          3.2309982
+        ]
+      },
+      "id": "node/7317774144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7317774146",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Dr. Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6620117,
+          3.2427407
+        ]
+      },
+      "id": "node/7317774146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7317774147",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Mediklinik & Surgeri Cheam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6592434,
+          3.2102676
+        ]
+      },
+      "id": "node/7317774147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7317774148",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Medilove Kepong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6515438,
+          3.2105947
+        ]
+      },
+      "id": "node/7317774148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7317774151",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Murni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6615487,
+          3.2353095
+        ]
+      },
+      "id": "node/7317774151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7317774153",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "United Health Clinic",
+        "source": "https://kartaview.org/details/2737138/565/track-info"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6412441,
+          3.2205957
+        ]
+      },
+      "id": "node/7317774153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7317774154",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Medipulse Kepong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6441046,
+          3.2180881
+        ]
+      },
+      "id": "node/7317774154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7317774155",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Sia Orthodontic Dental Specialist Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6414023,
+          3.2150168
+        ]
+      },
+      "id": "node/7317774155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7317774156",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Qualitas Klinik Ng & Lee Kepong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6406551,
+          3.2149329
+        ]
+      },
+      "id": "node/7317774156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7317774157",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Dr Ko Kepong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6400667,
+          3.2148863
+        ]
+      },
+      "id": "node/7317774157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7317774158",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CosmoGlam Clinic Kepong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6397491,
+          3.2148396
+        ]
+      },
+      "id": "node/7317774158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7317774159",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "H - II Clinic Kepong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6408045,
+          3.2139257
+        ]
+      },
+      "id": "node/7317774159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7317774160",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Alam Medik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6407391,
+          3.2132263
+        ]
+      },
+      "id": "node/7317774160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7317774161",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Mediviron",
+        "name:ms": "Klinik Mediviron",
+        "name:zh": "马安药房",
+        "operator": "Klinik Mediviron",
+        "operator:wikidata": "Q97498892",
+        "operator:wikipedia": "ms:Klinik Mediviron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6429453,
+          3.2133476
+        ]
+      },
+      "id": "node/7317774161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7317774162",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Gorgeous Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6433417,
+          3.2132557
+        ]
+      },
+      "id": "node/7317774162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7513116071",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Poliklinik Plaza Damansara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6522079,
+          3.1496979
+        ]
+      },
+      "id": "node/7513116071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7513290690",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Unimed Plaza Damansara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.653142,
+          3.1490442
+        ]
+      },
+      "id": "node/7513290690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7530624866",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "plastic_surgery",
+        "name": "Dr Chong Clinic",
+        "short_name": "DC Clinic",
+        "website": "https://www.drchongclinic.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6705792,
+          3.1311456
+        ]
+      },
+      "id": "node/7530624866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7531256252",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Mediviron",
+        "name:ms": "Klinik Mediviron",
+        "name:zh": "马安药房",
+        "operator": "Klinik Mediviron",
+        "operator:wikidata": "Q97498892",
+        "operator:wikipedia": "ms:Klinik Mediviron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6705753,
+          3.1309279
+        ]
+      },
+      "id": "node/7531256252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7557932353",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Seri Indah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6687409,
+          3.1966243
+        ]
+      },
+      "id": "node/7557932353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7653640472",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Komuniti Kuchai Entrepreneurs Park",
+        "source": "https://www.mapillary.com/app/?pKey=mVGayEkhYUDrsoMZXRvVeP&focus=photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6886084,
+          3.0888686
+        ]
+      },
+      "id": "node/7653640472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8045758392",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Sungai Besi Healthcare Clinic",
+        "name:ms": "Klinik Kesihatan Sungai Besi",
+        "operator": "Ministry of Health",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7111747,
+          3.0623555
+        ]
+      },
+      "id": "node/8045758392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8048019192",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Falim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6686199,
+          3.0635851
+        ]
+      },
+      "id": "node/8048019192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8058352798",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik dan Surgeri Mano",
+        "name:en": "Mano's Clinic & Surgey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7092819,
+          3.0609966
+        ]
+      },
+      "id": "node/8058352798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8058488267",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Poliklinik Famili Medic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6822745,
+          3.0837912
+        ]
+      },
+      "id": "node/8058488267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8058492229",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Aun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6817885,
+          3.0838473
+        ]
+      },
+      "id": "node/8058492229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8334016710",
+        "amenity": "clinic",
+        "clinic": "beauty",
+        "healthcare": "clinic",
+        "name": "JIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6712053,
+          3.1321816
+        ]
+      },
+      "id": "node/8334016710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8335670006",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Bandar Raya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6714254,
+          3.1327543
+        ]
+      },
+      "id": "node/8335670006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8335670016",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "plastic_surgery",
+        "level": "1",
+        "name": "The Lasus Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6715572,
+          3.1327093
+        ]
+      },
+      "id": "node/8335670016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8599426820",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "BP Healthcare @ KL Medan Tunku"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.698207,
+          3.1589544
+        ]
+      },
+      "id": "node/8599426820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8628981517",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Medilink Masjid India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6981981,
+          3.1527424
+        ]
+      },
+      "id": "node/8628981517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8636823361",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Len Seng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7449784,
+          3.074289
+        ]
+      },
+      "id": "node/8636823361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8935198413",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Ampang (Cawangan Wangsa Maju)",
+        "source": "https://www.mapillary.com/app/?pKey=1489388704746606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7311838,
+          3.2020213
+        ]
+      },
+      "id": "node/8935198413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8935232218",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Wangsa",
+        "source": "https://www.mapillary.com/app/?pKey=3162970630597872"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.731013,
+          3.2023099
+        ]
+      },
+      "id": "node/8935232218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8935232245",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Mediviron",
+        "name:ms": "Klinik Mediviron",
+        "name:zh": "马安药房",
+        "operator": "Klinik Mediviron",
+        "operator:wikidata": "Q97498892",
+        "operator:wikipedia": "ms:Klinik Mediviron",
+        "source": "https://www.mapillary.com/app/?pKey=339104504605131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7279241,
+          3.1969525
+        ]
+      },
+      "id": "node/8935232245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8938244628",
+        "addr:city": "Kuala Lumpur",
+        "addr:postcode": "53000",
+        "addr:street": "Jalan 3/50C",
+        "amenity": "clinic",
+        "branch": "Dr Hanjeet Singh",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Klinik Mediviron Dr Hanjeet Singh",
+        "name:ms": "Klinik Mediviron Dr Hanjeet Singh",
+        "name:zh": "马安药房",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00",
+        "opening_hours:covid19": "same",
+        "operator": "Klinik Mediviron",
+        "operator:type": "private",
+        "operator:wikidata": "Q97498892",
+        "operator:wikipedia": "ms:Klinik Mediviron",
+        "phone": "+60340212620",
+        "source": "https://www.mapillary.com/app/?pKey=144227601122061",
+        "website": "http://www.mediviron.com.my/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7116564,
+          3.1955652
+        ]
+      },
+      "id": "node/8938244628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8946601767",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Mediviron",
+        "name:ms": "Klinik Mediviron",
+        "name:zh": "马安药房",
+        "operator": "Klinik Mediviron",
+        "operator:wikidata": "Q97498892",
+        "operator:wikipedia": "ms:Klinik Mediviron",
+        "source": "https://www.mapillary.com/app/?pKey=881824002540113&focus=photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.690577,
+          3.1950357
+        ]
+      },
+      "id": "node/8946601767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9318634845",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Kesihatan Universiti Malaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6527224,
+          3.1218019
+        ]
+      },
+      "id": "node/9318634845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9318770333",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Komuniti Kerinchi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6690644,
+          3.1079017
+        ]
+      },
+      "id": "node/9318770333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9404646370",
+        "addr:city": "Kuala Lumpur",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Ipoh",
+        "amenity": "clinic",
+        "branch": "Jalan Ipoh",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Leela Clinic",
+        "name:en": "Leela Clinic",
+        "name:ms": "Klinik Leela",
+        "name:zh": "莉娜药房",
+        "name:zh-Hant": "莉娜藥房",
+        "opening_hours": "Mo-Sa 09:00-17:30",
+        "opening_hours:covid19": "same",
+        "operator": "GL Healthcare",
+        "operator:type": "private",
+        "phone": "+60362412020",
+        "website": "https://glhealthcare.com.my/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6790233,
+          3.1980833
+        ]
+      },
+      "id": "node/9404646370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9404709154",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "649-1",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Ipoh",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Alam Medic Clinic",
+        "name:en": "Alam Medic Clinic",
+        "name:ms": "Klinik Alam Medic",
+        "opening_hours": "Mo-Sa 09:15-21:30",
+        "opening_hours:covid19": "same",
+        "operator": "Alam Medic Clinic",
+        "operator:type": "private",
+        "phone": "+60362582420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6798694,
+          3.1952456
+        ]
+      },
+      "id": "node/9404709154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9404737090",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "736",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Ipoh",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "i Klinik Dr Sou Dan Dr Deva",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "opening_hours:covid19": "same",
+        "operator": "i Klinik Dr Sou Dan Dr Deva",
+        "operator:type": "private",
+        "phone": "+60323919451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6780437,
+          3.1988655
+        ]
+      },
+      "id": "node/9404737090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9404737817",
+        "addr:city": "Kuala Lumpur",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Ipoh",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Mediviron",
+        "name:en": "Mediviron Clinic",
+        "name:ms": "Klinik Mediviron",
+        "name:zh": "马安药房",
+        "name:zh-Hant": "馬安藥房",
+        "opening_hours": "Mo-Su 09:00-19:00",
+        "opening_hours:covid19": "same",
+        "operator": "Klinik Mediviron",
+        "operator:type": "private",
+        "operator:wikidata": "Q97498892",
+        "operator:wikipedia": "ms:Klinik Mediviron",
+        "phone": "+60362424999",
+        "website": "https://klinikmediviron.business.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6798934,
+          3.1950733
+        ]
+      },
+      "id": "node/9404737817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9404743865",
+        "addr:city": "Kuala Lumpur",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Ipoh",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Dr Shashikala Clinic",
+        "name:en": "Dr Shashikala Clinic",
+        "name:ms": "Klinik Dr Shashikala",
+        "name:zh": "莎西卡拉医务所",
+        "name:zh-Hant": "莎西卡拉醫務所",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "opening_hours:covid19": "open",
+        "operator": "Dr Shashikala Clinic",
+        "operator:type": "private",
+        "phone": "+60362514099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6782068,
+          3.199599
+        ]
+      },
+      "id": "node/9404743865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9406573606",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "5",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Ipoh",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Klinik Leela Ratos Dan Rakan Rakan (Batu)",
+        "name:ms": "Klinik Leela Ratos Dan Rakan Rakan (Batu)",
+        "name:zh": "利都士药房股份（峇都）",
+        "name:zh-Hant": "利都士藥房股份（峇都）",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "opening_hours:covid19": "same",
+        "operator": "Klinik Leela Ratos Dan Rakan Rakan (Batu)",
+        "operator:type": "private",
+        "phone": "+60362585293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6750469,
+          3.2030555
+        ]
+      },
+      "id": "node/9406573606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9406576842",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "927-941",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Ipoh",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Poliklinik Dan Surgeri Ponniah",
+        "name:ms": "Poliklinik Dan Surgeri Ponniah",
+        "opening_hours": "Mo-Fr 08:00-21:00",
+        "opening_hours:covid19": "same",
+        "operator": "Poliklinik Dan Surgeri Ponniah",
+        "operator:type": "private",
+        "phone": "+60362585372"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6754119,
+          3.2036944
+        ]
+      },
+      "id": "node/9406576842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9406581728",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "14",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Ipoh",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Choo Clinic",
+        "name:en": "Choo Clinic",
+        "name:ms": "Klinik Choo",
+        "name:zh": "朱药房",
+        "name:zh-Hant": "朱藥房",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "opening_hours:covid19": "same",
+        "operator": "Klinik Reddy Selayang",
+        "operator:type": "private",
+        "phone": "+60362416824",
+        "website": "http://www.mycybemd.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6750594,
+          3.2035935
+        ]
+      },
+      "id": "node/9406581728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9406622987",
+        "addr:city": "Kuala Lumpur",
+        "addr:postcode": "51100",
+        "addr:street": "Jalan Batu 4/2",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Klinik Kesihatan PPR Batu Muda",
+        "name:en": "Klinik 1 Malaysia Batu Muda",
+        "operator": "Kementerian Kesihatan Malaysia",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6824699,
+          3.2077603
+        ]
+      },
+      "id": "node/9406622987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9409068761",
+        "addr:city": "Kuala Lumpur",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Kepayang",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Klinik Mediviron Pusat Komersial Jalan Kuching",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "opening_hours:covid19": "same",
+        "operator": "Klinik Mediviron",
+        "operator:type": "private",
+        "phone": "+60362420223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6701922,
+          3.1989454
+        ]
+      },
+      "id": "node/9409068761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9448854232",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "2-39",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Ipoh",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "traditional_chinese_medicine",
+        "name": "KHY Health Care",
+        "name:en": "KHY Health Care",
+        "name:zh": "汇康中医药中心",
+        "name:zh-Hant": "匯康中醫藥中心",
+        "opening_hours": "Th-Fr 11:00-19:30; Sa-Su 10:00-18:00; Mo-Tu 11:00-19:30",
+        "opening_hours:covid19": "same",
+        "operator": "KHY Health Care",
+        "operator:type": "private",
+        "phone": "+60362505238"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6806161,
+          3.1889563
+        ]
+      },
+      "id": "node/9448854232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9448907372",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "3-81",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Ipoh",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "traditional_chinese_medicine",
+        "name": "Yapsifu TCM Treatments",
+        "name:en": "Yapsifu TCM Treatments",
+        "name:zh": "叶师傅专业传统中药治疗",
+        "name:zh-Hant": "葉師傅專業傳統中藥治療",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 10:00-18:00",
+        "opening_hours:covid19": "same",
+        "operator": "Yap Sifu TCM Treatments",
+        "operator:type": "private",
+        "phone": "+60129703623",
+        "website": "https://www.facebook.com/yapsifu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6806001,
+          3.1890248
+        ]
+      },
+      "id": "node/9448907372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9450272094",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "469",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Sultan Azlan Shah",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Klinik Yoong",
+        "name:ms": "Klinik Yoong",
+        "name:zh": "熊医务所",
+        "name:zh-Hant": "熊醫務所",
+        "opening_hours": "24/7",
+        "opening_hours:covid19": "same",
+        "operator": "Poliklinik Kumpulan City",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6828366,
+          3.1807778
+        ]
+      },
+      "id": "node/9450272094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9450277763",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "468-G-9",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Sultan Azlan Shah",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "RJ Clinic",
+        "name:en": "RJ Clinic",
+        "opening_hours": "Tu-Sa 10:00-19:00; Mo 10:00-14:00",
+        "opening_hours:covid19": "same",
+        "operator": "RJ Clinic",
+        "operator:type": "private",
+        "phone": "+60340400778",
+        "website": "http://www.rjclinic.my/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6829559,
+          3.1794566
+        ]
+      },
+      "id": "node/9450277763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9450285248",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "441",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Sultan Azlan Shah",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Klinik Tan",
+        "name:ms": "Klinik Tan",
+        "name:zh": "陈药房",
+        "name:zh-Hant": "陳藥房",
+        "opening_hours": "Mo-Sa 08:45-16:45",
+        "opening_hours:covid19": "same",
+        "operator": "Klinik Tan",
+        "operator:type": "private",
+        "phone": "+60340433563"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6834174,
+          3.1802574
+        ]
+      },
+      "id": "node/9450285248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9450331557",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "468-G",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Sultan Azlan Shah",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "traditional_chinese_medicine",
+        "name": "Liang Healthcare",
+        "name:en": "Liang Healthcare",
+        "name:zh": "良医理疗",
+        "name:zh-Hant": "良醫理療",
+        "opening_hours": "Mo-Su 11:00-18:00",
+        "opening_hours:covid19": "same",
+        "operator": "Liang Healthcare",
+        "operator:type": "private",
+        "phone": "+60172348238"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6829106,
+          3.1794894
+        ]
+      },
+      "id": "node/9450331557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9450356335",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Klinik Sentul",
+        "name:ms": "Klinik Sentul",
+        "name:zh": "冼都药房",
+        "name:zh-Hant": "冼都藥房",
+        "opening_hours": "Mo-Fr 09:00-20:00; Su 15:00-20:00",
+        "opening_hours:covid19": "same",
+        "operator": "Klinik Sentul",
+        "operator:type": "private",
+        "phone": "+60340416164",
+        "website": "https://klinik-sentul.business.site/?utm_source=gmb&utm_medium=referral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6870348,
+          3.1770893
+        ]
+      },
+      "id": "node/9450356335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9450360269",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Klinik Keluarga Sentul",
+        "name:ms": "Klinik Keluarga Sentul",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 08:00-13:00",
+        "opening_hours:covid19": "same",
+        "operator": "Klinik Keluarga Sentul",
+        "operator:type": "private",
+        "phone": "+60340513933",
+        "website": "https://klinik-keluarga-sentul.business.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6888592,
+          3.1759487
+        ]
+      },
+      "id": "node/9450360269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9450391095",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "A15",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Tun Razak",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Klinik Kanak-Kanak Muthiah",
+        "name:ms": "Klinik Kanak-Kanak Muthiah",
+        "opening_hours": "Mo-Sa 17:00-21:00",
+        "opening_hours:covid19": "same",
+        "operator": "Klinik Kanak-Kanak Muthiah",
+        "operator:type": "private",
+        "phone": "+60340425262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6924882,
+          3.1728361
+        ]
+      },
+      "id": "node/9450391095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9450393558",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "Suite AG6",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Tun Razak",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "radiology",
+        "name": "Vijayan X-Ray Specialist Centre",
+        "name:en": "Vijayan X-Ray Specialist Centre",
+        "opening_hours": "Mo-Fr 09:00-16:30; Sa 09:00-13:00",
+        "opening_hours:covid19": "same",
+        "operator": "Vijayan X-Ray Specialist Centre",
+        "operator:type": "private",
+        "phone": "+60340429202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6919949,
+          3.1732173
+        ]
+      },
+      "id": "node/9450393558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9450421494",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "Suite A-17",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Sentul",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Gusa Eye Clinic & Surgery",
+        "name:en": "Gusa Eye Clinic & Surgery",
+        "name:ms": "Klinik Doktor Pakar Mata Gusa",
+        "name:zh": "沽沙眼科诊所及手术专科",
+        "name:zh-Hant": "沽沙眼科診所及手術專科",
+        "opening_hours": "Mo-Th 09:30-15:00; Fr 09:30-13:00; Sa 09:30-14:00",
+        "opening_hours:covid19": "same",
+        "operator": "Gusa Eye Clinic & Surgery",
+        "operator:type": "private",
+        "phone": "+60340411310",
+        "website": "https://klinik-dr-pakar-mata-gusa.business.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6920637,
+          3.1732992
+        ]
+      },
+      "id": "node/9450421494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9450477940",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "B-00-10",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Suppiah Pillay",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Klinik Putrimedik",
+        "name:ms": "Klinik Putrimedik",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-14:00",
+        "opening_hours:covid19": "same",
+        "operator": "Klinik Putrimedik",
+        "operator:type": "private",
+        "phone": "+60397677996",
+        "website": "http://www.putrimedik.my/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6854324,
+          3.1778021
+        ]
+      },
+      "id": "node/9450477940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9450478643",
+        "addr:city": "Kuala Lumpur",
+        "addr:postcode": "51000",
+        "addr:street": "Jalan Sentul",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Poliklinik Keluarga",
+        "name:ms": "Poliklinik Keluarga",
+        "operator": "Poliklinik Keluarga",
+        "operator:type": "private",
+        "phone": "+60340513211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6927983,
+          3.1757367
+        ]
+      },
+      "id": "node/9450478643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9450486777",
+        "addr:city": "Kuala Lumpur",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Kasipillay",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Klinik Suria",
+        "name:ms": "Klinik Suria",
+        "name:zh": "苏丽雅诊所",
+        "name:zh-Hant": "蘇麗雅診所",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "opening_hours:covid19": "same",
+        "operator": "Klinik Suria",
+        "operator:type": "private",
+        "phone": "+60340414667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6845212,
+          3.1760439
+        ]
+      },
+      "id": "node/9450486777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9450544177",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Poliklinik Kim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6985196,
+          3.1712648
+        ]
+      },
+      "id": "node/9450544177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9457442528",
+        "addr:city": "Kuala Lumpur",
+        "addr:postcode": "53300",
+        "addr:street": "Jalan Genting Klang",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Klinik Pakar Kanak-Kanak Pelangi",
+        "name:ms": "Klinik Pakar Kanak-Kanak Pelangi",
+        "opening_hours": "Sa-Th 09:00-21:00; Fr 09:00-16:30",
+        "opening_hours:covid19": "same",
+        "operator": "Klinik Pakar Kanak-Kanak Pelangi",
+        "operator:type": "private",
+        "phone": "+60340249581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7132351,
+          3.1966512
+        ]
+      },
+      "id": "node/9457442528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9457462723",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "126-0-04",
+        "addr:postcode": "53300",
+        "addr:street": "Jalan Genting Klang",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "traditional_chinese_medicine",
+        "name": "Jaron TCM",
+        "name:en": "Jaron TCM",
+        "name:zh": "杨大夫中医药馆",
+        "name:zh-Hant": "楊大夫中醫藥館",
+        "opening_hours": "Fr-We 09:00-17:00",
+        "opening_hours:covid19": "same",
+        "operator": "Jaron TCM",
+        "operator:type": "private",
+        "phone": "+60128077885"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7131273,
+          3.1965408
+        ]
+      },
+      "id": "node/9457462723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9457473303",
+        "addr:city": "Kuala Lumpur",
+        "addr:postcode": "53000",
+        "addr:street": "Jalan 3/50C",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Klinik Vicky",
+        "name:ms": "Klinik Vicky",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00",
+        "opening_hours:covid19": "same",
+        "operator": "Klinik Vicky",
+        "operator:type": "private",
+        "phone": "+60167073094"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7119139,
+          3.1959025
+        ]
+      },
+      "id": "node/9457473303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9457486568",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "217",
+        "addr:postcode": "53000",
+        "addr:street": "Jalan Genting Klang",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Klinik Dan Surgeri Loo",
+        "name:ms": "Klinik Dan Surgeri Loo",
+        "name:zh": "雷药房",
+        "name:zh-Hant": "雷藥房",
+        "opening_hours": "Mo-Sa 08:00-17:00; Su 08:00-13:00",
+        "opening_hours:covid19": "same",
+        "operator": "Klinik Dan Surgeri Loo",
+        "operator:type": "private",
+        "phone": "+60340232618"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7125269,
+          3.1951448
+        ]
+      },
+      "id": "node/9457486568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9457516405",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "179",
+        "addr:postcode": "53300",
+        "addr:street": "Jalan Genting Klang",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;radiology",
+        "name": "Klinik Dan Surgeri Setapak",
+        "name:ms": "Klinik Dan Surgeri Setapak",
+        "opening_hours": "Mo-Sa 08:00-22:00",
+        "opening_hours:covid19": "same",
+        "operator": "Klinik Dan Surgeri Setapak",
+        "operator:type": "private",
+        "phone": "+60340251799"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7116077,
+          3.1942532
+        ]
+      },
+      "id": "node/9457516405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9457520909",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "67",
+        "addr:postcode": "53300",
+        "addr:street": "Jalan Genting Klang",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Poliklinik & Surgeri Dr Roshen",
+        "name:ms": "Poliklinik & Surgeri Dr Roshen",
+        "opening_hours": "Mo-Sa 10:00-17:00",
+        "opening_hours:covid19": "same",
+        "operator": "Poliklinik & Surgeri Dr Roshen",
+        "operator:type": "private",
+        "phone": "+60166077891",
+        "website": "http://kroshen.wix.com/home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7087376,
+          3.1917432
+        ]
+      },
+      "id": "node/9457520909"
+    }
+  ]
+}
