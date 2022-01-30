@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-01-30T07:20:58Z",
+  "timestamp": "2022-01-30T15:33:02Z",
   "features": [
     {
       "type": "Feature",
@@ -1553,6 +1553,7 @@
       "properties": {
         "@id": "node/2502820560",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
@@ -1564,7 +1565,9 @@
         "operator": "Selangor Omnibus, Setara Jaya",
         "public_transport": "platform",
         "ref": "KL587",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -5916,17 +5919,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5513455622",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "TAN CHONG SEGAMBUT",
+        "name": "Nan Yang Gong Temple Segambut",
+        "name:en": "Nan Yang Gong Temple Segambut",
+        "operator": "RapidKL",
         "public_transport": "platform",
+        "ref": "KL534",
+        "shelter": "yes",
+        "tactile_paving": "no",
         "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6733412,
-          3.183848
+          101.6727204,
+          3.1839814
         ]
       },
       "id": "node/5513455622"
@@ -5935,16 +5946,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5515894626",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "KL636 TMN KOPERASI POLIS FASA 2",
-        "public_transport": "platform"
+        "name": "Taman Koperasi Polis",
+        "name:ms": "Taman Koperasi Polis",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL636",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6896039,
-          3.2206096
+          101.6894086,
+          3.2205863
         ]
       },
       "id": "node/5515894626"
@@ -5953,16 +5973,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5515894628",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "KL638 F.I.T CENTER",
-        "public_transport": "platform"
+        "name": "Fit Centre",
+        "name:en": "Fit Centre",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL638",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6895437,
-          3.2153975
+          101.689453,
+          3.2153943
         ]
       },
       "id": "node/5515894628"
@@ -6479,6 +6508,7 @@
       "properties": {
         "@id": "node/5694034823",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
@@ -6488,7 +6518,9 @@
         "operator": "Selangor Omnibus, Setara Jaya, RapidKL",
         "public_transport": "platform",
         "ref": "KL588",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -11630,6 +11662,7 @@
       "properties": {
         "@id": "node/7340042737",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
@@ -11657,6 +11690,7 @@
       "properties": {
         "@id": "node/7340042742",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
@@ -11767,9 +11801,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7398288752",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kg Sri Delima",
+        "name:ms": "Kg Sri Delima",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL199",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -14511,6 +14555,1164 @@
         ]
       },
       "id": "node/9459646454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9459766566",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Saidina Hamzah (Opp)",
+        "name:en": "Saidina Hamzah Mosque (Opp)",
+        "name:ms": "Masjid Saidina Hamzah (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2275",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.688325,
+          3.2178458
+        ]
+      },
+      "id": "node/9459766566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9459785567",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Tentera Ampat Tin",
+        "name:ms": "Perumahan Tentera Ampat Tin",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2240",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6845691,
+          3.214205
+        ]
+      },
+      "id": "node/9459785567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9459792389",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Saidina Hamzah",
+        "name:en": "Saidina Hamzah Mosque",
+        "name:ms": "Masjid Saidina Hamzah",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL621",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6885125,
+          3.2176929
+        ]
+      },
+      "id": "node/9459792389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9459799504",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Menara KIP, Jalan Kuching",
+        "name:en": "Menara KIP, Kuching Road",
+        "name:ms": "Menara KIP, Jalan Kuching",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "KL1498",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6719086,
+          3.2241795
+        ]
+      },
+      "id": "node/9459799504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9459802662",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sri Utara (Selatan), Jalan Kuching",
+        "name:en": "Sri Utara (South), Kuching Road",
+        "name:ms": "Sri Utara (Selatan), Jalan Kuching",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "KL566",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6716251,
+          3.2223003
+        ]
+      },
+      "id": "node/9459802662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9459804532",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Koperasi Polis",
+        "name:ms": "Taman Koperasi Polis",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL623",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6891886,
+          3.2205741
+        ]
+      },
+      "id": "node/9459804532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9459806570",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Lot Batu Muda",
+        "name:ms": "Perumahan Lot Batu Muda",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2242",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6863762,
+          3.2160062
+        ]
+      },
+      "id": "node/9459806570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9459809823",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Menara KIP, Jalan Kuching",
+        "name:en": "Menara KIP, Kuching Road",
+        "name:ms": "Menara KIP, Jalan Kuching",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "KL2247",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.671586,
+          3.2242811
+        ]
+      },
+      "id": "node/9459809823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9459813488",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Tentera Ampat Tin (Opp)",
+        "name:ms": "Perumahan Tentera Ampat Tin (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2246",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6847179,
+          3.2142079
+        ]
+      },
+      "id": "node/9459813488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9459815249",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Padang Bola Batu Muda",
+        "name:en": "Batu Muda Football Field",
+        "name:ms": "Padang Bola Batu Muda",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2244",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6870304,
+          3.2158828
+        ]
+      },
+      "id": "node/9459815249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460356203",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Menara TKSS",
+        "name:ms": "Menara TKSS",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL536",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6767522,
+          3.1824627
+        ]
+      },
+      "id": "node/9460356203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460358148",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Segambut (Timur)",
+        "name:en": "Segambut Garden (North)",
+        "name:ms": "Taman Segambut (Timur)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL941",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.677548,
+          3.1817879
+        ]
+      },
+      "id": "node/9460358148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460364444",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Segambut (Barat)",
+        "name:en": "Segambut Garden (West)",
+        "name:ms": "Taman Segambut (Barat)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL537",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6747051,
+          3.1830687
+        ]
+      },
+      "id": "node/9460364444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460374503",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Menara TKSS",
+        "name:ms": "Menara TKSS",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL535",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6763368,
+          3.1832686
+        ]
+      },
+      "id": "node/9460374503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460374509",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SJKC Khai Chee",
+        "name:ms": "SJKC Khai Chee",
+        "name:zh": "启智华小",
+        "name:zh-Hant": "啟智華小",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL533",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6690729,
+          3.185806
+        ]
+      },
+      "id": "node/9460374509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460383525",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Segambut (Barat)",
+        "name:en": "Segambut Garden (West)",
+        "name:ms": "Taman Segambut (Barat)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL914",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6744921,
+          3.1833477
+        ]
+      },
+      "id": "node/9460383525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460393244",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Nan Yang Gong Temple Segambut",
+        "name:en": "Nan Yang Gong Temple Segambut",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL539",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6725032,
+          3.1838082
+        ]
+      },
+      "id": "node/9460393244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460402449",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Madrasah Manbaul Uloom",
+        "name:ms": "Madrasah Manbaul Uloom",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1857",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6657073,
+          3.193449
+        ]
+      },
+      "id": "node/9460402449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460412513",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Madrasah Manbaul Uloom (Opp)",
+        "name:ms": "Madrasah Manbaul Uloom (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1866",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6654838,
+          3.1933358
+        ]
+      },
+      "id": "node/9460412513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460419563",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Segambut",
+        "name:ms": "SMK Segambut",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL524",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6670877,
+          3.1871161
+        ]
+      },
+      "id": "node/9460419563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460419624",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SJKC Khai Chee (Opp)",
+        "name:ms": "SJKC Khai Chee (Opp)",
+        "name:zh": "启智华小（对面）",
+        "name:zh-Hant": "啟智華小（對面）",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL540",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6697953,
+          3.1850838
+        ]
+      },
+      "id": "node/9460419624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460424830",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Segambut (Opp)",
+        "name:ms": "SMK Segambut (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL541",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.667195,
+          3.1868101
+        ]
+      },
+      "id": "node/9460424830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460425856",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bengkel Servis",
+        "name:ms": "Bengkel Servis",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1859",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6667863,
+          3.1924645
+        ]
+      },
+      "id": "node/9460425856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460429178",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Al-Firdaus Mosque",
+        "name:en": "Al-Firdaus Mosque",
+        "name:ms": "Masjid Al-Firdaus",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL532",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.668943,
+          3.1880609
+        ]
+      },
+      "id": "node/9460429178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460429232",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Segambut",
+        "name:ms": "SK Segambut",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1862",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6684807,
+          3.1875416
+        ]
+      },
+      "id": "node/9460429232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460433950",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pekan Kok Doh",
+        "name:ms": "Pekan Kok Doh",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1860",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6687693,
+          3.1905353
+        ]
+      },
+      "id": "node/9460433950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460439236",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Segambut (Opp)",
+        "name:ms": "SK Segambut (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1861",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6685292,
+          3.1872397
+        ]
+      },
+      "id": "node/9460439236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460443251",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Al-Firdaus Mosque",
+        "name:en": "Al-Firdaus Mosque",
+        "name:ms": "Masjid Al-Firdaus",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL531",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6690919,
+          3.1879781
+        ]
+      },
+      "id": "node/9460443251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460443257",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bengkel Servis (Opp)",
+        "name:ms": "Bengkel Servis (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1864",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6671036,
+          3.1923401
+        ]
+      },
+      "id": "node/9460443257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460444339",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Car Horse Motors",
+        "name:en": "Car Horse Motors",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1863",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6686454,
+          3.1903769
+        ]
+      },
+      "id": "node/9460444339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460449140",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Lot Kedai Kok Doh",
+        "name:ms": "Lot Kedai Kok Doh",
+        "name:zh": "国都商铺",
+        "name:zh-Hant": "國都商舖",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1867",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6656374,
+          3.1967737
+        ]
+      },
+      "id": "node/9460449140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460449141",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Lot Kedai Kok Doh (Opp)",
+        "name:ms": "Lot Kedai Kok Doh (Opp)",
+        "name:zh": "国都商铺（对面）",
+        "name:zh-Hant": "國都商舖（對面）",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1856",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6657445,
+          3.1967916
+        ]
+      },
+      "id": "node/9460449141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460453636",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Pasir Segambut",
+        "name:ms": "Kg Pasir Segambut",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1037",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.665338,
+          3.1948149
+        ]
+      },
+      "id": "node/9460453636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460483926",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Taman City",
+        "name:en": "City Garden Commerical",
+        "name:ms": "Komersial Taman City",
+        "name:zh": "城市花园商业区",
+        "name:zh-Hant": "城市花園商業區",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6690485,
+          3.1964087
+        ]
+      },
+      "id": "node/9460483926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460484051",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Taman Batu",
+        "name:en": "Batu Garden Commercial",
+        "name:ms": "Komersial Taman Batu",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1049",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6665307,
+          3.1996589
+        ]
+      },
+      "id": "node/9460484051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460490954",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SPG Jln Jambu Golok",
+        "name:ms": "SPG Jln Jambu Golok",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1855",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6663196,
+          3.1981837
+        ]
+      },
+      "id": "node/9460490954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460491839",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Padang Bola Segambut",
+        "name:en": "Segambut Football Field",
+        "name:ms": "Padang Bola Segambut",
+        "name:zh": "泗岩末足球场",
+        "name:zh-Hant": "泗岩末足球場",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1049",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6652006,
+          3.2000609
+        ]
+      },
+      "id": "node/9460491839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460504429",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Lawa",
+        "name:en": "Lawa Garden",
+        "name:ms": "Taman Lawa",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1869",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.665416,
+          3.1986209
+        ]
+      },
+      "id": "node/9460504429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460518552",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Wisma TNB Kepong (Timur), Jalan Kepong",
+        "name:en": "Wisma TNB Kepong (North), Kepong Road",
+        "name:ms": "Wisma TNB Kepong (Timur), Jalan Kepong",
+        "operator": "Selangor Omnibus",
+        "public_transport": "platform",
+        "ref": "KL475",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6664333,
+          3.2064709
+        ]
+      },
+      "id": "node/9460518552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460520126",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Brem Mall, Jalan Kepong",
+        "name:en": "Brem Mall, Kepong Road",
+        "name:ms": "Brem Mall, Jalan Kepong",
+        "operator": "Selangor Omnibus",
+        "public_transport": "platform",
+        "ref": "KL476",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6689549,
+          3.2037028
+        ]
+      },
+      "id": "node/9460520126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460525417",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Brem Mall, Jalan Kepong",
+        "name:en": "Brem Mall, Kepong Road",
+        "name:ms": "Brem Mall, Jalan Kepong",
+        "operator": "Selangor Omnibus",
+        "public_transport": "platform",
+        "ref": "KL1569",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.669208,
+          3.2039067
+        ]
+      },
+      "id": "node/9460525417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460526574",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Wisma TNB Kepong (Timur), Jalan Kepong",
+        "name:en": "Wisma TNB Kepong (North), Kepong Road",
+        "name:ms": "Wisma TNB Kepong (Timur), Jalan Kepong",
+        "operator": "Selangor Omnibus",
+        "public_transport": "platform",
+        "ref": "KL477",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6656887,
+          3.2066453
+        ]
+      },
+      "id": "node/9460526574"
     }
   ]
 }
