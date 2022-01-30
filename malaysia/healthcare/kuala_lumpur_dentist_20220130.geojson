@@ -1,0 +1,1692 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-01-30T07:29:53Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/236259987",
+        "amenity": "dentist",
+        "building": "yes",
+        "healthcare": "dentist",
+        "name": "Klinik Pergigian Bangsar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.6804964,
+              3.1302204
+            ],
+            [
+              101.6806201,
+              3.1301431
+            ],
+            [
+              101.6807185,
+              3.1303
+            ],
+            [
+              101.6805948,
+              3.1303774
+            ],
+            [
+              101.6804964,
+              3.1302204
+            ]
+          ]
+        ]
+      },
+      "id": "way/236259987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/788754365",
+        "amenity": "dentist",
+        "building": "commercial",
+        "healthcare": "dentist",
+        "level": "0",
+        "name": "Inspired Dental"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.6280283,
+              3.1398637
+            ],
+            [
+              101.6281095,
+              3.1396492
+            ],
+            [
+              101.6281713,
+              3.1396719
+            ],
+            [
+              101.628093,
+              3.1398879
+            ],
+            [
+              101.6280283,
+              3.1398637
+            ]
+          ]
+        ]
+      },
+      "id": "way/788754365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/798617320",
+        "addr:housenumber": "15",
+        "addr:street": "Jalan Wan Kadir 2",
+        "amenity": "dentist",
+        "building": "commercial",
+        "healthcare": "dentist",
+        "level": "0",
+        "name": "Kam Kamsiah"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.6289125,
+              3.1394215
+            ],
+            [
+              101.6289902,
+              3.1391995
+            ],
+            [
+              101.6290476,
+              3.1392195
+            ],
+            [
+              101.6289699,
+              3.1394415
+            ],
+            [
+              101.6289125,
+              3.1394215
+            ]
+          ]
+        ]
+      },
+      "id": "way/798617320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/798617325",
+        "addr:housenumber": "25",
+        "addr:street": "Jalan Wan Kadir 2",
+        "amenity": "dentist",
+        "building": "commercial",
+        "healthcare": "dentist",
+        "healthcare:speciality": "orthodontist",
+        "level": "0",
+        "name": "Dr Sarah"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.6286254,
+              3.1393213
+            ],
+            [
+              101.6287031,
+              3.1390993
+            ],
+            [
+              101.6287605,
+              3.1391194
+            ],
+            [
+              101.6286828,
+              3.1393414
+            ],
+            [
+              101.6286254,
+              3.1393213
+            ]
+          ]
+        ]
+      },
+      "id": "way/798617325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1818435257",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "level": "2",
+        "name": "Klinik Pergigian Rohaya",
+        "name:en": "Rohaya Dental Surgery",
+        "source": "https://www.mapillary.com/app/?pKey=913768559204188&focus=photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6921764,
+          3.18502
+        ]
+      },
+      "id": "node/1818435257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1858243858",
+        "addr:housenumber": "414",
+        "addr:postcode": "53000",
+        "addr:street": "Jalan Pahang",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Klinik Pergigian Yong",
+        "name:zh": "容牙科医务所",
+        "phone": "+60340230793",
+        "source": "https://www.mapillary.com/app/?pKey=3960585464068744&focus=photo",
+        "website": "http://malaysiadentistsdirectory.blogspot.com/2010/07/klinik-pergigian-yong.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.703956,
+          3.1883271
+        ]
+      },
+      "id": "node/1858243858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2355670006",
+        "addr:city": "Kuala Lumpur",
+        "addr:postcode": "50300",
+        "addr:street": "Jalan Raja Muda Abdul Aziz",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "general;orthodontics",
+        "name": "Jabatan Pergigian",
+        "name:ms": "Fakulti Pergigian UKM",
+        "name:zh": "国大牙医学院",
+        "name:zh-Hant": "國大牙醫學院",
+        "opening_hours": "Mo-Fr 08:00-16:30",
+        "opening_hours:covid19": "same",
+        "operator": "Universiti Kebangsaan Malaysia (UKM) Kesihatan Kuala Lumpur",
+        "phone": "+60392897741",
+        "website": "http://www.ukm.my/FPerg/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6997767,
+          3.1709667
+        ]
+      },
+      "id": "node/2355670006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2914942039",
+        "amenity": "dentist",
+        "email": "thedentist@dentalpro.org",
+        "healthcare": "dentist",
+        "name": "Dentalpro",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "phone": "+60 320 94 3333",
+        "website": "www.dentalpro.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6704519,
+          3.1525871
+        ]
+      },
+      "id": "node/2914942039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3153960300",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Klinik Pergigian Cahaya Suria",
+        "opening_hours:url": "http://jknkl.moh.gov.my/kp-cahaya-suria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6991662,
+          3.1460694
+        ]
+      },
+      "id": "node/3153960300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4019182129",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "level": "1",
+        "name": "All Smile Dental Clinic",
+        "phone": "018 7893388"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.627779,
+          3.1414725
+        ]
+      },
+      "id": "node/4019182129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4019267365",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "level": "1",
+        "name": "Dental Image"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6286981,
+          3.1417802
+        ]
+      },
+      "id": "node/4019267365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4322768493",
+        "addr:housenumber": "13-1",
+        "addr:postcode": "60000",
+        "addr:street": "Jalan Damansara",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "KaVo Kerr Group Malaysia Sdn Bhd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6315003,
+          3.1320344
+        ]
+      },
+      "id": "node/4322768493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4631178366",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "62",
+        "addr:postcode": "59100",
+        "addr:street": "Jalan Telawi",
+        "amenity": "dentist",
+        "email": "enquiries@imperialdsc.com",
+        "facebook": "https://www.facebook.com/imperialdentalspecialistcentre/",
+        "healthcare": "dentist",
+        "name": "Imperial Dental Specialist Centre",
+        "opening_hours": "09:00-20:00; Su 09:00-18:00",
+        "phone": "+603 2106 5449",
+        "website": "http://www.imperialdsc.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6705619,
+          3.1302943
+        ]
+      },
+      "id": "node/4631178366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4666427490",
+        "addr:city": "Kuala Lumpur",
+        "addr:street": "Jalan Klang Lama",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Klinik Pergigian Wong",
+        "name:en": "Wong Dental Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.675652,
+          3.0980833
+        ]
+      },
+      "id": "node/4666427490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4706836290",
+        "addr:city": "Kuala Lumpur",
+        "addr:place": "OUG",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Klinik Pergigian Khoo",
+        "name:en": "Khoo Dental Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6702922,
+          3.0817437
+        ]
+      },
+      "id": "node/4706836290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4706836317",
+        "addr:city": "Kuala Lumpur",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Klinik Pergigian OUG",
+        "name:en": "OUG Dental Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6713278,
+          3.0829823
+        ]
+      },
+      "id": "node/4706836317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4706836318",
+        "addr:city": "Kuala Lumpur",
+        "addr:place": "OUG",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Klinik Pergigian Drs Wong & Partners",
+        "name:en": "Drs Wong & Partners Dental Surgeons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6713707,
+          3.083391
+        ]
+      },
+      "id": "node/4706836318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4706836321",
+        "addr:city": "Kuala Lumpur",
+        "addr:place": "OUG",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Pusat Pergigian Sim & Hooi",
+        "name:en": "Sim & Hooi Dental Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6717945,
+          3.0828227
+        ]
+      },
+      "id": "node/4706836321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4706836343",
+        "addr:city": "Kuala Lumpur",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Klinik Pergigian KW Ng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.672328,
+          3.0832958
+        ]
+      },
+      "id": "node/4706836343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4710894407",
+        "addr:city": "Kuala Lumpur",
+        "addr:place": "Sri Sentosa",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Klinik Pergigian Datta",
+        "name:en": "Datta Dental Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6532241,
+          3.0732023
+        ]
+      },
+      "id": "node/4710894407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4769200891",
+        "addr:city": "Kuala Lumpur",
+        "addr:street": "Jalan Rakyat",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Klinik Pergigian Jeya",
+        "name:en": "Jeya Dental Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.683569,
+          3.1301923
+        ]
+      },
+      "id": "node/4769200891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4769200899",
+        "addr:city": "Kuala Lumpur",
+        "addr:place": "Brickfields",
+        "addr:street": "Jalan Tun Sambanthan",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Klinik Pergigian Bala",
+        "name:en": "Bala Dental Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6835396,
+          3.128397
+        ]
+      },
+      "id": "node/4769200899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4816610023",
+        "addr:postcode": "56000",
+        "addr:street": "Jalan Yaacob Latif",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "KKM Cheras",
+        "opening_hours": "Mo-Fr 07:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7270946,
+          3.107576
+        ]
+      },
+      "id": "node/4816610023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6189843462",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Beverly Wilshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7217912,
+          3.1458469
+        ]
+      },
+      "id": "node/6189843462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6320242423",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Drs. Wong & Partners"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6323204,
+          3.2001641
+        ]
+      },
+      "id": "node/6320242423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6418749985",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Kuala Lumpur International Dental Centre",
+        "short_name": "KLIDC",
+        "website": "https://klidc.com.my/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7149278,
+          3.1628286
+        ]
+      },
+      "id": "node/6418749985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6602351087",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Klinik Pergigian Koo",
+        "name:zh": "古牙科诊疗所",
+        "source": "https://www.mapillary.com/app/?pKey=Rl5nfYlPWymAcSsayxvrvH&focus=photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7354425,
+          3.0822807
+        ]
+      },
+      "id": "node/6602351087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6604323685",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Midah Dental Surgeon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7334359,
+          3.1023596
+        ]
+      },
+      "id": "node/6604323685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6604323886",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Klinik Pergigian Drs Wong & Partners"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7322346,
+          3.1005278
+        ]
+      },
+      "id": "node/6604323886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6659670985",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "KL City Dentist",
+        "phone": "+60 3-2181 5792"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7227901,
+          3.1599506
+        ]
+      },
+      "id": "node/6659670985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7215468718",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "A-G-8",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Kepayang",
+        "amenity": "dentist",
+        "facebook": "https://www.facebook.com/dentist.tda/",
+        "healthcare": "dentist",
+        "healthcare:speciality": "general",
+        "name": "The Dental Atelier",
+        "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-14:00",
+        "opening_hours:covid19": "same",
+        "operator": "The Dental Atelier",
+        "phone": "+60102054884",
+        "website": "https://the-dental-atelier.business.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6702215,
+          3.1990648
+        ]
+      },
+      "id": "node/7215468718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7242307487",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Q&M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7070627,
+          3.1515585
+        ]
+      },
+      "id": "node/7242307487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7242307488",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Klinik Pergigian Ng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7070056,
+          3.1515535
+        ]
+      },
+      "id": "node/7242307488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7242307489",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Pro Heal Dental",
+        "opening_hours": "Mo-Fr 09:30-20:00; Sa 09:30-17:30",
+        "phone": "+60123507559",
+        "website": "http://www.prohealdental.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7120541,
+          3.1506423
+        ]
+      },
+      "id": "node/7242307489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7242308386",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Klinik Pergigian Cahaya Suria - Public Dental Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7006642,
+          3.1456799
+        ]
+      },
+      "id": "node/7242308386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7242308387",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Lee & Tan Dental Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7093321,
+          3.1453924
+        ]
+      },
+      "id": "node/7242308387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7242308388",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "level": "1",
+        "name": "Lim Dental Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6987146,
+          3.1447198
+        ]
+      },
+      "id": "node/7242308388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7242308389",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Kheng Dental Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6968369,
+          3.145342
+        ]
+      },
+      "id": "node/7242308389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7242330985",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Klinik Dr. Gigi @ Pudu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7056541,
+          3.144741
+        ]
+      },
+      "id": "node/7242330985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7242330986",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Fong & Goh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7110509,
+          3.1450273
+        ]
+      },
+      "id": "node/7242330986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7242331185",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "The dentist @ KL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7075695,
+          3.1528063
+        ]
+      },
+      "id": "node/7242331185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7242331187",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "White Smile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7105301,
+          3.1424987
+        ]
+      },
+      "id": "node/7242331187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7245215185",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "508A",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Sultan Azlan Shah",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "general",
+        "name": "Tan Endodontic Dental Clinic",
+        "name:en": "Tan Endodontic Dental Clinic",
+        "name:zh": "陈牙科（齿髓）专科中心",
+        "name:zh-Hant": "陳牙科（齒髓）專科中心",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "opening_hours:covid19": "same",
+        "operator": "Tan Endodontic Dental Clinic",
+        "phone": "+60340429640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6813775,
+          3.1826791
+        ]
+      },
+      "id": "node/7245215185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7249570086",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "level": "1",
+        "name": "Urban Smile Dental Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6705641,
+          3.1316897
+        ]
+      },
+      "id": "node/7249570086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7249570089",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Jason Cheong Dental Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6706251,
+          3.1314758
+        ]
+      },
+      "id": "node/7249570089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7249576986",
+        "amenity": "dentist",
+        "email": "malaysiadentist@gmail.com",
+        "healthcare": "dentist",
+        "level": "1",
+        "name": "Bangsar Dental Specialist Center",
+        "website": "http://www.malaysiadentist.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6709807,
+          3.1310416
+        ]
+      },
+      "id": "node/7249576986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7250130085",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "ProCare (Bangsar) Dental Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6710502,
+          3.1324295
+        ]
+      },
+      "id": "node/7250130085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7322123730",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Koh Dental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6718089,
+          3.1315136
+        ]
+      },
+      "id": "node/7322123730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7322125544",
+        "addr:unit": "G-07",
+        "amenity": "dentist",
+        "contact:instagram": "https://www.instagram.com/klinikpergigianaliya",
+        "email": "kpaliya@yahoo.com",
+        "facebook": "https://www.facebook.com/KPAliyaKL/",
+        "healthcare": "dentist",
+        "level": "0",
+        "name": "Aliya",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa,Su 10:00-18:00",
+        "phone": "+60173859300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6691368,
+          3.209562
+        ]
+      },
+      "id": "node/7322125544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7368450050",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "level": "1",
+        "name": "Prema Nathan Dental Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6283741,
+          3.1402399
+        ]
+      },
+      "id": "node/7368450050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7391369327",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "level": "1",
+        "name": "Chan Yeo Ho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6289144,
+          3.1401148
+        ]
+      },
+      "id": "node/7391369327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7491178583",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Klinik Pergigian Fauziah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6971944,
+          3.1622303
+        ]
+      },
+      "id": "node/7491178583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7513290698",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "iCare Dental",
+        "opening_hours": "Mo-Sa 10:00-21:00",
+        "phone": "+603-20112739",
+        "website": "http://icaredental.com.my/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6539361,
+          3.1493683
+        ]
+      },
+      "id": "node/7513290698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7625135311",
+        "amenity": "dentist",
+        "healthcare": "dentist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.732575,
+          3.1443262
+        ]
+      },
+      "id": "node/7625135311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8048099820",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Neoh & Chiew Dental Surgery (OUG)",
+        "name:zh": "梁周牙科医务所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6731304,
+          3.074426
+        ]
+      },
+      "id": "node/8048099820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8058528657",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Klinik Pergigian Drs Wong & Partners"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.675377,
+          3.0833652
+        ]
+      },
+      "id": "node/8058528657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8336043376",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Bala Dental Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6712584,
+          3.1329559
+        ]
+      },
+      "id": "node/8336043376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8384030812",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Chai Dental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6688843,
+          3.1381641
+        ]
+      },
+      "id": "node/8384030812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8541513563",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Smile Avenue",
+        "opening_hours": "Mo-Th 09:00-18:00; Fr,Sa 09:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6670781,
+          3.1120011
+        ]
+      },
+      "id": "node/8541513563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8955552247",
+        "addr:city": "Bukit Jalil",
+        "addr:housenumber": "C-2-2",
+        "addr:postcode": "57000",
+        "addr:street": "Persiaran Jalil 7",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Peh & Co Dental Clinic",
+        "opening_hours": "Mo-Sa 10:00-18:00",
+        "opening_hours:covid19": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6707546,
+          3.0522385
+        ]
+      },
+      "id": "node/8955552247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9404743267",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "1-3-5",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Ipoh",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "dentist;orthodontics",
+        "name": "Novadent Dental Clinic",
+        "name:en": "Novadent Dental Clinic",
+        "name:ms": "Klinik Pergigian Novadent",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "opening_hours:covid19": "same",
+        "operator": "Novadent Dental Clinic",
+        "phone": "+60327338125",
+        "website": "https://novadent.my/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6791964,
+          3.196596
+        ]
+      },
+      "id": "node/9404743267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9406582366",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "871",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Ipoh",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "general;orthodontics",
+        "name": "King's Dental Clinic",
+        "name:en": "King's Dental Clinic",
+        "name:zh": "京城牙科诊所",
+        "name:zh-Hant": "京城牙科診所",
+        "opening_hours": "We-Mo 10:00-18:00",
+        "opening_hours:covid19": "same",
+        "operator": "King's Dental Clinic",
+        "phone": "+60182929191"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6740032,
+          3.2030682
+        ]
+      },
+      "id": "node/9406582366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9406588924",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "869-A",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Ipoh",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "general;orthodontics",
+        "name": "Ram Dental Clinic",
+        "name:en": "Ram Dental Clinic",
+        "name:ms": "Klinik Pergigian Ram",
+        "name:zh": "牙科医务所",
+        "name:zh-Hant": "牙科醫務所",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "opening_hours:covid19": "same",
+        "operator": "Ram Dental Clinic",
+        "phone": "+60362587294"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6741465,
+          3.2030643
+        ]
+      },
+      "id": "node/9406588924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9406601543",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "11A",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Batu Ambar",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "general;orthodontics",
+        "name": "Klinik Pergigian Dr Lim Dan Rakan Rakan",
+        "name:ms": "Klinik Pergigian Dr Lim Dan Rakan Rakan",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "opening_hours:covid19": "same",
+        "operator": "Klinik Pergigian Dr Lim Dan Rakan Rakan",
+        "phone": "+60362505048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6738693,
+          3.2024335
+        ]
+      },
+      "id": "node/9406601543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9406607229",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "24A",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Batu Ambar",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "general;orthodontics",
+        "name": "Chong's Dental Services",
+        "name:en": "Chong's Dental Services",
+        "name:zh": "张氏牙齿",
+        "name:zh-Hant": "張氏牙齒",
+        "opening_hours": "Mo-Sa 10:00-17:00",
+        "opening_hours:covid19": "same",
+        "operator": "Chong's Dental Services",
+        "phone": "+60362581813"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6728589,
+          3.2025094
+        ]
+      },
+      "id": "node/9406607229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9409088429",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "general",
+        "name": "Everglow Dental Clinic",
+        "name:ms": "Klinik Pergigian Everglow",
+        "name:zh": "亮晶晶牙科",
+        "name:zh-Hant": "亮晶晶牙科",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00",
+        "opening_hours:covid19": "same",
+        "operator": "Everglow Dental Clinic",
+        "phone": "+601156269103",
+        "website": "https://everglowdentalkl.business.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6701508,
+          3.198776
+        ]
+      },
+      "id": "node/9409088429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9409104917",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "150",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Selingsing 5",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "general",
+        "name": "MyCity Dental Clinic",
+        "name:en": "MyCity Dental Clinic",
+        "name:ms": "Klinik Pergigian MyCity",
+        "name:zh": "MyCity牙科诊所",
+        "name:zh-Hant": "MyCity牙科診所",
+        "opening_hours": "Th-Tu 10:00-18:00",
+        "opening_hours:covid19": "same",
+        "operator": "MyCity Dental Clinic",
+        "phone": "+60108203961",
+        "website": "https://mycity-dental-clinic.business.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6706091,
+          3.1963967
+        ]
+      },
+      "id": "node/9409104917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9450174906",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "526 & 528",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Sultan Azlan Shah",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "general;orthodontics",
+        "name": "Mydentist Malaysia",
+        "name:en": "Mydentist Malaysia",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00",
+        "opening_hours:covid19": "same",
+        "operator": "Mydentist Malaysia",
+        "phone": "+60362522011",
+        "website": "https://www.facebook.com/mydentistmalaysia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6808142,
+          3.1834604
+        ]
+      },
+      "id": "node/9450174906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9450220635",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "528A",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Sultan Azlan Shah",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "general;orthodontics",
+        "name": "Foo Dental Surgery",
+        "name:en": "Foo Dental Surgery",
+        "operator": "Foo Dental Surgery",
+        "phone": "+60362522011",
+        "website": "http://www.mydentist.com.my/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6808613,
+          3.183529
+        ]
+      },
+      "id": "node/9450220635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9450311191",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "1",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan 1/57A",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "general;orthodontics",
+        "name": "Yip Dental Surgery",
+        "name:en": "Yip Dental Surgery",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00",
+        "opening_hours:covid19": "same",
+        "operator": "Yip Dental Surgery",
+        "phone": "+60340438593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6815736,
+          3.180945
+        ]
+      },
+      "id": "node/9450311191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9450362372",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "260F",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Sultan Azlan Shah",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "general;orthodontics",
+        "name": "Klinik Pergigian ORION Dental Clinic",
+        "name:ms": "Klinik Pergigian ORION Dental Clinic",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "opening_hours:covid19": "same",
+        "operator": "Klinik Pergigian ORION Dental Clinic",
+        "phone": "+601116754761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6902342,
+          3.1741983
+        ]
+      },
+      "id": "node/9450362372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9450376995",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "6",
+        "addr:postcode": "51200",
+        "addr:street": "Jalan Kampar",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "general;orthodontics",
+        "name": "Woon Orthodontic Clinic",
+        "name:en": "Woon Orthodontic Clinic",
+        "operator": "Woon Orthodontic Clinic",
+        "phone": "+60340426160"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6928492,
+          3.1733517
+        ]
+      },
+      "id": "node/9450376995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9450444695",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "2-0-12",
+        "addr:postcode": "51200",
+        "addr:street": "Jaaln Ipoh",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "general;orthodontics",
+        "name": "Klinik Pergigian Carewell",
+        "name:ms": "Klinik Pergigian Carewell",
+        "opening_hours": "Mo-Fr 08:00-22:00; Sa 09:00-13:00",
+        "opening_hours:covid19": "same",
+        "operator": "Klinik Pergigian Carewell",
+        "phone": "+60323008066",
+        "website": "http://klinikcarewell.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6856122,
+          3.1770061
+        ]
+      },
+      "id": "node/9450444695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9457473142",
+        "addr:city": "Kuala Lumpur",
+        "addr:postcode": "53000",
+        "addr:street": "Jalan 3/50C",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "general;orthodontics",
+        "name": "Klinik Pergigian Choo",
+        "name:ms": "Klinik Pergigian Choo",
+        "name:zh": "朱牙医务所",
+        "name:zh-Hant": "朱牙醫務所",
+        "opening_hours": "Mo 10:00-15:00; We 10:00-15:00; Sa 10:00-15:00",
+        "opening_hours:covid19": "same",
+        "operator": "Klinik Pergigian Choo",
+        "phone": "+60169920038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7118827,
+          3.1959209
+        ]
+      },
+      "id": "node/9457473142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9457499159",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "177A",
+        "addr:postcode": "53300",
+        "addr:street": "Jalan Genting Klang",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "general;orthodontics",
+        "name": "Klinik Pergigian Sri Setapak",
+        "name:ms": "Klinik Pergigian Sri Setapak",
+        "name:zh": "斯里士打巴牙科医务所",
+        "name:zh-Hant": "斯里士打巴牙科醫務所",
+        "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-17:00; Su 10:00-13:00",
+        "opening_hours:covid19": "same",
+        "operator": "Klinik Pergigian Sri Setapak",
+        "phone": "+601135881770"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7115675,
+          3.1942174
+        ]
+      },
+      "id": "node/9457499159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9457501044",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "217A",
+        "addr:postcode": "53000",
+        "addr:street": "Jalan Genting Klang",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "general;orthodontics",
+        "name": "Klinik Pergigian Genting",
+        "name:ms": "Klinik Pergigian Genting",
+        "opening_hours": "Mo-Tu 09:30-18:00; Th-Fr 09:30-18:00; Sa 09:30-17:00; Su 09:30-13:30",
+        "opening_hours:covid19": "same",
+        "operator": "Klinik Pergigian Genting",
+        "phone": "+60340323816",
+        "website": "https://klinik-pergigian-genting.business.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7125411,
+          3.1951305
+        ]
+      },
+      "id": "node/9457501044"
+    }
+  ]
+}
