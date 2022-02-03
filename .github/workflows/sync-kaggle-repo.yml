@@ -1,0 +1,28 @@
+name: sync-kaggle-repo
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout GitHub Repo Content # Checkout the repository content to github runner
+        uses: actions/checkout@v2
+
+      - name: Upload Datasets To Kaggle # Runs a single command using the runners shell
+        uses: jaimevalero/push-kaggle-dataset@v1.0.3 # This is the action
+        env:
+          # Do not leak your credentials.
+          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+
+        with:
+          id:  "jerrychong25/map-data"
+          # title: "Synced GitHub datasets to Kaggle"
+          # subtitle: "Titanic data2"
+          # description: ""
+          files:  malaysia
+          # is_public: true
