@@ -24,5 +24,8 @@ jobs:
           # title: "Synced GitHub datasets to Kaggle"
           # subtitle: "Titanic data2"
           # description: ""
-          # files:  malaysia
+          files:  |
+            education
+            healthcare
+            public-transport
           # is_public: true
