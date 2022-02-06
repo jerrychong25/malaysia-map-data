@@ -1,10 +1,10 @@
-# Map Data 
+# Malaysia Map Data 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjerrychong25%2Fmap-data&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjerrychong25%2Fmalaysia-map-data&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Introduction
 
-This repo stores OpenStreetMap public map data that I've queried in [OverPass Turbo](https://overpass-turbo.eu/) via Overpass API.
+This repo stores Malaysia OpenStreetMap map data that I've queried in [OverPass Turbo](https://overpass-turbo.eu/) via Overpass API.
 
 ## Authors
 
