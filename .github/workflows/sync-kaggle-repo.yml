@@ -20,7 +20,7 @@ jobs:
           KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
 
         with:
-          id:  "jerrychong25/malaysia-map-data"
+          id:  "jerrychong25/map-data"
           # title: "Synced GitHub datasets to Kaggle"
           # subtitle: "Titanic data2"
           # description: ""
