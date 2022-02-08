@@ -1,0 +1,498 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-02-08T14:58:40Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2872238039",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6724482,
+          2.9305036
+        ]
+      },
+      "id": "node/2872238039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2924315281",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6811534,
+          2.9032965
+        ]
+      },
+      "id": "node/2924315281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4037752971",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6727017,
+          2.9303703
+        ]
+      },
+      "id": "node/4037752971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4177870905",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7035413,
+          2.9326255
+        ]
+      },
+      "id": "node/4177870905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4741031726",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6754557,
+          2.9334746
+        ]
+      },
+      "id": "node/4741031726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5356791349",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6999582,
+          2.9271542
+        ]
+      },
+      "id": "node/5356791349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5645453721",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6866417,
+          2.9227383
+        ]
+      },
+      "id": "node/5645453721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5645453722",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6883136,
+          2.9276421
+        ]
+      },
+      "id": "node/5645453722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5645453821",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Masjid Putra",
+        "public_transport": "platform",
+        "shelter": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6906071,
+          2.9346314
+        ]
+      },
+      "id": "node/5645453821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5645508025",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6879188,
+          2.9252942
+        ]
+      },
+      "id": "node/5645508025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5645732021",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6871779,
+          2.9233212
+        ]
+      },
+      "id": "node/5645732021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5912198885",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6845407,
+          2.9134629
+        ]
+      },
+      "id": "node/5912198885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5912199085",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6840808,
+          2.9142489
+        ]
+      },
+      "id": "node/5912199085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5912199385",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6837496,
+          2.9145916
+        ]
+      },
+      "id": "node/5912199385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6634533432",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6809819,
+          2.9065224
+        ]
+      },
+      "id": "node/6634533432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6964083960",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kementerian Kesihatan (Utara)",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7079226,
+          2.944462
+        ]
+      },
+      "id": "node/6964083960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6964083961",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Parcel F",
+        "public_transport": "platform",
+        "ref": "PPJ 191",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7084066,
+          2.9447844
+        ]
+      },
+      "id": "node/6964083961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7764625642",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Parcel E",
+        "passenger_information_display": "no",
+        "public_transport": "platform",
+        "ref": "PPJ 187",
+        "route_ref": "KJ04",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7052049,
+          2.9436397
+        ]
+      },
+      "id": "node/7764625642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7765682871",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6802597,
+          2.9369424
+        ]
+      },
+      "id": "node/7765682871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7772356768",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6758758,
+          2.9328767
+        ]
+      },
+      "id": "node/7772356768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7772356769",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6756091,
+          2.933342
+        ]
+      },
+      "id": "node/7772356769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7968274487",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Menara Usahawan",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "PPJ44",
+        "route_ref": "502;522;BET12;BET3;BET16;BET17;KJ04",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6858169,
+          2.9203289
+        ]
+      },
+      "id": "node/7968274487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8141224943",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Laman Perdana (Barat)",
+        "public_transport": "platform",
+        "ref": "PPJ 277",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6954801,
+          2.9389367
+        ]
+      },
+      "id": "node/8141224943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8141224944",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Presint 1",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6978795,
+          2.9460793
+        ]
+      },
+      "id": "node/8141224944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8141224945",
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7036266,
+          2.9474453
+        ]
+      },
+      "id": "node/8141224945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8141224946",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Dataran Pahlawan Putrajaya",
+        "public_transport": "platform",
+        "ref": "PPJ 188",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7017915,
+          2.9391448
+        ]
+      },
+      "id": "node/8141224946"
+    }
+  ]
+}
