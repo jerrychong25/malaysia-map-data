@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-04T08:44:03Z",
+  "timestamp": "2022-02-09T10:53:01Z",
   "features": [
     {
       "type": "Feature",
@@ -761,6 +761,7 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Kompleks Mutiara",
+        "name:ms": "Kompleks Mutiara",
         "operator": "Selangor Omnibus, Setara Jaya, RapidKL",
         "public_transport": "platform",
         "ref": "KL1579",
@@ -1249,16 +1250,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2364022004",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "LRT Titiwangsa",
-        "public_transport": "platform"
+        "name:en": "LRT Titiwangsa",
+        "name:ms": "LRT Titiwangsa",
+        "operator": "RapidKL, GoKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6956923,
-          3.1729593
+          101.695644,
+          3.1729304
         ]
       },
       "id": "node/2364022004"
@@ -1501,6 +1511,7 @@
         "name:en": "Kok Lian Commercial",
         "name:ms": "Komersial Kok Lian",
         "name:zh": "国联商业区",
+        "name:zh-Hans": "国联商业区",
         "name:zh-Hant": "國聯商業區",
         "operator": "Selangor Omnibus, Setara Jaya",
         "public_transport": "platform",
@@ -1542,17 +1553,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2505580083",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Standard Chartered Bank",
+        "name": "Standard Chartered Bank, Jalan Ipoh",
+        "name:en": "Standard Chartered Bank, Ipoh Road",
+        "name:ms": "Standard Chartered Bank, Jalan Ipoh",
+        "operator": "RapidKL, GoKL",
         "public_transport": "platform",
-        "ref": "KL51"
+        "ref": "KL51",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6972995,
-          3.1682591
+          101.6970627,
+          3.1685011
         ]
       },
       "id": "node/2505580083"
@@ -4284,15 +4304,18 @@
       "properties": {
         "@id": "node/5151255351",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Hop-on Hop-off stop 20",
-        "public_transport": "platform"
+        "name": "Hop-on Hop-off Stop 20",
+        "name:en": "Hop-on Hop-off Stop 20",
+        "public_transport": "platform",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6954262,
-          3.1731753
+          101.6954579,
+          3.1731602
         ]
       },
       "id": "node/5151255351"
@@ -4631,7 +4654,7 @@
         "departures_board": "no",
         "highway": "bus_stop",
         "name": "Kompleks Mutiara",
-        "name:en": "Kompleks Mutiara",
+        "name:en": "Mutiara Complex",
         "name:ms": "Kompleks Mutiara",
         "operator": "Selangor Omnibus, Setara Jaya, RapidKL",
         "public_transport": "platform",
@@ -4656,6 +4679,7 @@
         "departures_board": "no",
         "highway": "bus_stop",
         "name": "SMK (P) Jalan Ipoh",
+        "name:ms": "SMK (P) Jalan Ipoh",
         "operator": "Selangor Omnibus, Setara Jaya, RapidKL",
         "public_transport": "platform",
         "ref": "KL602",
@@ -4693,17 +4717,28 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5417672122",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "realtime",
         "highway": "bus_stop",
         "name": "Chow Kit (Utara)",
+        "name:en": "Chow Kit (North)",
+        "name:zh": "秋杰（北）",
+        "name:zh-Hans": "秋杰（北）",
+        "name:zh-Hant": "秋傑（北）",
+        "operator": "RapidKL, GoKL",
         "public_transport": "platform",
-        "ref": "KL52"
+        "ref": "KL52",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.69776,
-          3.1678405
+          101.6977415,
+          3.1678276
         ]
       },
       "id": "node/5417672122"
@@ -4712,17 +4747,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5438876721",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Damai Service Hospital",
+        "name": "Damai Service Hospital, Jalan Ipoh",
+        "name:en": "Damai Service Hospital, Ipoh Road",
+        "name:ms": "Damai Service Hospital, Jalan Ipoh",
+        "operator": "Selangor Bus, Setara Jaya, RapidKL",
         "public_transport": "platform",
-        "ref": "KL50"
+        "ref": "KL50",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6951108,
-          3.169998
+          101.6950396,
+          3.1699638
         ]
       },
       "id": "node/5438876721"
@@ -4731,17 +4775,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5439224021",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Damai Hospital",
+        "name": "Picoms",
+        "name:en": "Picoms",
+        "name:ms": "Picoms",
+        "operator": "Selangor Bus, Setara Jaya, RapidKL",
         "public_transport": "platform",
-        "ref": "KL 47"
+        "ref": "KL47",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6942101,
-          3.1704522
+          101.6941971,
+          3.1704376
         ]
       },
       "id": "node/5439224021"
@@ -5779,25 +5832,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/5491288625",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name": "173 bus stop",
-        "public_transport": "platform",
-        "ref": "PH5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.6956979,
-          3.1693593
-        ]
-      },
-      "id": "node/5491288625"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/5496215026",
         "bus": "yes",
         "highway": "bus_stop",
@@ -6342,11 +6376,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5641434121",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Hospital Kuala Lumpur (Selatan)",
+        "name": "Grand Seasons Hotel",
+        "name:en": "Grand Seasons Hotel",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "ref": "KL53"
+        "ref": "KL53",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -6361,16 +6403,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5641458022",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "yes",
         "highway": "bus_stop",
-        "name": "Terminal Pekeling",
-        "public_transport": "platform"
+        "name": "Hab Titiwangsa",
+        "name:en": "Titiwangsa Hub",
+        "name:ms": "Hab Titiwangsa",
+        "operator": "RapidKL, GoKL",
+        "public_transport": "platform",
+        "ref": "KL1818",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6960666,
-          3.1719854
+          101.6961172,
+          3.1720639
         ]
       },
       "id": "node/5641458022"
@@ -6491,8 +6543,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6817231,
-          3.1825961
+          101.681674,
+          3.1826846
         ]
       },
       "id": "node/5694044025"
@@ -6510,6 +6562,7 @@
         "name:en": "Rainbow Garden",
         "name:ms": "Taman Rainbow",
         "name:zh": "彩虹花园",
+        "name:zh-Hans": "彩虹花园",
         "name:zh-Hant": "彩虹花園",
         "operator": "Selangor Omnibus, Setara Jaya, RapidKL",
         "public_transport": "platform",
@@ -6558,10 +6611,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5694065021",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "KL608 SRI THANDAYUTHAPANI TEMPLE",
-        "public_transport": "platform"
+        "name": "Sri Thandayuthapani Temple, Jalan Ipoh",
+        "name:en": "Sri Thandayuthapani Temple, Ipoh Road",
+        "name:ms": "Sri Thandayuthapani Temple, Jalan Ipoh",
+        "operator": "Selangor Bus, Setara Jaya, RapidKL",
+        "public_transport": "platform",
+        "ref": "KL608",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -8230,17 +8293,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6776272992",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Chow Kit (Utara)",
+        "name": "Chow Kit (Barat), Jalan Raja Laut",
+        "name:ms": "Chow Kit (Barat), Jalan Raja Laut",
+        "operator": "Selangor Bus, Setara Jaya, RapidKL",
         "public_transport": "platform",
-        "ref": "KL42"
+        "ref": "KL46",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.696311,
-          3.1673111
+          101.6962842,
+          3.1673298
         ]
       },
       "id": "node/6776272992"
@@ -8250,15 +8321,20 @@
       "properties": {
         "@id": "node/6776273285",
         "addr:street": "Jalan Sultan Azlan Shah",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Taman Golden",
-        "name:en": "Golden Garden",
-        "name:ms": "Taman Golden",
+        "name": "Taman Golden, Jalan Ipoh",
+        "name:en": "Golden Garden, Ipoh Road",
+        "name:ms": "Taman Golden, Jalan Ipoh",
+        "operator": "Selangor Bus, Setara Jaya, RapidKL",
         "public_transport": "platform",
         "ref": "KL578",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -8796,6 +8872,9 @@
         "name": "KTM Komuter Taman Wahyu",
         "name:en": "KTM Commuter Wahyu Garden",
         "name:ms": "KTM Komuter Taman Wahyu",
+        "name:zh": "华友花园KTM火车站",
+        "name:zh-Hans": "华友花园KTM火车站",
+        "name:zh-Hant": "華友花園KTM火車站",
         "operator": "RapidKL",
         "public_transport": "platform",
         "shelter": "yes",
@@ -8934,11 +9013,23 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7236193455",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Hospital Kuala Lumpur (Selatan)",
+        "name:en": "Hospital Kuala Lumpur (South)",
+        "name:ms": "Hospital Kuala Lumpur (Selatan)",
+        "name:zh": "吉隆坡中央医院（南）",
+        "name:zh-Hans": "吉隆坡中央医院（南）",
+        "name:zh-Hant": "吉隆坡中央醫院（南）",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "ref": "KL56"
+        "ref": "KL56",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -8956,6 +9047,8 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Hospital Kuala Lumpur (Barat)",
+        "name:ms": "Hospital Kuala Lumpur (Barat)",
+        "operator": "RapidKL, GoKL",
         "public_transport": "platform",
         "ref": "KL55"
       },
@@ -11637,6 +11730,7 @@
         "name:en": "KTM Commuter Wahyu Garden",
         "name:ms": "KTM Komuter Taman Wahyu",
         "name:zh": "华友花园KTM火车站",
+        "name:zh-Hans": "华友花园KTM火车站",
         "name:zh-Hant": "華友花園KTM火車站",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -13842,6 +13936,7 @@
         "name:en": "Rainbow Garden",
         "name:ms": "Taman Rainbow",
         "name:zh": "彩虹花园",
+        "name:zh-Hans": "彩虹花园",
         "name:zh-Hant": "彩虹花園",
         "operator": "Selangor Omnibus, Setara Jaya, RapidKL",
         "public_transport": "platform",
@@ -13869,7 +13964,6 @@
         "departures_board": "no",
         "highway": "bus_stop",
         "name": "SK Kampung Batu Jalan Ipoh",
-        "name:en": "SK Kampung Batu Jalan Ipoh",
         "name:ms": "SK Kampung Batu Jalan Ipoh",
         "operator": "Selangor Omnibus, Setara Jaya, RapidKL",
         "public_transport": "platform",
@@ -13895,7 +13989,6 @@
         "departures_board": "no",
         "highway": "bus_stop",
         "name": "SK Kampung Batu Jalan Ipoh",
-        "name:en": "SK Kampung Batu Jalan Ipoh",
         "name:ms": "SK Kampung Batu Jalan Ipoh",
         "operator": "Selangor Omnibus, Setara Jaya, RapidKL",
         "public_transport": "platform",
@@ -13920,7 +14013,7 @@
         "departures_board": "no",
         "highway": "bus_stop",
         "name": "PPR Batu Muda Blok G",
-        "name:en": "PPR Batu Muda Blok G",
+        "name:en": "PPR Batu Muda Block G",
         "name:ms": "PPR Batu Muda Blok G",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -13975,6 +14068,7 @@
         "name:en": "SJKC Mun Choong",
         "name:ms": "SJKC Mun Choong",
         "name:zh": "民众华小",
+        "name:zh-Hans": "民众华小",
         "name:zh-Hant": "民眾華小",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -14028,6 +14122,7 @@
         "name:en": "SJKC Mun Choong",
         "name:ms": "SJKC Mun Choong",
         "name:zh": "民众华小",
+        "name:zh-Hans": "民众华小",
         "name:zh-Hant": "民眾華小",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -14130,7 +14225,7 @@
         "departures_board": "no",
         "highway": "bus_stop",
         "name": "Batu Kompleks Business Center, Jalan Ipoh",
-        "name:en": "Batu Kompleks Business Center, Jalan Ipoh",
+        "name:en": "Batu Kompleks Business Center, Ipoh Road",
         "name:ms": "Batu Kompleks Business Center, Jalan Ipoh",
         "operator": "Selangor Omnibus, Setara Jaya, RapidKL",
         "public_transport": "platform",
@@ -14195,8 +14290,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6728685,
-          3.2112581
+          101.6728696,
+          3.2112677
         ]
       },
       "id": "node/9459573486"
@@ -14210,7 +14305,6 @@
         "departures_board": "no",
         "highway": "bus_stop",
         "name": "SK Batu Muda",
-        "name:en": "SK Batu Muda",
         "name:ms": "SK Batu Muda",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -14287,7 +14381,6 @@
         "departures_board": "no",
         "highway": "bus_stop",
         "name": "Taman Riadah Metropolitan",
-        "name:en": "Taman Riadah Metropolitan",
         "name:ms": "Taman Riadah Metropolitan",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -14417,7 +14510,7 @@
         "departures_board": "no",
         "highway": "bus_stop",
         "name": "Batu Kompleks Business Center, Jalan Ipoh",
-        "name:en": "Batu Kompleks Business Center, Jalan Ipoh",
+        "name:en": "Batu Kompleks Business Center, Ipoh Road",
         "name:ms": "Batu Kompleks Business Center, Jalan Ipoh",
         "operator": "Selangor Omnibus, Setara Jaya, RapidKL",
         "public_transport": "platform",
@@ -15098,7 +15191,7 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Al-Firdaus Mosque",
+        "name": "Masjid Al-Firdaus",
         "name:en": "Al-Firdaus Mosque",
         "name:ms": "Masjid Al-Firdaus",
         "operator": "RapidKL",
@@ -15378,6 +15471,7 @@
         "name:en": "City Garden Commerical",
         "name:ms": "Komersial Taman City",
         "name:zh": "城市花园商业区",
+        "name:zh-Hans": "城市花园商业区",
         "name:zh-Hant": "城市花園商業區",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -18361,6 +18455,206 @@
         ]
       },
       "id": "node/9472197059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9484607444",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Sri Kuching",
+        "name:en": "Sri Kuching Garden",
+        "name:ms": "Taman Sri Kuching",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6694193,
+          3.1966916
+        ]
+      },
+      "id": "node/9484607444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9491731477",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Golden, Jalan Ipoh",
+        "name:en": "Golden Garden, Ipoh Road",
+        "name:ms": "Taman Golden, Jalan Ipoh",
+        "operator": "Selangor Bus, Setara Jaya, RapidKL",
+        "public_transport": "platform",
+        "ref": "KL609",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6898348,
+          3.1749331
+        ]
+      },
+      "id": "node/9491731477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9491814182",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sri Thandayuthapani Temple, Jalan Ipoh",
+        "name:en": "Sri Thandayuthapani Temple, Ipoh Road",
+        "name:ms": "Sri Thandayuthapani Temple, Jalan Ipoh",
+        "operator": "Selangor Bus, Setara Jaya, RapidKL",
+        "public_transport": "platform",
+        "ref": "KL579",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.688002,
+          3.176339
+        ]
+      },
+      "id": "node/9491814182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9491869257",
+        "addr:street": "Jalan Sultan Azlan Shah",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perkim/Pusrawi",
+        "name:en": "Perkim/Pusrawi",
+        "name:ms": "Perkim/Pusrawi",
+        "operator": "Selangor Bus, Setara Jaya, RapidKL",
+        "public_transport": "platform",
+        "ref": "KL49",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6933569,
+          3.1710537
+        ]
+      },
+      "id": "node/9491869257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9491874535",
+        "addr:street": "Jalan Sultan Azlan Shah",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perkim",
+        "name:en": "Perkim",
+        "name:ms": "Perkim",
+        "operator": "Selangor Bus, Setara Jaya, RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2249",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6934603,
+          3.1712553
+        ]
+      },
+      "id": "node/9491874535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9491934184",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Damai Service Hospital, Jalan Ipoh",
+        "name:en": "Damai Service Hospital, Ipoh Road",
+        "name:ms": "Damai Service Hospital, Jalan Ipoh",
+        "operator": "Selangor Bus, Setara Jaya, RapidKL",
+        "public_transport": "platform",
+        "ref": "KL47",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6955848,
+          3.1693244
+        ]
+      },
+      "id": "node/9491934184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9492037393",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hospital Kuala Lumpur (Opp)",
+        "name:en": "Hospital Kuala Lumpur (Opp)",
+        "name:ms": "Hospital Kuala Lumpur (Opp)",
+        "name:zh": "吉隆坡中央医院（对面）",
+        "name:zh-Hans": "吉隆坡中央医院（对面）",
+        "name:zh-Hant": "吉隆坡中央醫院（對面）",
+        "operator": "RapidKL, GoKL",
+        "public_transport": "platform",
+        "ref": "KL59",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6989767,
+          3.1726631
+        ]
+      },
+      "id": "node/9492037393"
     }
   ]
 }
