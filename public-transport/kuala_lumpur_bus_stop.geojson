@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-09T10:53:01Z",
+  "timestamp": "2022-02-10T03:44:38Z",
   "features": [
     {
       "type": "Feature",
@@ -13426,19 +13426,28 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8947779546",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "IPD Sentul",
-        "network": "170;171;172;180:201",
+        "name:en": "IPD Sentul",
+        "name:ms": "IPD Sentul",
+        "network": "170;171;172;180;201",
+        "operator": "RapidKL",
         "public_transport": "platform",
         "ref": "KL610",
-        "source": "https://www.mapillary.com/app/?pKey=106089171672789&focus=photo"
+        "shelter": "yes",
+        "source": "https://www.mapillary.com/app/?pKey=106089171672789&focus=photo",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6926977,
-          3.1744466
+          101.6926969,
+          3.1744424
         ]
       },
       "id": "node/8947779546"
@@ -14946,6 +14955,7 @@
         "name": "SJKC Khai Chee",
         "name:ms": "SJKC Khai Chee",
         "name:zh": "启智华小",
+        "name:zh-Hans": "启智华小",
         "name:zh-Hant": "啟智華小",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -15111,6 +15121,7 @@
         "name": "SJKC Khai Chee (Opp)",
         "name:ms": "SJKC Khai Chee (Opp)",
         "name:zh": "启智华小（对面）",
+        "name:zh-Hans": "启智华小（对面）",
         "name:zh-Hant": "啟智華小（對面）",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -15285,8 +15296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6685292,
-          3.1872397
+          101.6685325,
+          3.1872549
         ]
       },
       "id": "node/9460439236"
@@ -15385,6 +15396,7 @@
         "name": "Lot Kedai Kok Doh",
         "name:ms": "Lot Kedai Kok Doh",
         "name:zh": "国都商铺",
+        "name:zh-Hans": "国都商铺",
         "name:zh-Hant": "國都商舖",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -15414,6 +15426,7 @@
         "name": "Lot Kedai Kok Doh (Opp)",
         "name:ms": "Lot Kedai Kok Doh (Opp)",
         "name:zh": "国都商铺（对面）",
+        "name:zh-Hans": "国都商铺（对面）",
         "name:zh-Hant": "國都商舖（對面）",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -15556,6 +15569,7 @@
         "name:en": "Segambut Football Field",
         "name:ms": "Padang Bola Segambut",
         "name:zh": "泗岩末足球场",
+        "name:zh-Hans": "泗岩末足球场",
         "name:zh-Hant": "泗岩末足球場",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -15567,7 +15581,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6652006,
+          101.6651872,
           3.2000609
         ]
       },
@@ -15651,8 +15665,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6689549,
-          3.2037028
+          101.6689594,
+          3.2037041
         ]
       },
       "id": "node/9460520126"
@@ -15725,6 +15739,7 @@
         "name": "Jinjang Chinese Memorial Center",
         "name:en": "Jinjang Chinese Memorial Center",
         "name:zh": "甲洞路增江南区积善堂",
+        "name:zh-Hans": "甲洞路增江南区积善堂",
         "name:zh-Hant": "甲洞路增江南區積善堂",
         "operator": "Selangor Omnibus",
         "public_transport": "platform",
@@ -15755,6 +15770,7 @@
         "name:en": "Jinjang Chinese Memorial Center, Kepong Road",
         "name:ms": "Jinjang Chinese Memorial Center, Jalan Kepong",
         "name:zh": "甲洞路增江南区积善堂",
+        "name:zh-Hans": "甲洞路增江南区积善堂",
         "name:zh-Hant": "甲洞路增江南區積善堂",
         "operator": "Selangor Omnibus",
         "public_transport": "platform",
@@ -15957,8 +15973,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6584928,
-          3.2088914
+          101.6585232,
+          3.2088713
         ]
       },
       "id": "node/9462318241"
@@ -17931,8 +17947,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6963312,
-          3.1923535
+          101.6963306,
+          3.1923529
         ]
       },
       "id": "node/9470340172"
@@ -17958,8 +17974,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6962285,
-          3.1920981
+          101.6962309,
+          3.1921057
         ]
       },
       "id": "node/9470341303"
@@ -17974,6 +17990,7 @@
         "departures_board": "no",
         "highway": "bus_stop",
         "name": "Skymeridien Sentul East",
+        "name:en": "Skymeridien Sentul East",
         "name:ms": "Skymeridien Sentul East",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -18001,7 +18018,8 @@
         "departures_board": "no",
         "highway": "bus_stop",
         "name": "Apartment Bandar Baru Sentul Blok 77 (Opp)",
-        "name:en": "Apartment Bandar Baru Sentul Blok 77 (Opp)",
+        "name:en": "Apartment Bandar Baru Sentul Block 77 (Opp)",
+        "name:ms": "Apartment Bandar Baru Sentul Blok 77 (Opp)",
         "operator": "RapidKL",
         "public_transport": "platform",
         "shelter": "yes",
@@ -18329,6 +18347,7 @@
         "name:en": "LRT Sentul Timur",
         "name:ms": "LRT Sentul Timur",
         "name:zh": "冼都东轻快铁站",
+        "name:zh-Hans": "冼都东轻快铁站",
         "name:zh-Hant": "冼都東輕快鐵站",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -18439,6 +18458,7 @@
         "name": "Wisma Health Lane",
         "name:ms": "Wisma Health Lane",
         "name:zh": "健康西药行大厦",
+        "name:zh-Hans": "健康西药行大厦",
         "name:zh-Hant": "健康西藥行大廈",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -18655,6 +18675,169 @@
         ]
       },
       "id": "node/9492037393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9494149961",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SJKT Sentul",
+        "name:ms": "SJKT Sentul",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL665",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6929265,
+          3.1767884
+        ]
+      },
+      "id": "node/9494149961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9494164228",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Awam Seri Terengganu",
+        "name:ms": "Perumahan Awam Seri Terengganu",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL666",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6931326,
+          3.1751947
+        ]
+      },
+      "id": "node/9494164228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9494186134",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Flat Sri Terengganu",
+        "name:en": "Sri Terengganu Flat",
+        "name:ms": "Flat Sri Terengganu",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2050",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6928934,
+          3.1755555
+        ]
+      },
+      "id": "node/9494186134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9494218726",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "KTM Segambut",
+        "name:en": "KTM Segambut",
+        "name:ms": "KTM Segambut",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL523",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6628414,
+          3.1870971
+        ]
+      },
+      "id": "node/9494218726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9494220384",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "KTM Segambut",
+        "name:en": "KTM Segambut",
+        "name:ms": "KTM Segambut",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.663783,
+          3.1869459
+        ]
+      },
+      "id": "node/9494220384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9494223516",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "KTM Komuter Segambut",
+        "name:ms": "KTM Komuter Segambut",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6630655,
+          3.187001
+        ]
+      },
+      "id": "node/9494223516"
     }
   ]
 }
