@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-10T03:44:38Z",
+  "timestamp": "2022-02-12T10:03:57Z",
   "features": [
     {
       "type": "Feature",
@@ -872,16 +872,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1919647737",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Stesen KTM Kepong Sentral (1)",
-        "public_transport": "platform"
+        "name": "Stesen Komuter Kepong Sentral, Lebuhraya Selayang-Kepong",
+        "name:ms": "Stesen Komuter Kepong Sentral, Lebuhraya Selayang-Kepong",
+        "operator": "Selangor Bus, RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1758",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6290938,
-          3.2081501
+          101.6290524,
+          3.2081303
         ]
       },
       "id": "node/1919647737"
@@ -890,15 +899,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1919647745",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "KTM Kepong, Lebuhraya Selayang-Kepong",
+        "name:ms": "KTM Kepong, Lebuhraya Selayang-Kepong",
+        "operator": "Selangor Bus, RapidKL",
+        "public_transport": "platform",
+        "ref": "KL990",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.629354,
-          3.2080565
+          101.6293741,
+          3.2080417
         ]
       },
       "id": "node/1919647745"
@@ -3867,6 +3886,7 @@
         "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Jalan Lebuh Persekutuan",
         "passenger_information_display": "yes",
         "public_transport": "platform",
         "route_ref": "780",
@@ -5740,11 +5760,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5485980222",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Masjid Al-Hidayah Sentul",
+        "name:en": "Sentul Al-Hidayah Mosque",
+        "name:ms": "Masjid Al-Hidayah Sentul",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "ref": "KL643"
+        "ref": "KL643",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -5759,11 +5788,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5485987324",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Sentul Boulevard (Utara)",
+        "name:en": "Sentul Boulevard (North)",
+        "name:ms": "Sentul Boulevard (Utara)",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "ref": "KL645"
+        "ref": "KL645",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -5778,17 +5816,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5485992821",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Pangsapuri Sentul Utara",
+        "name:ms": "Pangsapuri Sentul Utara",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "ref": "KL644"
+        "ref": "KL644",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6913201,
-          3.1900879
+          101.6913174,
+          3.1900865
         ]
       },
       "id": "node/5485992821"
@@ -7281,13 +7327,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5854938385",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "departures_board": "timetable",
         "highway": "bus_stop",
-        "name": "Pangsapuri Sentul Utara",
+        "name": "Pasar Sentul",
+        "name:en": "Sentul Market",
+        "name:ms": "Pasar Sentul",
+        "operator": "RapidKL",
         "public_transport": "platform",
         "ref": "KL616",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -13409,15 +13462,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8947779542",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "SMK Convent Sentul",
+        "name:ms": "SMK Convent Sentul",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL615",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6915395,
-          3.1859813
+          101.6915615,
+          3.185974
         ]
       },
       "id": "node/8947779542"
@@ -13921,7 +13984,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9323270117",
-        "highway": "bus_stop"
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
@@ -15864,8 +15929,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6623072,
-          3.2189526
+          101.6623054,
+          3.2189673
         ]
       },
       "id": "node/9462245184"
@@ -15907,8 +15972,8 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Kawasan Perusahaan Kepong , Jalan Kepong",
-        "name:ms": "Kawasan Perusahaan Kepong , Jalan Kepong",
+        "name": "Kawasan Perusahaan Kepong, Jalan Kepong",
+        "name:ms": "Kawasan Perusahaan Kepong, Jalan Kepong",
         "operator": "Selangor Omnibus",
         "public_transport": "platform",
         "ref": "KL471",
@@ -15946,8 +16011,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6622891,
-          3.2150272
+          101.6622907,
+          3.2150154
         ]
       },
       "id": "node/9462303110"
@@ -16424,8 +16489,8 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Kawasan Perusahaan Kepong , Jalan Kepong",
-        "name:ms": "Kawasan Perusahaan Kepong , Jalan Kepong",
+        "name": "Kawasan Perusahaan Kepong, Jalan Kepong",
+        "name:ms": "Kawasan Perusahaan Kepong, Jalan Kepong",
         "operator": "Selangor Omnibus",
         "public_transport": "platform",
         "ref": "KL481",
@@ -16675,6 +16740,7 @@
         "name:en": "Kepong Police Station",
         "name:ms": "Balai Polis Kepong",
         "name:zh": "甲洞警察局",
+        "name:zh-Hans": "甲洞警察局",
         "name:zh-Hant": "甲洞警察局",
         "operator": "Selangor Omnibus, RapidKL",
         "public_transport": "platform",
@@ -16686,7 +16752,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6345205,
+          101.6345179,
           3.2137136
         ]
       },
@@ -16705,6 +16771,7 @@
         "name:en": "Aeon Mall Metro Prima",
         "name:ms": "Aeon Mall Metro Prima",
         "name:zh": "永旺购物中心美娜园",
+        "name:zh-Hans": "永旺购物中心美娜园",
         "name:zh-Hant": "永旺購物中心美娜園",
         "operator": "Selangor Omnibus, RapidKL",
         "public_transport": "platform",
@@ -16735,6 +16802,7 @@
         "name:en": "Aeon Mall Metro Prima",
         "name:ms": "Aeon Mall Metro Prima",
         "name:zh": "永旺购物中心美娜园",
+        "name:zh-Hans": "永旺购物中心美娜园",
         "name:zh-Hant": "永旺購物中心美娜園",
         "operator": "Selangor Omnibus, RapidKL",
         "public_transport": "platform",
@@ -16801,8 +16869,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6580681,
-          3.199567
+          101.6580691,
+          3.199566
         ]
       },
       "id": "node/9462470043"
@@ -17205,6 +17273,7 @@
         "departures_board": "no",
         "highway": "bus_stop",
         "name": "Taman Sri Segambut (Selatan)",
+        "name:en": "Sri Segambut Garden (South)",
         "name:ms": "Taman Sri Segambut (Selatan)",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -17288,7 +17357,7 @@
         "departures_board": "no",
         "highway": "bus_stop",
         "name": "Terminal Sri Segambut",
-        "name:en": "Terminal Sri Segambut",
+        "name:en": "Sri Segambut Terminal",
         "name:ms": "Terminal Sri Segambut",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -18838,6 +18907,222 @@
         ]
       },
       "id": "node/9494223516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9499814639",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "operator": "Selangor Omnibus",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.648844,
+          3.2111233
+        ]
+      },
+      "id": "node/9499814639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9499856489",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SPG Dato Senu",
+        "name:ms": "SPG Dato Senu",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2063",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6910334,
+          3.1945292
+        ]
+      },
+      "id": "node/9499856489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9499944876",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "BHP Sentul (Opp)",
+        "name:en": "BHP Sentul (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2053",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6907313,
+          3.1940188
+        ]
+      },
+      "id": "node/9499944876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9500002112",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "SMK Convent Sentul (Opp)",
+        "name:en": "SMK Convent Sentul (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2064",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6915954,
+          3.1869052
+        ]
+      },
+      "id": "node/9500002112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9500011300",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Sentul 2",
+        "name:ms": "SK Sentul 2",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL617",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6907509,
+          3.1917506
+        ]
+      },
+      "id": "node/9500011300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9500039216",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sentul Boulevard (Barat)",
+        "name:en": "Sentul Boulevard (West)",
+        "name:ms": "Sentul Boulevard (Barat)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL613",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6917542,
+          3.1843866
+        ]
+      },
+      "id": "node/9500039216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9500088938",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "NSK Selayang, Jalan Besar Selayang",
+        "name:ms": "NSK Selayang, Jalan Besar Selayang",
+        "operator": "Setara Jaya, RapidKL",
+        "public_transport": "platform",
+        "ref": "SL53",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6637081,
+          3.2432611
+        ]
+      },
+      "id": "node/9500088938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9500105123",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Warta Lama, Jalan Kuching",
+        "name:ms": "Warta Lama, Jalan Kuching",
+        "operator": "Setara Jaya, RapidKL",
+        "public_transport": "platform",
+        "ref": "KL569",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.662842,
+          3.2429869
+        ]
+      },
+      "id": "node/9500105123"
     }
   ]
 }
