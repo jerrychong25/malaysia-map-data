@@ -26,6 +26,7 @@ jobs:
           # description: ""
           files:  |
             education
+            entertainment
             healthcare
             public-transport
           # is_public: true
