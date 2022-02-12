@@ -1,0 +1,330 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-02-12T10:15:11Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1366302445",
+        "amenity": "cinema",
+        "name": "Dadi",
+        "opening_date": "2020-10",
+        "source": "https://www.lowyat.net/2020/205296/dadi-cinema-gsc-pavilion-kl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7125407,
+          3.1492234
+        ]
+      },
+      "id": "node/1366302445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1366342762",
+        "amenity": "cinema",
+        "brand": "Golden Screen Cinemas",
+        "brand:wikidata": "Q5579784",
+        "brand:wikipedia": "en:Golden Screen Cinemas",
+        "name": "GSC Times Square",
+        "short_name": "GSC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7116878,
+          3.1419173
+        ]
+      },
+      "id": "node/1366342762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1368676205",
+        "amenity": "cinema",
+        "brand": "Golden Screen Cinemas",
+        "brand:wikidata": "Q5579784",
+        "brand:wikipedia": "en:Golden Screen Cinemas",
+        "name": "GSC Cinemas",
+        "short_name": "GSC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7427367,
+          3.0909616
+        ]
+      },
+      "id": "node/1368676205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1821014166",
+        "addr:city": "Kuala Lumpur",
+        "addr:place": "Wangsa Walk Mall",
+        "amenity": "cinema",
+        "brand": "TGV Cinemas",
+        "brand:wikidata": "Q7670188",
+        "brand:wikipedia": "en:TGV Cinemas",
+        "name": "TGV Cinemas",
+        "short_name": "TGV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7410107,
+          3.1981649
+        ]
+      },
+      "id": "node/1821014166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5411244622",
+        "amenity": "cinema",
+        "brand": "Golden Screen Cinemas",
+        "brand:wikidata": "Q5579784",
+        "brand:wikipedia": "en:Golden Screen Cinemas",
+        "name": "GSC IMAX Velocity",
+        "short_name": "GSC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7242826,
+          3.1280815
+        ]
+      },
+      "id": "node/5411244622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5412554022",
+        "addr:street": "J Cheras",
+        "amenity": "cinema",
+        "brand": "TGV Cinemas",
+        "brand:wikidata": "Q7670188",
+        "brand:wikipedia": "en:TGV Cinemas",
+        "name": "TGV Velocity",
+        "short_name": "TGV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7245057,
+          3.1268924
+        ]
+      },
+      "id": "node/5412554022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5414292024",
+        "amenity": "cinema",
+        "brand": "TGV Cinemas",
+        "brand:wikidata": "Q7670188",
+        "brand:wikipedia": "en:TGV Cinemas",
+        "name": "TGV Cinemas",
+        "short_name": "TGV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6382207,
+          3.2132584
+        ]
+      },
+      "id": "node/5414292024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5414340024",
+        "amenity": "cinema",
+        "brand": "Golden Screen Cinemas",
+        "brand:wikidata": "Q5579784",
+        "brand:wikipedia": "en:Golden Screen Cinemas",
+        "name": "GSC Mid Valley",
+        "short_name": "GSC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6776086,
+          3.118552
+        ]
+      },
+      "id": "node/5414340024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5424815621",
+        "amenity": "cinema",
+        "brand": "Golden Screen Cinemas",
+        "brand:wikidata": "Q5579784",
+        "brand:wikipedia": "en:Golden Screen Cinemas",
+        "name": "GSC MyTown",
+        "short_name": "GSC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7223376,
+          3.1354863
+        ]
+      },
+      "id": "node/5424815621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5426246822",
+        "addr:city": "Kuala Lumpur",
+        "amenity": "cinema",
+        "name": "Federal Cinema",
+        "wikidata": "Q35149552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6966052,
+          3.1675076
+        ]
+      },
+      "id": "node/5426246822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5426326425",
+        "amenity": "cinema",
+        "brand": "TGV Cinemas",
+        "brand:wikidata": "Q7670188",
+        "brand:wikipedia": "en:TGV Cinemas",
+        "level": "6",
+        "name": "TGV Cinemas",
+        "short_name": "TGV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6923834,
+          3.1664425
+        ]
+      },
+      "id": "node/5426326425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5563329853",
+        "amenity": "cinema"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7496128,
+          3.1775913
+        ]
+      },
+      "id": "node/5563329853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5913455554",
+        "addr:city": "Kuala Lumpur",
+        "addr:housenumber": "5th floor",
+        "addr:place": "Nu Sentral",
+        "amenity": "cinema",
+        "brand": "Golden Screen Cinemas",
+        "brand:wikidata": "Q5579784",
+        "brand:wikipedia": "en:Golden Screen Cinemas",
+        "name": "Golden Screen Cinemas (GSC) NU Sentral",
+        "short_name": "GSC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6868543,
+          3.1329599
+        ]
+      },
+      "id": "node/5913455554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6612170772",
+        "amenity": "cinema",
+        "brand": "Lotus Five Star",
+        "brand:wikidata": "Q17053165",
+        "brand:wikipedia": "en:Lotus Five Star",
+        "name": "LFS Cinema @ Coliseum",
+        "phone": "+30 7-777 6112",
+        "short_name": "LFS",
+        "wikidata": "Q5145769",
+        "wikipedia": "en:Coliseum Theatre (Kuala Lumpur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6964564,
+          3.15344
+        ]
+      },
+      "id": "node/6612170772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7216666404",
+        "amenity": "cinema",
+        "brand": "MBO Cinemas",
+        "brand:wikidata": "Q17053599",
+        "brand:wikipedia": "en:MBO Cinemas",
+        "name": "MBO",
+        "short_name": "MBO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6673914,
+          3.2044709
+        ]
+      },
+      "id": "node/7216666404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8937767782",
+        "amenity": "cinema",
+        "brand": "MBO Cinemas",
+        "brand:wikidata": "Q17053599",
+        "brand:wikipedia": "en:MBO Cinemas",
+        "name": "MBO Cinemas",
+        "short_name": "MBO",
+        "source": "https://www.mapillary.com/app/?pKey=354762149512048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7213628,
+          3.2036609
+        ]
+      },
+      "id": "node/8937767782"
+    }
+  ]
+}
