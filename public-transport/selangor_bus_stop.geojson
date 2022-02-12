@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-05T09:39:40Z",
+  "timestamp": "2022-02-12T10:06:04Z",
   "features": [
     {
       "type": "Feature",
@@ -1431,6 +1431,56 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/1030439260",
+        "building": "roof",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "AEON BiG Subang Jaya",
+        "public_transport": "platform",
+        "ref": "SJ 60",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.5880417,
+              3.082143
+            ],
+            [
+              101.5880418,
+              3.082109
+            ],
+            [
+              101.5881192,
+              3.0821092
+            ],
+            [
+              101.5881192,
+              3.0821294
+            ],
+            [
+              101.5881034,
+              3.0821294
+            ],
+            [
+              101.5881034,
+              3.0821431
+            ],
+            [
+              101.5880417,
+              3.082143
+            ]
+          ]
+        ]
+      },
+      "id": "way/1030439260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/825168780",
         "bench": "yes",
         "bin": "yes",
@@ -1524,23 +1574,6 @@
         ]
       },
       "id": "node/1186781551"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/1186781556",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.5881158,
-          3.0821235
-        ]
-      },
-      "id": "node/1186781556"
     },
     {
       "type": "Feature",
@@ -2401,15 +2434,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1707840846",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Hutan Lipur Kanching, Temple Park",
+        "name:en": "Hutan Lipur Kanching, Temple Park",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL389",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6171318,
-          3.2975242
+          101.61693,
+          3.2975687
         ]
       },
       "id": "node/1707840846"
@@ -9308,10 +9351,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5592087422",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Kompleks Desa Kepong",
-        "public_transport": "platform"
+        "name": "Kompleks Desa Kepong , Jalan Kepong",
+        "name:ms": "Kompleks Desa Kepong , Jalan Kepong",
+        "operator": "Selangor Bus",
+        "public_transport": "platform",
+        "ref": "KL938",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -16278,9 +16330,9 @@
         "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Jalan 21/1",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "ref": "SPK1",
         "route_ref": "T780",
         "shelter": "yes"
       },
@@ -17744,13 +17796,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8004017465",
-        "highway": "bus_stop"
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hutan Lipur Kanching, Templer Park",
+        "name:en": "Hutan Lipur Kanching, Templer Park",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL374",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6169726,
-          3.297775
+          101.6168429,
+          3.2978181
         ]
       },
       "id": "node/8004017465"
@@ -17760,9 +17824,20 @@
       "properties": {
         "@id": "node/8004065831",
         "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Taman Templer Saujana, Jalan Kuching",
+        "name:en": "Templer Saujana Garden, Kuching Road",
+        "name:ms": "Taman Templer Saujana, Jalan Kuching",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL376",
         "shelter": "yes",
-        "shelter_type": "public_transport"
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -17778,15 +17853,25 @@
       "properties": {
         "@id": "node/8004154451",
         "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Taman Templer Saujana, Jalan Kuching",
+        "name:en": "Templer Saujana Garden, Kuching Road",
+        "name:ms": "Taman Templer Saujana, Jalan Kuching",
+        "operator": "Setara Jaya",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "SL387",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6408323,
-          3.286302
+          101.6408418,
+          3.2862948
         ]
       },
       "id": "node/8004154451"
@@ -21295,6 +21380,7 @@
         "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Jalan 20/7",
         "passenger_information_display": "yes",
         "public_transport": "platform",
         "route_ref": "780",
@@ -26063,6 +26149,654 @@
         ]
       },
       "id": "node/9480429459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9480674048",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "752",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5614916,
+          3.0238883
+        ]
+      },
+      "id": "node/9480674048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9498022861",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5434082,
+          3.1495688
+        ]
+      },
+      "id": "node/9498022861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9498022874",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5436316,
+          3.1497536
+        ]
+      },
+      "id": "node/9498022874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9498022889",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5363503,
+          3.1441704
+        ]
+      },
+      "id": "node/9498022889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9498022890",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5381877,
+          3.1452384
+        ]
+      },
+      "id": "node/9498022890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9498022891",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.535876,
+          3.1440488
+        ]
+      },
+      "id": "node/9498022891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9498022892",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5295307,
+          3.1385995
+        ]
+      },
+      "id": "node/9498022892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9498486772",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5257842,
+          3.1394987
+        ]
+      },
+      "id": "node/9498486772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9498654234",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5120211,
+          3.163145
+        ]
+      },
+      "id": "node/9498654234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9498654235",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5128323,
+          3.1634236
+        ]
+      },
+      "id": "node/9498654235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9498654264",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pangsapuri Lili, Taman Bukit Subang",
+        "public_transport": "platform",
+        "ref": "SA764"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5156712,
+          3.1687763
+        ]
+      },
+      "id": "node/9498654264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9498654377",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5133086,
+          3.1728568
+        ]
+      },
+      "id": "node/9498654377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9498654378",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5148633,
+          3.1724134
+        ]
+      },
+      "id": "node/9498654378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9498654383",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5168927,
+          3.17145
+        ]
+      },
+      "id": "node/9498654383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9498773096",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6466937,
+          3.1118923
+        ]
+      },
+      "id": "node/9498773096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9498789199",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6412273,
+          3.1010384
+        ]
+      },
+      "id": "node/9498789199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9498789283",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6330766,
+          3.1116434
+        ]
+      },
+      "id": "node/9498789283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9498789403",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6225146,
+          3.1381488
+        ]
+      },
+      "id": "node/9498789403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9500043449",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Templer Suasana, Jalan Kuching",
+        "name:en": "Templer Suasana, Kuching Road",
+        "name:ms": "Templer Suasana, Jalan Kuching",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL388",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6305234,
+          3.2914335
+        ]
+      },
+      "id": "node/9500043449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9500043451",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Templer Suasana, Jalan Kuching",
+        "name:en": "Templer Suasana, Kuching Road",
+        "name:ms": "Templer Suasana, Jalan Kuching",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL375",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6321306,
+          3.2909916
+        ]
+      },
+      "id": "node/9500043451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9500073989",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Selayang Star City, Jalan Kuching",
+        "name:en": "Selayang Star City, Kuching Road",
+        "name:ms": "Selayang Star City, Jalan Kuching",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL383",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6466244,
+          3.2498372
+        ]
+      },
+      "id": "node/9500073989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9500082645",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perdana Residence, Bukit Idaman",
+        "name:en": "Perdana Residence, Bukit Idaman",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL378",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6460185,
+          3.2571023
+        ]
+      },
+      "id": "node/9500082645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9500084572",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Pinggiran Templer (Barat), Jalan Kuching",
+        "name:ms": "Taman Pinggiran Templer (Barat), Jalan Kuching",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL377",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6484341,
+          3.2610796
+        ]
+      },
+      "id": "node/9500084572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9500088934",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Prima Selayang, Jalan Kuching",
+        "name:ms": "Taman Prima Selayang, Jalan Kuching",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL384",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6489368,
+          3.2613707
+        ]
+      },
+      "id": "node/9500088934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9500092216",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "One Selayang, Jalan Kuching",
+        "name:en": "One Selayang, Kuching Road",
+        "name:ms": "One Selayang, Jalan Kuching",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL382",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6502379,
+          3.2492663
+        ]
+      },
+      "id": "node/9500092216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9500097089",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Selayang Pandang, Jalan Ipoh",
+        "name:ms": "Kampung Selayang Pandang, Jalan Ipoh",
+        "operator": "Setara Jaya, RapidKL",
+        "public_transport": "platform",
+        "ref": "SL532",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.65817,
+          3.2453015
+        ]
+      },
+      "id": "node/9500097089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9500103326",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Selayang Pandang, Jalan Kuching",
+        "name:ms": "Kampung Selayang Pandang, Jalan Kuching",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL531",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6519292,
+          3.2487319
+        ]
+      },
+      "id": "node/9500103326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9500105362",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Naza Kia Sdn Bhd - Selayang 3S Centre, Jalan Ipoh",
+        "name:ms": "Naza Kia Sdn Bhd - Selayang 3S Centre, Jalan Ipoh",
+        "operator": "Setara Jaya, RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6485764,
+          3.2498204
+        ]
+      },
+      "id": "node/9500105362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9500112289",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "NSK Selayang, Jalan Kuching",
+        "name:en": "NSK Selayang, Kuching Road",
+        "name:ms": "NSK Selayang, Jalan Kuching",
+        "operator": "Setara Jaya, RapidKL",
+        "public_transport": "platform",
+        "ref": "KL508",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6586978,
+          3.2445725
+        ]
+      },
+      "id": "node/9500112289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9500129872",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Ops. Kompleks Desa Kepong",
+        "name:ms": "Ops. Kompleks Desa Kepong",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6298104,
+          3.2104232
+        ]
+      },
+      "id": "node/9500129872"
     }
   ]
 }
