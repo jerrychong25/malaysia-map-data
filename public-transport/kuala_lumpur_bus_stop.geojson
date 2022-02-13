@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-12T10:03:57Z",
+  "timestamp": "2022-02-13T06:58:33Z",
   "features": [
     {
       "type": "Feature",
@@ -19123,6 +19123,482 @@
         ]
       },
       "id": "node/9500105123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9501975091",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Batu Muda",
+        "name:ms": "Taman Batu Muda",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL627",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6867276,
+          3.2279254
+        ]
+      },
+      "id": "node/9501975091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9501993216",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Flat Taman Wilayah Selayang, Jalan 13/2A",
+        "name:ms": "Flat Taman Wilayah Selayang, Jalan 13/2A",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "KL703",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6610696,
+          3.2392633
+        ]
+      },
+      "id": "node/9501993216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502022485",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Dewan Serbaguna Taman Desa Bakti Selayang, Jalan 9/2B",
+        "name:ms": "Dewan Serbaguna Taman Desa Bakti Selayang, Jalan 9/2B",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "KL704",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6585263,
+          3.2409389
+        ]
+      },
+      "id": "node/9502022485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502022487",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Dewan Serbaguna Taman Desa Bakti Selayang, Jalan 9/2B",
+        "name:ms": "Dewan Serbaguna Taman Desa Bakti Selayang, Jalan 9/2B",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "KL420",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.658586,
+          3.240843
+        ]
+      },
+      "id": "node/9502022487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502023418",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Flat Taman Wilayah Selayang, Jalan 13/2A",
+        "name:ms": "Flat Taman Wilayah Selayang, Jalan 13/2A",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "KL696",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6612064,
+          3.2392757
+        ]
+      },
+      "id": "node/9502023418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502025618",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Al Zakiran, Jalan 13/2A",
+        "name:ms": "Masjid Al Zakiran, Jalan 13/2A",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "KL697",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6602455,
+          3.2377958
+        ]
+      },
+      "id": "node/9502025618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502025620",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Al Zakiran, Jalan 13/2A",
+        "name:ms": "Masjid Al Zakiran, Jalan 13/2A",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "KL702",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6600841,
+          3.2377663
+        ]
+      },
+      "id": "node/9502025620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502030484",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Batu Muda (Tengah)",
+        "name:ms": "Taman Batu Muda (Tengah)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL628",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6858972,
+          3.2278586
+        ]
+      },
+      "id": "node/9502030484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502042665",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Seri Murni Apartment (Timur), Jalan 1/2B",
+        "name:ms": "Taman Seri Murni Apartment (Timur), Jalan 1/2B",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "KL699",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6628182,
+          3.2361603
+        ]
+      },
+      "id": "node/9502042665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502042667",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Seri Murni Apartment, Jalan 1/2B",
+        "name:ms": "Taman Seri Murni Apartment, Jalan 1/2B",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "KL700",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6629676,
+          3.235549
+        ]
+      },
+      "id": "node/9502042667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502048342",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Batu Muda (Timur)",
+        "name:ms": "Taman Batu Muda (Timur)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL626",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6882071,
+          3.2279907
+        ]
+      },
+      "id": "node/9502048342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502048344",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Batu Muda (Timur)",
+        "name:ms": "Taman Batu Muda (Timur)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL632",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.688188,
+          3.2281301
+        ]
+      },
+      "id": "node/9502048344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502048346",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Batu Muda (Tengah)",
+        "name:ms": "Taman Batu Muda (Tengah)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL631",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.686107,
+          3.2279984
+        ]
+      },
+      "id": "node/9502048346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502050506",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Seri Murni Apartment (Selatan), Jalan 1/2D",
+        "name:ms": "Taman Seri Murni Apartment (Selatan), Jalan 1/2D",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "KL698",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6614035,
+          3.2350822
+        ]
+      },
+      "id": "node/9502050506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502050508",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Seri Murni Apartment (Selatan), Jalan 1/2D",
+        "name:ms": "Taman Seri Murni Apartment (Selatan), Jalan 1/2D",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "KL701",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6612559,
+          3.2349471
+        ]
+      },
+      "id": "node/9502050508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502061826",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hentian Batu Muda",
+        "name:ms": "Hentian Batu Muda",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL629",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.683324,
+          3.2277841
+        ]
+      },
+      "id": "node/9502061826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502061828",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hentian Batu Muda",
+        "name:ms": "Hentian Batu Muda",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL630",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6834885,
+          3.2278926
+        ]
+      },
+      "id": "node/9502061828"
     }
   ]
 }
