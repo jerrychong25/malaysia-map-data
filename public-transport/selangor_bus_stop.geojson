@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-12T10:06:04Z",
+  "timestamp": "2022-02-14T04:51:37Z",
   "features": [
     {
       "type": "Feature",
@@ -4252,17 +4252,25 @@
       "properties": {
         "@id": "node/2541019606",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Sg Long Golf & Country Club",
+        "name:en": "Sg Long Golf & Country Club",
+        "operator": "RapidKL",
         "public_transport": "platform",
+        "ref": "KJ438",
         "shelter": "yes",
-        "source": "GPS"
+        "source": "GPS",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.801488,
-          3.0417715
+          101.8015261,
+          3.0417152
         ]
       },
       "id": "node/2541019606"
@@ -4272,16 +4280,24 @@
       "properties": {
         "@id": "node/2541019607",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Green Seksyen 7",
+        "name:ms": "Green Seksyen 7",
+        "operator": "RapidKL",
         "public_transport": "platform",
+        "ref": "KJ361",
         "shelter": "yes",
-        "source": "GPS"
+        "source": "GPS",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7947066,
+          101.7947032,
           3.0459196
         ]
       },
@@ -4294,10 +4310,17 @@
         "bench": "yes",
         "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Apartment Green Acre",
+        "name:en": "Apartment Green Acre",
+        "operator": "RapidKL",
         "public_transport": "platform",
+        "ref": "KJ437",
         "shelter": "yes",
-        "source": "GPS"
+        "source": "GPS",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -4312,10 +4335,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2541019609",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Perumahan Sekyen 7",
+        "name:ms": "Perumahan Sekyen 7",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "source": "GPS"
+        "ref": "KJ403",
+        "shelter": "yes",
+        "source": "GPS",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -4330,16 +4363,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2541019610",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "SMK Sg Long",
+        "name:ms": "SMK Sg Long",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "source": "GPS"
+        "ref": "KJ428",
+        "shelter": "yes",
+        "source": "GPS",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.8018443,
-          3.0516439
+          101.8019779,
+          3.051625
         ]
       },
       "id": "node/2541019610"
@@ -4878,10 +4921,11 @@
         "covered": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Shell Jalan Sungai Long",
-        "name:ms": "Shell Jalan Sungai Long",
+        "name": "Shell Sg Long",
+        "name:ms": "Shell Sg Long",
         "operator": "RapidKL",
         "public_transport": "platform",
+        "ref": "KJ329",
         "shelter": "yes",
         "tactile_paving": "yes",
         "wheelchair": "yes"
@@ -4889,8 +4933,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7894433,
-          3.0418033
+          101.789531,
+          3.0418232
         ]
       },
       "id": "node/2974065449"
@@ -11433,10 +11477,17 @@
         "bench": "yes",
         "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "MRT Bukit Dukung Pintu B",
+        "name:en": "MRT Bukit Dukung B Entrance",
+        "name:ms": "MRT Bukit Dukung Pintu B",
+        "operator": "RapidKL",
         "public_transport": "platform",
         "route_ref": "450",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -13755,15 +13806,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7411186704",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Taman Rakan (Timur)",
+        "name:en": "Rakan Garden (North)",
+        "name:ms": "Taman Rakan (Timur)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KJ331",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7822567,
-          3.0353132
+          101.7820861,
+          3.0355232
         ]
       },
       "id": "node/7411186704"
@@ -15880,10 +15942,18 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7714436645",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Bandar Mahkota Cheras",
-        "public_transport": "platform"
+        "name": "Mahkota Residence",
+        "name:en": "Mahkota Residence",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -16059,17 +16129,25 @@
       "properties": {
         "@id": "node/7741089340",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "SPG Sg Long",
+        "name:ms": "SPG Sg Long",
+        "operator": "RapidKL",
         "public_transport": "platform",
+        "ref": "KJ732",
         "route_ref": "450",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7716246,
-          3.037507
+          101.7717399,
+          3.0377885
         ]
       },
       "id": "node/7741089340"
@@ -16078,10 +16156,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7741089341",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "SPG Pekan Bt 11",
+        "name:ms": "SPG Pekan Bt 11",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "route_ref": "450"
+        "ref": "KJ745",
+        "route_ref": "450",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -17734,12 +17822,20 @@
       "properties": {
         "@id": "node/8002991101",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Taman Desa Baru",
+        "name:ms": "Taman Desa Baru",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
+        "ref": "KJ184",
         "route_ref": "450",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -17755,18 +17851,26 @@
       "properties": {
         "@id": "node/8002991102",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Perabot Al-Qamar",
+        "name:ms": "Perabot Al-Qamar",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
+        "ref": "KJ723",
         "route_ref": "450",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7699252,
-          3.0305807
+          101.7699218,
+          3.0305692
         ]
       },
       "id": "node/8002991102"
@@ -17776,18 +17880,26 @@
       "properties": {
         "@id": "node/8002991107",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "SPG Pekan BT 11",
+        "name:ms": "SPG Pekan BT 11",
+        "operator": "RapidKL",
         "passenger_information_display": "no",
         "public_transport": "platform",
+        "ref": "KJ720",
         "route_ref": "450",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7749209,
-          3.0427999
+          101.7749198,
+          3.0427919
         ]
       },
       "id": "node/8002991107"
@@ -20450,17 +20562,26 @@
       "properties": {
         "@id": "node/8121283576",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Taman Rakan (Timur)",
+        "name:en": "Rakan Garden (North)",
+        "name:ms": "Taman Rakan (Timur)",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "KJ299",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7825432,
-          3.0354793
+          101.7825478,
+          3.0354595
         ]
       },
       "id": "node/8121283576"
@@ -20470,17 +20591,26 @@
       "properties": {
         "@id": "node/8121334298",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Taman Rakan (Barat)",
+        "name:en": "Rakan Garden (West)",
+        "name:ms": "Taman Rakan (Barat)",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "KJ300",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7806536,
-          3.0346905
+          101.7806544,
+          3.0346762
         ]
       },
       "id": "node/8121334298"
@@ -24324,9 +24454,12 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Hab UTAR",
-        "name:en": "UTAR Hub",
-        "name:ms": "Hab UTAR",
+        "name": "UTAR",
+        "name:en": "UTAR",
+        "name:ms": "UTAR",
+        "name:zh": "拉曼大学",
+        "name:zh-Hans": "拉曼大学",
+        "name:zh-Hant": "拉曼大學",
         "operator": "RapidKL",
         "public_transport": "platform",
         "shelter": "yes",
@@ -26797,6 +26930,1234 @@
         ]
       },
       "id": "node/9500129872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502019634",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Seri Melati, Jalan Melati",
+        "name:ms": "Taman Seri Melati, Jalan Melati",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL93",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6568392,
+          3.2405725
+        ]
+      },
+      "id": "node/9502019634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502025622",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Seri Melati, Jalan Melati 1",
+        "name:ms": "Taman Seri Melati, Jalan Melati 1",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL95",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6581316,
+          3.2413849
+        ]
+      },
+      "id": "node/9502025622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502041135",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7038995,
+          3.0193161
+        ]
+      },
+      "id": "node/9502041135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502041136",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7037654,
+          3.019434
+        ]
+      },
+      "id": "node/9502041136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502989794",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Shell Sg Long (Opp)",
+        "name:ms": "Shell Sg Long (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KJ560",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.789612,
+          3.041514
+        ]
+      },
+      "id": "node/9502989794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503683737",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Green Acre Condo",
+        "name:en": "Green Acre Condo",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "GPS",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8064086,
+          3.0459622
+        ]
+      },
+      "id": "node/9503683737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503737498",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Sg Long Seksyen 7",
+        "name:ms": "Perumahan Sg Long Seksyen 7",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KJ370",
+        "shelter": "yes",
+        "source": "GPS",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7973196,
+          3.0480665
+        ]
+      },
+      "id": "node/9503737498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503759277",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Palm Walk 3",
+        "name:en": "Palm Walk 3",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "GPS",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8107222,
+          3.0531914
+        ]
+      },
+      "id": "node/9503759277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503761041",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Palm Walk 1 & 2 (Opp)",
+        "name:en": "Palm Walk 1 & 2 (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "GPS",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8082824,
+          3.0475069
+        ]
+      },
+      "id": "node/9503761041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503781892",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Bandar Sg Long",
+        "name:ms": "SMK Bandar Sg Long",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "GPS",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.801308,
+          3.0519718
+        ]
+      },
+      "id": "node/9503781892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503792883",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Bandar Sg Long",
+        "name:ms": "SMK Bandar Sg Long",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "GPS",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8037309,
+          3.0547202
+        ]
+      },
+      "id": "node/9503792883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503792884",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Ikhlas",
+        "name:ms": "Taman Ikhlas",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "GPS",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8051124,
+          3.0549914
+        ]
+      },
+      "id": "node/9503792884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503803156",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Mahkota Residence",
+        "name:en": "Mahkota Residence",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.782072,
+          3.0517168
+        ]
+      },
+      "id": "node/9503803156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503803204",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Dewan Serbaguna Mahkota Cheras",
+        "name:ms": "Dewan Serbaguna Mahkota Cheras",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KJ570",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7937651,
+          3.059653
+        ]
+      },
+      "id": "node/9503803204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503806750",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Mahkota Walk",
+        "name:en": "Mahkota Walk",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7871821,
+          3.0514422
+        ]
+      },
+      "id": "node/9503806750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503806814",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bandar Mahkota Cheras Sek 3",
+        "name:ms": "Bandar Mahkota Cheras Sek 3",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7888289,
+          3.0599145
+        ]
+      },
+      "id": "node/9503806814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503806816",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Mahkota Cheras Seksyen 3",
+        "name:ms": "Perumahan Mahkota Cheras Seksyen 3",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KJ195",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7893536,
+          3.0605462
+        ]
+      },
+      "id": "node/9503806816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503809781",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Petronas Mahkota Cheras",
+        "name:en": "Petronas Mahkota Cheras",
+        "name:ms": "Petronas Mahkota Cheras",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KJ214",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7868348,
+          3.0515382
+        ]
+      },
+      "id": "node/9503809781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503811702",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Sek 8",
+        "name:ms": "Perumahan Sek 8",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KJ570",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7938144,
+          3.0571378
+        ]
+      },
+      "id": "node/9503811702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503817647",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Dewan Sebaguna Sek 8",
+        "name:ms": "Dewan Sebaguna Sek 8",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7924894,
+          3.0622243
+        ]
+      },
+      "id": "node/9503817647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503818892",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Aeon Mahkota Cheras",
+        "name:en": "Aeon Mahkota Cheras",
+        "name:ms": "Aeon Mahkota Cheras",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7863055,
+          3.0544419
+        ]
+      },
+      "id": "node/9503818892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503820380",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "BMC Mall (Opp)",
+        "name:en": "BMC Mall (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KJ177",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7860808,
+          3.055109
+        ]
+      },
+      "id": "node/9503820380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503824508",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bandar Mahkota Cheras",
+        "name:ms": "Bandar Mahkota Cheras",
+        "name:zh": "蕉赖皇冠城",
+        "name:zh-Hans": "蕉赖皇冠城",
+        "name:zh-Hant": "蕉賴皇冠城",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KJ561",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7868144,
+          3.0433048
+        ]
+      },
+      "id": "node/9503824508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503824510",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bandar Mahkota Cheras",
+        "name:ms": "Bandar Mahkota Cheras",
+        "name:zh": "蕉赖皇冠城",
+        "name:zh-Hans": "蕉赖皇冠城",
+        "name:zh-Hant": "蕉賴皇冠城",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KJ289",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7882773,
+          3.0472617
+        ]
+      },
+      "id": "node/9503824510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503833493",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Sek 6 (Selatan)",
+        "name:ms": "Perumahan Sek 6 (Selatan)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7928126,
+          3.0516675
+        ]
+      },
+      "id": "node/9503833493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503847544",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Mahkota Cheras",
+        "name:ms": "Perumahan Mahkota Cheras",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KJ751",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7870554,
+          3.0592771
+        ]
+      },
+      "id": "node/9503847544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503867389",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SPG Sg Long",
+        "name:ms": "SPG Sg Long",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "KJ722",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7718705,
+          3.0361712
+        ]
+      },
+      "id": "node/9503867389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503867657",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Rakan (Barat)",
+        "name:en": "Rakan Garden (West)",
+        "name:ms": "Taman Rakan (Barat)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "KJ330",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7806485,
+          3.0349035
+        ]
+      },
+      "id": "node/9503867657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503869828",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Sek 6 (Utara)",
+        "name:ms": "Perumahan Sek 6 (Utara)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7938374,
+          3.0545454
+        ]
+      },
+      "id": "node/9503869828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503869830",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Mahkota Cheras Seksyen 6",
+        "name:ms": "Perumahan Mahkota Cheras Seksyen 6",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KJ200",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7938983,
+          3.0541803
+        ]
+      },
+      "id": "node/9503869830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503873631",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Institut Veterinar (Opp)",
+        "name:ms": "Institut Veterinar (Opp)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "KJ303",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7755707,
+          3.0353512
+        ]
+      },
+      "id": "node/9503873631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503875022",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Sek 9 (Selatan)",
+        "name:ms": "Komersial Sek 9 (Selatan)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7900763,
+          3.0503921
+        ]
+      },
+      "id": "node/9503875022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503875024",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Mahkota Cheras",
+        "name:en": "Mahkota Cheras Commercial",
+        "name:ms": "Komersial Mahkota Cheras",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KJ213",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7889635,
+          3.0500848
+        ]
+      },
+      "id": "node/9503875024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503882377",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Institut Pengurusan Veterinar (Opp)",
+        "name:ms": "Institut Pengurusan Veterinar (Opp)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "KJ304",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7753227,
+          3.0359556
+        ]
+      },
+      "id": "node/9503882377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503883837",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Bt 11",
+        "name:ms": "Komersial Bt 11",
+        "operator": "RapidKL",
+        "passenger_information_display": "no",
+        "public_transport": "platform",
+        "ref": "KJ338",
+        "route_ref": "450",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7721942,
+          3.0424809
+        ]
+      },
+      "id": "node/9503883837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503883839",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Bt 11",
+        "name:ms": "Komersial Bt 11",
+        "operator": "RapidKL",
+        "passenger_information_display": "no",
+        "public_transport": "platform",
+        "ref": "KJ337",
+        "route_ref": "450",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7722178,
+          3.0427303
+        ]
+      },
+      "id": "node/9503883839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503894449",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pintu A",
+        "name:en": "A Entrance",
+        "name:ms": "Pintu A",
+        "operator": "RapidKL",
+        "passenger_information_display": "no",
+        "public_transport": "platform",
+        "route_ref": "450",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7728561,
+          3.0409447
+        ]
+      },
+      "id": "node/9503894449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503897199",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Apartment Netizen",
+        "name:en": "Apartment Netizen",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "route_ref": "450",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.772061,
+          3.0495722
+        ]
+      },
+      "id": "node/9503897199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503897206",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Desa Baru",
+        "name:ms": "Taman Desa Baru",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KJ183",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7706522,
+          3.0285724
+        ]
+      },
+      "id": "node/9503897206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503897207",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Taman Desa Baru",
+        "name:ms": "Taman Desa Baru",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KJ183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7707052,
+          3.0286216
+        ]
+      },
+      "id": "node/9503897207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503898521",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pusat Flora Cheras",
+        "name:ms": "Pusat Flora Cheras",
+        "operator": "RapidKL",
+        "passenger_information_display": "no",
+        "public_transport": "platform",
+        "ref": "KJ721",
+        "route_ref": "450",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.773297,
+          3.0390812
+        ]
+      },
+      "id": "node/9503898521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503906163",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SPG Cheras Perdana",
+        "name:ms": "SPG Cheras Perdana",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KJ668",
+        "route_ref": "450",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7741731,
+          3.0520255
+        ]
+      },
+      "id": "node/9503906163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503907124",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "MRT Bukit Dukung Pintu A",
+        "name:en": "MRT Bukit Dukung A Entrance",
+        "name:ms": "MRT Bukit Dukung Pintu A",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7713363,
+          3.0264231
+        ]
+      },
+      "id": "node/9503907124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503907420",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "MRT Bandar Tun Hussein Onn Pintu A",
+        "name:en": "MRT Bandar Tun Hussein Onn A Entrance",
+        "name:ms": "MRT Bandar Tun Hussein Onn Pintu A",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "route_ref": "450",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7745399,
+          3.0488525
+        ]
+      },
+      "id": "node/9503907420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503907421",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "MRT Bandar Tun Hussein Onn Pintu B",
+        "name:en": "MRT Bandar Tun Hussein Onn B Entrance",
+        "name:ms": "MRT Bandar Tun Hussein Onn Pintu B",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "route_ref": "450",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.774314,
+          3.0483456
+        ]
+      },
+      "id": "node/9503907421"
     }
   ]
 }
