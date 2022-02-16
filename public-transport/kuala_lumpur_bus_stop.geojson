@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-13T06:58:33Z",
+  "timestamp": "2022-02-16T06:59:52Z",
   "features": [
     {
       "type": "Feature",
@@ -1330,15 +1330,28 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2378755760",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "SJKC Chiao Nan (Opp)",
+        "name:en": "SJKC Chiao Nan (Opp)",
+        "name:zh": "侨南华文小学 （对面）",
+        "name:zh-Hans": "侨南华文小学 （对面）",
+        "name:zh-Hant": "僑南華文小學 （對面）",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL694",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7004717,
-          3.1785643
+          101.7004899,
+          3.1780335
         ]
       },
       "id": "node/2378755760"
@@ -5599,15 +5612,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5485869222",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Genting Kelang (Selatan)",
-        "name:en": "Genting Kelang (South)",
-        "name:ms": "Genting Kelang (Selatan)",
+        "name": "KFC Genting Klang",
+        "name:en": "KFC Genting Klang",
+        "name:ms": "KFC Genting Klang",
+        "operator": "RapidKL",
         "public_transport": "platform",
         "ref": "KL676",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -5628,6 +5646,7 @@
         "departures_board": "no",
         "highway": "bus_stop",
         "name": "SRJK (C) Chung Hwa",
+        "name:ms": "SRJK (C) Chung Hwa",
         "operator": "RapidKL",
         "public_transport": "platform",
         "ref": "KL671",
@@ -5648,16 +5667,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5485897221",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "KL674 COURTS MEGASTORE SETAPAK",
-        "public_transport": "platform"
+        "name": "Courts Megastore Setapak",
+        "name:en": "Courts Megastore Setapak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL674",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7069059,
-          3.1906769
+          101.7071201,
+          3.19077
         ]
       },
       "id": "node/5485897221"
@@ -6158,19 +6186,27 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5520095121",
+        "bench": "no",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Kuan Yin Ting Temple Setapak",
+        "name": "Guan Ying Ting (Opp)",
+        "name:en": "Guan Ying Ting (Opp)",
         "network": "200;202;222;250;251;252;254",
+        "operator": "RapidKL",
         "public_transport": "platform",
         "ref": "KL691",
-        "source": "https://www.mapillary.com/app/?pKey=2959483914263457&focus=photo"
+        "shelter": "yes",
+        "source": "https://www.mapillary.com/app/?pKey=2959483914263457&focus=photo",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           101.7036151,
-          3.1877207
+          3.1877146
         ]
       },
       "id": "node/5520095121"
@@ -6271,16 +6307,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5600445923",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "KL675 TMN TUN P RAMLEE",
-        "public_transport": "platform"
+        "name": "Taman P. Ramlee",
+        "name:ms": "Taman P. Ramlee",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL675",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7083034,
-          3.1918992
+          101.7083443,
+          3.1919074
         ]
       },
       "id": "node/5600445923"
@@ -6381,17 +6426,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5629931323",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Titiwangsa (Barat)",
+        "name:en": "Titiwangsa (West)",
+        "name:ms": "Titiwangsa (Barat)",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "ref": "KL693"
+        "ref": "KL670",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7011448,
-          3.1810712
+          101.7011633,
+          3.1810218
         ]
       },
       "id": "node/5629931323"
@@ -6477,20 +6531,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5645356129",
+        "bench": "no",
+        "bin": "yes",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
         "name": "Hospital Tawakal",
+        "name:en": "Tawakal Hospital",
         "name:ms": "Hospital Tawakal",
+        "operator": "RapidKL",
         "public_transport": "platform",
         "ref": "KL668",
-        "shelter": "yes"
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6998762,
-          3.1772562
+          101.6999509,
+          3.1772471
         ]
       },
       "id": "node/5645356129"
@@ -6516,8 +6576,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7017813,
-          3.1857499
+          101.7018483,
+          3.185724
         ]
       },
       "id": "node/5645372221"
@@ -6526,10 +6586,23 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5645373422",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "KL673 KUAN YIN TING SETAPAK",
-        "public_transport": "platform"
+        "name": "Guan Ying Ting",
+        "name:en": "Guan Ying Ting",
+        "name:ms": "Guan Ying Ting",
+        "name:zh": "观音亭",
+        "name:zh-Hans": "观音亭",
+        "name:zh-Hant": "觀音亭",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL673",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -7024,12 +7097,21 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5761333921",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Titiwangsa (Barat)",
+        "name:en": "Titiwangsa (West)",
+        "name:ms": "Titiwangsa (Barat)",
+        "operator": "RapidKL",
         "public_transport": "platform",
         "ref": "KL693",
-        "source": "https://www.mapillary.com/app/?pKey=215340847140013&focus=photo"
+        "shelter": "yes",
+        "source": "https://www.mapillary.com/app/?pKey=215340847140013&focus=photo",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -9852,8 +9934,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7255217,
-          3.2056899
+          101.7254995,
+          3.2057724
         ]
       },
       "id": "node/7319259058"
@@ -10270,15 +10352,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287123",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Sri Pelangi Condominium",
+        "name:en": "Sri Pelangi Condominium",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL678",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7136953,
-          3.1970005
+          101.7140427,
+          3.1973074
         ]
       },
       "id": "node/7319287123"
@@ -10287,15 +10379,22 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287124",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7138643,
-          3.196691
+          101.7137877,
+          3.1966459
         ]
       },
       "id": "node/7319287124"
@@ -10304,17 +10403,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287125",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
+        "name": "BSN Genting Klang",
+        "name:en": "BSN Genting Klang",
+        "name:ms": "BSN Genting Klang",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "KL2250",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7123926,
-          3.1952002
+          101.7123798,
+          3.195182
         ]
       },
       "id": "node/7319287125"
@@ -10323,15 +10431,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287126",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Courts Megastore Setapak (Opp)",
+        "name:en": "Courts Megastore Setapak (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL690",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7077744,
-          3.190888
+          101.7079251,
+          3.1911704
         ]
       },
       "id": "node/7319287126"
@@ -13338,8 +13456,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6914778,
-          3.13134
+          101.6914622,
+          3.131349
         ]
       },
       "id": "node/8532165909"
@@ -13610,8 +13728,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6500668,
-          3.1297635
+          101.6500547,
+          3.1297696
         ]
       },
       "id": "node/9196355751"
@@ -13632,8 +13750,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6504294,
-          3.1296783
+          101.6504222,
+          3.1296762
         ]
       },
       "id": "node/9196355752"
@@ -17745,8 +17863,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7296195,
-          3.2130135
+          101.729582,
+          3.2130279
         ]
       },
       "id": "node/9465565028"
@@ -19599,6 +19717,141 @@
         ]
       },
       "id": "node/9502061828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502075695",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7249373,
+          3.2164514
+        ]
+      },
+      "id": "node/9502075695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9504210031",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6924934,
+          3.1370831
+        ]
+      },
+      "id": "node/9504210031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9508388056",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7092277,
+          3.1428507
+        ]
+      },
+      "id": "node/9508388056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9509560789",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SJKC Chiao Nan",
+        "name:ms": "SJKC Chiao Nan",
+        "name:zh": "侨南华文小学",
+        "name:zh-Hans": "侨南华文小学",
+        "name:zh-Hant": "僑南華文小學",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL669",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7003241,
+          3.1787168
+        ]
+      },
+      "id": "node/9509560789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9509784581",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Genting Setapak",
+        "name:ms": "Taman Genting Setapak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL689",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7100419,
+          3.1929694
+        ]
+      },
+      "id": "node/9509784581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9509801014",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sri Pelangi Condominium (Opp)",
+        "name:en": "Sri Pelangi Condominium (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL688",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7129973,
+          3.1957972
+        ]
+      },
+      "id": "node/9509801014"
     }
   ]
 }
