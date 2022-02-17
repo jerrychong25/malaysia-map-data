@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-14T04:51:37Z",
+  "timestamp": "2022-02-17T09:05:10Z",
   "features": [
     {
       "type": "Feature",
@@ -8688,9 +8688,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5470820224",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kompleks Amaniah",
+        "name:en": "Amaniah Complex",
+        "name:ms": "Kompleks Amaniah",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL88",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -11829,11 +11840,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7210743161",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Perhentian Bas Jalan Gombak - Batu Caves",
+        "name": "Perhentian Bas Jalan Gombak - Batu Caves (Hentian Greenwood)",
+        "name:ms": "Perhentian Bas Jalan Gombak - Batu Caves (Hentian Greenwood)",
+        "operator": "RapidKL, Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "SL234",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -28158,6 +28177,1692 @@
         ]
       },
       "id": "node/9503907421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9510751091",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jejantas Kota Lama",
+        "network": "703;704;708;740;T713",
+        "public_transport": "platform",
+        "ref": "BD19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4476836,
+          3.0468322
+        ]
+      },
+      "id": "node/9510751091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512454942",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "KJCF (Opp)",
+        "name:en": "KJCF (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL491",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6822647,
+          3.2290528
+        ]
+      },
+      "id": "node/9512454942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512454944",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Batu Caves Industrial Area (Selatan)",
+        "name:en": "Batu Caves Industrial Area (South)",
+        "name:ms": "Batu Caves Industrial Area (Selatan)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL488",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6824174,
+          3.2293361
+        ]
+      },
+      "id": "node/9512454944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512454946",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Amari Business Park",
+        "name:en": "Amari Business Park",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL487",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6826355,
+          3.2318533
+        ]
+      },
+      "id": "node/9512454946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512473045",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Banjaria Court",
+        "name:en": "Banjaria Court",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6991023,
+          3.2358707
+        ]
+      },
+      "id": "node/9512473045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512501168",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hentian Samudera Barat",
+        "name:ms": "Hentian Samudera Barat",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL252",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.691183,
+          3.2330768
+        ]
+      },
+      "id": "node/9512501168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512501170",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Flat Taman Sri Batu",
+        "name:ms": "Flat Taman Sri Batu",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL263",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6918406,
+          3.2332128
+        ]
+      },
+      "id": "node/9512501170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512501349",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Giant Bt Caves",
+        "name:ms": "Giant Bt Caves",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL265",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6953606,
+          3.2349017
+        ]
+      },
+      "id": "node/9512501349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512501351",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Giant Bt Caves",
+        "name:ms": "Giant Bt Caves",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL265",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6955086,
+          3.23519
+        ]
+      },
+      "id": "node/9512501351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512501353",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Giant Batu Caves",
+        "name:ms": "Giant Batu Caves",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6925396,
+          3.2356182
+        ]
+      },
+      "id": "node/9512501353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512518160",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Urban 360 (Opp)",
+        "name:en": "Urban 360 (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL235",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7018908,
+          3.2407698
+        ]
+      },
+      "id": "node/9512518160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512518890",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Nissan (Opp)",
+        "name:en": "Nissan (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL486",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6827527,
+          3.2335984
+        ]
+      },
+      "id": "node/9512518890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512518892",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Nissan",
+        "name:en": "Nissan",
+        "name:ms": "Nissan",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL493",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6826354,
+          3.2337426
+        ]
+      },
+      "id": "node/9512518892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512523649",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Amari Business Park",
+        "name:en": "Amari Business Park",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL492",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6824587,
+          3.231936
+        ]
+      },
+      "id": "node/9512523649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512538273",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Prima Sri Gombak",
+        "name:ms": "Taman Prima Sri Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL222",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6994865,
+          3.2380281
+        ]
+      },
+      "id": "node/9512538273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512542014",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perindustrian Bt Caves",
+        "name:ms": "Perindustrian Bt Caves",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL254",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6871337,
+          3.2335234
+        ]
+      },
+      "id": "node/9512542014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512546735",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Taman Samudera",
+        "name:ms": "SK Taman Samudera",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL264",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.693727,
+          3.2331344
+        ]
+      },
+      "id": "node/9512546735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512548572",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perindustrian SBC",
+        "name:ms": "Perindustrian SBC",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL256",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6845671,
+          3.2312682
+        ]
+      },
+      "id": "node/9512548572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512548574",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Batu Caves Industrial Park 5 (Barat)",
+        "name:en": "Batu Caves Industrial Park 5 (West)",
+        "name:ms": "Batu Caves Industrial Park 5 (Barat)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6847325,
+          3.2335303
+        ]
+      },
+      "id": "node/9512548574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512548576",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bt Caves Industrial Park 5 (Barat)",
+        "name:en": "Bt Caves Industrial Park 5 (West)",
+        "name:ms": "Bt Caves Industrial Park 5 (Barat)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL260",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6850191,
+          3.2337332
+        ]
+      },
+      "id": "node/9512548576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512561423",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perindustrian Bt Caves",
+        "name:ms": "Perindustrian Bt Caves",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL261",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6877421,
+          3.2337496
+        ]
+      },
+      "id": "node/9512561423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512561425",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Wisma SBC (Opp)",
+        "name:ms": "Wisma SBC (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL253",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6894753,
+          3.2330945
+        ]
+      },
+      "id": "node/9512561425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512561431",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Dewan Beringin Gombak",
+        "name:ms": "Dewan Beringin Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL176",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6994782,
+          3.2399729
+        ]
+      },
+      "id": "node/9512561431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512567515",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Dewan Beringin Gombak (Opp)",
+        "name:ms": "Dewan Beringin Gombak (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL207",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6996567,
+          3.2398485
+        ]
+      },
+      "id": "node/9512567515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512567564",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Petronas Sri Gombak (Opp)",
+        "name:en": "Petronas Sri Gombak (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL236",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.703354,
+          3.2408133
+        ]
+      },
+      "id": "node/9512567564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512570382",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Metro Tabernacle (Opp)",
+        "name:en": "Metro Tabernacle (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL251",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6945751,
+          3.2329988
+        ]
+      },
+      "id": "node/9512570382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512578942",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Prima Sri Gombak",
+        "name:ms": "Taman Prima Sri Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL506",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.699671,
+          3.2366904
+        ]
+      },
+      "id": "node/9512578942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512579456",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Sri Gombak",
+        "name:en": "Sri Gombak Commercial",
+        "name:ms": "Komersial Sri Gombak",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL465",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6983345,
+          3.2361842
+        ]
+      },
+      "id": "node/9512579456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512597817",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Urban 360",
+        "name:en": "Urban 360",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL249",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7018533,
+          3.24068
+        ]
+      },
+      "id": "node/9512597817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512598035",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Petronas Sri Gombak",
+        "name:en": "Petronas Sri Gombak",
+        "name:ms": "Petronas Sri Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL248",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7033136,
+          3.2406771
+        ]
+      },
+      "id": "node/9512598035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512598394",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Sri Gombak Fasa 4 (Barat)",
+        "name:en": "Sri Gombak Garden Phase 4 (West)",
+        "name:ms": "Taman Sri Gombak Fasa 4 (Barat)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL503",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7069582,
+          3.2408329
+        ]
+      },
+      "id": "node/9512598394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512598396",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Sri Gombak Fasa 4",
+        "name:en": "Sri Gombak Garden Phase 4",
+        "name:ms": "Taman Sri Gombak Fasa 4",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL240",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.707033,
+          3.2406639
+        ]
+      },
+      "id": "node/9512598396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512606260",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Balairaya Seri Gombak",
+        "name:ms": "Balairaya Seri Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL239",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.708074,
+          3.2407628
+        ]
+      },
+      "id": "node/9512606260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512685480",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Seri Gombak Fasa 5",
+        "name:en": "Seri Gombak Commercial Phase 5",
+        "name:ms": "Komersial Seri Gombak Fasa 5",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL242",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7096291,
+          3.2420828
+        ]
+      },
+      "id": "node/9512685480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512722642",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Hillcrest",
+        "name:ms": "SMK Hillcrest",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL237",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7074169,
+          3.243082
+        ]
+      },
+      "id": "node/9512722642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512722644",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Hillcrest (Opp)",
+        "name:ms": "SMK Hillcrest (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL243",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7076542,
+          3.2429169
+        ]
+      },
+      "id": "node/9512722644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512729955",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Seri Gombak Fasa 5",
+        "name:en": "Seri Gombak Commercial Phase 5",
+        "name:ms": "Komersial Seri Gombak Fasa 5",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL238",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7097915,
+          3.2422046
+        ]
+      },
+      "id": "node/9512729955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512730025",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Sri Gombak Fasa 3",
+        "name:en": "Sri Gombak Garden Phase 3",
+        "name:ms": "Taman Sri Gombak Fasa 3",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL247",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7059746,
+          3.2431124
+        ]
+      },
+      "id": "node/9512730025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512974462",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Taman Seri Gombak 2 (Opp)",
+        "name:ms": "SK Taman Seri Gombak 2 (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL205",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6996269,
+          3.2421989
+        ]
+      },
+      "id": "node/9512974462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512974464",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Taman Seri Gombak 2",
+        "name:ms": "SK Taman Seri Gombak 2",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6994802,
+          3.2424341
+        ]
+      },
+      "id": "node/9512974464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512986908",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Sri Gombak",
+        "name:en": "Sri Gombak Commercial",
+        "name:ms": "Komersial Sri Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL246",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7038274,
+          3.2430867
+        ]
+      },
+      "id": "node/9512986908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512986910",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Taman Sri Gombak",
+        "name:en": "Sri Gombak Garden Commercial",
+        "name:ms": "Komersial Taman Sri Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL245",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7032195,
+          3.2429619
+        ]
+      },
+      "id": "node/9512986910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9513002651",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Sri Gombak Fasa 3",
+        "name:en": "Sri Gombak Garden Phase 3",
+        "name:ms": "Taman Sri Gombak Fasa 3",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL244",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.705814,
+          3.2429861
+        ]
+      },
+      "id": "node/9513002651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9513016501",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Sri Gombak",
+        "name:en": "Sri Gombak Mosque",
+        "name:ms": "Masjid Sri Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL504",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7028029,
+          3.2470336
+        ]
+      },
+      "id": "node/9513016501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9513018378",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Sri Gombak (Opp)",
+        "name:en": "Sri Gombak Mosque (Opp)",
+        "name:ms": "Masjid Sri Gombak (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL505",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7031207,
+          3.2473481
+        ]
+      },
+      "id": "node/9513018378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9513041260",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Sri Gombak Fasa 6",
+        "name:en": "Sri Gombak Garden Phase 6",
+        "name:ms": "Taman Sri Gombak Fasa 6",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL199",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7021041,
+          3.2448077
+        ]
+      },
+      "id": "node/9513041260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9513041262",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Sri Gombak",
+        "name:en": "Sri Gombak Garden",
+        "name:ms": "Taman Sri Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL198",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7021822,
+          3.2449154
+        ]
+      },
+      "id": "node/9513041262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9513042498",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Padang Awam Batu Caves (Opp)",
+        "name:ms": "Padang Awam Batu Caves (Opp)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL28",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6774906,
+          3.2354707
+        ]
+      },
+      "id": "node/9513042498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9513050512",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Plaza UMNO Batu Caves",
+        "name:ms": "Plaza UMNO Batu Caves",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL494",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6795401,
+          3.2357779
+        ]
+      },
+      "id": "node/9513050512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9513050514",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Plaza UMNO Batu Caves",
+        "name:ms": "Plaza UMNO Batu Caves",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL485",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6791808,
+          3.2359959
+        ]
+      },
+      "id": "node/9513050514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9513061661",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Padang Awam Batu Caves",
+        "name:ms": "Padang Awam Batu Caves",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL89",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6773937,
+          3.2356612
+        ]
+      },
+      "id": "node/9513061661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9513072924",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kompleks Amaniah (Opp)",
+        "name:ms": "Kompleks Amaniah (Opp)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL29",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6750552,
+          3.2350937
+        ]
+      },
+      "id": "node/9513072924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9513077436",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Taman Selayang",
+        "name:en": "Selayang Garden Commercial",
+        "name:ms": "Komersial Taman Selayang",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL30",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6736076,
+          3.2359163
+        ]
+      },
+      "id": "node/9513077436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9513077438",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Al-Amaniah",
+        "name:en": "Al-Amaniah Mosque",
+        "name:ms": "Masjid Al-Amaniah",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL87",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6738641,
+          3.2360544
+        ]
+      },
+      "id": "node/9513077438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9513102426",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid AR-Rahimah",
+        "name:en": "AR-Rahimah Mosque",
+        "name:ms": "Masjid AR-Rahimah",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL470",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7010993,
+          3.2323806
+        ]
+      },
+      "id": "node/9513102426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9513102428",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid AR-Rahimah",
+        "name:en": "AR-Rahimah Mosque",
+        "name:ms": "Masjid AR-Rahimah",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL469",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7006295,
+          3.2321878
+        ]
+      },
+      "id": "node/9513102428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9513122629",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Greenwood (Utara)",
+        "name:en": "Greenwood Garden (North)",
+        "name:ms": "Taman Greenwood (Utara)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL232",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7047891,
+          3.2344722
+        ]
+      },
+      "id": "node/9513122629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9513157344",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Gerai Makan MPS",
+        "name:ms": "Gerai Makan MPS",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL233",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7048194,
+          3.2343839
+        ]
+      },
+      "id": "node/9513157344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9513164311",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hab Bas Greenwood (Opp)",
+        "name:ms": "Hab Bas Greenwood (Opp)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL212",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7062049,
+          3.2343061
+        ]
+      },
+      "id": "node/9513164311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9513176021",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hab Bas Greenwood",
+        "name:ms": "Hab Bas Greenwood",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL215",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7061725,
+          3.2339722
+        ]
+      },
+      "id": "node/9513176021"
     }
   ]
 }
