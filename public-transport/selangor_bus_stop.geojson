@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-17T09:05:10Z",
+  "timestamp": "2022-02-18T10:06:08Z",
   "features": [
     {
       "type": "Feature",
@@ -8716,9 +8716,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5470820307",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "SK Tmn Selayang",
+        "name:ms": "SK Tmn Selayang",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL31",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -21837,9 +21847,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8320773802",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kompleks Sri Siantan (Opp)",
+        "name:ms": "Kompleks Sri Siantan (Opp)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL83",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -29863,6 +29883,276 @@
         ]
       },
       "id": "node/9513176021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9515970558",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Seri Selayang (Opp)",
+        "name:ms": "SMK Seri Selayang (Opp)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL84",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6735702,
+          3.2419047
+        ]
+      },
+      "id": "node/9515970558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9515986694",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Dataran Selayang (Opp)",
+        "name:ms": "Dataran Selayang (Opp)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL483",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6732197,
+          3.2378459
+        ]
+      },
+      "id": "node/9515986694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9516003485",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Petronas Dataran Selayang",
+        "name:ms": "Petronas Dataran Selayang",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL86",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.673234,
+          3.2383733
+        ]
+      },
+      "id": "node/9516003485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9516006768",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Taman Selayang",
+        "name:ms": "SMK Taman Selayang",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL32",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6738785,
+          3.2436554
+        ]
+      },
+      "id": "node/9516006768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9516006770",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Taman Selayang (Opp)",
+        "name:ms": "SMK Taman Selayang (Opp)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL482",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6740375,
+          3.2434537
+        ]
+      },
+      "id": "node/9516006770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9516008299",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Taman Selayang (Opp)",
+        "name:ms": "SK Taman Selayang (Opp)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL85",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6735442,
+          3.2413727
+        ]
+      },
+      "id": "node/9516008299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9516008301",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Seri Selayang",
+        "name:ms": "SMK Seri Selayang",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL443",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6733382,
+          3.2418226
+        ]
+      },
+      "id": "node/9516008301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9516148633",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kompleks Sri Siantan",
+        "name:ms": "Kompleks Sri Siantan",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL33",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6741346,
+          3.2463006
+        ]
+      },
+      "id": "node/9516148633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9516155681",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Balai Mukim Batu (Opp)",
+        "name:ms": "Balai Mukim Batu (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL481",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.67464,
+          3.2478643
+        ]
+      },
+      "id": "node/9516155681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9516155683",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Balai Mukim Batu",
+        "name:ms": "Balai Mukim Batu",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL56",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6746876,
+          3.2484243
+        ]
+      },
+      "id": "node/9516155683"
     }
   ]
 }
