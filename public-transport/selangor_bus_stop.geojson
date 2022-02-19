@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-18T10:06:08Z",
+  "timestamp": "2022-02-19T15:11:24Z",
   "features": [
     {
       "type": "Feature",
@@ -2559,6 +2559,7 @@
         "@id": "node/1769238060",
         "bus": "yes",
         "highway": "bus_stop",
+        "operator": "MPSepang",
         "public_transport": "platform"
       },
       "geometry": {
@@ -9935,10 +9936,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5781002253",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "SL283 Stadium MPS (Utara)",
-        "public_transport": "platform"
+        "name": "Dataran Bandar Baru Selayang",
+        "name:ms": "Dataran Bandar Baru Selayang",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL283",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -30153,6 +30163,891 @@
         ]
       },
       "id": "node/9516155683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9518991999",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Lorong Nakhoda 25",
+        "name:ms": "Lorong Nakhoda 25",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL71",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6793367,
+          3.2494242
+        ]
+      },
+      "id": "node/9518991999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9518992507",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Wisma Yati Ahmad",
+        "name:ms": "Wisma Yati Ahmad",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL67",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6753689,
+          3.2498612
+        ]
+      },
+      "id": "node/9518992507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519004088",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Kg Nakhoda",
+        "name:ms": "Masjid Kg Nakhoda",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL72",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6780274,
+          3.2494149
+        ]
+      },
+      "id": "node/9519004088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519016893",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Laksamana (Utara)",
+        "name:ms": "Kg Laksamana (Utara)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL73",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6799278,
+          3.2500463
+        ]
+      },
+      "id": "node/9519016893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519017082",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Azmida Technical College (Opp)",
+        "name:en": "Azmida Technical College (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL75",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6765804,
+          3.2497975
+        ]
+      },
+      "id": "node/9519017082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519017190",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Simpang Masuk Kg Nakhoda",
+        "name:ms": "Simpang Masuk Kg Nakhoda",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL82",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6757251,
+          3.2504922
+        ]
+      },
+      "id": "node/9519017190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519022579",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Baru Sungai Tua (Barat)",
+        "name:ms": "Kampung Baru Sungai Tua (Barat)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6781036,
+          3.2526616
+        ]
+      },
+      "id": "node/9519022579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519035243",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Baru Sg Tua (Timur)",
+        "name:ms": "Kg Baru Sg Tua (Timur)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL78",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6798575,
+          3.2539543
+        ]
+      },
+      "id": "node/9519035243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519035253",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Rumpun Nakhoda Residence",
+        "name:en": "Rumpun Nakhoda Residence",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL70",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6836194,
+          3.2526942
+        ]
+      },
+      "id": "node/9519035253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519039362",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Selayang Mutiara",
+        "name:ms": "Taman Selayang Mutiara",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL64",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6736838,
+          3.2602053
+        ]
+      },
+      "id": "node/9519039362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519041276",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Baru Sungai Tua (Timur)",
+        "name:ms": "Kampung Baru Sungai Tua (Timur)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL68",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6797481,
+          3.2540442
+        ]
+      },
+      "id": "node/9519041276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519048276",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Nakhoda (Timur)",
+        "name:ms": "Kampung Nakhoda (Timur)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL69",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6823609,
+          3.253296
+        ]
+      },
+      "id": "node/9519048276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519049727",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pangsapuri Kenanga",
+        "name:ms": "Pangsapuri Kenanga",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL182",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6860161,
+          3.2513831
+        ]
+      },
+      "id": "node/9519049727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519052638",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hab Wira Damai",
+        "name:en": "Wira Damai Hub",
+        "name:ms": "Hab Wira Damai",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL294",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6845554,
+          3.2517319
+        ]
+      },
+      "id": "node/9519052638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519054849",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Bendahara",
+        "name:ms": "Kg Bendahara",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL63",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6759303,
+          3.2618037
+        ]
+      },
+      "id": "node/9519054849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519057240",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pangsapuri Kenanga (Opp)",
+        "name:ms": "Pangsapuri Kenanga (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL181",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6854635,
+          3.2510733
+        ]
+      },
+      "id": "node/9519057240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519063086",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Selayang Mutiara",
+        "name:ms": "Taman Selayang Mutiara",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL472",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6734851,
+          3.2604182
+        ]
+      },
+      "id": "node/9519063086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519066269",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SRA Sg Tua (Opp)",
+        "name:ms": "SRA Sg Tua (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL57",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6747852,
+          3.2527569
+        ]
+      },
+      "id": "node/9519066269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519066271",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SRA Sg Tua",
+        "name:ms": "SRA Sg Tua",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL66",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.675009,
+          3.2530151
+        ]
+      },
+      "id": "node/9519066271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519071617",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Sg Tua Baru",
+        "name:ms": "Kg Sg Tua Baru",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL58",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6727745,
+          3.256773
+        ]
+      },
+      "id": "node/9519071617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519071619",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Sg Tua Baru",
+        "name:ms": "Kg Sg Tua Baru",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL65",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6731853,
+          3.2563919
+        ]
+      },
+      "id": "node/9519071619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519079732",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Bendahara",
+        "name:ms": "Kg Bendahara",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL60",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6758512,
+          3.2619563
+        ]
+      },
+      "id": "node/9519079732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519079786",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hentian Selayang Mutiara",
+        "name:ms": "Hentian Selayang Mutiara",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6720739,
+          3.2628401
+        ]
+      },
+      "id": "node/9519079786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519081567",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bdr Baru Selayang Fasa 2A",
+        "name:ms": "Bdr Baru Selayang Fasa 2A",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL61",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6785484,
+          3.2630219
+        ]
+      },
+      "id": "node/9519081567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519081569",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bdr Baru Selayang Fasa 2A",
+        "name:ms": "Bdr Baru Selayang Fasa 2A",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL62",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6786947,
+          3.2629561
+        ]
+      },
+      "id": "node/9519081569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519091578",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hab Taman Jasa Utama",
+        "name:ms": "Hab Taman Jasa Utama",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL473",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6814146,
+          3.2689666
+        ]
+      },
+      "id": "node/9519091578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519340007",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Selayang Mutiara 4",
+        "name:ms": "Kg Selayang Mutiara 4",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6665529,
+          3.2593146
+        ]
+      },
+      "id": "node/9519340007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519363300",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SPG Jln Mutiara 6",
+        "name:ms": "SPG Jln Mutiara 6",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6617169,
+          3.2564621
+        ]
+      },
+      "id": "node/9519363300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519365893",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SPG Jln Mutiara 5/7",
+        "name:ms": "SPG Jln Mutiara 5/7",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6620519,
+          3.256723
+        ]
+      },
+      "id": "node/9519365893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519365896",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Selayang Segar 2",
+        "name:ms": "Selayang Segar 2",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6592755,
+          3.2550829
+        ]
+      },
+      "id": "node/9519365896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519365898",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Selayang Segar 1",
+        "name:ms": "Selayang Segar 1",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6589484,
+          3.2550795
+        ]
+      },
+      "id": "node/9519365898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519366215",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Selayang Permai",
+        "name:ms": "Kg Selayang Permai",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.667033,
+          3.2593948
+        ]
+      },
+      "id": "node/9519366215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519382147",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Stadium Selayang",
+        "name:en": "Selayang Stadium",
+        "name:ms": "Stadium Selayang",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL286",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6572104,
+          3.2556384
+        ]
+      },
+      "id": "node/9519382147"
     }
   ]
 }
