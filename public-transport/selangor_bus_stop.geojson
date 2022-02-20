@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-19T15:11:24Z",
+  "timestamp": "2022-02-20T17:58:08Z",
   "features": [
     {
       "type": "Feature",
@@ -5789,8 +5789,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6776013,
-          2.77895
+          101.677747,
+          2.7789364
         ]
       },
       "id": "node/4702087192"
@@ -9918,10 +9918,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5780984854",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "SL282 BALAI BOMBA BANDAR BARU SELAYANG",
-        "public_transport": "platform"
+        "name": "Selayang 18 Residences (Opp)",
+        "name:en": "Selayang 18 Residences (Opp)",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL282",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -31048,6 +31057,683 @@
         ]
       },
       "id": "node/9519382147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520119188",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bomba Bandar Selayang",
+        "name:ms": "Bomba Bandar Selayang",
+        "operator": "Setara Jaya, RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL524",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6559047,
+          3.2546461
+        ]
+      },
+      "id": "node/9520119188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520119190",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Stadium MPS (Barat), Jalan Besar",
+        "name:ms": "Stadium MPS (Barat), Jalan Besar",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL287",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.656402,
+          3.2544942
+        ]
+      },
+      "id": "node/9520119190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520137552",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Selayang 18 Residences",
+        "name:en": "Selayang 18 Residences",
+        "operator": "Setara Jaya, RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL282",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6551408,
+          3.2551124
+        ]
+      },
+      "id": "node/9520137552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520154464",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bulan Beringin Selayang",
+        "name:ms": "Bulan Beringin Selayang",
+        "operator": "Setara Jaya, RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL288",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6579825,
+          3.2508818
+        ]
+      },
+      "id": "node/9520154464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520154466",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bulatan Beringin",
+        "name:ms": "Bulatan Beringin",
+        "operator": "Setara Jaya, RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL293",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6581525,
+          3.2503852
+        ]
+      },
+      "id": "node/9520154466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522202940",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Selayang Indah",
+        "name:ms": "Taman Selayang Indah",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL290",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6628673,
+          3.2496629
+        ]
+      },
+      "id": "node/9522202940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522202942",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Selayang Baru (Barat), Jalan 29",
+        "name:ms": "Selayang Baru (Barat), Jalan 29",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL52",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6642163,
+          3.2497527
+        ]
+      },
+      "id": "node/9522202942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522235131",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Selayang Segar, Jalan Besar",
+        "name:ms": "Taman Selayang Segar, Jalan Besar",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL292",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6599532,
+          3.2515986
+        ]
+      },
+      "id": "node/9522235131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522243107",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Selayang Segar, Jalan Besar",
+        "name:ms": "Taman Selayang Segar, Jalan Besar",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL289",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6600461,
+          3.2517893
+        ]
+      },
+      "id": "node/9522243107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522246491",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Selayang Indah",
+        "name:ms": "Taman Selayang Indah",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL291",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6625816,
+          3.2496011
+        ]
+      },
+      "id": "node/9522246491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522248751",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Selayang Baru, Jalan 11",
+        "name:ms": "SK Selayang Baru, Jalan 11",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL49",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6689271,
+          3.2526946
+        ]
+      },
+      "id": "node/9522248751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522259338",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Selayang Baru, Jalan 42",
+        "name:ms": "SMK Selayang Baru, Jalan 42",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL537",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6663326,
+          3.2523674
+        ]
+      },
+      "id": "node/9522259338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522268893",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Selayang Baru (Utara), Jalan 29",
+        "name:ms": "Selayang Baru (Utara), Jalan 29",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL51",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6667109,
+          3.2509135
+        ]
+      },
+      "id": "node/9522268893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522268895",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Selayang Baru (Utara), Jalan 29",
+        "name:ms": "Selayang Baru (Utara), Jalan 29",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL536",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6665369,
+          3.2509159
+        ]
+      },
+      "id": "node/9522268895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522269336",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Selayang Baru (Barat), Jalan 29",
+        "name:ms": "Selayang Baru (Barat), Jalan 29",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL37",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6642539,
+          3.2498626
+        ]
+      },
+      "id": "node/9522269336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522288197",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Selayang Baru, Jalan 42",
+        "name:ms": "SMK Selayang Baru, Jalan 42",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL50",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6657642,
+          3.253612
+        ]
+      },
+      "id": "node/9522288197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522288199",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Selayang Baru, Jalan 42",
+        "name:ms": "SK Selayang Baru, Jalan 42",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL39",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6656538,
+          3.2537974
+        ]
+      },
+      "id": "node/9522288199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522290941",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Selayang Baru",
+        "name:ms": "Perumahan Selayang Baru",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL46",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6697234,
+          3.2512048
+        ]
+      },
+      "id": "node/9522290941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522296645",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Giant Selayang, Jalan Besar Selayang Baru",
+        "name:ms": "Giant Selayang, Jalan Besar Selayang Baru",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL34",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6714108,
+          3.2466369
+        ]
+      },
+      "id": "node/9522296645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522296647",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Giant Selayang, Jalan Besar Selayang Baru",
+        "name:ms": "Giant Selayang, Jalan Besar Selayang Baru",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL55",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6712036,
+          3.2466175
+        ]
+      },
+      "id": "node/9522296647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522298660",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Balai Polis Selayang Baru",
+        "name:en": "Selayang Baru Police Station",
+        "name:ms": "Balai Polis Selayang Baru",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL45",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6713041,
+          3.2480998
+        ]
+      },
+      "id": "node/9522298660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522298662",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Balai Polis Selayang Baru",
+        "name:en": "Selayang Baru Police Station",
+        "name:ms": "Balai Polis Selayang Baru",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL44",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.671405,
+          3.2481926
+        ]
+      },
+      "id": "node/9522298662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522299308",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Selayang Baru",
+        "name:ms": "Perumahan Selayang Baru",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL43",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6704791,
+          3.2499859
+        ]
+      },
+      "id": "node/9522299308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522301228",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pos Malaysia Selayang Baru, Jalan Besar Selayang Baru",
+        "name:ms": "Pos Malaysia Selayang Baru, Jalan Besar Selayang Baru",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL538",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6691934,
+          3.2448845
+        ]
+      },
+      "id": "node/9522301228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522301230",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pos Malaysia Selayang Baru, Jalan Besar Selayang Baru",
+        "name:ms": "Pos Malaysia Selayang Baru, Jalan Besar Selayang Baru",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL533",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6689776,
+          3.2449309
+        ]
+      },
+      "id": "node/9522301230"
     }
   ]
 }
