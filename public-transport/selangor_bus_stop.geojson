@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-20T17:58:08Z",
+  "timestamp": "2022-02-22T04:13:33Z",
   "features": [
     {
       "type": "Feature",
@@ -4409,8 +4409,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.591751,
-          3.3054131
+          101.59176,
+          3.3054459
         ]
       },
       "id": "node/2542651606"
@@ -20381,17 +20381,24 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8114303240",
-        "bench": "yes",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Taman Bersatu",
+        "name:ms": "Taman Bersatu",
+        "operator": "Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5813299,
-          3.3057887
+          101.5808005,
+          3.3052945
         ]
       },
       "id": "node/8114303240"
@@ -24824,8 +24831,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5882789,
-          3.3300575
+          101.5882541,
+          3.3300621
         ]
       },
       "id": "node/9473347279"
@@ -31734,6 +31741,438 @@
         ]
       },
       "id": "node/9522301230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9525917297",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "MPS",
+        "name:ms": "MPS",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL277",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6527448,
+          3.2540825
+        ]
+      },
+      "id": "node/9525917297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9525917299",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Apt Dahlia Blok B",
+        "name:ms": "Apt Dahlia Blok B",
+        "operator": "Setara Jaya, RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL268",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6506834,
+          3.2523757
+        ]
+      },
+      "id": "node/9525917299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9525917302",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Apt Dahlia Blok B",
+        "name:ms": "Apt Dahlia Blok B",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL276",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.650587,
+          3.2523925
+        ]
+      },
+      "id": "node/9525917302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9525966145",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Menara MPS, Persiaran 3",
+        "name:ms": "Menara MPS, Persiaran 3",
+        "operator": "Setara Jaya, RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL267",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6528422,
+          3.2537094
+        ]
+      },
+      "id": "node/9525966145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9525969535",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Apt Dahlia Blok A",
+        "name:ms": "Apt Dahlia Blok A",
+        "operator": "Setara Jaya, RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL272",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6477239,
+          3.2526882
+        ]
+      },
+      "id": "node/9525969535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9525969537",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Apt Dahlia Blok A",
+        "name:ms": "Apt Dahlia Blok A",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL273",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6479692,
+          3.2531318
+        ]
+      },
+      "id": "node/9525969537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9525975684",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Apartment Dahlia (A), Bandar Baru Selayang",
+        "name:ms": "Apartment Dahlia (A), Bandar Baru Selayang",
+        "operator": "Setara Jaya, RapidKL",
+        "public_transport": "platform",
+        "ref": "SL273",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6477746,
+          3.254498
+        ]
+      },
+      "id": "node/9525975684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9525975686",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Puncak Templer",
+        "name:ms": "Puncak Templer",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL527",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6476819,
+          3.2568366
+        ]
+      },
+      "id": "node/9525975686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9525975688",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Puncak Templer",
+        "name:ms": "Puncak Templer",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL526",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6478539,
+          3.2568632
+        ]
+      },
+      "id": "node/9525975688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9525983183",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Majlis Peperiksaan MSIA",
+        "name:ms": "Majlis Peperiksaan MSIA",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL278",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6526344,
+          3.2609055
+        ]
+      },
+      "id": "node/9525983183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9525983185",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Majlis Peperiksaan MSIA",
+        "name:ms": "Majlis Peperiksaan MSIA",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL281",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6528661,
+          3.2608825
+        ]
+      },
+      "id": "node/9525983185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9525987805",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Ki Park Selayang",
+        "name:en": "Ki Park Selayang",
+        "name:ms": "Ki Park Selayang",
+        "operator": "Setara Jaya, RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL528",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6516526,
+          3.2593472
+        ]
+      },
+      "id": "node/9525987805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9525987807",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Ki Park Selayang",
+        "name:en": "Ki Park Selayang",
+        "name:ms": "Ki Park Selayang",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL525",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6519481,
+          3.2591708
+        ]
+      },
+      "id": "node/9525987807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9526021287",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Pinggiran Templer (Utara), Persiaran 1",
+        "name:ms": "Taman Pinggiran Templer (Utara), Persiaran 1",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL279",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6518918,
+          3.2616274
+        ]
+      },
+      "id": "node/9526021287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9526021289",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pejabat Tanah Daerah Gombak",
+        "name:ms": "Pejabat Tanah Daerah Gombak",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6529986,
+          3.2627886
+        ]
+      },
+      "id": "node/9526021289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9526037639",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Bersatu",
+        "name:ms": "Taman Bersatu",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5805304,
+          3.3052373
+        ]
+      },
+      "id": "node/9526037639"
     }
   ]
 }
