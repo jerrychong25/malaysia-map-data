@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-22T04:13:33Z",
+  "timestamp": "2022-02-23T03:05:52Z",
   "features": [
     {
       "type": "Feature",
@@ -1982,6 +1982,7 @@
         "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
+        "route_ref": "T640",
         "shelter": "yes"
       },
       "geometry": {
@@ -2070,6 +2071,7 @@
         "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
+        "route_ref": "T640",
         "shelter": "yes"
       },
       "geometry": {
@@ -2085,15 +2087,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1534989991",
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T640",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6413857,
-          3.0979592
+          101.6413884,
+          3.0980355
         ]
       },
       "id": "node/1534989991"
@@ -2102,9 +2108,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1538247492",
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "route_ref": "T640",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -5043,6 +5052,7 @@
         "highway": "bus_stop",
         "name": "PJ Walk",
         "public_transport": "platform",
+        "route_ref": "T640",
         "shelter": "yes",
         "source": "MBPJ Broucher"
       },
@@ -10123,6 +10133,7 @@
         "highway": "bus_stop",
         "passenger_information_display": "no",
         "public_transport": "platform",
+        "route_ref": "T640",
         "shelter": "yes"
       },
       "geometry": {
@@ -10162,6 +10173,7 @@
         "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
+        "route_ref": "T640",
         "shelter": "yes"
       },
       "geometry": {
@@ -10182,6 +10194,7 @@
         "highway": "bus_stop",
         "passenger_information_display": "no",
         "public_transport": "platform",
+        "route_ref": "T640",
         "shelter": "yes"
       },
       "geometry": {
@@ -11850,17 +11863,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7202926743",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Perhentian Bas Jalan SU9",
+        "name": "Perhentian Bas Jalan SU9 (Selayang Mall)",
+        "name:ms": "Perhentian Bas Jalan SU9 (Selayang Mall)",
         "operator": "Majlis Perbandaran Selayang",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "ref": "SL100",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6439982,
-          3.2366985
+          101.64408,
+          3.2366126
         ]
       },
       "id": "node/7202926743"
@@ -21631,6 +21652,7 @@
         "highway": "bus_stop",
         "passenger_information_display": "yes",
         "public_transport": "platform",
+        "route_ref": "T640",
         "shelter": "no"
       },
       "geometry": {
@@ -32173,6 +32195,780 @@
         ]
       },
       "id": "node/9526037639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9527493208",
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "route_ref": "T640",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6521744,
+          3.0869096
+        ]
+      },
+      "id": "node/9527493208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528589902",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Surau Firdaus Taman Bidara",
+        "name:ms": "Surau Firdaus Taman Bidara",
+        "operator": "Setara Jaya, RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL515",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.644177,
+          3.2418621
+        ]
+      },
+      "id": "node/9528589902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528589904",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Surau Al-Firdaus, Taman Bidara",
+        "name:ms": "Surau Al-Firdaus, Taman Bidara",
+        "operator": "Setara Jaya, RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL516",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6441331,
+          3.2414686
+        ]
+      },
+      "id": "node/9528589904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528607341",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Selayang Jaya, Jalan SJ 24",
+        "name:ms": "SK Selayang Jaya, Jalan SJ 24",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL98",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6483918,
+          3.2366053
+        ]
+      },
+      "id": "node/9528607341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528607343",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Selayang Jaya, Jalan SJ/14",
+        "name:ms": "SK Selayang Jaya, Jalan SJ/14",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL97",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6482945,
+          3.2364762
+        ]
+      },
+      "id": "node/9528607343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528611875",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Bidara (Utara)",
+        "name:ms": "Taman Bidara (Utara)",
+        "operator": "Setara Jaya, RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL17",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6432015,
+          3.2435718
+        ]
+      },
+      "id": "node/9528611875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528611877",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Bidara (Utara)",
+        "name:ms": "Taman Bidara (Utara)",
+        "operator": "Setara Jaya, RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL22",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6435515,
+          3.2432015
+        ]
+      },
+      "id": "node/9528611877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528628450",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pangsapuri Merak",
+        "name:ms": "Pangsapuri Merak",
+        "operator": "Setara Jaya, RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL18",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.641677,
+          3.2466333
+        ]
+      },
+      "id": "node/9528628450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528628452",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pangsapuri Merak",
+        "name:ms": "Pangsapuri Merak",
+        "operator": "Setara Jaya, RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL21",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6421832,
+          3.2464175
+        ]
+      },
+      "id": "node/9528628452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528637436",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "IPD Gombak, Jalan Bidara",
+        "name:ms": "IPD Gombak, Jalan Bidara",
+        "operator": "Setara Jaya, RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL19",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.641296,
+          3.2514397
+        ]
+      },
+      "id": "node/9528637436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528637438",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "IPD Gombak, Jalan Bidara",
+        "name:ms": "IPD Gombak, Jalan Bidara",
+        "operator": "Setara Jaya, RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL20",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6413223,
+          3.2508463
+        ]
+      },
+      "id": "node/9528637438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528637663",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Selayang Utama",
+        "name:ms": "SK Selayang Utama",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL523",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6410535,
+          3.235529
+        ]
+      },
+      "id": "node/9528637663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528650451",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hospital Selayang",
+        "name:en": "Selayang Hospital",
+        "name:ms": "Hospital Selayang",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL24",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6480514,
+          3.2412684
+        ]
+      },
+      "id": "node/9528650451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528650453",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kompleks Selayang Capitol",
+        "name:ms": "Kompleks Selayang Capitol",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL27",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6478741,
+          3.2408857
+        ]
+      },
+      "id": "node/9528650453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528652873",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Ideal Convention Centre",
+        "name:en": "Ideal Convention Centre",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL25",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6532998,
+          3.2450045
+        ]
+      },
+      "id": "node/9528652873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528652875",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Magna Ville Condominium",
+        "name:en": "Magna Ville Condominium",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL26",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6528258,
+          3.2438483
+        ]
+      },
+      "id": "node/9528652875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528653847",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Selayang Jaya (Barat)",
+        "name:ms": "Taman Selayang Jaya (Barat)",
+        "operator": "Setara Jaya, RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL514",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6468752,
+          3.236593
+        ]
+      },
+      "id": "node/9528653847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528653849",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Selayang Jaya",
+        "name:ms": "Taman Selayang Jaya",
+        "operator": "Setara Jaya, RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL510",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6469979,
+          3.2365201
+        ]
+      },
+      "id": "node/9528653849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528660491",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Selayang (Barat)",
+        "name:ms": "Taman Selayang (Barat)",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL517",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6413825,
+          3.2355233
+        ]
+      },
+      "id": "node/9528660491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528660498",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Daya, Jalan Kepong",
+        "name:ms": "Taman Daya, Jalan Kepong",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6378458,
+          3.2244337
+        ]
+      },
+      "id": "node/9528660498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528665273",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Selayang Utam (Utara), Jalan Taman Selayang Jaya",
+        "name:ms": "Taman Selayang Utam (Utara), Jalan Taman Selayang Jaya",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL91",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6466772,
+          3.2390081
+        ]
+      },
+      "id": "node/9528665273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528665275",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Selayang Jaya (Barat), Jalan Taman Selayang Jaya",
+        "name:ms": "Taman Selayang Jaya (Barat), Jalan Taman Selayang Jaya",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6465714,
+          3.2388684
+        ]
+      },
+      "id": "node/9528665275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528665732",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Selayang Jaya (Timur), Jalan SJ 14",
+        "name:ms": "Taman Selayang Jaya (Timur), Jalan SJ 14",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL92",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6523956,
+          3.2380114
+        ]
+      },
+      "id": "node/9528665732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528665734",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Selayang Jaya (Timur), Jalan SJ/14",
+        "name:ms": "Taman Selayang Jaya (Timur), Jalan SJ/14",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL96",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6524959,
+          3.2379235
+        ]
+      },
+      "id": "node/9528665734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528666504",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Selayang Utama (Timur), Jalan SU 11",
+        "name:ms": "Taman Selayang Utama (Timur), Jalan SU 11",
+        "operator": "Setara Jaya, RapidKL",
+        "public_transport": "platform",
+        "ref": "SL512",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6456579,
+          3.2361158
+        ]
+      },
+      "id": "node/9528666504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528666506",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Selayang Jaya (Barat), Jalan SJ 27",
+        "name:ms": "Taman Selayang Jaya (Barat), Jalan SJ 27",
+        "operator": "Setara Jaya, RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL510",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6451983,
+          3.2363868
+        ]
+      },
+      "id": "node/9528666506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528666508",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Selayang Mall (Opp)",
+        "name:en": "Selayang Mall (Opp)",
+        "operator": "Setara Jaya, RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL511",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6445981,
+          3.2363268
+        ]
+      },
+      "id": "node/9528666508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528693226",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Paragon Utama",
+        "name:ms": "Paragon Utama",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL639",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6408113,
+          3.2334868
+        ]
+      },
+      "id": "node/9528693226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528693228",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kuarters Frim",
+        "name:ms": "Kuarters Frim",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL634",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6404586,
+          3.2335163
+        ]
+      },
+      "id": "node/9528693228"
     }
   ]
 }
