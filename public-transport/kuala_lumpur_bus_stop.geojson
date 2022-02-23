@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-16T06:59:52Z",
+  "timestamp": "2022-02-23T03:14:08Z",
   "features": [
     {
       "type": "Feature",
@@ -209,29 +209,78 @@
         "coordinates": [
           [
             [
-              101.6602038,
-              3.1291187
+              101.6602287,
+              3.1291215
             ],
             [
-              101.6602009,
-              3.1290606
+              101.6602258,
+              3.1290634
             ],
             [
-              101.6602214,
-              3.1290596
+              101.6602463,
+              3.1290624
             ],
             [
-              101.6602244,
-              3.1291177
+              101.6602493,
+              3.1291205
             ],
             [
-              101.6602038,
-              3.1291187
+              101.6602287,
+              3.1291215
             ]
           ]
         ]
       },
       "id": "way/996006445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1031964084",
+        "building": "roof",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "layer": "1",
+        "name": "KTM Angkasapuri",
+        "network": "821;782;T791;BET3;BET4;PINK",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1803",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.6735228,
+              3.1123593
+            ],
+            [
+              101.6735465,
+              3.112304
+            ],
+            [
+              101.6735634,
+              3.1123113
+            ],
+            [
+              101.6735397,
+              3.1123666
+            ],
+            [
+              101.6735345,
+              3.1123643
+            ],
+            [
+              101.6735228,
+              3.1123593
+            ]
+          ]
+        ]
+      },
+      "id": "way/1031964084"
     },
     {
       "type": "Feature",
@@ -425,16 +474,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1694618538",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "FRIM",
-        "public_transport": "platform"
+        "name:en": "FRIM",
+        "name:ms": "FRIM",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL16",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6376462,
-          3.2277167
+          101.6376684,
+          3.2277099
         ]
       },
       "id": "node/1694618538"
@@ -1430,9 +1489,14 @@
         "@id": "node/2444293788",
         "bench": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Masjid Ar-Rahman, UM",
+        "network": "750;751;772;780;T789;PINK",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
+        "ref": "KL1102",
         "shelter": "yes"
       },
       "geometry": {
@@ -8625,8 +8689,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6621945,
-          3.1142117
+          101.6622567,
+          3.1142417
         ]
       },
       "id": "node/6991649225"
@@ -9900,8 +9964,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7295527,
-          3.2070588
+          101.7295072,
+          3.207002
         ]
       },
       "id": "node/7319259056"
@@ -13810,8 +13874,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.659977,
-          3.1246882
+          101.6599799,
+          3.1246811
         ]
       },
       "id": "node/9197001766"
@@ -19852,6 +19916,240 @@
         ]
       },
       "id": "node/9509801014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9527493193",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T640",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6545951,
+          3.0769181
+        ]
+      },
+      "id": "node/9527493193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9527493194",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T640",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6563372,
+          3.0772931
+        ]
+      },
+      "id": "node/9527493194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9527493195",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Taman Sri Sentosa (Utara)",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "KL2159",
+        "route_ref": "640",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6547078,
+          3.0770855
+        ]
+      },
+      "id": "node/9527493195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9527493196",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "640",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6562863,
+          3.0774364
+        ]
+      },
+      "id": "node/9527493196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9527493204",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T640",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6600347,
+          3.0781983
+        ]
+      },
+      "id": "node/9527493204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9527493205",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Taman Sri Sentosa (Timur)",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "KL1391",
+        "route_ref": "640",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6617325,
+          3.0796875
+        ]
+      },
+      "id": "node/9527493205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9527493206",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Taman Sri Sentosa (Timur)",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "KL1368",
+        "route_ref": "640;T640",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6618532,
+          3.0798937
+        ]
+      },
+      "id": "node/9527493206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9527493207",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T640",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6608983,
+          3.0822199
+        ]
+      },
+      "id": "node/9527493207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528660494",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "FRIM",
+        "name:en": "FRIM",
+        "name:ms": "FRIM",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL518",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6378964,
+          3.2276566
+        ]
+      },
+      "id": "node/9528660494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528660496",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Petronas Taman Kepong Indah, Jalan 2/1",
+        "name:ms": "Petronas Taman Kepong Indah, Jalan 2/1",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6387922,
+          3.2244991
+        ]
+      },
+      "id": "node/9528660496"
     }
   ]
 }
