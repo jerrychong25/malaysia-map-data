@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-23T03:05:52Z",
+  "timestamp": "2022-02-24T03:10:34Z",
   "features": [
     {
       "type": "Feature",
@@ -10211,16 +10211,24 @@
       "properties": {
         "@id": "node/5975879934",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Medan Selera Pinggiran",
+        "name:ms": "Medan Selera Pinggiran",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "SL189",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6940324,
-          3.2547516
+          101.6940192,
+          3.2547431
         ]
       },
       "id": "node/5975879934"
@@ -32969,6 +32977,573 @@
         ]
       },
       "id": "node/9528693228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9531229298",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pangsapuri Cempaka",
+        "name:ms": "Pangsapuri Cempaka",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL183",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6891419,
+          3.2514453
+        ]
+      },
+      "id": "node/9531229298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9531229305",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Apartment Saujana",
+        "name:ms": "Apartment Saujana",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL180",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6888953,
+          3.2513281
+        ]
+      },
+      "id": "node/9531229305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9531250709",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Seri Gombak Fasa 10",
+        "name:en": "Seri Gombak Garden Phase 10",
+        "name:ms": "Taman Seri Gombak Fasa 10",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL204",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6971218,
+          3.2492899
+        ]
+      },
+      "id": "node/9531250709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9531255592",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Flat Taman Pinggiran",
+        "name:ms": "Flat Taman Pinggiran",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL192",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6944148,
+          3.25038
+        ]
+      },
+      "id": "node/9531255592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9531255594",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Flat Pinggiran",
+        "name:ms": "Flat Pinggiran",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL177",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6943484,
+          3.2502419
+        ]
+      },
+      "id": "node/9531255594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9531257389",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pinggiran Bt Caves (Selatan)",
+        "name:ms": "Pinggiran Bt Caves (Selatan)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL185",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6938251,
+          3.2520075
+        ]
+      },
+      "id": "node/9531257389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9531257391",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pinggiran Bt Caves (Selatan)",
+        "name:ms": "Pinggiran Bt Caves (Selatan)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL191",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6939384,
+          3.2525524
+        ]
+      },
+      "id": "node/9531257391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9531261384",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Tasik Sri Gombak",
+        "name:ms": "Taman Tasik Sri Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL202",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7014493,
+          3.2487481
+        ]
+      },
+      "id": "node/9531261384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9531261386",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Tasik Sri Gombak",
+        "name:ms": "Taman Tasik Sri Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL195",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7014433,
+          3.2488452
+        ]
+      },
+      "id": "node/9531261386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9531265140",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Melayu Wira Damai",
+        "name:ms": "Kg Melayu Wira Damai",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL184",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6918043,
+          3.2504344
+        ]
+      },
+      "id": "node/9531265140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9531265142",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Melayu Wira Damai",
+        "name:ms": "Kg Melayu Wira Damai",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL179",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6917387,
+          3.2502586
+        ]
+      },
+      "id": "node/9531265142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9531268394",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pangsapuri Saujana Gombak",
+        "name:ms": "Pangsapuri Saujana Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL309",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6931459,
+          3.2504692
+        ]
+      },
+      "id": "node/9531268394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9531268396",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Melayu Wira Damai",
+        "name:ms": "Kg Melayu Wira Damai",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL178",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6930776,
+          3.2503081
+        ]
+      },
+      "id": "node/9531268396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9531272084",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Taman Sri Gombak (Timur)",
+        "name:ms": "Perumahan Taman Sri Gombak (Timur)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL201",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7033003,
+          3.2500217
+        ]
+      },
+      "id": "node/9531272084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9531272086",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Taman Sri Gombak (Timur)",
+        "name:ms": "Perumahan Taman Sri Gombak (Timur)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL196",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7031146,
+          3.2500598
+        ]
+      },
+      "id": "node/9531272086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9531272088",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Rumah No 25",
+        "name:ms": "Rumah No 25",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7044513,
+          3.2495456
+        ]
+      },
+      "id": "node/9531272088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9531284084",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Medan Selera Pinggiran",
+        "name:ms": "Medan Selera Pinggiran",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL786",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6938922,
+          3.2542551
+        ]
+      },
+      "id": "node/9531284084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9531286455",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Sri Gombak Fasa 9",
+        "name:ms": "Perumahan Sri Gombak Fasa 9",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL203",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6991644,
+          3.2492438
+        ]
+      },
+      "id": "node/9531286455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9531286457",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Sri Gombak Fasa 9",
+        "name:ms": "Perumahan Sri Gombak Fasa 9",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL194",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6996616,
+          3.249223
+        ]
+      },
+      "id": "node/9531286457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9531301423",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Tasik Sri Gombak Fasa 8",
+        "name:ms": "Tasik Sri Gombak Fasa 8",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL197",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7056,
+          3.2486863
+        ]
+      },
+      "id": "node/9531301423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9531301424",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Tasik Sri Gombak Fasa 8",
+        "name:ms": "Tasik Sri Gombak Fasa 8",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL200",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7055037,
+          3.2485901
+        ]
+      },
+      "id": "node/9531301424"
     }
   ]
 }
