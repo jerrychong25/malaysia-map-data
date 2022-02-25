@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-24T03:15:00Z",
+  "timestamp": "2022-02-25T03:01:47Z",
   "features": [
     {
       "type": "Feature",
@@ -32833,9 +32833,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4820085121",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Taman Wangsa Permai/Cocomart",
+        "name:ms": "Taman Wangsa Permai/Cocomart",
+        "operator": "Selangor Bus, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL316",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -86367,11 +86377,19 @@
       "properties": {
         "@id": "node/8120639497",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Taman Ehsan (Timur), Jalan Ehsan Utama",
+        "name:ms": "Taman Ehsan (Timur), Jalan Ehsan Utama",
+        "operator": "Selangor Bus, Smart Selangor",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "SL6",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -86387,10 +86405,19 @@
       "properties": {
         "@id": "node/8120644109",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Taman Ehsan (Selatan)",
+        "name:en": "Ehsan Garden (South)",
+        "name:ms": "Taman Ehsan (Selatan)",
+        "operator": "Selangor Bus, Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "SL7",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -113043,6 +113070,728 @@
         ]
       },
       "id": "node/9531301424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533631993",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Desa Jaya (Barat), Jalan 5",
+        "name:ms": "Desa Jaya (Barat), Jalan 5",
+        "operator": "Selangor Bus",
+        "public_transport": "platform",
+        "ref": "SL4",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6280823,
+          3.2196283
+        ]
+      },
+      "id": "node/9533631993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533631995",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bomba Sukarelawan, Jalan 5",
+        "name:ms": "Bomba Sukarelawan, Jalan 5",
+        "operator": "Selangor Bus",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6286646,
+          3.2193737
+        ]
+      },
+      "id": "node/9533631995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533642924",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pasar Moden Taman Ehsan",
+        "name:ms": "Pasar Moden Taman Ehsan",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL629",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6248572,
+          3.2209704
+        ]
+      },
+      "id": "node/9533642924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533642927",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Padang Bola Taman Ehsan",
+        "name:en": "Ehsan Garden Football Field",
+        "name:ms": "Padang Bola Taman Ehsan",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL628",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.621939,
+          3.2188269
+        ]
+      },
+      "id": "node/9533642927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533643237",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Taman Ehsan Jln E5/2",
+        "name:ms": "Perumahan Taman Ehsan Jln E5/2",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6312736,
+          3.2239527
+        ]
+      },
+      "id": "node/9533643237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533643239",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Taman Ehsan Jln E5/1",
+        "name:ms": "Perumahan Taman Ehsan Jln E5/1",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL631",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6309479,
+          3.2241784
+        ]
+      },
+      "id": "node/9533643239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533643241",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Taman Ehsan Jln E5/2",
+        "name:ms": "Perumahan Taman Ehsan Jln E5/2",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6279118,
+          3.2229529
+        ]
+      },
+      "id": "node/9533643241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533643243",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Taman Ehsan Jln E5/1",
+        "name:ms": "Perumahan Taman Ehsan Jln E5/1",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL630",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6277131,
+          3.2230117
+        ]
+      },
+      "id": "node/9533643243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533643245",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pusat Pemulihan Komuniti Taman Ehsan, Jalan 5",
+        "name:ms": "Pusat Pemulihan Komuniti Taman Ehsan, Jalan 5",
+        "operator": "Selangor Bus",
+        "public_transport": "platform",
+        "ref": "SL5",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6263673,
+          3.2207527
+        ]
+      },
+      "id": "node/9533643245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533643247",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "MCA Taman Ehsan, Jalan 5",
+        "name:ms": "MCA Taman Ehsan, Jalan 5",
+        "operator": "Selangor Bus",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6265468,
+          3.2207956
+        ]
+      },
+      "id": "node/9533643247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533644865",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Ehsan (Barat), Jalan Ehsan Utama",
+        "name:ms": "Taman Ehsan (Barat), Jalan Ehsan Utama",
+        "operator": "Selangor Bus",
+        "public_transport": "platform",
+        "ref": "SL11",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6195154,
+          3.2188299
+        ]
+      },
+      "id": "node/9533644865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533644867",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Ehsan (Utara), Jalan Ehsan Utama",
+        "name:ms": "Taman Ehsan (Utara), Jalan Ehsan Utama",
+        "operator": "Selangor Bus",
+        "public_transport": "platform",
+        "ref": "SL12",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6201521,
+          3.2221353
+        ]
+      },
+      "id": "node/9533644867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533644869",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Ehsan, Jalan Ehsan Utama",
+        "name:ms": "Taman Ehsan, Jalan Ehsan Utama",
+        "operator": "Selangor Bus",
+        "public_transport": "platform",
+        "ref": "SL14",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6227044,
+          3.2235893
+        ]
+      },
+      "id": "node/9533644869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533644871",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pusat Komersial Taman Ehsan, Jalan Ehsan Utama",
+        "name:ms": "Pusat Komersial Taman Ehsan, Jalan Ehsan Utama",
+        "operator": "Selangor Bus",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6247324,
+          3.2225845
+        ]
+      },
+      "id": "node/9533644871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533651720",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "BHP Petrol, Jalan 5",
+        "name:ms": "BHP Petrol, Jalan 5",
+        "operator": "Selangor Bus",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6306933,
+          3.2168676
+        ]
+      },
+      "id": "node/9533651720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533651722",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Desa Jaya (Timur), Jalan 5",
+        "name:ms": "Desa Jaya (Timur), Jalan 5",
+        "operator": "Selangor Bus",
+        "public_transport": "platform",
+        "ref": "SL541",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6304874,
+          3.2168205
+        ]
+      },
+      "id": "node/9533651722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533653054",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Kepong Ulu",
+        "name:ms": "Kg Kepong Ulu",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6336846,
+          3.2248119
+        ]
+      },
+      "id": "node/9533653054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533653056",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Kepong Ulu",
+        "name:ms": "Kg Kepong Ulu",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL632",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6331008,
+          3.2245317
+        ]
+      },
+      "id": "node/9533653056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533659952",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Amanpuri",
+        "name:ms": "SK Amanpuri",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL623",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6138212,
+          3.2162537
+        ]
+      },
+      "id": "node/9533659952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533659954",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Apartment Desa Satu",
+        "name:ms": "Apartment Desa Satu",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL624",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6149365,
+          3.2141084
+        ]
+      },
+      "id": "node/9533659954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533659956",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Apartment Desa Dua",
+        "name:ms": "Apartment Desa Dua",
+        "operator": "Selangor Bus, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL1",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6156416,
+          3.212375
+        ]
+      },
+      "id": "node/9533659956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533659958",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Desa Aman Puri (Utara)",
+        "name:ms": "Desa Aman Puri (Utara)",
+        "operator": "Selangor Bus, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL2",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6169137,
+          3.2113474
+        ]
+      },
+      "id": "node/9533659958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533666535",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Desa Aman Putri (Selatan), Persiaran Cemara",
+        "name:ms": "Desa Aman Putri (Selatan), Persiaran Cemara",
+        "operator": "Selangor Bus",
+        "public_transport": "platform",
+        "ref": "SL545",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.615195,
+          3.208548
+        ]
+      },
+      "id": "node/9533666535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533666537",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Desa Aman Puri (Selatan)",
+        "name:ms": "Desa Aman Puri (Selatan)",
+        "operator": "Selangor Bus, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL312",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6149371,
+          3.2087667
+        ]
+      },
+      "id": "node/9533666537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533666539",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Wangsa Permai, Jalan Aman",
+        "name:ms": "Taman Wangsa Permai, Jalan Aman",
+        "operator": "Selangor Bus",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6136397,
+          3.2092372
+        ]
+      },
+      "id": "node/9533666539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533666541",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Aman Dua Apartment Taman Wangsa Permai, Jalan Aman",
+        "name:ms": "Aman Dua Apartment Taman Wangsa Permai, Jalan Aman",
+        "operator": "Selangor Bus",
+        "public_transport": "platform",
+        "ref": "SL546",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6136349,
+          3.2090418
+        ]
+      },
+      "id": "node/9533666541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533666543",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Wangsa Permai/Cocomart (Opp)",
+        "name:ms": "Taman Wangsa Permai/Cocomart (Opp)",
+        "operator": "Selangor Bus, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL209",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6113756,
+          3.2082656
+        ]
+      },
+      "id": "node/9533666543"
     }
   ]
 }
