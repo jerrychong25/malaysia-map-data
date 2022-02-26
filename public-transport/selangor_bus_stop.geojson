@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-25T02:58:43Z",
+  "timestamp": "2022-02-26T03:56:07Z",
   "features": [
     {
       "type": "Feature",
@@ -34293,6 +34293,223 @@
         ]
       },
       "id": "node/9533666543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9536046046",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "8TRIUM Damansara (Opp)",
+        "name:en": "8TRIUM Damansara (Opp)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ642",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6109053,
+          3.1979367
+        ]
+      },
+      "id": "node/9536046046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9536046048",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "8TRIUM Damansara",
+        "name:en": "8TRIUM Damansara",
+        "name:ms": "8TRIUM Damansara",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ649",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6107444,
+          3.1973268
+        ]
+      },
+      "id": "node/9536046048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9536054738",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Mas Kipark Damansara",
+        "name:en": "Mas Kipark Damansara",
+        "name:ms": "Mas Kipark Damansara",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL616",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6085637,
+          3.2069529
+        ]
+      },
+      "id": "node/9536054738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9536054740",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hab Bas Kipark, Persiaran KIP Utama",
+        "name:ms": "Hab Bas Kipark, Persiaran KIP Utama",
+        "operator": "Selangor Bus, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL315",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6071961,
+          3.2070222
+        ]
+      },
+      "id": "node/9536054740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9536054742",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Damansara Suria,Kipark , Persiaran Kip Utama",
+        "name:ms": "Damansara Suria,Kipark , Persiaran Kip Utama",
+        "operator": "Selangor Bus",
+        "public_transport": "platform",
+        "ref": "SL548",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.607677,
+          3.2057935
+        ]
+      },
+      "id": "node/9536054742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9536054744",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Damansara Suria, Kipark, Persiaran Kip Utama",
+        "name:ms": "Damansara Suria, Kipark, Persiaran Kip Utama",
+        "operator": "Selangor Bus",
+        "public_transport": "platform",
+        "ref": "SL314",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6077947,
+          3.2049432
+        ]
+      },
+      "id": "node/9536054744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9536067046",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sri Cemara Flat, Persiaran Cemara",
+        "name:ms": "Sri Cemara Flat, Persiaran Cemara",
+        "operator": "Selangor Bus",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6176594,
+          3.2058482
+        ]
+      },
+      "id": "node/9536067046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9536067048",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Flat Sri Cemara, Persiaran Cemara",
+        "name:ms": "Flat Sri Cemara, Persiaran Cemara",
+        "operator": "Selangor Bus",
+        "public_transport": "platform",
+        "ref": "PJ640",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6174441,
+          3.2056367
+        ]
+      },
+      "id": "node/9536067048"
     }
   ]
 }
