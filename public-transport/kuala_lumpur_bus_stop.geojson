@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-26T04:00:06Z",
+  "timestamp": "2022-02-27T08:29:33Z",
   "features": [
     {
       "type": "Feature",
@@ -2968,10 +2968,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4264465251",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Taman Duta",
-        "public_transport": "platform"
+        "name": "Kedutaan India",
+        "name:en": "India Embassy",
+        "name:ms": "Kedutaan India",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1507",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
@@ -5850,13 +5860,21 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5485956523",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Kampung Chubadak Hulu (Selatan)",
+        "name": "Kg Chubadak Hulu (Selatan)",
+        "name:ms": "Kg Chubadak Hulu (Selatan)",
         "network": "170;172;201",
+        "operator": "RapidKL",
         "public_transport": "platform",
         "ref": "KL989",
-        "source": "https://www.mapillary.com/app/?pKey=530728601278188&focus=photo"
+        "shelter": "yes",
+        "source": "https://www.mapillary.com/app/?pKey=530728601278188&focus=photo",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -6970,11 +6988,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5751031925",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "BUKIT TUNKU (UTARA)",
+        "name": "Bukit Tunku (Utara)",
+        "name:ms": "Bukit Tunku (Utara)",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "ref": "KL 1033"
+        "ref": "KL1033",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
@@ -6989,17 +7015,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5751056721",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "TIJANI2 BUKIT TUNKU",
+        "name": "Tijani 2 Bukit Tunku",
+        "name:ms": "Tijani 2 Bukit Tunku",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "ref": "KL 2049"
+        "ref": "KL2049",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6819243,
-          3.171613
+          101.6818784,
+          3.1715717
         ]
       },
       "id": "node/5751056721"
@@ -7008,17 +7042,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5751062821",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "KOMPLEKS SUKAN NEGARA",
+        "name": "Kompleks Sukan Negara",
+        "name:ms": "Kompleks Sukan Negara",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "ref": "KL 1034"
+        "ref": "KL1034",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6775611,
-          3.1746455
+          101.6775244,
+          3.1746707
         ]
       },
       "id": "node/5751062821"
@@ -7307,16 +7349,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5824914654",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "KL992 KAMPUNG CHUBADAK TAMBAHAN",
-        "public_transport": "platform"
+        "name": "Kg Chubadak Tambahan",
+        "name:ms": "Kg Chubadak Tambahan",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL992",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6927186,
-          3.1998711
+          101.6928151,
+          3.199894
         ]
       },
       "id": "node/5824914654"
@@ -8368,17 +8419,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6404221905",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "1 Mont Kiara",
+        "name:en": "1 Mont Kiara",
+        "name:ms": "1 Mont Kiara",
+        "network": "T852",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "ref": "T852"
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6525551,
-          3.1655571
+          101.6525879,
+          3.1656632
         ]
       },
       "id": "node/6404221905"
@@ -8387,16 +8447,24 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6404221908",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "ShopLex Mt Kiara",
-        "public_transport": "platform"
+        "name": "Shoplex Mont Kiara",
+        "name:en": "Shoplex Mont Kiara",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6528528,
-          3.1675496
+          101.6528352,
+          3.1673603
         ]
       },
       "id": "node/6404221908"
@@ -8463,10 +8531,18 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6602148585",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Mont Kiara International School",
-        "public_transport": "platform"
+        "name:en": "Mont Kiara International School",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -9774,15 +9850,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319221196",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kg Chubadak",
+        "name:ms": "Kg Chubadak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2068",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6953255,
-          3.2019805
+          101.6953336,
+          3.2019381
         ]
       },
       "id": "node/7319221196"
@@ -9791,9 +9877,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319221197",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kg Chubadak Hulu",
+        "name:ms": "Kg Chubadak Hulu",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL993",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -9808,15 +9904,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319221198",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kg Chubadak Tambahan",
+        "name:ms": "Kg Chubadak Tambahan",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL991",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6926099,
-          3.1995651
+          101.6926161,
+          3.1995312
         ]
       },
       "id": "node/7319221198"
@@ -12045,17 +12151,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7373877742",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "BUKIT TUNKU (UTARA) - Opp",
+        "name": "Bukit Tunku (Utara) (Opp)",
+        "name:ms": "Bukit Tunku (Utara) (Opp)",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "ref": "KL 1033"
+        "ref": "KL1033",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6798126,
-          3.1735852
+          101.6798022,
+          3.1735671
         ]
       },
       "id": "node/7373877742"
@@ -12064,11 +12178,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7373877743",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "KOMPLEKS SUKAN NEGARA - Opp",
+        "name": "Kompleks Sukan Negara (Opp)",
+        "name:ms": "Kompleks Sukan Negara (Opp)",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "ref": "KL 1029"
+        "ref": "KL1029",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
@@ -20726,8 +20848,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6652187,
-          3.1704267
+          101.6652205,
+          3.1704513
         ]
       },
       "id": "node/9536095438"
@@ -21055,6 +21177,576 @@
         ]
       },
       "id": "node/9536105100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9537216588",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "640",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6484046,
+          3.0719471
+        ]
+      },
+      "id": "node/9537216588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9537216589",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Bayview Court",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "640;T640",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.64841,
+          3.0717382
+        ]
+      },
+      "id": "node/9537216589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9537216594",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "640",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6500381,
+          3.0713404
+        ]
+      },
+      "id": "node/9537216594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9537216598",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Pinang 1A Sri Sentosa (Barat)",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "KL1379",
+        "route_ref": "640",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6529831,
+          3.0752254
+        ]
+      },
+      "id": "node/9537216598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9538837955",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Arcoris",
+        "name:en": "Arcoris",
+        "name:ms": "Arcoris",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6529085,
+          3.1681596
+        ]
+      },
+      "id": "node/9538837955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9538857684",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Trinity Pentamont",
+        "name:en": "Trinity Pentamont",
+        "name:ms": "Trinity Pentamont",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6495267,
+          3.1710981
+        ]
+      },
+      "id": "node/9538857684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9538857686",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Residensi Sefina",
+        "name:ms": "Residensi Sefina",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6495554,
+          3.1709316
+        ]
+      },
+      "id": "node/9538857686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9538880442",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Plaza Damas",
+        "name:ms": "Plaza Damas",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6561493,
+          3.1633565
+        ]
+      },
+      "id": "node/9538880442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9538880444",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Plaza Crystelville",
+        "name:ms": "Plaza Crystelville",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6513978,
+          3.1630629
+        ]
+      },
+      "id": "node/9538880444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9538899155",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kiara 1888",
+        "name:en": "Kiara 1888",
+        "name:ms": "Kiara 1888",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1674",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6493403,
+          3.1696882
+        ]
+      },
+      "id": "node/9538899155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9538899157",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Casa Kiara",
+        "name:en": "Casa Kiara",
+        "name:ms": "Casa Kiara",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1711",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6490924,
+          3.1689503
+        ]
+      },
+      "id": "node/9538899157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9538899159",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Garden International School",
+        "name:en": "Garden International School",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1683",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6486565,
+          3.1670649
+        ]
+      },
+      "id": "node/9538899159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9538899161",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Garden International School",
+        "name:en": "Garden International School",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1482",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6487197,
+          3.1668844
+        ]
+      },
+      "id": "node/9538899161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9538899163",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Flora Murni Residence",
+        "name:en": "Flora Murni Residence",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1483",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6484679,
+          3.1655632
+        ]
+      },
+      "id": "node/9538899163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9538899165",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Lanai Kiara (Opp)",
+        "name:en": "Lanai Kiara (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1484",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6483687,
+          3.1654932
+        ]
+      },
+      "id": "node/9538899165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9538904646",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Plaza Prisma Ville",
+        "name:ms": "Plaza Prisma Ville",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1485",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6496102,
+          3.1612066
+        ]
+      },
+      "id": "node/9538904646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9538904648",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Desa Sri Hartamas (1)",
+        "name:en": "Desa Sri Hartamas (1)",
+        "name:ms": "Desa Sri Hartamas (1)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6495791,
+          3.1605473
+        ]
+      },
+      "id": "node/9538904648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9538904652",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Desa Sri Hartamas (2)",
+        "name:en": "Desa Sri Hartamas (2)",
+        "name:ms": "Desa Sri Hartamas (2)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6484039,
+          3.1618847
+        ]
+      },
+      "id": "node/9538904652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9538904654",
+        "addr:city": "Kuala Lumpur",
+        "addr:postcode": "50480",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "internet_access": "no",
+        "name": "Hab Desa Sri Hartamas",
+        "name:ms": "Hab Desa Sri Hartamas",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6478271,
+          3.1637898
+        ]
+      },
+      "id": "node/9538904654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9540262063",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sek Men Sri Hartamas",
+        "name:ms": "Sek Men Sri Hartamas",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6479834,
+          3.158017
+        ]
+      },
+      "id": "node/9540262063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9540264636",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Sri Hartamas",
+        "name:ms": "Taman Sri Hartamas",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1883",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6514808,
+          3.1596795
+        ]
+      },
+      "id": "node/9540264636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9540267725",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Seri Hartamas (Opp)",
+        "name:ms": "SMK Seri Hartamas (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6475909,
+          3.15708
+        ]
+      },
+      "id": "node/9540267725"
     }
   ]
 }
