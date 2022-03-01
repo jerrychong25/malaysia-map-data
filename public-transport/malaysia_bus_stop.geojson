@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-27T08:38:42Z",
+  "timestamp": "2022-03-01T02:33:31Z",
   "features": [
     {
       "type": "Feature",
@@ -5571,6 +5571,7 @@
       "properties": {
         "@id": "node/1542715555",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "covered": "yes",
         "highway": "bus_stop",
@@ -23971,19 +23972,25 @@
       "properties": {
         "@id": "node/3751178929",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Diamond Square Bus Stop",
-        "network": "RapidKL, MetroBus",
+        "name": "Diamond Square",
+        "name:en": "Diamond Square",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "KL913",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7052752,
-          3.1950834
+          101.7053276,
+          3.1951052
         ]
       },
       "id": "node/3751178929"
@@ -24247,19 +24254,25 @@
       "properties": {
         "@id": "node/3887881341",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "covered": "no",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Diamond Square Bus Stop",
-        "operator": "RapidKL, Metrobus",
+        "name": "Diamond Square (Opp)",
+        "name:en": "Diamond Square (Opp)",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "KL894",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           101.7052305,
-          3.1946363
+          3.1944714
         ]
       },
       "id": "node/3887881341"
@@ -29018,9 +29031,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4439097193",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kg Padang Balang",
+        "name:ms": "Kg Padang Balang",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL987",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -40136,16 +40159,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5485941638",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "KL898 KL TRADERS SQUARE",
-        "public_transport": "platform"
+        "name": "KL Traders Square (Opp)",
+        "name:en": "KL Traders Square (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL898",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7021928,
-          3.2034596
+          101.7022279,
+          3.2033947
         ]
       },
       "id": "node/5485941638"
@@ -40154,16 +40186,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5485943622",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "KL896 PLATINUM RESIDENCE",
-        "public_transport": "platform"
+        "name": "SMJK Chong Hwa (Opp)",
+        "name:ms": "SMJK Chong Hwa (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL896",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7037843,
-          3.1986512
+          101.7038092,
+          3.1986128
         ]
       },
       "id": "node/5485943622"
@@ -40172,16 +40213,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5485944525",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "KL895 KAMPUNG PUAH",
-        "public_transport": "platform"
+        "name": "Kg Puah",
+        "name:ms": "Kg Puah",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL895",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7042249,
-          3.1970867
+          101.7042795,
+          3.196993
         ]
       },
       "id": "node/5485944525"
@@ -40190,11 +40240,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5485945323",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Masjid Jamek Saad",
+        "name": "Masjid Saad",
+        "name:en": "Saad Mosque",
+        "name:ms": "Masjid Saad",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "ref": "KL897"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -44883,16 +44941,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5824929765",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "KL912 PLATINUM RESIDENCE",
-        "public_transport": "platform"
+        "name": "SMJK Chong Hwa",
+        "name:ms": "SMJK Chong Hwa",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL912",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7042758,
-          3.1984978
+          101.7041331,
+          3.1984865
         ]
       },
       "id": "node/5824929765"
@@ -44901,11 +44968,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5824930254",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Masjid Jamek Saad",
+        "name": "Masjid Abi Waqqas (Opp)",
+        "name:en": "Abi Waqqas Mosque (Opp)",
+        "name:ms": "Masjid Abi Waqqas (Opp)",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "ref": "KL911"
+        "ref": "KL911",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -66756,15 +66832,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319221194",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kg Chubadak Hulu (Utara)",
+        "name:ms": "Kg Chubadak Hulu (Utara)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL988",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6976485,
-          3.204879
+          101.6975828,
+          3.204784
         ]
       },
       "id": "node/7319221194"
@@ -66773,15 +66859,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319221195",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kg Chubadak Hulu (Utara)",
+        "name:ms": "Kg Chubadak Hulu (Utara)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL994",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6973561,
-          3.204766
+          101.6973805,
+          3.2047635
         ]
       },
       "id": "node/7319221195"
@@ -115926,6 +116022,233 @@
         ]
       },
       "id": "node/9540281237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9543081075",
+        "highway": "bus_stop",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "752",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5606481,
+          3.0114172
+        ]
+      },
+      "id": "node/9543081075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9543081082",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Hicom Town Centre (Barat)",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "752",
+        "shelter": "yes",
+        "source:name": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.56064,
+          3.0124378
+        ]
+      },
+      "id": "node/9543081082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9543081083",
+        "highway": "bus_stop",
+        "name": "Hicom Town Centre (Barat)",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "SA985",
+        "route_ref": "752",
+        "shelter": "no",
+        "source:name": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5603477,
+          3.0127726
+        ]
+      },
+      "id": "node/9543081083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9546207394",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Puah",
+        "name:ms": "Kg Puah",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1631",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7047511,
+          3.1963212
+        ]
+      },
+      "id": "node/9546207394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9546288329",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Padang Balang",
+        "name:ms": "Kg Padang Balang",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL995",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6991909,
+          3.2056868
+        ]
+      },
+      "id": "node/9546288329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9546288331",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Padang Balang",
+        "name:ms": "Kg Padang Balang",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2119",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7005616,
+          3.2048737
+        ]
+      },
+      "id": "node/9546288331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9546314850",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "KL Traders Square",
+        "name:en": "KL Traders Square",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL910",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7024875,
+          3.2035373
+        ]
+      },
+      "id": "node/9546314850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9546314852",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Batu 4 Gombak",
+        "name:ms": "Batu 4 Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL899",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7017112,
+          3.2058129
+        ]
+      },
+      "id": "node/9546314852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9546314854",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Batu 4 Gombak",
+        "name:ms": "Batu 4 Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL909",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7021319,
+          3.2059606
+        ]
+      },
+      "id": "node/9546314854"
     }
   ]
 }
