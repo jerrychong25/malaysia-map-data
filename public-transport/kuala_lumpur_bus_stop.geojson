@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-01T02:30:26Z",
+  "timestamp": "2022-03-02T03:20:57Z",
   "features": [
     {
       "type": "Feature",
@@ -1862,23 +1862,6 @@
         ]
       },
       "id": "node/2686070217"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/2696369148",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.7118021,
-          3.2132998
-        ]
-      },
-      "id": "node/2696369148"
     },
     {
       "type": "Feature",
@@ -9071,16 +9054,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7190034150",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Perumahan Taman Setapak",
+        "name:ms": "Perumahan Taman Setapak",
         "operator": "RapidKL",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "ref": "KL1643",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.711757,
-          3.2044445
+          101.7117809,
+          3.2044496
         ]
       },
       "id": "node/7190034150"
@@ -9127,17 +9119,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7190034153",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Taman Setapak (Tengah)",
+        "name:en": "Setapak Garden (Middle)",
+        "name:ms": "Taman Setapak (Tengah)",
         "operator": "RapidKL",
         "public_transport": "platform",
-        "shelter": "no"
+        "ref": "KL2114",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7058532,
-          3.2075656
+          101.7058276,
+          3.2075499
         ]
       },
       "id": "node/7190034153"
@@ -9146,11 +9147,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7190034154",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Taman Setapak (Barat)",
+        "name:en": "Setapak Garden (West)",
+        "name:ms": "Taman Setapak (Barat)",
         "operator": "RapidKL",
         "public_transport": "platform",
-        "shelter": "no"
+        "ref": "KL2112",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -9165,17 +9175,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7190034155",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Lot Kedai Taman Setapak",
+        "name:en": "Setapak Garden Shopping Lot",
+        "name:ms": "Lot Kedai Taman Setapak",
         "operator": "RapidKL",
         "public_transport": "platform",
-        "shelter": "no"
+        "ref": "KL2113",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7049821,
-          3.2074209
+          101.7054068,
+          3.2074857
         ]
       },
       "id": "node/7190034155"
@@ -9184,10 +9203,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7190034157",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Taman Setapak (Utara)",
+        "name:en": "Setapak Garden (North)",
+        "name:ms": "Taman Setapak (Utara)",
         "operator": "RapidKL",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "ref": "KL2115",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -9238,16 +9267,24 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7190034160",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Shell/Pusat Komuniti",
+        "name:ms": "Shell/Pusat Komuniti",
         "operator": "RapidKL",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7184213,
-          3.2088292
+          101.7184133,
+          3.2087854
         ]
       },
       "id": "node/7190034160"
@@ -9738,9 +9775,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319221185",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Petronas Jln Gombak",
+        "name:ms": "Petronas Jln Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL902",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -9755,15 +9802,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319221186",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Pejabat Pos Gombak",
+        "name:en": "Gombak Post Office",
+        "name:ms": "Pejabat Pos Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL905",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7093979,
-          3.2124926
+          101.7093744,
+          3.212503
         ]
       },
       "id": "node/7319221186"
@@ -9771,27 +9829,20 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7319221187",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.7094289,
-          3.2121357
-        ]
-      },
-      "id": "node/7319221187"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/7319221188",
+        "bench": "no",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Pos Malaysia",
+        "name:en": "Pos Malaysia",
+        "name:ms": "Pos Malaysia",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -9806,15 +9857,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319221189",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Batu 5 Gombak",
+        "name:ms": "Batu 5 Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL903",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7116372,
-          3.2135386
+          101.711572,
+          3.2134809
         ]
       },
       "id": "node/7319221189"
@@ -9823,15 +9884,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319221190",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Batu 5 Gombak",
+        "name:ms": "Batu 5 Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL904",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7119627,
-          3.2133894
+          101.7119449,
+          3.2133554
         ]
       },
       "id": "node/7319221190"
@@ -9840,15 +9911,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319221191",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Taman Ibu Kota (Utara)",
+        "name:ms": "Taman Ibu Kota (Utara)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL956",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.715063,
-          3.2123315
+          101.7153393,
+          3.2120647
         ]
       },
       "id": "node/7319221191"
@@ -9857,9 +9938,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319221192",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Taman Ibu Kota (Utara)",
+        "name:ms": "Taman Ibu Kota (Utara)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL956",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -9874,15 +9965,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319221193",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Komersial Taman Setapak",
+        "name:en": "Setapak Garden Commercial",
+        "name:ms": "Komersial Taman Setapak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7105264,
-          3.2061148
+          101.7099409,
+          3.2066276
         ]
       },
       "id": "node/7319221193"
@@ -22005,6 +22106,251 @@
         ]
       },
       "id": "node/9546314854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9548596305",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Ju Xian Miow",
+        "name:ms": "Ju Xian Miow",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL908",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7029108,
+          3.2073027
+        ]
+      },
+      "id": "node/9548596305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9548596307",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Residensi Inspiria",
+        "name:ms": "Residensi Inspiria",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL900",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7037753,
+          3.2087734
+        ]
+      },
+      "id": "node/9548596307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9548596309",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Residensi Inspiria (Opp)",
+        "name:ms": "Residensi Inspiria (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL907",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7046286,
+          3.2091576
+        ]
+      },
+      "id": "node/9548596309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9548609739",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Surau Medan Idaman (Opp)",
+        "name:ms": "Surau Medan Idaman (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2116",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7116356,
+          3.2086427
+        ]
+      },
+      "id": "node/9548609739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9548609741",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kondominium Sutera",
+        "name:en": "Sutera Condominium",
+        "name:ms": "Kondominium Sutera",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7105779,
+          3.2085791
+        ]
+      },
+      "id": "node/9548609741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9548609743",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kondominium Idaman Puteri",
+        "name:en": "Idaman Puteri Condominium",
+        "name:ms": "Kondominium Idaman Puteri",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL959",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7099072,
+          3.2091985
+        ]
+      },
+      "id": "node/9548609743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9548609745",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Medan Idaman (Utara)",
+        "name:ms": "Taman Medan Idaman (Utara)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL960",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7095375,
+          3.211716
+        ]
+      },
+      "id": "node/9548609745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9548620839",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SRA Zaid Harithah",
+        "name:ms": "SRA Zaid Harithah",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL906",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7064506,
+          3.2108581
+        ]
+      },
+      "id": "node/9548620839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9548620841",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Zaid Harithah",
+        "name:en": "Zaid Harithah Mosque",
+        "name:ms": "Masjid Zaid Harithah",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL901",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7063026,
+          3.21107
+        ]
+      },
+      "id": "node/9548620841"
     }
   ]
 }
