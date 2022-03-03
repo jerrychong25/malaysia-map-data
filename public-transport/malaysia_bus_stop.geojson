@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-02T03:28:08Z",
+  "timestamp": "2022-03-03T04:23:21Z",
   "features": [
     {
       "type": "Feature",
@@ -20155,8 +20155,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.3083316,
-          5.4590284
+          100.3082306,
+          5.4590492
         ]
       },
       "id": "node/2997510359"
@@ -44264,39 +44264,29 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5783436353",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Starparc Point",
+        "name:en": "Starparc Point",
+        "name:ms": "Starparc Point",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "ref": "KL681"
+        "ref": "KL681",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7226374,
-          3.2041492
+          101.7226209,
+          3.2041376
         ]
       },
       "id": "node/5783436353"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5783453254",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name": "Setapak Central (Selatan)",
-        "public_transport": "platform",
-        "ref": "KL685"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.7205623,
-          3.2021092
-        ]
-      },
-      "id": "node/5783453254"
     },
     {
       "type": "Feature",
@@ -60579,10 +60569,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7190034158",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Langkawi Apartment (Opp)",
+        "name:en": "Langkawi Apartment (Opp)",
         "operator": "RapidKL",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "ref": "KL952",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -60597,16 +60596,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7190034159",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "PV12 Condominium (Opp)",
+        "name:en": "PV12 Condominium (Opp)",
         "operator": "RapidKL",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "ref": "KL1630",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7171151,
-          3.2068474
+          101.7173688,
+          3.207026
         ]
       },
       "id": "node/7190034159"
@@ -67377,9 +67385,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319259057",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Setapak Vocational College",
+        "name:en": "Setapak Vocational College",
+        "name:ms": "Kolej Vokasional Setapak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL683",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -67394,9 +67413,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319259058",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "SMK Pendidikan Khas",
+        "name:ms": "SMK Pendidikan Khas",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL684",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -67411,15 +67440,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319259059",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kem Wardieburn",
+        "name:ms": "Kem Wardieburn",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL682",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7252085,
-          3.2061206
+          101.7253086,
+          3.2061252
         ]
       },
       "id": "node/7319259059"
@@ -67428,15 +67467,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319259060",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Setapak Sentral (Opp)",
+        "name:en": "Setapak Sentral (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL685",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7214137,
-          3.202788
+          101.7210501,
+          3.2025272
         ]
       },
       "id": "node/7319259060"
@@ -67666,15 +67715,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287113",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Sri Utama Schools",
+        "name:en": "Sri Utama Schools",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL729",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7240604,
-          3.1990835
+          101.7240621,
+          3.1990827
         ]
       },
       "id": "node/7319287113"
@@ -67683,9 +67742,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287114",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Setapak Industrial Area",
+        "name:en": "Setapak Industrial Area",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL730",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -67700,9 +67769,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287115",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Setapak Industrial Area",
+        "name:en": "Setapak Industrial Area",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL735",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -67717,15 +67796,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287116",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Medan Makmur Setapak",
+        "name:ms": "Medan Makmur Setapak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL734",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7196975,
-          3.1974902
+          101.7196937,
+          3.1974725
         ]
       },
       "id": "node/7319287116"
@@ -67734,15 +67823,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287117",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Medan Makmur Setapak",
+        "name:ms": "Medan Makmur Setapak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL731",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7193795,
-          3.1974893
+          101.7194014,
+          3.1975019
         ]
       },
       "id": "node/7319287117"
@@ -67751,9 +67850,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287118",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Medan Selera Setapak",
+        "name:en": "Setapak Food Court",
+        "name:ms": "Medan Selera Setapak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL732",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
@@ -67768,9 +67878,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287119",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Medan Selera Setapak",
+        "name:en": "Setapak Food Court",
+        "name:ms": "Medan Selera Setapak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL733",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -67785,15 +67906,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287121",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "BHP Genting Klang",
+        "name:en": "BHP Genting Klang",
+        "name:ms": "BHP Genting Klang",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL687",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7163756,
-          3.1989303
+          101.7163853,
+          3.1989003
         ]
       },
       "id": "node/7319287121"
@@ -67802,9 +67934,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287122",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "PV128 Setapak",
+        "name:en": "PV128 Setapak",
+        "name:ms": "PV128 Setapak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL679",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -72081,15 +72224,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7528483990",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Columbia Hospital",
+        "name:en": "Columbia Hospital",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1598",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7184582,
-          3.2009533
+          101.7185237,
+          3.2009918
         ]
       },
       "id": "node/7528483990"
@@ -72098,15 +72251,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7528483992",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "CIMB Genting Klang",
+        "name:en": "CIMB Genting Klang",
+        "name:ms": "CIMB Genting Klang",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL686",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7183232,
-          3.2003613
+          101.7181745,
+          3.2002305
         ]
       },
       "id": "node/7528483992"
@@ -72115,9 +72279,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7528618306",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "PV12 Residence",
+        "name:en": "PV12 Residence",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL942",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
@@ -93072,33 +93246,6 @@
         ]
       },
       "id": "node/9103811652"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/9104103854",
-        "bench": "yes",
-        "bin": "no",
-        "bus": "yes",
-        "departures_board": "no",
-        "highway": "bus_stop",
-        "lit": "yes",
-        "name": "Terminal Bas Dan Teksi Labis",
-        "network": "Bas Muafakat Johor",
-        "operator": "Perbadanan Pengangkutan Awam Johor",
-        "public_transport": "platform",
-        "shelter": "yes",
-        "surface": "concrete",
-        "tactile_paving": "no"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.0218747,
-          2.3850678
-        ]
-      },
-      "id": "node/9104103854"
     },
     {
       "type": "Feature",
@@ -116595,6 +116742,307 @@
         ]
       },
       "id": "node/9548620841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9550843505",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Danau Kota Apartment (Opp)",
+        "name:en": "Danau Kota Apartment (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL970",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7199795,
+          3.2087336
+        ]
+      },
+      "id": "node/9550843505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9550843507",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Danau Kota Apartment",
+        "name:en": "Danau Kota Apartment",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL971",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7198408,
+          3.2088427
+        ]
+      },
+      "id": "node/9550843507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9550843509",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Indah Apartment",
+        "name:en": "Indah Apartment",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL981",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7209134,
+          3.2118036
+        ]
+      },
+      "id": "node/9550843509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9550843511",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Indah Apartment (Opp)",
+        "name:en": "Indah Apartment (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL972",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7207813,
+          3.2123006
+        ]
+      },
+      "id": "node/9550843511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9550875345",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sri Utama Schools (Opp)",
+        "name:en": "Sri Utama Schools (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL736",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.724336,
+          3.1994645
+        ]
+      },
+      "id": "node/9550875345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9550882298",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Aeon Big Danau Kota",
+        "name:ms": "Aeon Big Danau Kota",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1519",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7158691,
+          3.2043858
+        ]
+      },
+      "id": "node/9550882298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9550882300",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "PV15 Platinum",
+        "name:en": "PV15 Platinum",
+        "name:ms": "PV15 Platinum",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1520",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7169898,
+          3.2024856
+        ]
+      },
+      "id": "node/9550882300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9550893103",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Setapak Sentral (Selatan)",
+        "name:ms": "Setapak Sentral (Selatan)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL680",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7204344,
+          3.2024052
+        ]
+      },
+      "id": "node/9550893103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9550893107",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Setapak Sentral",
+        "name:en": "Setapak Central",
+        "name:ms": "Setapak Sentral",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL940",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7209105,
+          3.204852
+        ]
+      },
+      "id": "node/9550893107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9550909227",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Surau Al-Amin",
+        "name:en": "Al-Amin Mosque",
+        "name:ms": "Surau Al-Amin",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL980",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7217793,
+          3.2142019
+        ]
+      },
+      "id": "node/9550909227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9550909229",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Vista Wirajaya",
+        "name:en": "Vista Wirajaya",
+        "name:ms": "Vista Wirajaya",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL973",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7224634,
+          3.2152835
+        ]
+      },
+      "id": "node/9550909229"
     }
   ]
 }
