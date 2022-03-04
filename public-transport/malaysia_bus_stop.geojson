@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-03T04:23:21Z",
+  "timestamp": "2022-03-04T03:23:53Z",
   "features": [
     {
       "type": "Feature",
@@ -59146,14 +59146,13 @@
         "@id": "node/7176805768",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Jalan Penaga",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.4221746,
-          5.5162511
+          100.4221961,
+          5.5162212
         ]
       },
       "id": "node/7176805768"
@@ -67130,15 +67129,21 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319221204",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7010346,
-          3.2208573
+          101.7010282,
+          3.2208817
         ]
       },
       "id": "node/7319221204"
@@ -67147,9 +67152,18 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319221205",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Rumah No 114",
+        "name:ms": "Rumah No 114",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -67164,9 +67178,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319221206",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kg Lembah Melewar (Timur)",
+        "name:ms": "Kg Lembah Melewar (Timur)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL939",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -67181,9 +67205,18 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319221207",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Taman Melewar",
+        "name:ms": "Taman Melewar",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -67198,9 +67231,15 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319221208",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -73477,6 +73516,25 @@
         ]
       },
       "id": "node/7578446771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7578446776",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jalan Permatang Tok Jaya",
+        "public_transport": "platform",
+        "source": "https://www.mapillary.com/app/?pKey=rQTJUPiHqa08LVGxYQcsJS&focus=photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4014697,
+          5.4786902
+        ]
+      },
+      "id": "node/7578446776"
     },
     {
       "type": "Feature",
@@ -117043,6 +117101,433 @@
         ]
       },
       "id": "node/9550909229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9551480926",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4316062,
+          5.5586067
+        ]
+      },
+      "id": "node/9551480926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9551480927",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4354299,
+          5.5538035
+        ]
+      },
+      "id": "node/9551480927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9551582636",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4357668,
+          5.5507338
+        ]
+      },
+      "id": "node/9551582636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9551582647",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4316813,
+          5.5391541
+        ]
+      },
+      "id": "node/9551582647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9551582648",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4318337,
+          5.5385476
+        ]
+      },
+      "id": "node/9551582648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9551582649",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4296998,
+          5.5303425
+        ]
+      },
+      "id": "node/9551582649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9551582650",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4280299,
+          5.525028
+        ]
+      },
+      "id": "node/9551582650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9551582656",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4264934,
+          5.5206353
+        ]
+      },
+      "id": "node/9551582656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9551582659",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4183815,
+          5.5156926
+        ]
+      },
+      "id": "node/9551582659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9551582660",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4163118,
+          5.5151667
+        ]
+      },
+      "id": "node/9551582660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9551582735",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4038046,
+          5.5114144
+        ]
+      },
+      "id": "node/9551582735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9551582736",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3999834,
+          5.5080351
+        ]
+      },
+      "id": "node/9551582736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9552194638",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5151237,
+          3.2034958
+        ]
+      },
+      "id": "node/9552194638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9552194705",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "T102",
+        "public_transport": "platform",
+        "source": "https://kartaview.org/details/2836482/4322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5358239,
+          3.1976873
+        ]
+      },
+      "id": "node/9552194705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9553221871",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Lembah Melewar",
+        "name:ms": "Perumahan Lembah Melewar",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6954204,
+          3.2184357
+        ]
+      },
+      "id": "node/9553221871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9553236343",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Koperasi Polis 1",
+        "name:ms": "Taman Koperasi Polis 1",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1796",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.694053,
+          3.219584
+        ]
+      },
+      "id": "node/9553236343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9553236345",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Koperasi Polis",
+        "name:ms": "Taman Koperasi Polis",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1795",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6937507,
+          3.2196027
+        ]
+      },
+      "id": "node/9553236345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9553236347",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Bilal Bin Rabah",
+        "name:en": "Bilal Bin Rabah Mosque",
+        "name:ms": "Masjid Bilal Bin Rabah",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2329",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.694788,
+          3.2208732
+        ]
+      },
+      "id": "node/9553236347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9553236349",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Bilal Bin Rabah",
+        "name:en": "Bilal Bin Rabah Mosque",
+        "name:ms": "Masjid Bilal Bin Rabah",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6949672,
+          3.2209003
+        ]
+      },
+      "id": "node/9553236349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9553236351",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bomba Gombak Selatan",
+        "name:ms": "Bomba Gombak Selatan",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2330",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6959863,
+          3.2231371
+        ]
+      },
+      "id": "node/9553236351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9553236353",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Dewan Komuniti Changkat Desa",
+        "name:ms": "Dewan Komuniti Changkat Desa",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6985234,
+          3.2234967
+        ]
+      },
+      "id": "node/9553236353"
     }
   ]
 }
