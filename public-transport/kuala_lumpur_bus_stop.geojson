@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-03T04:05:09Z",
+  "timestamp": "2022-03-04T03:17:56Z",
   "features": [
     {
       "type": "Feature",
@@ -10189,15 +10189,21 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319221204",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7010346,
-          3.2208573
+          101.7010282,
+          3.2208817
         ]
       },
       "id": "node/7319221204"
@@ -10206,9 +10212,18 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319221205",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Rumah No 114",
+        "name:ms": "Rumah No 114",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -10223,9 +10238,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319221206",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kg Lembah Melewar (Timur)",
+        "name:ms": "Kg Lembah Melewar (Timur)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL939",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -10240,9 +10265,18 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319221207",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Taman Melewar",
+        "name:ms": "Taman Melewar",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -10257,9 +10291,15 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319221208",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -22826,6 +22866,167 @@
         ]
       },
       "id": "node/9550909229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9553221871",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Lembah Melewar",
+        "name:ms": "Perumahan Lembah Melewar",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6954204,
+          3.2184357
+        ]
+      },
+      "id": "node/9553221871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9553236343",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Koperasi Polis 1",
+        "name:ms": "Taman Koperasi Polis 1",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1796",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.694053,
+          3.219584
+        ]
+      },
+      "id": "node/9553236343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9553236345",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Koperasi Polis",
+        "name:ms": "Taman Koperasi Polis",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1795",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6937507,
+          3.2196027
+        ]
+      },
+      "id": "node/9553236345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9553236347",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Bilal Bin Rabah",
+        "name:en": "Bilal Bin Rabah Mosque",
+        "name:ms": "Masjid Bilal Bin Rabah",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2329",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.694788,
+          3.2208732
+        ]
+      },
+      "id": "node/9553236347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9553236349",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Bilal Bin Rabah",
+        "name:en": "Bilal Bin Rabah Mosque",
+        "name:ms": "Masjid Bilal Bin Rabah",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6949672,
+          3.2209003
+        ]
+      },
+      "id": "node/9553236349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9553236351",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bomba Gombak Selatan",
+        "name:ms": "Bomba Gombak Selatan",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2330",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6959863,
+          3.2231371
+        ]
+      },
+      "id": "node/9553236351"
     }
   ]
 }
