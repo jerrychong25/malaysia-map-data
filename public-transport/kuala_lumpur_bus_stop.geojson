@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-04T03:17:56Z",
+  "timestamp": "2022-03-05T10:16:39Z",
   "features": [
     {
       "type": "Feature",
@@ -1243,16 +1243,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2111614813",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Stesen LRT Wangsa Maju (opp.)",
-        "public_transport": "platform"
+        "name": "LRT Wangsa Maju",
+        "name:en": "LRT Wangsa Maju",
+        "name:ms": "LRT Wangsa Maju",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL192",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7324395,
-          3.2048691
+          101.7322321,
+          3.2050291
         ]
       },
       "id": "node/2111614813"
@@ -5675,9 +5685,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5485075948",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "LRT Tmn Melati",
+        "name:ms": "LRT Tmn Melati",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL195",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -9613,15 +9633,24 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7318920334",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Perumahan Awam Sri Langkawi",
+        "name:ms": "Perumahan Awam Sri Langkawi",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7208292,
-          3.2198234
+          101.7206367,
+          3.219794
         ]
       },
       "id": "node/7318920334"
@@ -9630,9 +9659,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7318920335",
+        "bench": "no",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Taman Mastika",
+        "name:ms": "Taman Mastika",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1600",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -9647,15 +9686,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7318920336",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Flat Taman Melati E6",
+        "name:ms": "Flat Taman Melati E6",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL198",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.725434,
-          3.227085
+          101.725442,
+          3.2270653
         ]
       },
       "id": "node/7318920336"
@@ -9664,15 +9713,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7318920337",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Flat Taman Melati A9",
+        "name:ms": "Flat Taman Melati A9",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL153",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7252725,
-          3.2269
+          101.7252681,
+          3.2268763
         ]
       },
       "id": "node/7318920337"
@@ -9681,15 +9740,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7318920339",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Taman Perwira 1",
+        "name:ms": "Taman Perwira 1",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL196",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7214797,
-          3.2248831
+          101.7214171,
+          3.2247529
         ]
       },
       "id": "node/7318920339"
@@ -9698,15 +9767,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7318920340",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Perumahan Taman Melati 6",
+        "name:ms": "Perumahan Taman Melati 6",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL201",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7229329,
-          3.2213098
+          101.7229151,
+          3.2216027
         ]
       },
       "id": "node/7318920340"
@@ -9714,33 +9793,26 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7318920341",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.7230575,
-          3.2227154
-        ]
-      },
-      "id": "node/7318920341"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/7318920342",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "M3 Mall",
+        "name:en": "M3 Mall",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL933",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7185542,
-          3.2173145
+          101.7189646,
+          3.2177525
         ]
       },
       "id": "node/7318920342"
@@ -9749,15 +9821,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7318920343",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Surau Nurul Mustaqim",
+        "name:ms": "Surau Nurul Mustaqim",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL934",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.719215,
-          3.2183789
+          101.7195661,
+          3.2189646
         ]
       },
       "id": "node/7318920343"
@@ -9766,15 +9848,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7318920344",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Apt Melati Impian",
+        "name:en": "Apt Melati Impian",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL932",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7169067,
-          3.2181942
+          101.7169388,
+          3.2179712
         ]
       },
       "id": "node/7318920344"
@@ -10331,9 +10423,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319259055",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Tar Villa",
+        "name:en": "Tar Villa",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL169",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -10348,15 +10450,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319259056",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Tar Villa",
+        "name:en": "Tar Villa",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL193",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7295072,
-          3.207002
+          101.7294759,
+          3.2070294
         ]
       },
       "id": "node/7319259056"
@@ -23027,6 +23139,274 @@
         ]
       },
       "id": "node/9553236351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9555390374",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Flat Taman Melati Blok D",
+        "name:ms": "Flat Taman Melati Blok D",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2071",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7257033,
+          3.2252544
+        ]
+      },
+      "id": "node/9555390374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9555390376",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Jln Taman Melati 6",
+        "name:ms": "Perumahan Jln Taman Melati 6",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL200",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.724044,
+          3.2235269
+        ]
+      },
+      "id": "node/9555390376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9555390380",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Taman Melati/KL East Mall",
+        "name:ms": "Komersial Taman Melati/KL East Mall",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7298873,
+          3.2244018
+        ]
+      },
+      "id": "node/9555390380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9555390382",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "KL East Mall",
+        "name:en": "KL East Mall",
+        "name:ms": "KL East Mall",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7309117,
+          3.2254148
+        ]
+      },
+      "id": "node/9555390382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9555401138",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Apt Sri Tioman",
+        "name:ms": "Apt Sri Tioman",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1601",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7205858,
+          3.2213895
+        ]
+      },
+      "id": "node/9555401138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9555401140",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SRA Salahudin Al-Ayubi (Opp)",
+        "name:ms": "SRA Salahudin Al-Ayubi (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2070",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7202654,
+          3.2236401
+        ]
+      },
+      "id": "node/9555401140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9555408569",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Awam Sri Langkawi (Opp)",
+        "name:ms": "Perumahan Awam Sri Langkawi (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1495",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7202266,
+          3.2192708
+        ]
+      },
+      "id": "node/9555408569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9555660085",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "realtime",
+        "highway": "bus_stop",
+        "name": "Wangsa Maju",
+        "name:en": "Wangsa Maju",
+        "name:ms": "Wangsa Maju",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7320731,
+          3.205455
+        ]
+      },
+      "id": "node/9555660085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9555706532",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pulapot",
+        "name:ms": "Pulapot",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7348132,
+          3.2153679
+        ]
+      },
+      "id": "node/9555706532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9555709128",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Desa Setapak",
+        "name:ms": "Perumahan Desa Setapak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL171",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7334534,
+          3.2044409
+        ]
+      },
+      "id": "node/9555709128"
     }
   ]
 }
