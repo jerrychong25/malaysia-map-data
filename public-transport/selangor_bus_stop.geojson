@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-05T10:21:46Z",
+  "timestamp": "2022-03-06T10:04:46Z",
   "features": [
     {
       "type": "Feature",
@@ -12251,15 +12251,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7318920352",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Ayuman Suites (Opp)",
+        "name:en": "Ayuman Suites (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL510",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7137665,
-          3.2343136
+          101.7138614,
+          3.2342958
         ]
       },
       "id": "node/7318920352"
@@ -12268,15 +12278,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7318920353",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Ayuman Suites",
+        "name:en": "Ayuman Suites",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL172",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7141894,
-          3.2341904
+          101.7140799,
+          3.2340566
         ]
       },
       "id": "node/7318920353"
@@ -12285,15 +12305,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7318920354",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Dewan Datin Zaleha (Opp)",
+        "name:ms": "Dewan Datin Zaleha (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL109",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.712335,
-          3.231158
+          101.7123556,
+          3.2311002
         ]
       },
       "id": "node/7318920354"
@@ -12302,9 +12332,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7318920355",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Taman Bukit Lela",
+        "name:ms": "Taman Bukit Lela",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL104",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -12319,15 +12359,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7318920356",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Pangsapuri Sri Harmonis",
+        "name:ms": "Pangsapuri Sri Harmonis",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL110",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7140018,
-          3.2279077
+          101.7139366,
+          3.228106
         ]
       },
       "id": "node/7318920356"
@@ -12336,15 +12386,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7318920357",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kg Tengah Gombak",
+        "name:ms": "Kg Tengah Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL103",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           101.7137548,
-          3.2273917
+          3.2273951
         ]
       },
       "id": "node/7318920357"
@@ -12353,15 +12413,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7318920358",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kg Tgh Gombak (Selatan)",
+        "name:ms": "Kg Tgh Gombak (Selatan)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL111",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7144173,
-          3.2248216
+          101.7143766,
+          3.2248264
         ]
       },
       "id": "node/7318920358"
@@ -12370,15 +12440,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7318920359",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Gombak Setia",
+        "name:ms": "Gombak Setia",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL318",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7141383,
-          3.2248448
+          101.7141519,
+          3.2248516
         ]
       },
       "id": "node/7318920359"
@@ -12387,9 +12467,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7318920360",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Gombak Setia",
+        "name:ms": "Gombak Setia",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL317",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -12404,15 +12494,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7318920361",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Masjid Batu 6 (Opp)",
+        "name:ms": "Masjid Batu 6 (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL112",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7139577,
-          3.2227754
+          101.7139335,
+          3.2227096
         ]
       },
       "id": "node/7318920361"
@@ -35504,6 +35604,249 @@
         ]
       },
       "id": "node/9555752507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9556998027",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Gombak Setia",
+        "name:ms": "Gombak Setia",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL173",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7130456,
+          3.2201026
+        ]
+      },
+      "id": "node/9556998027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9557371938",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Tgh Gombak",
+        "name:ms": "Kg Tgh Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL490",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.713374,
+          3.2294891
+        ]
+      },
+      "id": "node/9557371938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9557371940",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Dewan Datin Zaleha",
+        "name:ms": "Dewan Datin Zaleha",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL105",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.71257,
+          3.2302375
+        ]
+      },
+      "id": "node/9557371940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9557371943",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Jejantas Spg 3",
+        "name:ms": "Jejantas Spg 3",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL214",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7097517,
+          3.233611
+        ]
+      },
+      "id": "node/9557371943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9557371945",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Jejantas Spg 3",
+        "name:ms": "Jejantas Spg 3",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL213",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7095068,
+          3.2339931
+        ]
+      },
+      "id": "node/9557371945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9557478142",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Sg Pusu (Opp)",
+        "name:ms": "SK Sg Pusu (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL106",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7142769,
+          3.2360299
+        ]
+      },
+      "id": "node/9557478142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9557478144",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Sg Pusu",
+        "name:ms": "SK Sg Pusu",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL171",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7144732,
+          3.2373401
+        ]
+      },
+      "id": "node/9557478144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9557478149",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Gombak Utara (Opp)",
+        "name:ms": "SK Gombak Utara (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL107",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7140391,
+          3.2387493
+        ]
+      },
+      "id": "node/9557478149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9557478150",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Gombak Utara",
+        "name:ms": "SK Gombak Utara",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL170",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7142467,
+          3.2393468
+        ]
+      },
+      "id": "node/9557478150"
     }
   ]
 }
