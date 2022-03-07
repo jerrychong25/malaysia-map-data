@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-06T10:09:55Z",
+  "timestamp": "2022-03-07T10:40:07Z",
   "features": [
     {
       "type": "Feature",
@@ -67550,15 +67550,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319238123",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Taman Greenwood Indah",
+        "name:ms": "Taman Greenwood Indah",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL223",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7004339,
-          3.2243072
+          101.7005434,
+          3.2244901
         ]
       },
       "id": "node/7319238123"
@@ -67567,9 +67577,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319238124",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Taman Greenwood Indah",
+        "name:ms": "Taman Greenwood Indah",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL502",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -67583,50 +67603,26 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7319238125",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.7019149,
-          3.2274881
-        ]
-      },
-      "id": "node/7319238125"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/7319238126",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.7020666,
-          3.2272573
-        ]
-      },
-      "id": "node/7319238126"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/7319238127",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Perumahan Jln Berjaya 4",
+        "name:ms": "Perumahan Jln Berjaya 4",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL219",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7027891,
-          3.2289524
+          101.7027929,
+          3.2289537
         ]
       },
       "id": "node/7319238127"
@@ -67652,15 +67648,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319238129",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "SMK Seri Gombak (Opp)",
+        "name:ms": "SMK Seri Gombak (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL218",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.703542,
-          3.2304841
+          101.7035322,
+          3.2304819
         ]
       },
       "id": "node/7319238129"
@@ -72239,15 +72245,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7479575304",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Raudhatul Sakinah",
+        "name:ms": "Raudhatul Sakinah",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL468",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6977083,
-          3.2277042
+          101.6977022,
+          3.2276829
         ]
       },
       "id": "node/7479575304"
@@ -72256,15 +72272,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7479575305",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "SRA Rakyat Darul Mujahidin",
+        "name:ms": "SRA Rakyat Darul Mujahidin",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL471",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6979278,
-          3.2273638
+          101.697916,
+          3.2273436
         ]
       },
       "id": "node/7479575305"
@@ -118822,6 +118848,205 @@
         ]
       },
       "id": "node/9557478150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9560127607",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Padang Taman Greenwood",
+        "name:en": "Greenwood Garden Field",
+        "name:ms": "Padang Taman Greenwood",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL231",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7039424,
+          3.232638
+        ]
+      },
+      "id": "node/9560127607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9560127609",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Padang Taman Greenwood",
+        "name:en": "Greenwood Garden Field",
+        "name:ms": "Padang Taman Greenwood",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL216",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7039147,
+          3.2324715
+        ]
+      },
+      "id": "node/9560127609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9560127611",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Padang Taman Greenwood",
+        "name:en": "Greenwood Garden Field",
+        "name:ms": "Padang Taman Greenwood",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL230",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7035884,
+          3.2319173
+        ]
+      },
+      "id": "node/9560127611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9560127613",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Seri Gombak (Timur)",
+        "name:ms": "SMK Seri Gombak (Timur)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL229",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7034831,
+          3.2307208
+        ]
+      },
+      "id": "node/9560127613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9560128571",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Dewan MPS Gombak",
+        "name:ms": "Dewan MPS Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL226",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.702352,
+          3.2283342
+        ]
+      },
+      "id": "node/9560128571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9560128573",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Dewan MPS Gombak (Opp)",
+        "name:ms": "Dewan MPS Gombak (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL227",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7023134,
+          3.227911
+        ]
+      },
+      "id": "node/9560128573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9560128575",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Gombak (Selatan)",
+        "name:ms": "Taman Gombak (Selatan)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL224",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7012276,
+          3.2259182
+        ]
+      },
+      "id": "node/9560128575"
     }
   ]
 }
