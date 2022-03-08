@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-07T10:40:07Z",
+  "timestamp": "2022-03-08T13:15:23Z",
   "features": [
     {
       "type": "Feature",
@@ -49809,8 +49809,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.2989964,
-          5.3519699
+          100.2993361,
+          5.3521385
         ]
       },
       "id": "node/6287730527"
@@ -66756,7 +66756,7 @@
         "highway": "bus_stop",
         "name": "Ayuman Suites (Opp)",
         "name:en": "Ayuman Suites (Opp)",
-        "operator": "RapidKL",
+        "operator": "RapidKL, Smart Selangor",
         "public_transport": "platform",
         "ref": "SL510",
         "shelter": "no",
@@ -66783,7 +66783,7 @@
         "highway": "bus_stop",
         "name": "Ayuman Suites",
         "name:en": "Ayuman Suites",
-        "operator": "RapidKL",
+        "operator": "RapidKL, Smart Selangor",
         "public_transport": "platform",
         "ref": "SL172",
         "shelter": "no",
@@ -118698,7 +118698,7 @@
         "highway": "bus_stop",
         "name": "Jejantas Spg 3",
         "name:ms": "Jejantas Spg 3",
-        "operator": "RapidKL",
+        "operator": "RapidKL, Smart Selangor",
         "public_transport": "platform",
         "ref": "SL214",
         "shelter": "no",
@@ -118725,7 +118725,7 @@
         "highway": "bus_stop",
         "name": "Jejantas Spg 3",
         "name:ms": "Jejantas Spg 3",
-        "operator": "RapidKL",
+        "operator": "RapidKL, Smart Selangor",
         "public_transport": "platform",
         "ref": "SL213",
         "shelter": "yes",
@@ -118752,7 +118752,7 @@
         "highway": "bus_stop",
         "name": "SK Sg Pusu (Opp)",
         "name:ms": "SK Sg Pusu (Opp)",
-        "operator": "RapidKL",
+        "operator": "RapidKL, Smart Selangor",
         "public_transport": "platform",
         "ref": "SL106",
         "shelter": "yes",
@@ -118779,7 +118779,7 @@
         "highway": "bus_stop",
         "name": "SK Sg Pusu",
         "name:ms": "SK Sg Pusu",
-        "operator": "RapidKL",
+        "operator": "RapidKL, Smart Selangor",
         "public_transport": "platform",
         "ref": "SL171",
         "shelter": "yes",
@@ -118806,7 +118806,7 @@
         "highway": "bus_stop",
         "name": "SK Gombak Utara (Opp)",
         "name:ms": "SK Gombak Utara (Opp)",
-        "operator": "RapidKL",
+        "operator": "RapidKL, Smart Selangor",
         "public_transport": "platform",
         "ref": "SL107",
         "shelter": "yes",
@@ -118833,7 +118833,7 @@
         "highway": "bus_stop",
         "name": "SK Gombak Utara",
         "name:ms": "SK Gombak Utara",
-        "operator": "RapidKL",
+        "operator": "RapidKL, Smart Selangor",
         "public_transport": "platform",
         "ref": "SL170",
         "shelter": "yes",
@@ -119047,6 +119047,409 @@
         ]
       },
       "id": "node/9560128575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9562541674",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Sg Pusu (Utara)",
+        "name:ms": "Kg Sg Pusu (Utara)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL498",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7136902,
+          3.2413807
+        ]
+      },
+      "id": "node/9562541674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9562541676",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Gombak Utara",
+        "name:ms": "Kg Gombak Utara",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL500",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7140052,
+          3.2414634
+        ]
+      },
+      "id": "node/9562541676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9562541678",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Sg Chincin (Selatan)",
+        "name:ms": "Kg Sg Chincin (Selatan)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL499",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7137135,
+          3.242632
+        ]
+      },
+      "id": "node/9562541678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9562541680",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Sg Chinchin (Utara)",
+        "name:ms": "Kg Sg Chinchin (Utara)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL169",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7139367,
+          3.2429512
+        ]
+      },
+      "id": "node/9562541680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9562541682",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Sg Chinchin",
+        "name:ms": "Kg Sg Chinchin",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL168",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7149393,
+          3.2447242
+        ]
+      },
+      "id": "node/9562541682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9562541684",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Sg Chinchin",
+        "name:ms": "Kg Sg Chinchin",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL108",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7151308,
+          3.2450803
+        ]
+      },
+      "id": "node/9562541684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9562570390",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Sg Chinchin",
+        "name:ms": "Masjid Sg Chinchin",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL113",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7162921,
+          3.2450867
+        ]
+      },
+      "id": "node/9562570390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9562570392",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Rumah Khailani",
+        "name:ms": "Rumah Khailani",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7166853,
+          3.2446833
+        ]
+      },
+      "id": "node/9562570392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9562570394",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Sg Chincin (Timur)",
+        "name:ms": "Kg Sg Chincin (Timur)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL114",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7200332,
+          3.2440039
+        ]
+      },
+      "id": "node/9562570394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9562570396",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Sg Chincin (Timur)",
+        "name:ms": "Kg Sg Chincin (Timur)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL166",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7202379,
+          3.2437953
+        ]
+      },
+      "id": "node/9562570396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9562570398",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Spg Jln SG Pusu",
+        "name:ms": "Spg Jln SG Pusu",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL145",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7214841,
+          3.2445786
+        ]
+      },
+      "id": "node/9562570398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9562570400",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Batu 8 Gombak",
+        "name:ms": "Batu 8 Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL115",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.721651,
+          3.2450293
+        ]
+      },
+      "id": "node/9562570400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9562571997",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SBP Integrasi Gombak (Opp)",
+        "name:ms": "SBP Integrasi Gombak (Opp)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7218352,
+          3.2443347
+        ]
+      },
+      "id": "node/9562571997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9562571999",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SBP Integrasi Gombak",
+        "name:ms": "SBP Integrasi Gombak",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL165",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7220036,
+          3.2441699
+        ]
+      },
+      "id": "node/9562571999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9562572001",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Integrasi Gombak",
+        "name:ms": "SK Integrasi Gombak",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL146",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7228626,
+          3.2450944
+        ]
+      },
+      "id": "node/9562572001"
     }
   ]
 }
