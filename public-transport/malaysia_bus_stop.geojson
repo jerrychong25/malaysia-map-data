@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-08T13:15:23Z",
+  "timestamp": "2022-03-09T02:43:55Z",
   "features": [
     {
       "type": "Feature",
@@ -24015,9 +24015,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/3762299593",
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -92842,15 +92845,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8999785708",
+        "bench": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.738828,
-          3.2495692
+          101.7388261,
+          3.2495635
         ]
       },
       "id": "node/8999785708"
@@ -92861,6 +92868,7 @@
         "@id": "node/8999790529",
         "bus": "yes",
         "highway": "bus_stop",
+        "operator": "RapidKL",
         "public_transport": "platform"
       },
       "geometry": {
@@ -92876,9 +92884,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8999790531",
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -92893,15 +92904,18 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8999790532",
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7334746,
-          3.254155
+          101.7334796,
+          3.2541463
         ]
       },
       "id": "node/8999790532"
@@ -92910,9 +92924,15 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8999790533",
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "UIAM (Utara)",
+        "name:ms": "UIAM (Utara)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL159",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -92927,15 +92947,17 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8999790534",
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7386116,
-          3.2522273
+          101.7385941,
+          3.2522111
         ]
       },
       "id": "node/8999790534"
@@ -92946,13 +92968,18 @@
         "@id": "node/9002567105",
         "bus": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kenms",
+        "name:en": "Kenms",
+        "name:ms": "Kenms",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL153"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7366296,
-          3.2491568
+          101.7368217,
+          3.2490721
         ]
       },
       "id": "node/9002567105"
@@ -119450,6 +119477,840 @@
         ]
       },
       "id": "node/9562572001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9563808863",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kuarters Institut Pendidikan",
+        "name:ms": "Kuarters Institut Pendidikan",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL147",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7245753,
+          3.2451212
+        ]
+      },
+      "id": "node/9563808863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9563808865",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kuarters Institusi Pendidikan Batu 8 Gombak",
+        "name:ms": "Kuarters Institusi Pendidikan Batu 8 Gombak",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7249724,
+          3.244886
+        ]
+      },
+      "id": "node/9563808865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9563808867",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "International Islamic School",
+        "name:en": "International Islamic School",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL148",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7281884,
+          3.2469713
+        ]
+      },
+      "id": "node/9563808867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9563808869",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kolej Vokasional Gombak",
+        "name:ms": "Kolej Vokasional Gombak",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL163",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7283594,
+          3.2467372
+        ]
+      },
+      "id": "node/9563808869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9563808871",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pintu Utama UIA",
+        "name:ms": "Pintu Utama UIA",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7326985,
+          3.2485532
+        ]
+      },
+      "id": "node/9563808871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9563993087",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perhentian Bas Kampung Sungai Pusu",
+        "name:ms": "Perhentian Bas Kampung Sungai Pusu",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7500197,
+          3.2565225
+        ]
+      },
+      "id": "node/9563993087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564312856",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Lembah Pinggiran Sg Chincin",
+        "name:ms": "Lembah Pinggiran Sg Chincin",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL116",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7226001,
+          3.2473199
+        ]
+      },
+      "id": "node/9564312856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564312858",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Lembah Pinggiran Sg Chincin",
+        "name:ms": "Lembah Pinggiran Sg Chincin",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL144",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7229199,
+          3.2479708
+        ]
+      },
+      "id": "node/9564312858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564312860",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Batu 8 Gombak Utara",
+        "name:ms": "Batu 8 Gombak Utara",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL496",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7233543,
+          3.2494596
+        ]
+      },
+      "id": "node/9564312860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564312862",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Batu 8 Gombak Utara",
+        "name:ms": "Batu 8 Gombak Utara",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL497",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7232023,
+          3.2494542
+        ]
+      },
+      "id": "node/9564312862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564312864",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Zakaria (Opp)",
+        "name:ms": "Masjid Zakaria (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL142",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7241336,
+          3.2512597
+        ]
+      },
+      "id": "node/9564312864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564312866",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Zakaria Gombak",
+        "name:ms": "Masjid Zakaria Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL143",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7240085,
+          3.2512853
+        ]
+      },
+      "id": "node/9564312866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564312868",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Rawiyah Sulaiman Jaya",
+        "name:ms": "Taman Rawiyah Sulaiman Jaya",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL117",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7252161,
+          3.2536965
+        ]
+      },
+      "id": "node/9564312868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564312870",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Rawiyah Sulaiman Jaya",
+        "name:ms": "Taman Rawiyah Sulaiman Jaya",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL139",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7257519,
+          3.2546592
+        ]
+      },
+      "id": "node/9564312870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564312872",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Permai Jaya (Selatan)",
+        "name:ms": "Taman Permai Jaya (Selatan)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL137",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7261231,
+          3.2572987
+        ]
+      },
+      "id": "node/9564312872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564312874",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Permai Jaya (S)",
+        "name:ms": "Taman Permai Jaya (S)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL138",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7260438,
+          3.2573725
+        ]
+      },
+      "id": "node/9564312874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564312876",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Sg Salak Bt 10",
+        "name:ms": "Kg Sg Salak Bt 10",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL118",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7265534,
+          3.2606607
+        ]
+      },
+      "id": "node/9564312876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564312878",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Permai Jaya (Utara)",
+        "name:ms": "Taman Permai Jaya (Utara)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL136",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7268423,
+          3.2605894
+        ]
+      },
+      "id": "node/9564312878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564584218",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Sungai Salak",
+        "name:ms": "Kg Sungai Salak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL135",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.726494,
+          3.2635346
+        ]
+      },
+      "id": "node/9564584218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564584220",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Sungai Salak",
+        "name:ms": "Kg Sungai Salak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL134",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7266857,
+          3.2636584
+        ]
+      },
+      "id": "node/9564584220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564584222",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Desa Makmur",
+        "name:ms": "Desa Makmur",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL132",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7274711,
+          3.2677678
+        ]
+      },
+      "id": "node/9564584222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564584224",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Desa Makmur",
+        "name:ms": "Desa Makmur",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL119",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.72767,
+          3.2692781
+        ]
+      },
+      "id": "node/9564584224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564584226",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hentian Batu 11",
+        "name:ms": "Hentian Batu 11",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL130",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7294779,
+          3.2784585
+        ]
+      },
+      "id": "node/9564584226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564584228",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hentian Batu 11",
+        "name:ms": "Hentian Batu 11",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL129",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.729569,
+          3.2787632
+        ]
+      },
+      "id": "node/9564584228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564584232",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Batu 11",
+        "name:ms": "Kg Batu 11",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL127",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7292106,
+          3.2803725
+        ]
+      },
+      "id": "node/9564584232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564584234",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Batu 11",
+        "name:ms": "Kg Batu 11",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL495",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7293931,
+          3.2825383
+        ]
+      },
+      "id": "node/9564584234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564584236",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Batu 11 Gombak",
+        "name:ms": "Kg Batu 11 Gombak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL126",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7295657,
+          3.2825558
+        ]
+      },
+      "id": "node/9564584236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564584238",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Skem Business Centre (Opp)",
+        "name:ms": "Skem Business Centre (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL121",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7306214,
+          3.2884759
+        ]
+      },
+      "id": "node/9564584238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564584240",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Skem Business Centre",
+        "name:ms": "Skem Business Centre",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL120",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7307809,
+          3.288544
+        ]
+      },
+      "id": "node/9564584240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564584242",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hospital Orang Asli",
+        "name:ms": "Hospital Orang Asli",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL122",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.731236,
+          3.292844
+        ]
+      },
+      "id": "node/9564584242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9564584244",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hospital Orang Asli (Opp)",
+        "name:ms": "Hospital Orang Asli (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SL124",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.731312,
+          3.2931314
+        ]
+      },
+      "id": "node/9564584244"
     }
   ]
 }
