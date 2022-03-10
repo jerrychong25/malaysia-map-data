@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-09T02:43:55Z",
+  "timestamp": "2022-03-10T09:39:25Z",
   "features": [
     {
       "type": "Feature",
@@ -5191,7 +5191,6 @@
         "@id": "node/1343196130",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Bus Stop",
         "public_transport": "platform",
         "wheelchair": "limited"
       },
@@ -13603,15 +13602,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2008935405",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Apartment Sri Meranti",
+        "name:en": "Apartment Sri Meranti",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ28",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6032022,
-          3.1914922
+          101.6031571,
+          3.1914967
         ]
       },
       "id": "node/2008935405"
@@ -87032,8 +87041,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5900665,
-          3.2954854
+          101.5900706,
+          3.2954797
         ]
       },
       "id": "node/8111955441"
@@ -102528,7 +102537,7 @@
         "type": "Point",
         "coordinates": [
           101.5915878,
-          3.3025773
+          3.3025871
         ]
       },
       "id": "node/9473426611"
@@ -102663,8 +102672,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5870272,
-          3.3033166
+          101.5870305,
+          3.3033149
         ]
       },
       "id": "node/9473433477"
@@ -120311,6 +120320,649 @@
         ]
       },
       "id": "node/9564584244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9567509147",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Medan Selera Sri Damansara (Opp)",
+        "name:ms": "Medan Selera Sri Damansara (Opp)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ32",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6074763,
+          3.1936055
+        ]
+      },
+      "id": "node/9567509147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9567509149",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Medan Selera Sri Damansara (Opp)",
+        "name:ms": "Medan Selera Sri Damansara (Opp)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ31",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6071542,
+          3.1935062
+        ]
+      },
+      "id": "node/9567509149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9567774196",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Bandar Sri Damansara",
+        "name:ms": "SK Bandar Sri Damansara",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6058382,
+          3.1912557
+        ]
+      },
+      "id": "node/9567774196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9567774198",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Bandar Sri Damansara (Opp)",
+        "name:ms": "SK Bandar Sri Damansara (Opp)",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6059104,
+          3.1907575
+        ]
+      },
+      "id": "node/9567774198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9568024796",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Bandar Sri Damansara 7",
+        "name:ms": "Komersial Bandar Sri Damansara 7",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ22",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6133343,
+          3.1853425
+        ]
+      },
+      "id": "node/9568024796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9568024798",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bandar Sri Damansara 7",
+        "name:ms": "Bandar Sri Damansara 7",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ37",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6132446,
+          3.1855327
+        ]
+      },
+      "id": "node/9568024798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9568024800",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Sri Damansara",
+        "name:ms": "Komersial Sri Damansara",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ21",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6150937,
+          3.1872584
+        ]
+      },
+      "id": "node/9568024800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9568024802",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Sri Damansara (Opp)",
+        "name:ms": "Komersial Sri Damansara (Opp)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6149138,
+          3.1874041
+        ]
+      },
+      "id": "node/9568024802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9568024804",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bandar Sri Damansara 8",
+        "name:ms": "Bandar Sri Damansara 8",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ22",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6161628,
+          3.1892373
+        ]
+      },
+      "id": "node/9568024804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9568024806",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bandar Sri Damansara 8",
+        "name:ms": "Bandar Sri Damansara 8",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ38",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.615968,
+          3.1892984
+        ]
+      },
+      "id": "node/9568024806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9568024808",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sophea Residence (Opp)",
+        "name:en": "Sophea Residence (Opp)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ643",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6172846,
+          3.1901904
+        ]
+      },
+      "id": "node/9568024808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9568024810",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sophea Residence",
+        "name:en": "Sophea Residence",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ644",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6175878,
+          3.1900249
+        ]
+      },
+      "id": "node/9568024810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9568070337",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SD Apartment",
+        "name:en": "SD Apartment",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ864",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6054387,
+          3.189795
+        ]
+      },
+      "id": "node/9568070337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9568070339",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Maybank Sri Damansara (Opp)",
+        "name:en": "Maybank Sri Damansara (Opp)",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6058026,
+          3.1882025
+        ]
+      },
+      "id": "node/9568070339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9568070341",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Bandar Sri Damansara",
+        "name:ms": "Komersial Bandar Sri Damansara",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ863",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6055329,
+          3.1883636
+        ]
+      },
+      "id": "node/9568070341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9568070344",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SJKC Desa Jaya",
+        "name:ms": "SJKC Desa Jaya",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ23",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.606986,
+          3.1854753
+        ]
+      },
+      "id": "node/9568070344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9568070346",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Central Spine SD",
+        "name:ms": "Taman Central Spine SD",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ36",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6076965,
+          3.1852608
+        ]
+      },
+      "id": "node/9568070346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9568164293",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Bandar Sri Damansara 2",
+        "name:ms": "SMK Bandar Sri Damansara 2",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ27",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6033671,
+          3.1915941
+        ]
+      },
+      "id": "node/9568164293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9568164296",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SD Aparment",
+        "name:en": "SD Aparment",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ648",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6033181,
+          3.1879941
+        ]
+      },
+      "id": "node/9568164296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9568164298",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SD Apartment 2",
+        "name:en": "SD Apartment 2",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ647",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6031498,
+          3.1876437
+        ]
+      },
+      "id": "node/9568164298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9568164300",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Paradesa Tropika",
+        "name:ms": "Paradesa Tropika",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ646",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6075039,
+          3.1809788
+        ]
+      },
+      "id": "node/9568164300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9568164302",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Paradesa Tropika (Opp)",
+        "name:ms": "Paradesa Tropika (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ645",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6076838,
+          3.1808873
+        ]
+      },
+      "id": "node/9568164302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9568164304",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Armanee Terrace",
+        "name:en": "Armanee Terrace",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6033421,
+          3.1713446
+        ]
+      },
+      "id": "node/9568164304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9568164306",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Armanee Terrace",
+        "name:en": "Armanee Terrace",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ845",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6048346,
+          3.1709468
+        ]
+      },
+      "id": "node/9568164306"
     }
   ]
 }
