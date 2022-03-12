@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-10T09:34:25Z",
+  "timestamp": "2022-03-12T09:23:23Z",
   "features": [
     {
       "type": "Feature",
@@ -10992,18 +10992,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6969399967",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Taman Lembah Keramat AU5 (Barat)",
-        "operator": "rapidKL",
+        "name": "Taman Lembah Keramat AU5",
+        "name:ms": "Taman Lembah Keramat AU5",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "ref": "AJ382"
+        "ref": "AJ382",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7502591,
-          3.2031024
+          101.750327,
+          3.2030845
         ]
       },
       "id": "node/6969399967"
@@ -37989,6 +37996,33 @@
         ]
       },
       "id": "node/9568164306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572321283",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Lembah Keramat AU5",
+        "name:ms": "Taman Lembah Keramat AU5",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL385",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7502412,
+          3.2029366
+        ]
+      },
+      "id": "node/9572321283"
     }
   ]
 }
