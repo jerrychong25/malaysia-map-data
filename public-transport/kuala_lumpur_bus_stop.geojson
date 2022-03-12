@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-11T15:11:44Z",
+  "timestamp": "2022-03-12T09:22:17Z",
   "features": [
     {
       "type": "Feature",
@@ -839,16 +839,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1820017302",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Surau Al-Huda Jalan 4/27E",
-        "public_transport": "platform"
+        "name": "Surau Darul Huda",
+        "name:ms": "Surau Darul Huda",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL723",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7355068,
-          3.1871823
+          101.7358803,
+          3.1869817
         ]
       },
       "id": "node/1820017302"
@@ -3458,12 +3467,20 @@
       "properties": {
         "@id": "node/4577583392",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Big Aeon",
+        "name": "Aeon Big Wangsa Maju",
+        "name:en": "Aeon Big Wangsa Maju",
+        "name:ms": "Aeon Big Wangsa Maju",
+        "operator": "RapidKL",
         "public_transport": "platform",
+        "ref": "KL2106",
         "route_ref": "253",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -8791,10 +8808,18 @@
       "properties": {
         "@id": "node/6936596452",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Perumahan Wangsa Budi",
+        "name:ms": "Perumahan Wangsa Budi",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "KL1612",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -8810,10 +8835,18 @@
       "properties": {
         "@id": "node/6936596455",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Shell Wangsa Maju (Opp)",
+        "name:en": "Shell Wangsa Maju (Opp)",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "KL824",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -8829,16 +8862,24 @@
       "properties": {
         "@id": "node/6936596456",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Shell Wangsa Maju",
+        "name:ms": "Shell Wangsa Maju",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "KL750",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7448716,
-          3.1966129
+          101.7449386,
+          3.1966524
         ]
       },
       "id": "node/6936596456"
@@ -8847,15 +8888,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6969400202",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Komersial Wangsa Siaga",
+        "name:en": "Wangsa Siaga Commercial",
+        "name:ms": "Komersial Wangsa Siaga",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7472333,
-          3.2029091
+          101.7472447,
+          3.2029006
         ]
       },
       "id": "node/6969400202"
@@ -10406,9 +10458,18 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319259054",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Sri Utama Schools",
+        "name:en": "Sri Utama Schools",
+        "public_transport": "platform",
+        "ref": "KL728",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -10586,15 +10647,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287099",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Sri Ledang Seksyen 10",
+        "name:ms": "Sri Ledang Seksyen 10",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2089",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7364601,
-          3.1881051
+          101.7363538,
+          3.188067
         ]
       },
       "id": "node/7319287099"
@@ -10603,9 +10674,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287100",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Itbm Wangsa Maju (Opp)",
+        "name:en": "Itbm Wangsa Maju (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL724",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
@@ -10620,9 +10701,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287101",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Itbm Wangsa Maju (Timur)",
+        "name:ms": "Itbm Wangsa Maju (Timur)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2088",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -10756,15 +10847,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287109",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Tasik Sri Rampai",
+        "name:en": "Sri Rampai Lake",
+        "name:ms": "Tasik Sri Rampai",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL727",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7287787,
-          3.1956128
+          101.7287701,
+          3.1956535
         ]
       },
       "id": "node/7319287109"
@@ -10773,15 +10875,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287110",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Sri Rampai Park",
+        "name:en": "Sri Rampai Park",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL738",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7283975,
-          3.1963275
+          101.728744,
+          3.1960336
         ]
       },
       "id": "node/7319287110"
@@ -10790,15 +10902,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287112",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Komersial Setapak",
+        "name:en": "Setapak Commercial",
+        "name:ms": "Komersial Setapak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7252216,
-          3.1992777
+          101.7252663,
+          3.1991324
         ]
       },
       "id": "node/7319287112"
@@ -12230,15 +12352,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7321530482",
+        "bench": "no",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "SK Wangsa Jaya",
+        "name:ms": "SK Wangsa Jaya",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL189",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7396819,
-          3.2055488
+          101.739809,
+          3.2053612
         ]
       },
       "id": "node/7321530482"
@@ -12246,33 +12378,26 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7321530483",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.7425109,
-          3.2078336
-        ]
-      },
-      "id": "node/7321530483"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/7321530484",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Dataran Wangsa Maju (Opp)",
+        "name:ms": "Dataran Wangsa Maju (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL185",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7423554,
-          3.2077185
+          101.7423511,
+          3.2076868
         ]
       },
       "id": "node/7321530484"
@@ -12281,15 +12406,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7321533085",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Komersial Wangsa Setia",
+        "name:en": "Wangsa Setia Commercial",
+        "name:ms": "Komersial Wangsa Setia",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL4",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7433585,
-          3.2083023
+          101.7436211,
+          3.2083282
         ]
       },
       "id": "node/7321533085"
@@ -12297,33 +12433,23 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7321533086",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.7432807,
-          3.2082541
-        ]
-      },
-      "id": "node/7321533086"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/7321533087",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7443296,
-          3.2070296
+          101.7444508,
+          3.2070594
         ]
       },
       "id": "node/7321533087"
@@ -12332,15 +12458,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7321533088",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Perumahan Wangsa Ceria",
+        "name:ms": "Perumahan Wangsa Ceria",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL3",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7452236,
-          3.2050548
+          101.7450917,
+          3.204838
         ]
       },
       "id": "node/7321533088"
@@ -23744,6 +23880,791 @@
         ]
       },
       "id": "node/9571021051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572290243",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Wangsa Jaya (Opp)",
+        "name:ms": "SK Wangsa Jaya (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2104",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7394011,
+          3.206006
+        ]
+      },
+      "id": "node/9572290243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572290246",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Wangsa Jaya (Opp)",
+        "name:ms": "SK Wangsa Jaya (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1620",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7397039,
+          3.2052298
+        ]
+      },
+      "id": "node/9572290246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572290249",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Flat Seksyen 4 Blok A4",
+        "name:ms": "Flat Seksyen 4 Blok A4",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL190",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7406713,
+          3.2033831
+        ]
+      },
+      "id": "node/9572290249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572290251",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Flat Wangsa Maju (Opp)",
+        "name:ms": "Flat Wangsa Maju (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1619",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7405694,
+          3.2033473
+        ]
+      },
+      "id": "node/9572290251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572290253",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Flat Seksyen 4 Blok C9",
+        "name:ms": "Flat Seksyen 4 Blok C9",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL191",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.742103,
+          3.201538
+        ]
+      },
+      "id": "node/9572290253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572290255",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Flat Seksyen 4 (Opp)",
+        "name:ms": "Flat Seksyen 4 (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1610",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7417766,
+          3.2055197
+        ]
+      },
+      "id": "node/9572290255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572290257",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Wangsa Jaya/Blok A7 (Barat)",
+        "name:ms": "SK Wangsa Jaya/Blok A7 (Barat)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL188",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7416001,
+          3.2053586
+        ]
+      },
+      "id": "node/9572290257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572290259",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Wangsa Budi",
+        "name:ms": "Perumahan Wangsa Budi",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1611",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7433789,
+          3.2034385
+        ]
+      },
+      "id": "node/9572290259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572290261",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Flat Seksyen 4 Blok C7 (Barat)",
+        "name:ms": "Flat Seksyen 4 Blok C7 (Barat)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL187",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7432344,
+          3.2032645
+        ]
+      },
+      "id": "node/9572290261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572318894",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Wangsa Delima",
+        "name:en": "Wangsa Delima Commercial",
+        "name:ms": "Komersial Wangsa Delima",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL821",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7424774,
+          3.1971367
+        ]
+      },
+      "id": "node/9572318894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572318896",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Aeon Big Wangsa Maju",
+        "name:en": "Aeon Big Wangsa Maju",
+        "name:ms": "Aeon Big Wangsa Maju",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL819",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7423647,
+          3.1967586
+        ]
+      },
+      "id": "node/9572318896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572318899",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Wangsa 118",
+        "name:en": "Wangsa 118",
+        "name:ms": "Wangsa 118",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL820",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7416603,
+          3.195612
+        ]
+      },
+      "id": "node/9572318899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572318901",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Zetro PLKN",
+        "name:ms": "Zetro PLKN",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.741306,
+          3.1936926
+        ]
+      },
+      "id": "node/9572318901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572318904",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Villa Wangsamas",
+        "name:en": "Villa Wangsamas",
+        "name:ms": "Villa Wangsamas",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7374445,
+          3.1945333
+        ]
+      },
+      "id": "node/9572318904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572318907",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Infiniti 3 Residences",
+        "name:en": "Infiniti 3 Residences",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7376461,
+          3.1943315
+        ]
+      },
+      "id": "node/9572318907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572319339",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Wangsa Delima",
+        "name:en": "Wangsa Delima Commercial",
+        "name:ms": "Komersial Wangsa Delima",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL186",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7450779,
+          3.2008748
+        ]
+      },
+      "id": "node/9572319339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572319341",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Wangsa Walk (Timur)",
+        "name:ms": "Wangsa Walk (Timur)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL747",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.743916,
+          3.1989071
+        ]
+      },
+      "id": "node/9572319341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572319343",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Seksyen 5 Wangsa Maju",
+        "name:ms": "SMK Seksyen 5 Wangsa Maju",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL749",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7462226,
+          3.1980584
+        ]
+      },
+      "id": "node/9572319343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572319345",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Seksyen 5 Wangsa Maju (Opp)",
+        "name:ms": "SMK Seksyen 5 Wangsa Maju (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL748",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7459398,
+          3.198229
+        ]
+      },
+      "id": "node/9572319345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572336260",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Rampai Business Park",
+        "name:en": "Rampai Business Park",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1626",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7276793,
+          3.1967801
+        ]
+      },
+      "id": "node/9572336260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572336262",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Rampai Business Park",
+        "name:ms": "Rampai Business Park",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL826",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7278998,
+          3.1963078
+        ]
+      },
+      "id": "node/9572336262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572336265",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Megan Setapak",
+        "name:ms": "Taman Megan Setapak",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL726",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.730664,
+          3.194381
+        ]
+      },
+      "id": "node/9572336265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572336267",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Petron",
+        "name:en": "Petron",
+        "name:ms": "Petron",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7312971,
+          3.1939609
+        ]
+      },
+      "id": "node/9572336267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572368660",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Seasons Garden Residence",
+        "name:en": "Seasons Garden Residence",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.734925,
+          3.1878084
+        ]
+      },
+      "id": "node/9572368660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572381079",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Wangsa Melawati",
+        "name:ms": "SMK Wangsa Melawati",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1279",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7393986,
+          3.2151971
+        ]
+      },
+      "id": "node/9572381079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572381081",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Wangsa Melawati",
+        "name:ms": "Wangsa Melawati",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1325",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7430908,
+          3.2127238
+        ]
+      },
+      "id": "node/9572381081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572381083",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Petronas Wangsa Melawati",
+        "name:en": "Petronas Wangsa Melawati",
+        "name:ms": "Petronas Wangsa Melawati",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1616",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7436284,
+          3.2099518
+        ]
+      },
+      "id": "node/9572381083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572381085",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Dataran Wangsa (Utara)",
+        "name:ms": "Dataran Wangsa (Utara)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL184",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7438305,
+          3.2098478
+        ]
+      },
+      "id": "node/9572381085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572381090",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Dataran Wangsa Maju",
+        "name:ms": "Dataran Wangsa Maju",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1617",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7421807,
+          3.2078234
+        ]
+      },
+      "id": "node/9572381090"
     }
   ]
 }
