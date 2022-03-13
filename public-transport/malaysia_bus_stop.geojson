@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-12T09:26:26Z",
+  "timestamp": "2022-03-13T10:18:27Z",
   "features": [
     {
       "type": "Feature",
@@ -9139,7 +9139,7 @@
         "@id": "node/1731721225",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Klinik Kesihatan",
+        "name": "Klinik Kesihatan Jalan Perak",
         "public_transport": "platform",
         "shelter": "yes"
       },
@@ -10186,16 +10186,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1802320025",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Wisma Tani, Jalan Sultan Salahuddin",
-        "public_transport": "platform"
+        "name": "Wisma Tani",
+        "name:ms": "Wisma Tani",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2257",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6814894,
-          3.156872
+          101.6815225,
+          3.1569394
         ]
       },
       "id": "node/1802320025"
@@ -10610,10 +10619,18 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1813357978",
+        "bench": "no",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "SR (A) Al-Jammiyah Jalan Ayer Panas",
-        "public_transport": "platform"
+        "name:ms": "SR (A) Al-Jammiyah Jalan Ayer Panas",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -10628,16 +10645,24 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1813364899",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Pasar Ayer Panas Jalan Ayer Keroh",
-        "public_transport": "platform"
+        "name": "Pasar Ayer Panas",
+        "name:ms": "Pasar Ayer Panas",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7185736,
-          3.1890541
+          101.7184841,
+          3.1890734
         ]
       },
       "id": "node/1813364899"
@@ -43467,23 +43492,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/5759808955",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.4811409,
-          5.518465
-        ]
-      },
-      "id": "node/5759808955"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/5759808956",
         "bus": "yes",
         "highway": "bus_stop",
@@ -44608,8 +44616,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.4482288,
-          5.3567062
+          100.4482561,
+          5.3566756
         ]
       },
       "id": "node/5791846058"
@@ -44692,6 +44700,7 @@
         "@id": "node/5792550530",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Jalan Perda Utama",
         "public_transport": "platform"
       },
       "geometry": {
@@ -44839,8 +44848,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.4481337,
-          5.3567321
+          100.4481013,
+          5.3567525
         ]
       },
       "id": "node/5792639245"
@@ -68057,15 +68066,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287102",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "SMK Taman Sri Rampai",
+        "name:ms": "SMK Taman Sri Rampai",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL714",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7329205,
-          3.1913171
+          101.7326452,
+          3.1913672
         ]
       },
       "id": "node/7319287102"
@@ -68074,15 +68093,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287103",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Wisma Felcra",
+        "name:ms": "Wisma Felcra",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL715",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7330674,
-          3.1911624
+          101.7330054,
+          3.1911567
         ]
       },
       "id": "node/7319287103"
@@ -68091,9 +68120,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287104",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Taman Sri Rampai (Barat)",
+        "name:ms": "Taman Sri Rampai (Barat)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL717",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -68108,15 +68147,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287105",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "PPR Desa Rejang",
+        "name:ms": "PPR Desa Rejang",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL716",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7297088,
-          3.1913967
+          101.729722,
+          3.1913901
         ]
       },
       "id": "node/7319287105"
@@ -68125,15 +68174,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287106",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Medan Selera D'Rejang",
+        "name:en": "D'Rejang Food Court",
+        "name:ms": "Medan Selera D'Rejang",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2092",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7275903,
-          3.1920041
+          101.7275719,
+          3.1921692
         ]
       },
       "id": "node/7319287106"
@@ -68142,15 +68202,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287107",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Taman Setapak Jaya (Utara)",
+        "name:ms": "Taman Setapak Jaya (Utara)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL713",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7277489,
-          3.1922995
+          101.7277582,
+          3.1922348
         ]
       },
       "id": "node/7319287107"
@@ -68611,15 +68681,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287127",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "PPR Sungai Bonus",
+        "name:ms": "PPR Sungai Bonus",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2080",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7214323,
-          3.1882602
+          101.721461,
+          3.1881444
         ]
       },
       "id": "node/7319287127"
@@ -68628,15 +68708,24 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287128",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Flat Sg Bonos",
+        "name:ms": "Flat Sg Bonos",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7214816,
-          3.1888299
+          101.7214024,
+          3.1887328
         ]
       },
       "id": "node/7319287128"
@@ -68645,15 +68734,24 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287129",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Pekan Ayer Panas",
+        "name:ms": "Pekan Ayer Panas",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.719847,
-          3.1888299
+          101.719668,
+          3.1888842
         ]
       },
       "id": "node/7319287129"
@@ -68662,15 +68760,24 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287130",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Pasar",
+        "name:ms": "Pasar",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7181843,
-          3.1887948
+          101.7181834,
+          3.1887723
         ]
       },
       "id": "node/7319287130"
@@ -68679,15 +68786,24 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287131",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Lorong Ayer Panas 2",
+        "name:ms": "Lorong Ayer Panas 2",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7168099,
-          3.1889847
+          101.7168528,
+          3.188915
         ]
       },
       "id": "node/7319287131"
@@ -68696,15 +68812,24 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287132",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Lorong Ayer Panas 2",
+        "name:ms": "Lorong Ayer Panas 2",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           101.7166763,
-          3.1888271
+          3.1888082
         ]
       },
       "id": "node/7319287132"
@@ -68713,15 +68838,24 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287133",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "SK Jln Air Panas",
+        "name:ms": "SK Jln Air Panas",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7153005,
-          3.1891261
+          101.7152487,
+          3.1891657
         ]
       },
       "id": "node/7319287133"
@@ -68730,15 +68864,24 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287134",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Surau Aljamiyyiah (Opp)",
+        "name:ms": "Surau Aljamiyyiah (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7139409,
-          3.1899665
+          101.7139394,
+          3.1899482
         ]
       },
       "id": "node/7319287134"
@@ -68747,9 +68890,18 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287135",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Surau",
+        "name:ms": "Surau",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -68764,9 +68916,18 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287136",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Tadika Ayer Panas",
+        "name:ms": "Tadika Ayer Panas",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -68781,9 +68942,18 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287137",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Tadika Ayer Panas",
+        "name:ms": "Tadika Ayer Panas",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
@@ -68798,15 +68968,24 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7319287138",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Rumah 148",
+        "name:ms": "Rumah 148",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7108129,
-          3.1917644
+          101.7107994,
+          3.1917381
         ]
       },
       "id": "node/7319287138"
@@ -76387,6 +76566,7 @@
         "@id": "node/7633224373",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Jalan Kubang Menerong",
         "public_transport": "platform"
       },
       "geometry": {
@@ -76404,6 +76584,7 @@
         "@id": "node/7633225792",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Jalan Kubang Menerong",
         "public_transport": "platform"
       },
       "geometry": {
@@ -76911,8 +77092,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.4731245,
-          5.4495676
+          100.4731399,
+          5.4495796
         ]
       },
       "id": "node/7647599988"
@@ -93568,7 +93749,7 @@
         "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Old Town Cafe",
+        "name": "Old Town White Coffee",
         "public_transport": "platform",
         "shelter": "yes"
       },
@@ -102065,6 +102246,7 @@
         "@id": "node/9472611366",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Jalan Tun Hamdan Sheikh Tahir",
         "public_transport": "platform"
       },
       "geometry": {
@@ -122315,6 +122497,396 @@
         ]
       },
       "id": "node/9572381090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572703827",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jalan Perda Selatan",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4393642,
+          5.3680555
+        ]
+      },
+      "id": "node/9572703827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572703829",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jalan Perda Timur",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4409891,
+          5.3695533
+        ]
+      },
+      "id": "node/9572703829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572706329",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jalan Kubang Menerong",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.500601,
+          5.521594
+        ]
+      },
+      "id": "node/9572706329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572706350",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4816157,
+          5.5200411
+        ]
+      },
+      "id": "node/9572706350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572706352",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jalan Tun Hamdan Sheikh Tahir",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4636524,
+          5.5190639
+        ]
+      },
+      "id": "node/9572706352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572807725",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3970047,
+          5.4487603
+        ]
+      },
+      "id": "node/9572807725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572807730",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3996098,
+          5.4496793
+        ]
+      },
+      "id": "node/9572807730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572807732",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4012736,
+          5.4506115
+        ]
+      },
+      "id": "node/9572807732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572823357",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Persiaran Bayan Indah",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3094894,
+          5.3398611
+        ]
+      },
+      "id": "node/9572823357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9572823416",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "ref": "TER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.308675,
+          5.404572
+        ]
+      },
+      "id": "node/9572823416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9574706910",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Abu Ubaidah (Opp)",
+        "name:ms": "Masjid Abu Ubaidah (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7286402,
+          3.1942835
+        ]
+      },
+      "id": "node/9574706910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9574706913",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Abu Ubaidah",
+        "name:en": "Abu Ubaidah Mosque",
+        "name:ms": "Masjid Abu Ubaidah",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7288305,
+          3.1944207
+        ]
+      },
+      "id": "node/9574706913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9574717918",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pekan Ayer Panas",
+        "name:ms": "Pekan Ayer Panas",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7191729,
+          3.1890733
+        ]
+      },
+      "id": "node/9574717918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9574717920",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pasar Ayer Panas (Opp)",
+        "name:ms": "Pasar Ayer Panas (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7184896,
+          3.1888855
+        ]
+      },
+      "id": "node/9574717920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9574744749",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Jabatan Perhutanan",
+        "name:ms": "Jabatan Perhutanan",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1057",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.682383,
+          3.1590136
+        ]
+      },
+      "id": "node/9574744749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9574744754",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Jabatan Perhutanan (Opp)",
+        "name:ms": "Jabatan Perhutanan (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL2256",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.683528,
+          3.1590241
+        ]
+      },
+      "id": "node/9574744754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9574744756",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Duta Vista",
+        "name:en": "Duta Vista",
+        "name:ms": "Duta Vista",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1487",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6744706,
+          3.15088
+        ]
+      },
+      "id": "node/9574744756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9574744757",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Duta Vista (Opp)",
+        "name:ms": "Duta Vista (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1915",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6744554,
+          3.1503185
+        ]
+      },
+      "id": "node/9574744757"
     }
   ]
 }
