@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-13T10:18:27Z",
+  "timestamp": "2022-03-14T04:46:21Z",
   "features": [
     {
       "type": "Feature",
@@ -13374,25 +13374,6 @@
         ]
       },
       "id": "node/1992386102"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/1993249881",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name": "Apartment Impian",
-        "public_transport": "platform",
-        "shelter": "no"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.5880153,
-          3.1923067
-        ]
-      },
-      "id": "node/1993249881"
     },
     {
       "type": "Feature",
@@ -122887,6 +122868,247 @@
         ]
       },
       "id": "node/9574744757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9576882968",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Apartment Lestari (Opp)",
+        "name:ms": "Apartment Lestari (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ62",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5940187,
+          3.1971873
+        ]
+      },
+      "id": "node/9576882968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9576882970",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Apartment Lestari",
+        "name:ms": "Apartment Lestari",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ49",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5943261,
+          3.1972579
+        ]
+      },
+      "id": "node/9576882970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9576882972",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Apt Lestari",
+        "name:ms": "Apt Lestari",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5941665,
+          3.1967668
+        ]
+      },
+      "id": "node/9576882972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9576882974",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Damansara Damai 1, Jalan PJU 10/1",
+        "name:ms": "SK Damansara Damai 1, Jalan PJU 10/1",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ50",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5933778,
+          3.1935811
+        ]
+      },
+      "id": "node/9576882974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9576882976",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Damansara Damai 1,Jalan PJU 10/1",
+        "name:ms": "SK Damansara Damai 1, Jalan PJU 10/1",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5932472,
+          3.1925719
+        ]
+      },
+      "id": "node/9576882976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9576882978",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Apartment Idaman",
+        "name:ms": "Apartment Idaman",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ52",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5923936,
+          3.1907133
+        ]
+      },
+      "id": "node/9576882978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9576882980",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Apartment Impian, Jalan PJU 10/1",
+        "name:ms": "Apartment Impian, Jalan PJU 10/1",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ53",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5885166,
+          3.1919521
+        ]
+      },
+      "id": "node/9576882980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9576882985",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Apartment Permai",
+        "name:ms": "Apartment Permai",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ54",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5883025,
+          3.1943011
+        ]
+      },
+      "id": "node/9576882985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9576882987",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Residensi Suasana Damai (Opp)",
+        "name:ms": "Residensi Suasana Damai (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ55",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5913705,
+          3.1945369
+        ]
+      },
+      "id": "node/9576882987"
     }
   ]
 }
