@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-14T04:46:21Z",
+  "timestamp": "2022-03-15T02:55:39Z",
   "features": [
     {
       "type": "Feature",
@@ -14809,23 +14809,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/2385924966",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.572345,
-          3.2084623
-        ]
-      },
-      "id": "node/2385924966"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/2385924971",
         "bus": "yes",
         "highway": "bus_stop",
@@ -18118,14 +18101,23 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2487545627",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Bandar Baru Sungai Buloh",
+        "name:ms": "Bandar Baru Sungai Buloh",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5659367,
+          101.5659247,
           3.2087999
         ]
       },
@@ -78116,15 +78108,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7680174963",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "KTM Sungai Buloh (Timur), Jalan Kuala Selangor",
+        "name:ms": "KTM Sungai Buloh (Timur), Jalan Kuala Selangor",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ586",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5807987,
-          3.2052818
+          101.580815,
+          3.2052731
         ]
       },
       "id": "node/7680174963"
@@ -78134,13 +78136,19 @@
       "properties": {
         "@id": "node/7680174982",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Pusat Komersil TSB",
+        "name": "Kem Sungai Buloh (Utara) , Jalan Kuala Selangor",
+        "name:ms": "Kem Sungai Buloh (Utara) , Jalan Kuala Selangor",
+        "operator": "Selangor Bus, RapidKL, Smart Selangor",
         "passenger_information_display": "yes",
         "public_transport": "platform",
+        "ref": "SA638",
         "route_ref": "T101;147",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -78474,10 +78482,16 @@
         "bench": "yes",
         "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "MRT Kg Selamat Pintu B",
+        "name:ms": "MRT Kg Selamat Pintu B",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -93231,9 +93245,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8997734896",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "KTM Sungai Buloh (Timur), Jalan Kuala Selangor",
+        "name:ms": "KTM Sungai Buloh (Timur), Jalan Kuala Selangor",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ655",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
@@ -123109,6 +123133,490 @@
         ]
       },
       "id": "node/9576882987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9579644446",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SME Aerospace",
+        "name:en": "SME Aerospace",
+        "operator": "Selangor Bus, RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5742295,
+          3.2081294
+        ]
+      },
+      "id": "node/9579644446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9579644449",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kem Sungai Buloh (Utara), Jalan Kuala Selangor",
+        "name:ms": "Kem Sungai Buloh (Utara), Jalan Kuala Selangor",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SA639",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5665397,
+          3.2084142
+        ]
+      },
+      "id": "node/9579644449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9579644452",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perdana Exclusive Condo",
+        "name:en": "Perdana Exclusive Condo",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ817",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6053928,
+          3.1693583
+        ]
+      },
+      "id": "node/9579644452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9579644454",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perdana Shopping Centre",
+        "name:en": "Perdana Shopping Centre",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ375",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6063334,
+          3.1675879
+        ]
+      },
+      "id": "node/9579644454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9579644456",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Metropolitan Square",
+        "name:en": "Metropolitan Square",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ377",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6078466,
+          3.1661898
+        ]
+      },
+      "id": "node/9579644456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9579644458",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Neo Damansara, Jalan PJU 8/1",
+        "name:en": "Neo Damansara, PJU 8/1 Road",
+        "name:ms": "Neo Damansara, Jalan PJU 8/1",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ378",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6109967,
+          3.1648111
+        ]
+      },
+      "id": "node/9579644458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9579644460",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Empire Damansara",
+        "name:en": "Empire Damansara",
+        "name:ms": "Empire Damansara",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.61173,
+          3.1660373
+        ]
+      },
+      "id": "node/9579644460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9579644462",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Ritze Perdana",
+        "name:en": "Ritze Perdana",
+        "name:ms": "Ritze Perdana",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ373",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6110161,
+          3.1645431
+        ]
+      },
+      "id": "node/9579644462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9579656514",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "MRT Sg Buloh",
+        "name:en": "MRT Sg Buloh",
+        "name:ms": "MRT Sg Buloh",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SA995",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5806486,
+          3.2066775
+        ]
+      },
+      "id": "node/9579656514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9579681917",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Premise 196",
+        "name:ms": "Premise 196",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5725337,
+          3.198109
+        ]
+      },
+      "id": "node/9579681917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9579681919",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Deret Kedai Jln Perkhidmatan",
+        "name:ms": "Deret Kedai Jln Perkhidmatan",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.569777,
+          3.1974741
+        ]
+      },
+      "id": "node/9579681919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9579681921",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SJKC Sg Buloh (Opp)",
+        "name:ms": "SJKC Sg Buloh (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5696893,
+          3.1953874
+        ]
+      },
+      "id": "node/9579681921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9579681923",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Ipd Sg Buloh",
+        "name:ms": "Ipd Sg Buloh",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5674045,
+          3.1942339
+        ]
+      },
+      "id": "node/9579681923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9579681925",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pangsapuri Medan Mas",
+        "name:ms": "Pangsapuri Medan Mas",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5665952,
+          3.1958047
+        ]
+      },
+      "id": "node/9579681925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9579681927",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "RHB Kg Baru Sg Buloh",
+        "name:ms": "RHB Kg Baru Sg Buloh",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5680093,
+          3.1982302
+        ]
+      },
+      "id": "node/9579681927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9579686049",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perdana Shopping Centre, Jalan PJU 8/1",
+        "name:en": "Perdana Shopping Centre, PJU 8/1 Road",
+        "name:ms": "Perdana Shopping Centre, Jalan PJU 8/1",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ375",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6114776,
+          3.164076
+        ]
+      },
+      "id": "node/9579686049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9579686051",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Neo Damansara",
+        "name:en": "Neo Damansara",
+        "name:ms": "Neo Damansara",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ380",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6116883,
+          3.1640822
+        ]
+      },
+      "id": "node/9579686051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9579686053",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Manhattan Business Hotel",
+        "name:en": "Manhattan Business Hotel",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ379",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.612303,
+          3.1646032
+        ]
+      },
+      "id": "node/9579686053"
     }
   ]
 }
