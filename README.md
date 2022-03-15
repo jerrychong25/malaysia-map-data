@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This repo stores Malaysia OpenStreetMap map data that I've queried in [OverPass Turbo](https://overpass-turbo.eu/) via Overpass API.
+This repo stores Malaysia map data retrieved from [OpenStreetMap](https://www.openstreetmap.org/).
 
 ## Authors
 
