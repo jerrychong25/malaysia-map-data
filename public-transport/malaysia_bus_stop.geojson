@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-15T02:55:39Z",
+  "timestamp": "2022-03-16T14:13:45Z",
   "features": [
     {
       "type": "Feature",
@@ -13344,15 +13344,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1986953698",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Ikea (Barat)",
+        "name:en": "Ikea (West)",
+        "name:ms": "Ikea (Barat)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ533",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6107625,
-          3.1549727
+          101.6107589,
+          3.1549677
         ]
       },
       "id": "node/1986953698"
@@ -36419,9 +36430,18 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5261535562",
+        "bench": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "MRT Mutiara Damansara Pintu C, Jalan PJU 7/1",
+        "name:ms": "MRT Mutiara Damansara Pintu C, Jalan PJU 7/1",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ814",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -43297,24 +43317,6 @@
         ]
       },
       "id": "node/5751399395"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5753863254",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform",
-        "route_ref": "780"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.6130019,
-          3.1553089
-        ]
-      },
-      "id": "node/5753863254"
     },
     {
       "type": "Feature",
@@ -80577,17 +80579,28 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7780782428",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Ikea",
+        "name:en": "Ikea",
+        "name:ms": "Ikea",
+        "operator": "RapidKL",
         "passenger_information_display": "no",
         "public_transport": "platform",
-        "route_ref": "780"
+        "ref": "PJ534",
+        "route_ref": "780",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6108228,
-          3.1553821
+          101.6123512,
+          3.1553731
         ]
       },
       "id": "node/7780782428"
@@ -92788,6 +92801,7 @@
       "properties": {
         "@id": "node/8868493021",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
         "shelter": "yes"
@@ -123617,6 +123631,159 @@
         ]
       },
       "id": "node/9579686053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9581034110",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9265359,
+          2.7234244
+        ]
+      },
+      "id": "node/9581034110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9583024789",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Tesco Mutiara Damansara, Jalan PJU 7/1",
+        "name:en": "Tesco Mutiara Damansara, PJU 7/1 Road",
+        "name:ms": "Tesco Mutiara Damansara, Jalan PJU 7/1",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ381",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6122883,
+          3.1603055
+        ]
+      },
+      "id": "node/9583024789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9583024791",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Tesco Mutiara Damansara (Opp)",
+        "name:en": "Tesco Mutiara Damansara (Opp)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ372",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6120238,
+          3.1603169
+        ]
+      },
+      "id": "node/9583024791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9583024793",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "the Curve",
+        "name:en": "the Curve",
+        "name:ms": "the Curve",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ382",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6092122,
+          3.1578845
+        ]
+      },
+      "id": "node/9583024793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9583024795",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "the Curve (Opp)",
+        "name:en": "the Curve (Opp)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ371",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6091244,
+          3.1581015
+        ]
+      },
+      "id": "node/9583024795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9583024798",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "MRT Mutiara Damansara Pintu B, Jalan PJU 7/1",
+        "name:ms": "MRT Mutiara Damansara Pintu B, Jalan PJU 7/1",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ809",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6081483,
+          3.1559505
+        ]
+      },
+      "id": "node/9583024798"
     }
   ]
 }
