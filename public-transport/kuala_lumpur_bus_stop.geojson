@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-17T15:07:55Z",
+  "timestamp": "2022-03-18T09:15:30Z",
   "features": [
     {
       "type": "Feature",
@@ -25652,6 +25652,84 @@
         ]
       },
       "id": "node/9585666057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9587269092",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Burhanuddin Helmi 2 (Selatan)",
+        "name:ms": "Perumahan Burhanuddin Helmi 2 (Selatan)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6202468,
+          3.149619
+        ]
+      },
+      "id": "node/9587269092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9587269094",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Burhanuddin Helmi 2 (Timur)",
+        "name:ms": "Perumahan Burhanuddin Helmi 2 (Timur)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6201702,
+          3.1467633
+        ]
+      },
+      "id": "node/9587269094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9587314135",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bukit Lanjan (Utara)",
+        "name:ms": "Bukit Lanjan (Utara)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.617252,
+          3.1687339
+        ]
+      },
+      "id": "node/9587314135"
     }
   ]
 }
