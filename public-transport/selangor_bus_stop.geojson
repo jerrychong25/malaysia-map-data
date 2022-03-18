@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-16T14:10:41Z",
+  "timestamp": "2022-03-18T09:17:37Z",
   "features": [
     {
       "type": "Feature",
@@ -2923,10 +2923,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1919586996",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Bandar Utama (Opp)",
+        "name:en": "Bandar Utama (Opp)",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "route_ref": "780"
+        "ref": "PJ629",
+        "route_ref": "780",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -2941,11 +2951,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1919587006",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "1Utama LDP",
+        "name": "One Utama, LDP",
+        "name:en": "One Utama, LDP",
+        "name:ms": "One Utama, LDP",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "shelter": "no"
+        "ref": "PJ532",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -17052,17 +17071,25 @@
       "properties": {
         "@id": "node/7780782430",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Empire City",
+        "name:en": "Empire City",
+        "operator": "RapidKL",
         "public_transport": "platform",
+        "ref": "PJ628",
         "route_ref": "780",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6151938,
-          3.1656021
+          101.6152278,
+          3.1655437
         ]
       },
       "id": "node/7780782430"
@@ -38902,6 +38929,222 @@
         ]
       },
       "id": "node/9583024798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9587269096",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "MRT Bandar Utama",
+        "name:en": "MRT Bandar Utama",
+        "name:ms": "MRT Bandar Utama",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ540",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6180584,
+          3.1452022
+        ]
+      },
+      "id": "node/9587269096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9587269098",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "1PowerHouse (Opp)",
+        "name:en": "1PowerHouse (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6171086,
+          3.1449834
+        ]
+      },
+      "id": "node/9587269098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9587314138",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bukit Lanjan (Selatan)",
+        "name:ms": "Bukit Lanjan (Selatan)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6165467,
+          3.1663538
+        ]
+      },
+      "id": "node/9587314138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9587314141",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "PJ Trade Centre",
+        "name:en": "PJ Trade Centre",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6128773,
+          3.168385
+        ]
+      },
+      "id": "node/9587314141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9587339696",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "First Avenue, Dataran Bandar Utama",
+        "name:en": "First Avenue, Dataran Bandar Utama",
+        "name:ms": "First Avenue, Dataran Bandar Utama",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ537",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.616146,
+          3.1451119
+        ]
+      },
+      "id": "node/9587339696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9587339698",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "First Avenue (Opp)",
+        "name:en": "First Avenue (Opp)",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ536",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6150585,
+          3.1464936
+        ]
+      },
+      "id": "node/9587339698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9587339700",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "One Utama",
+        "name:en": "One Utama",
+        "name:ms": "One Utama",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ537",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6145634,
+          3.1478688
+        ]
+      },
+      "id": "node/9587339700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9587339703",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "One Utama New Wing",
+        "name:en": "One Utama New Wing",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "PJ721",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6146934,
+          3.1506248
+        ]
+      },
+      "id": "node/9587339703"
     }
   ]
 }
