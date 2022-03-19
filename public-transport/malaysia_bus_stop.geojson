@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-18T09:20:42Z",
+  "timestamp": "2022-03-19T13:27:01Z",
   "features": [
     {
       "type": "Feature",
@@ -13346,15 +13346,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1986940267",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Pelangi Astana",
+        "name:ms": "Pelangi Astana",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ383",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6034298,
-          3.1537948
+          101.6034161,
+          3.153817
         ]
       },
       "id": "node/1986940267"
@@ -13748,10 +13758,21 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2026108259",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "MRT Surian",
+        "name:en": "MRT Surian",
+        "name:ms": "MRT Surian",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "route_ref": "780"
+        "ref": "PJ368",
+        "route_ref": "780",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -43409,17 +43430,24 @@
       "properties": {
         "@id": "node/5751399394",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Palm Spring",
+        "name:en": "Palm Spring",
+        "operator": "RapidKL",
         "public_transport": "platform",
+        "ref": "PJ369",
         "route_ref": "780",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5991052,
+          101.599117,
           3.1496722
         ]
       },
@@ -43430,11 +43458,17 @@
       "properties": {
         "@id": "node/5751399395",
         "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Shell Station Bus Stop",
+        "name": "Shell, Persiaran Surian",
+        "name:ms": "Shell, Persiaran Surian",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -43486,9 +43520,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5754005055",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "MRT Surian",
+        "name:en": "MRT Surian",
+        "name:ms": "MRT Surian",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ387",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -124465,8 +124510,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6180584,
-          3.1452022
+          101.617915,
+          3.1450981
         ]
       },
       "id": "node/9587269096"
@@ -124684,6 +124729,33 @@
         ]
       },
       "id": "node/9587339703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9589801947",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pelangi Astana (Opp)",
+        "name:en": "Pelangi Astana (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ370",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.603031,
+          3.1538008
+        ]
+      },
+      "id": "node/9589801947"
     }
   ]
 }
