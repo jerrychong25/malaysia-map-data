@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-19T13:24:00Z",
+  "timestamp": "2022-03-20T02:38:54Z",
   "features": [
     {
       "type": "Feature",
@@ -2325,23 +2325,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/1645123841",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.5929011,
-          3.1023501
-        ]
-      },
-      "id": "node/1645123841"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/1659885669",
         "bus": "yes",
         "highway": "bus_stop",
@@ -4514,17 +4497,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2582047366",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Plaza Kelana Jaya",
+        "name:ms": "Plaza Kelana Jaya",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "shelter": "yes",
-        "toilets:wheelchair": "no"
+        "ref": "PJ685",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5972251,
-          3.0968178
+          101.5971555,
+          3.0966793
         ]
       },
       "id": "node/2582047366"
@@ -9033,15 +9025,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5486069144",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "LRT Glenmarie",
+        "name:en": "LRT Glenmarie",
+        "name:ms": "LRT Glenmarie",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SA1069",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.59028,
-          3.0949637
+          101.5902417,
+          3.0949524
         ]
       },
       "id": "node/5486069144"
@@ -20860,16 +20863,23 @@
       "properties": {
         "@id": "node/8118760694",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Dataran Sunway Barat",
+        "name:ms": "Dataran Sunway Barat",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5909007,
-          3.1523456
+          101.5908969,
+          3.1523446
         ]
       },
       "id": "node/8118760694"
@@ -39217,6 +39227,487 @@
         ]
       },
       "id": "node/9589801947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9591146236",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Dataran Sunway Timur",
+        "name:ms": "Dataran Sunway Timur",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5956096,
+          3.1517067
+        ]
+      },
+      "id": "node/9591146236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9591146238",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "The Strand Timur",
+        "name:ms": "The Strand Timur",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5954299,
+          3.1559117
+        ]
+      },
+      "id": "node/9591146238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9591146240",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pangsapuri Dedap Blok 10",
+        "name:ms": "Pangsapuri Dedap Blok 10",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5950767,
+          3.1581644
+        ]
+      },
+      "id": "node/9591146240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9591146242",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Gugusan Dedap (Opp)",
+        "name:en": "Gugusan Dedap (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ82",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5940729,
+          3.1587387
+        ]
+      },
+      "id": "node/9591146242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9591146244",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Seksyen 11",
+        "name:ms": "SK Seksyen 11",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ83",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5946297,
+          3.1601616
+        ]
+      },
+      "id": "node/9591146244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9591146246",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "D'Villa Botani",
+        "name:ms": "D'Villa Botani",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ662",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5913198,
+          3.1619572
+        ]
+      },
+      "id": "node/9591146246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9591146248",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Aeon Big KD",
+        "name:en": "Aeon Big KD",
+        "name:ms": "Aeon Big KD",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.591118,
+          3.1597993
+        ]
+      },
+      "id": "node/9591146248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9591146250",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pangsapuri Dedap Blok 1",
+        "name:ms": "Pangsapuri Dedap Blok 1",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5913426,
+          3.1578306
+        ]
+      },
+      "id": "node/9591146250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9591146252",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "The Strand Barat",
+        "name:ms": "The Strand Barat",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5910607,
+          3.1544236
+        ]
+      },
+      "id": "node/9591146252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9591165505",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sunsuria",
+        "name:en": "Sunsuria",
+        "name:ms": "Sunsuria",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ87",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5907782,
+          3.1546802
+        ]
+      },
+      "id": "node/9591165505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9591165507",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Plaza Glomac (Opp)",
+        "name:ms": "Plaza Glomac (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5903442,
+          3.0982131
+        ]
+      },
+      "id": "node/9591165507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9591165509",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Glomac Boulevard",
+        "name:en": "Glomac Boulevard",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ572",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5909699,
+          3.0992174
+        ]
+      },
+      "id": "node/9591165509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9591165511",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kelana Centre Point",
+        "name:en": "Kelana Centre Point",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ759",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5915116,
+          3.1000742
+        ]
+      },
+      "id": "node/9591165511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9591165513",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kelana Mahkota (Opp)",
+        "name:en": "Kelana Mahkota (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ571",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5928939,
+          3.1023079
+        ]
+      },
+      "id": "node/9591165513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9591165858",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kelana Business Centre / LRT Glenmarie",
+        "name:en": "Kelana Business Centre / LRT Glenmarie",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ684",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5912509,
+          3.095586
+        ]
+      },
+      "id": "node/9591165858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9591165860",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Shang Villa Condominium",
+        "name:en": "Shang Villa Condominium",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ566",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5929331,
+          3.0957836
+        ]
+      },
+      "id": "node/9591165860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9591165862",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Stadium Kelana Jaya",
+        "name:ms": "Stadium Kelana Jaya",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ567",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5942252,
+          3.0975565
+        ]
+      },
+      "id": "node/9591165862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9591165864",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Bandaran Kelana Jaya",
+        "name:ms": "Taman Bandaran Kelana Jaya",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ695",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5955535,
+          3.0974991
+        ]
+      },
+      "id": "node/9591165864"
     }
   ]
 }
