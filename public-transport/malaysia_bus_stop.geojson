@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-20T02:42:54Z",
+  "timestamp": "2022-03-21T03:47:21Z",
   "features": [
     {
       "type": "Feature",
@@ -2412,10 +2412,16 @@
         "@id": "way/608171514",
         "bench": "yes",
         "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "operator": "RapidKL",
         "public_transport": "platform",
+        "ref": "PJ355",
         "route_ref": "780",
-        "shelter": "yes"
+        "shelter": "yes",
+        "surface": "asphalt",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Polygon",
@@ -41689,9 +41695,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5565773011",
+        "bench": "yes",
         "bus": "yes",
+        "departures_board": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -78706,20 +78715,24 @@
         "bench": "yes",
         "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Stesen MRT Kota Damansara Pintu A",
+        "name": "MRT Kota Damansara Pintu A",
+        "name:ms": "MRT Kota Damansara Pintu A",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
         "ref": "PJ395",
         "route_ref": "T806;T805;T780",
         "shelter": "yes",
-        "tactile_paving": "yes"
+        "tactile_paving": "yes",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5786563,
-          3.1500607
+          101.5780723,
+          3.1499996
         ]
       },
       "id": "node/7680202084"
@@ -80505,12 +80518,21 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7764625654",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Bestari De Kota",
+        "name:ms": "Bestari De Kota",
+        "operator": "RapidKL",
         "passenger_information_display": "no",
         "public_transport": "platform",
         "route_ref": "T801",
-        "source": "local knowledge"
+        "shelter": "no",
+        "source": "local knowledge",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -80967,16 +80989,27 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7780782458",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Masjid Kota Damansara",
+        "name:en": "Kota Damansara Mosque",
+        "name:ms": "Masjid Kota Damansara",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "ref": "PJ665",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5869505,
-          3.1617423
+          101.5868879,
+          3.1616238
         ]
       },
       "id": "node/7780782458"
@@ -84728,7 +84761,9 @@
       "properties": {
         "@id": "node/8044620041",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
+        "public_transport": "platform",
         "shelter": "yes",
         "shelter_type": "public_transport"
       },
@@ -88455,18 +88490,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8142458783",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Persimpangan Sepah Puteri 5/2",
+        "name:ms": "Persimpangan Sepah Puteri 5/2",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
         "route_ref": "780",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5830016,
-          3.1562061
+          101.5830616,
+          3.15624
         ]
       },
       "id": "node/8142458783"
@@ -88475,18 +88518,27 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8142458803",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "SK Seksyen 6 KD",
+        "name:ms": "SK Seksyen 6 KD",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
+        "ref": "PJ100",
         "route_ref": "780",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5756289,
-          3.155475
+          101.5755807,
+          3.1554905
         ]
       },
       "id": "node/8142458803"
@@ -88495,18 +88547,27 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8142458804",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Pangsapuri Tanjung",
+        "name:ms": "Pangsapuri Tanjung",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
+        "ref": "PJ103",
         "route_ref": "780",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5756296,
-          3.1553873
+          101.575614,
+          3.1553562
         ]
       },
       "id": "node/8142458804"
@@ -88516,18 +88577,26 @@
       "properties": {
         "@id": "node/8142499624",
         "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Pangsapuri Cempaka 6 (Opp)",
+        "name:ms": "Pangsapuri Cempaka 6 (Opp)",
+        "operator": "RapidKL",
         "passenger_information_display": "no",
         "public_transport": "platform",
+        "ref": "PJ99",
         "route_ref": "780",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5744548,
-          3.1567042
+          101.574383,
+          3.1568073
         ]
       },
       "id": "node/8142499624"
@@ -88537,18 +88606,26 @@
       "properties": {
         "@id": "node/8142499625",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Pangsapuri Cempaka 6",
+        "name:ms": "Pangsapuri Cempaka 6",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
+        "ref": "PJ104",
         "route_ref": "780",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5743247,
-          3.1566882
+          101.574308,
+          3.1566538
         ]
       },
       "id": "node/8142499625"
@@ -88578,17 +88655,27 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8142499638",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Komersial Seksyen 6 (Timur)",
+        "name:ms": "Komersial Seksyen 6 (Timur)",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
+        "ref": "PJ792",
         "route_ref": "780",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5815546,
-          3.1611031
+          101.5814563,
+          3.1610874
         ]
       },
       "id": "node/8142499638"
@@ -89133,17 +89220,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8193238161",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Flat Blok Cempaka (Opp)",
+        "name": "Pangsapuri Cempaka 1",
+        "name:ms": "Pangsapuri Cempaka 1",
         "operator": "RapidKL",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "ref": "PJ105",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.574158,
-          3.1579955
+          101.5741306,
+          3.1580776
         ]
       },
       "id": "node/8193238161"
@@ -89152,17 +89247,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8193238162",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Balai Polis Trafik Kota Damansara",
+        "name:ms": "Balai Polis Trafik Kota Damansara",
         "operator": "RapidKL",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "ref": "PJ97",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5751905,
-          3.1594719
+          101.5751138,
+          3.1594693
         ]
       },
       "id": "node/8193238162"
@@ -92047,26 +92150,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8731285459",
-        "bench": "yes",
-        "bus": "yes",
-        "departures_board": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform",
-        "shelter": "yes"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.4875753,
-          3.0673001
-        ]
-      },
-      "id": "node/8731285459"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8731305836",
         "bench": "yes",
         "bus": "yes",
@@ -92806,17 +92889,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8829480649",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Apartment D'Shire Villa",
+        "name:en": "Apartment D'Shire Villa",
         "note": "unmarked",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "shelter": "no"
+        "ref": "PJ366",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5847509,
-          3.1501601
+          101.5838198,
+          3.1501733
         ]
       },
       "id": "node/8829480649"
@@ -92826,11 +92918,19 @@
       "properties": {
         "@id": "node/8829480660",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Casa Indah",
+        "name:ms": "Casa Indah",
+        "operator": "RapidKL",
         "passenger_information_display": "no",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "PJ388",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -125281,6 +125381,562 @@
         ]
       },
       "id": "node/9591165864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9593203718",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SRA Seksyen 5",
+        "name:ms": "SRA Seksyen 5",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "PJ790",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5876955,
+          3.1607791
+        ]
+      },
+      "id": "node/9593203718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9593203720",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Apt Carmila (Utara)",
+        "name:ms": "Apt Carmila (Utara)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5869605,
+          3.1595599
+        ]
+      },
+      "id": "node/9593203720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9593203722",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pangsapuri Carlina",
+        "name:ms": "Pangsapuri Carlina",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "PJ89",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5872022,
+          3.1582292
+        ]
+      },
+      "id": "node/9593203722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9593203724",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pangsapuri Siantan",
+        "name:ms": "Pangsapuri Siantan",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "PJ91",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5850486,
+          3.1560701
+        ]
+      },
+      "id": "node/9593203724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9593203726",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pangsapuri Siantan (Opp)",
+        "name:ms": "Pangsapuri Siantan (Opp)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "PJ92",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5853476,
+          3.1563711
+        ]
+      },
+      "id": "node/9593203726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9593203728",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Sepah Puteri",
+        "name:ms": "Komersial Sepah Puteri",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "PJ666",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.583162,
+          3.1560833
+        ]
+      },
+      "id": "node/9593203728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9593207051",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Gugusan Semarak 4",
+        "name:ms": "Gugusan Semarak 4",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "PJ355",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.579977,
+          3.1539707
+        ]
+      },
+      "id": "node/9593207051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9593207053",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Apt Semarak Block 3",
+        "name:ms": "Apt Semarak Block 3",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5798162,
+          3.1540096
+        ]
+      },
+      "id": "node/9593207053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9593207056",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Surau Al-Falah Sek 6",
+        "name:ms": "Surau Al-Falah Sek 6",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5770587,
+          3.1577969
+        ]
+      },
+      "id": "node/9593207056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9593207059",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Seksyen 6",
+        "name:ms": "Komersial Seksyen 6",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "PJ106",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5741174,
+          3.159916
+        ]
+      },
+      "id": "node/9593207059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9593250942",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pangsapuri Cempaka 1 (Opp)",
+        "name:ms": "Pangsapuri Cempaka 1 (Opp)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "PJ98",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5742866,
+          3.1579552
+        ]
+      },
+      "id": "node/9593250942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9593250948",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pangsapuri Teratai (Opp)",
+        "name:ms": "Pangsapuri Teratai (Opp)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "PJ101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5775345,
+          3.1552342
+        ]
+      },
+      "id": "node/9593250948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9593250950",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pangsapuri Teratai",
+        "name:ms": "Pangsapuri Teratai",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "PJ102",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5774072,
+          3.1550474
+        ]
+      },
+      "id": "node/9593250950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9593269837",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Gugusan Seroja",
+        "name:ms": "Gugusan Seroja",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "PJ659",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5779493,
+          3.1543248
+        ]
+      },
+      "id": "node/9593269837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9593269839",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Gugusan Seroja",
+        "name:ms": "Gugusan Seroja",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "PJ354",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5777428,
+          3.15353
+        ]
+      },
+      "id": "node/9593269839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9593269841",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Gugusan Melati",
+        "name:ms": "Gugusan Melati",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "PJ667",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5785072,
+          3.1518703
+        ]
+      },
+      "id": "node/9593269841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9593269843",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Gugusan Mawar",
+        "name:ms": "Gugusan Mawar",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "PJ360",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5786728,
+          3.1511781
+        ]
+      },
+      "id": "node/9593269843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9593269845",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Gugusan Matahari",
+        "name:ms": "Gugusan Matahari",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "PJ668",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5793029,
+          3.1505983
+        ]
+      },
+      "id": "node/9593269845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9593269848",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Sek 4 KD",
+        "name:ms": "SMK Sek 4 KD",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5819518,
+          3.1521576
+        ]
+      },
+      "id": "node/9593269848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9593269850",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "D'Shire Villa",
+        "name:en": "D'Shire Villa",
+        "name:ms": "D'Shire Villa",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5843937,
+          3.1522776
+        ]
+      },
+      "id": "node/9593269850"
     }
   ]
 }
