@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-21T03:47:21Z",
+  "timestamp": "2022-03-22T02:31:10Z",
   "features": [
     {
       "type": "Feature",
@@ -50640,16 +50640,28 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6418916588",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "RapidKL Bus 772 to Pasar Seni",
-        "public_transport": "platform"
+        "name": "Subang Skypark Terminal (Opp)",
+        "name:en": "Subang Skypark Terminal (Opp)",
+        "name:zh": "梳邦机场 (对面)",
+        "name:zh-Hans": "梳邦机场 (对面)",
+        "name:zh-Hant": "梳邦機場 (對面)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SA904",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5542953,
-          3.1334521
+          101.5542519,
+          3.133638
         ]
       },
       "id": "node/6418916588"
@@ -86811,6 +86823,7 @@
       "properties": {
         "@id": "node/8088101987",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "passenger_information_display": "no",
         "public_transport": "platform",
@@ -125937,6 +125950,529 @@
         ]
       },
       "id": "node/9593269850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596203088",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Malaysian Airline Berhad",
+        "name:ms": "Malaysian Airline Berhad",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SA902",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5559843,
+          3.1307595
+        ]
+      },
+      "id": "node/9596203088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596203090",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Subang Skypark",
+        "name:en": "Subang Skypark",
+        "name:ms": "Subang Skypark",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SA901",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5552903,
+          3.1311349
+        ]
+      },
+      "id": "node/9596203090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596203092",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Subang Skypark Terminal",
+        "name:en": "Subang Skypark Terminal",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SA909",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5540012,
+          3.1333388
+        ]
+      },
+      "id": "node/9596203092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596203095",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "KTM Terminal Skypark",
+        "name:en": "KTM Terminal Skypark",
+        "name:ms": "KTM Terminal Skypark",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SA1071",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5548904,
+          3.1345063
+        ]
+      },
+      "id": "node/9596203095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596203097",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Restoran Subangku",
+        "name:ms": "Restoran Subangku",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SA993",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5534149,
+          3.1352864
+        ]
+      },
+      "id": "node/9596203097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596306242",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "LRT Ara Damansara (Opp)",
+        "name:en": "LRT Ara Damansara (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ610",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5855679,
+          3.1071406
+        ]
+      },
+      "id": "node/9596306242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596306244",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "LRT Ara Damansara",
+        "name:en": "LRT Ara Damansara",
+        "name:ms": "LRT Ara Damansara",
+        "name:zh": "阿拉白沙罗轻快铁站",
+        "name:zh-Hans": "阿拉白沙罗轻快铁站",
+        "name:zh-Hant": "阿拉白沙羅輕快鐵站",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ609",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5860574,
+          3.107531
+        ]
+      },
+      "id": "node/9596306244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596306246",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Dataran PHB",
+        "name:ms": "Dataran PHB",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ608",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5825894,
+          3.108975
+        ]
+      },
+      "id": "node/9596306246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596306248",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Oasis Rio Damansara/Symphony",
+        "name:en": "Oasis Rio Damansara/Symphony",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ607",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5827577,
+          3.1093558
+        ]
+      },
+      "id": "node/9596306248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596306250",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Oasis Gallery (Opp)",
+        "name:en": "Oasis Gallery (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ776",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5806627,
+          3.1103809
+        ]
+      },
+      "id": "node/9596306250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596306252",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Citta Mall",
+        "name:en": "Citta Mall",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ774",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5795326,
+          3.1117723
+        ]
+      },
+      "id": "node/9596306252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596308098",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Oasis Corporate Park",
+        "name:en": "Oasis Corporate Park",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ772",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5763691,
+          3.1116183
+        ]
+      },
+      "id": "node/9596308098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596308100",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Oasis Ara Damansara (Timur)",
+        "name:en": "Oasis Ara Damansara (North)",
+        "name:ms": "Oasis Ara Damansara (Timur)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ401",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5764355,
+          3.1135262
+        ]
+      },
+      "id": "node/9596308100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596308102",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Oasis Ara Damansara (Selatan)",
+        "name:en": "Oasis Ara Damansara (South)",
+        "name:ms": "Oasis Ara Damansara (Selatan)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SA908",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5714698,
+          3.1128952
+        ]
+      },
+      "id": "node/9596308102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596308104",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Oasis Ara Damansara (Selatan)",
+        "name:en": "Oasis Ara Damansara (South)",
+        "name:ms": "Oasis Ara Damansara (Selatan)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SA907",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5697955,
+          3.1138643
+        ]
+      },
+      "id": "node/9596308104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596308106",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bulatan Subang Airport",
+        "name:ms": "Bulatan Subang Airport",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SA906",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5637922,
+          3.1169767
+        ]
+      },
+      "id": "node/9596308106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596308108",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Petronas Subang Airport",
+        "name:en": "Petronas Subang Airport",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SA905",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5646208,
+          3.116976
+        ]
+      },
+      "id": "node/9596308108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596308110",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Aerotree",
+        "name:en": "Aerotree",
+        "name:ms": "Aerotree",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SA899",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5593311,
+          3.1244341
+        ]
+      },
+      "id": "node/9596308110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596308112",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Aerotree (Opp)",
+        "name:en": "Aerotree (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SA900",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5595633,
+          3.1246307
+        ]
+      },
+      "id": "node/9596308112"
     }
   ]
 }
