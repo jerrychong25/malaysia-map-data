@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-22T02:27:06Z",
+  "timestamp": "2022-03-23T11:53:24Z",
   "features": [
     {
       "type": "Feature",
@@ -18445,17 +18445,25 @@
       "properties": {
         "@id": "node/8004336036",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "SK Rawang, Jalan Batu Arang",
+        "name:ms": "SK Rawang, Jalan Batu Arang",
+        "operator": "Setara Jaya",
         "public_transport": "platform",
+        "ref": "SL285",
         "shelter": "yes",
-        "shelter_type": "public_transport"
+        "shelter_type": "public_transport",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5701048,
-          3.316204
+          101.5700409,
+          3.3161512
         ]
       },
       "id": "node/8004336036"
@@ -40900,6 +40908,164 @@
         ]
       },
       "id": "node/9596308112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9599547873",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Tun Perak, Jalan TP 7",
+        "name:ms": "Taman Tun Perak, Jalan TP 7",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5800336,
+          3.302777
+        ]
+      },
+      "id": "node/9599547873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9599547875",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Surau Al-Radhiyah",
+        "name:ms": "Surau Al-Radhiyah",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5813762,
+          3.3019561
+        ]
+      },
+      "id": "node/9599547875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9599547877",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Surau Al-Radhiyah (Opp)",
+        "name:ms": "Surau Al-Radhiyah (Opp)",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5815836,
+          3.3017315
+        ]
+      },
+      "id": "node/9599547877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9599547879",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pangsapuri Beringin",
+        "name:ms": "Pangsapuri Beringin",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5829777,
+          3.3023179
+        ]
+      },
+      "id": "node/9599547879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9599547881",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pangsapuri Beringn (Opp)",
+        "name:ms": "Pangsapuri Beringn (Opp)",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.58284,
+          3.302074
+        ]
+      },
+      "id": "node/9599547881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9599547884",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Rawang, Jalan Batu Arang",
+        "name:ms": "SK Rawang, Jalan Batu Arang",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL432",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5699458,
+          3.3163369
+        ]
+      },
+      "id": "node/9599547884"
     }
   ]
 }
