@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-23T11:53:24Z",
+  "timestamp": "2022-03-24T15:53:25Z",
   "features": [
     {
       "type": "Feature",
@@ -4938,8 +4938,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.4796987,
-          3.1444069
+          101.4797624,
+          3.1444396
         ]
       },
       "id": "node/2868505811"
@@ -20595,16 +20595,24 @@
       "properties": {
         "@id": "node/8110617650",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "SK Rawang",
+        "name:ms": "SK Rawang",
+        "operator": "Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "SL300",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5688878,
-          3.3170627
+          101.5692132,
+          3.3167735
         ]
       },
       "id": "node/8110617650"
@@ -41066,6 +41074,32 @@
         ]
       },
       "id": "node/9599547884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9603580759",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Sinaran Budi",
+        "name:ms": "SK Sinaran Budi",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5690669,
+          3.3167033
+        ]
+      },
+      "id": "node/9603580759"
     }
   ]
 }
