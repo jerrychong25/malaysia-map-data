@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-23T11:56:24Z",
+  "timestamp": "2022-03-25T14:19:41Z",
   "features": [
     {
       "type": "Feature",
@@ -20100,8 +20100,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.4796987,
-          3.1444069
+          101.4797624,
+          3.1444396
         ]
       },
       "id": "node/2868505811"
@@ -82932,11 +82932,19 @@
       "properties": {
         "@id": "node/8004350094",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Rawang Integrated Industrial Park, Jalan Batu Arang",
+        "name:ms": "Rawang Integrated Industrial Park, Jalan Batu Arang",
+        "operator": "Setara Jaya",
         "public_transport": "platform",
+        "ref": "SL301",
         "shelter": "yes",
-        "shelter_type": "public_transport"
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -82990,17 +82998,25 @@
       "properties": {
         "@id": "node/8004428015",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Kawasan Perindustrian Belmas Johan, Jalan Batu Arang",
+        "name:ms": "Kawasan Perindustrian Belmas Johan, Jalan Batu Arang",
+        "operator": "Setara Jaya",
         "public_transport": "platform",
+        "ref": "SL430",
         "shelter": "yes",
-        "shelter_type": "public_transport"
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5559052,
-          3.3104343
+          101.5558945,
+          3.3104314
         ]
       },
       "id": "node/8004428015"
@@ -83010,11 +83026,19 @@
       "properties": {
         "@id": "node/8004428016",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "NSK Supermarket, Jalan Batu Arang",
+        "name:ms": "NSK Supermarket, Jalan Batu Arang",
+        "operator": "Setara Jaya",
         "public_transport": "platform",
+        "ref": "SL299",
         "shelter": "yes",
-        "shelter_type": "public_transport"
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -87593,16 +87617,24 @@
       "properties": {
         "@id": "node/8110617650",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "SK Rawang",
+        "name:ms": "SK Rawang",
+        "operator": "Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "SL300",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5688878,
-          3.3170627
+          101.5692132,
+          3.3167735
         ]
       },
       "id": "node/8110617650"
@@ -126639,6 +126671,299 @@
         ]
       },
       "id": "node/9599547884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9603580759",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Sinaran Budi",
+        "name:ms": "SK Sinaran Budi",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5690669,
+          3.3167033
+        ]
+      },
+      "id": "node/9603580759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9604956086",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "operator": "Majlis Daerah Tangkak",
+        "public_transport": "platform",
+        "source": "https://www.bing.com/maps/streetside/?&cp=2.301482~102.607882&lvl=17&dir=16.683&style=x&q="
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6077672,
+          2.3013958
+        ]
+      },
+      "id": "node/9604956086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9605907784",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Perindustrian Belmas Johan, Jalan Batu Arang",
+        "name:ms": "Taman Perindustrian Belmas Johan, Jalan Batu Arang",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL392",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5578458,
+          3.310406
+        ]
+      },
+      "id": "node/9605907784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9605907788",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sungai Bakau Rawang, Jalan Batu Arang",
+        "name:ms": "Sungai Bakau Rawang, Jalan Batu Arang",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL393",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.540202,
+          3.3103704
+        ]
+      },
+      "id": "node/9605907788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9605907790",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Aeon Anggun Rawang, Jalan Batu Arang",
+        "name:ms": "Aeon Anggun Rawang, Jalan Batu Arang",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL394",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5352433,
+          3.3143571
+        ]
+      },
+      "id": "node/9605907790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9605907792",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Aeon Anggun Rawang, Jalan Batu Arang",
+        "name:ms": "Aeon Anggun Rawang, Jalan Batu Arang",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL428",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5353679,
+          3.3145633
+        ]
+      },
+      "id": "node/9605907792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9605916032",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Sri Rawang",
+        "name:ms": "Taman Sri Rawang",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL442",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5660768,
+          3.3209124
+        ]
+      },
+      "id": "node/9605916032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9605916034",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Sri Rawang",
+        "name:ms": "Taman Sri Rawang",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL414",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.565836,
+          3.3208719
+        ]
+      },
+      "id": "node/9605916034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9605916036",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Garing",
+        "name:ms": "Taman Garing",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL435",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5639232,
+          3.3220355
+        ]
+      },
+      "id": "node/9605916036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9605916038",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Garing",
+        "name:ms": "Taman Garing",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL437",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5636565,
+          3.3224617
+        ]
+      },
+      "id": "node/9605916038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9605916041",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Rawang Integrated Industrial Park, Jalan Batu Arang",
+        "name:ms": "Rawang Integrated Industrial Park, Jalan Batu Arang",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL431",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5635961,
+          3.3107843
+        ]
+      },
+      "id": "node/9605916041"
     }
   ]
 }
