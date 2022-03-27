@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-25T14:12:25Z",
+  "timestamp": "2022-03-27T06:59:56Z",
   "features": [
     {
       "type": "Feature",
@@ -15872,15 +15872,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7680653802",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kawasan Industri Kecil Sungai Bakau (Utara), Jalan Desa Utama",
+        "name:ms": "Kawasan Industri Kecil Sungai Bakau (Utara), Jalan Desa Utama",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL408",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5264375,
-          3.3255725
+          101.5265011,
+          3.325625
         ]
       },
       "id": "node/7680653802"
@@ -20913,16 +20923,24 @@
       "properties": {
         "@id": "node/8117027860",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Kawasan Industril Kecil Sungai Bakau (Selatan), Jalan Desa Utama",
+        "name:ms": "Kawasan Industril Kecil Sungai Bakau (Selatan), Jalan Desa Utama",
+        "operator": "Setara Jaya",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "SL425",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5266564,
-          3.3262525
+          101.5267022,
+          3.326306
         ]
       },
       "id": "node/8117027860"
@@ -20932,16 +20950,24 @@
       "properties": {
         "@id": "node/8117040445",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Bandar Country Homes (Selatan), Jalan Desa Permai",
+        "name:ms": "Bandar Country Homes (Selatan), Jalan Desa Permai",
+        "operator": "Setara Jaya",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "SL423",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5308514,
-          3.3275218
+          101.530895,
+          3.3275644
         ]
       },
       "id": "node/8117040445"
@@ -41372,6 +41398,258 @@
         ]
       },
       "id": "node/9605916041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9610301763",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Sungai Bakau, Jalan Desa Utama",
+        "name:ms": "Kampung Sungai Bakau, Jalan Desa Utama",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL426",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5262792,
+          3.3224742
+        ]
+      },
+      "id": "node/9610301763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9610301765",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kawasan Industri Kecil Sungai Bakau (Selatan), Jalan Desa Utama",
+        "name:ms": "Kawasan Industri Kecil Sungai Bakau (Selatan), Jalan Desa Utama",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL397",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5260962,
+          3.3230819
+        ]
+      },
+      "id": "node/9610301765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9610301769",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bandar Country Homes (Selatan), Jalan Desa Utama",
+        "name:ms": "Bandar Country Homes (Selatan), Jalan Desa Utama",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL409",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.526574,
+          3.3274022
+        ]
+      },
+      "id": "node/9610301769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9610301771",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kawasan Industril Kecil Sungai Bakau (Utara), Jalan Desa Utama",
+        "name:ms": "Kawasan Industril Kecil Sungai Bakau (Utara), Jalan Desa Utama",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL424",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5267322,
+          3.3273627
+        ]
+      },
+      "id": "node/9610301771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9610301773",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bandar Country Homes Market, Jalan Desa Permai",
+        "name:ms": "Bandar Country Homes Market, Jalan Desa Permai",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL411",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5293614,
+          3.328281
+        ]
+      },
+      "id": "node/9610301773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9610322330",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bandar Country Homes Market, Jalan Desa Jaya",
+        "name:ms": "Bandar Country Homes Market, Jalan Desa Jaya",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL422",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5336923,
+          3.3303755
+        ]
+      },
+      "id": "node/9610322330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9610322332",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Duta Palms Resort, Jalan Desa Ria",
+        "name:ms": "Duta Palms Resort, Jalan Desa Ria",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL420",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5354387,
+          3.3297436
+        ]
+      },
+      "id": "node/9610322332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9610322335",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Duta Palms Resort, Persiaran Anggun",
+        "name:ms": "Duta Palms Resort, Persiaran Anggun",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL419",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5352831,
+          3.3295129
+        ]
+      },
+      "id": "node/9610322335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9610322336",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Palma Apartment, Bandar Country Homes",
+        "name:en": "Palma Apartment, Bandar Country Homes",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "SL418",
+        "shelter": "no",
+        "shelter_type": "public_transport",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5373382,
+          3.3271822
+        ]
+      },
+      "id": "node/9610322336"
     }
   ]
 }
