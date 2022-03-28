@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-27T06:59:56Z",
+  "timestamp": "2022-03-28T14:37:18Z",
   "features": [
     {
       "type": "Feature",
@@ -41650,6 +41650,214 @@
         ]
       },
       "id": "node/9610322336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9613322497",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SM Sri KDU",
+        "name:ms": "SM Sri KDU",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.574551,
+          3.1487133
+        ]
+      },
+      "id": "node/9613322497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9613322499",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Selangor Science Park",
+        "name:en": "Selangor Science Park",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5696205,
+          3.1501181
+        ]
+      },
+      "id": "node/9613322499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9613322501",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sunsuria Technology Centre (Barat)",
+        "name:ms": "Sunsuria Technology Centre (Barat)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5665782,
+          3.1533266
+        ]
+      },
+      "id": "node/9613322501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9613322503",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sunsuria Technology Centre (Utara)",
+        "name:ms": "Sunsuria Technology Centre (Utara)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5671873,
+          3.1568131
+        ]
+      },
+      "id": "node/9613322503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9613322505",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kompleks Muhibbah (Barat)",
+        "name:ms": "Kompleks Muhibbah (Barat)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5703425,
+          3.1580275
+        ]
+      },
+      "id": "node/9613322505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9613322507",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Emporis Kota Damansara",
+        "name:ms": "Emporis Kota Damansara",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5723959,
+          3.1565778
+        ]
+      },
+      "id": "node/9613322507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9613322509",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kwasa Land (RRI) (Timur)",
+        "name:ms": "Kwasa Land (RRI) (Timur)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5611287,
+          3.1566765
+        ]
+      },
+      "id": "node/9613322509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9613322511",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kwasa Land (RRI) (Barat)",
+        "name:ms": "Kwasa Land (RRI) (Barat)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5593597,
+          3.1552929
+        ]
+      },
+      "id": "node/9613322511"
     }
   ]
 }
