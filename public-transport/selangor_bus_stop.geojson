@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-28T14:37:18Z",
+  "timestamp": "2022-03-29T15:51:19Z",
   "features": [
     {
       "type": "Feature",
@@ -41858,6 +41858,60 @@
         ]
       },
       "id": "node/9613322511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9621280527",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Taman Garing",
+        "name:ms": "Komersial Taman Garing",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL434",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5614754,
+          3.3273785
+        ]
+      },
+      "id": "node/9621280527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9621280529",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Taman Garing (Opp)",
+        "name:ms": "Komersial Taman Garing (Opp)",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SL417",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5615898,
+          3.3272411
+        ]
+      },
+      "id": "node/9621280529"
     }
   ]
 }
