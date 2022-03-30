@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-29T15:51:19Z",
+  "timestamp": "2022-03-30T08:08:41Z",
   "features": [
     {
       "type": "Feature",
@@ -7627,19 +7627,27 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5261498015",
+        "bench": "yes",
         "bin": "yes",
         "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "MRT Kwasa Sentral Pintu A",
+        "name:ms": "MRT Kwasa Sentral Pintu A",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "route_ref": "T801"
+        "route_ref": "T801",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5646013,
-          3.1701364
+          101.5646905,
+          3.1702524
         ]
       },
       "id": "node/5261498015"
@@ -10568,15 +10576,24 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6611957198",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Komersial Subang Perdana",
+        "name:ms": "Komersial Subang Perdana",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5483486,
-          3.1485573
+          101.5483266,
+          3.1485705
         ]
       },
       "id": "node/6611957198"
@@ -41912,6 +41929,460 @@
         ]
       },
       "id": "node/9621280529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9623115052",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Industri Sg Buloh (Utara)",
+        "name:ms": "Taman Industri Sg Buloh (Utara)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5706151,
+          3.1618745
+        ]
+      },
+      "id": "node/9623115052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9623115054",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bestari De Kota (Selatan)",
+        "name:ms": "Bestari De Kota (Selatan)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5742733,
+          3.1637063
+        ]
+      },
+      "id": "node/9623115054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9623115056",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Industri Sg Buloh (Timur)",
+        "name:ms": "Taman Industri Sg Buloh (Timur)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5708195,
+          3.1655453
+        ]
+      },
+      "id": "node/9623115056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9623136746",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Baru Subang (Selatan)",
+        "name:ms": "Kg Baru Subang (Selatan)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SA922",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5527737,
+          3.1383927
+        ]
+      },
+      "id": "node/9623136746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9623136748",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Baru Subang (Selatan)",
+        "name:ms": "Kg Baru Subang (Selatan)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SA921",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5524269,
+          3.1390295
+        ]
+      },
+      "id": "node/9623136748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9623136750",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Weststar",
+        "name:en": "Weststar",
+        "name:ms": "Weststar",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5483406,
+          3.1393519
+        ]
+      },
+      "id": "node/9623136750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9623136752",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Galeri Perabot",
+        "name:ms": "Galeri Perabot",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5485867,
+          3.1396208
+        ]
+      },
+      "id": "node/9623136752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9623136754",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "U5 (Selatan)",
+        "name:en": "U5 (North)",
+        "name:ms": "U5 (Selatan)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SA674",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5470504,
+          3.1399759
+        ]
+      },
+      "id": "node/9623136754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9623136756",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "U5 (Selatan)",
+        "name:en": "U5 (North)",
+        "name:ms": "U5 (Selatan)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SA604",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5468487,
+          3.1401824
+        ]
+      },
+      "id": "node/9623136756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9623136758",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Rest. Nasi Kandar (Opp)",
+        "name:en": "Rest. Nasi Kandar (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5466123,
+          3.1408379
+        ]
+      },
+      "id": "node/9623136758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9623136760",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Rest. Nasi Kandar",
+        "name:en": "Rest. Nasi Kandar",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.546641,
+          3.1410145
+        ]
+      },
+      "id": "node/9623136760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9623168937",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "U5 (Barat)",
+        "name:en": "U5 (West)",
+        "name:ms": "U5 (Barat)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SA673",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5445769,
+          3.1452794
+        ]
+      },
+      "id": "node/9623168937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9623168939",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "U5 (Barat)",
+        "name:en": "U5 (West)",
+        "name:ms": "U5 (Barat)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SA603",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5436203,
+          3.1460769
+        ]
+      },
+      "id": "node/9623168939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9623168943",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Subang Perdana (Selatan)",
+        "name:en": "Subang Perdana Commercial (South)",
+        "name:ms": "Komersial Subang Perdana (Selatan)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5481506,
+          3.148764
+        ]
+      },
+      "id": "node/9623168943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9623168945",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Petronas Seksyen U3",
+        "name:ms": "Petronas Seksyen U3",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5485644,
+          3.153833
+        ]
+      },
+      "id": "node/9623168945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9623168947",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kompleks Surau Darus Salim",
+        "name:ms": "Kompleks Surau Darus Salim",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5530172,
+          3.1536499
+        ]
+      },
+      "id": "node/9623168947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9623168949",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pusat Komersial Star Avenue",
+        "name:ms": "Pusat Komersial Star Avenue",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5521519,
+          3.1539999
+        ]
+      },
+      "id": "node/9623168949"
     }
   ]
 }
