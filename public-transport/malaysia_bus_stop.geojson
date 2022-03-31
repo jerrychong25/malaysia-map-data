@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-30T08:13:43Z",
+  "timestamp": "2022-03-31T13:51:58Z",
   "features": [
     {
       "type": "Feature",
@@ -29291,17 +29291,25 @@
       "properties": {
         "@id": "node/4444002348",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Komersial Nuri 7A",
+        "name:ms": "Komersial Nuri 7A",
+        "operator": "RapidKL",
         "public_transport": "platform",
+        "ref": "PJ70",
         "route_ref": "780",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5765301,
-          3.1724865
+          101.5765346,
+          3.1724628
         ]
       },
       "id": "node/4444002348"
@@ -80992,17 +81000,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7780782456",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Pangsapuri Kasia (Opp)",
+        "name:ms": "Pangsapuri Kasia (Opp)",
+        "operator": "RapidKL",
         "public_transport": "platform",
+        "ref": "PJ71",
         "route_ref": "780",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5755171,
-          3.1702371
+          101.5755341,
+          3.1703426
         ]
       },
       "id": "node/7780782456"
@@ -81012,18 +81029,25 @@
       "properties": {
         "@id": "node/7780782457",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Pangsapuri Kasia",
+        "name:ms": "Pangsapuri Kasia",
+        "operator": "RapidKL",
         "passenger_information_display": "no",
         "public_transport": "platform",
         "route_ref": "780",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5753748,
-          3.1702962
+          101.5753487,
+          3.1703053
         ]
       },
       "id": "node/7780782457"
@@ -82046,12 +82070,19 @@
       "properties": {
         "@id": "node/7903833044",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "S.M.K Seksyen 10 Kota Damansara",
+        "name:ms": "S.M.K Seksyen 10 Kota Damansara",
+        "operator": "RapidKL",
         "public_transport": "platform",
         "route_ref": "T801",
         "shelter": "yes",
-        "source": "openstreetcam"
+        "source": "openstreetcam",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -88571,17 +88602,26 @@
       "properties": {
         "@id": "node/8142458780",
         "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Perumahan Seksyen 7",
+        "name:ms": "Perumahan Seksyen 7",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
+        "ref": "PJ74",
         "route_ref": "780",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5772147,
-          3.1672869
+          101.5771353,
+          3.1673815
         ]
       },
       "id": "node/8142458780"
@@ -88785,16 +88825,24 @@
       "properties": {
         "@id": "node/8142499654",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Komersial Nuri 7A",
+        "name:ms": "Komersial Nuri 7A",
+        "operator": "RapidKL",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "PJ79",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5764161,
-          3.1725748
+          101.5764059,
+          3.1725612
         ]
       },
       "id": "node/8142499654"
@@ -127979,6 +128027,93 @@
         ]
       },
       "id": "node/9623168949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9626611937",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Seksyen 7",
+        "name:ms": "Perumahan Seksyen 7",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "PJ73",
+        "route_ref": "780",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5772696,
+          3.1674579
+        ]
+      },
+      "id": "node/9626611937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9626611939",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Seksyen 7 KD",
+        "name:ms": "SK Seksyen 7 KD",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "PJ75",
+        "route_ref": "780",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5755685,
+          3.1689177
+        ]
+      },
+      "id": "node/9626611939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9626611941",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Seksyen 7 KD (Opp)",
+        "name:ms": "SK Seksyen 7 KD (Opp)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "PJ72",
+        "route_ref": "780",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5756991,
+          3.1690219
+        ]
+      },
+      "id": "node/9626611941"
     }
   ]
 }
