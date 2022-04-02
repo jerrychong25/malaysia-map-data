@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-31T13:51:58Z",
+  "timestamp": "2022-04-02T03:17:54Z",
   "features": [
     {
       "type": "Feature",
@@ -29313,6 +29313,29 @@
         ]
       },
       "id": "node/4444002348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4444002376",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.577031,
+          3.1734215
+        ]
+      },
+      "id": "node/4444002376"
     },
     {
       "type": "Feature",
@@ -78734,17 +78757,24 @@
       "properties": {
         "@id": "node/7680202053",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Pangsapuri Ixora",
+        "name:ms": "Pangsapuri Ixora",
+        "operator": "RapidKL",
         "public_transport": "platform",
         "route_ref": "T801",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5755149,
-          3.1739068
+          101.5755006,
+          3.1738896
         ]
       },
       "id": "node/7680202053"
@@ -82044,26 +82074,6 @@
         ]
       },
       "id": "node/7896901035"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/7903833043",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "passenger_information_display": "yes",
-        "public_transport": "platform",
-        "route_ref": "780;T801",
-        "source": "openstreetcam"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.576323,
-          3.1734979
-        ]
-      },
-      "id": "node/7903833043"
     },
     {
       "type": "Feature",
@@ -88852,22 +88862,28 @@
       "properties": {
         "@id": "node/8142499659",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Seksyen 8 - Rumah Flat",
+        "name": "PPR Kota Damansara",
+        "name:ms": "PPR Kota Damansara",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "ref": "PJ 63",
+        "ref": "PJ63",
         "route_ref": "780;T801",
         "shelter": "yes",
         "source": "survey",
-        "source:name": "older signboard"
+        "source:name": "older signboard",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5774347,
-          3.1768758
+          101.5773357,
+          3.1767533
         ]
       },
       "id": "node/8142499659"
@@ -88876,15 +88892,22 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8142499660",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Kasturi Idaman",
+        "name:ms": "Kasturi Idaman",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "ref": "PJ 63",
+        "ref": "PJ801",
         "route_ref": "780;T801",
         "shelter": "no",
-        "source": "survey"
+        "source": "survey",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -128114,6 +128137,173 @@
         ]
       },
       "id": "node/9626611941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9630597329",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Pekaka",
+        "name:ms": "Komersial Pekaka",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5760982,
+          3.1753063
+        ]
+      },
+      "id": "node/9630597329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9630597333",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "S.M.K Seksyen 8 Kota Damansara (Opp)",
+        "name:ms": "S.M.K Seksyen 8 Kota Damansara (Opp)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "780;T801",
+        "shelter": "no",
+        "source": "survey",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5788484,
+          3.179038
+        ]
+      },
+      "id": "node/9630597333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9630597335",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Pekaka 8/1B",
+        "name:ms": "Perumahan Pekaka 8/1B",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "780;T801",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5790402,
+          3.1808565
+        ]
+      },
+      "id": "node/9630597335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9630597340",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Pekaka 8/16",
+        "name:ms": "Perumahan Pekaka 8/16",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "780;T801",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5808853,
+          3.1809018
+        ]
+      },
+      "id": "node/9630597340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9630597342",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Surau Al - Ulum. Sek. 9",
+        "name:ms": "Surau Al - Ulum. Sek. 9",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "780;T801",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5821651,
+          3.1757897
+        ]
+      },
+      "id": "node/9630597342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9630597344",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Rimba Riang 9/4",
+        "name:ms": "Perumahan Rimba Riang 9/4",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "780;T801",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5806778,
+          3.1746696
+        ]
+      },
+      "id": "node/9630597344"
     }
   ]
 }
