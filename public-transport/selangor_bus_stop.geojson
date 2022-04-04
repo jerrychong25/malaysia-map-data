@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-02T03:12:45Z",
+  "timestamp": "2022-04-04T02:07:42Z",
   "features": [
     {
       "type": "Feature",
@@ -15528,12 +15528,21 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7680174983",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Pasar & Bazar BBSB",
+        "name": "Pasar Dan Bazar BBSB",
+        "name:ms": "Pasar Dan Bazar BBSB",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "route_ref": "T101"
+        "ref": "SA1005",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -15549,21 +15558,26 @@
       "properties": {
         "@id": "node/7680201785",
         "bench": "yes",
-        "bin": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Perumahan 1D/1",
+        "name:en": "Perumahan 1D/1",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "ref": "SA 1003",
+        "ref": "SA1003",
         "route_ref": "T101",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.566805,
-          3.2156284
+          101.5668281,
+          3.2155852
         ]
       },
       "id": "node/7680201785"
@@ -15572,19 +15586,27 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7680201786",
+        "bench": "no",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Surau Al-Ikhwan",
+        "name:ms": "Surau Al-Ikhwan",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "ref": "SA 1004",
-        "route_ref": "T101"
+        "ref": "SA1004",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5683085,
-          3.2136215
+          101.568271,
+          3.213579
         ]
       },
       "id": "node/7680201786"
@@ -15594,13 +15616,19 @@
       "properties": {
         "@id": "node/7680201787",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Perumahan 1C/4",
+        "name:ms": "Perumahan 1C/4",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
         "route_ref": "T101",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -15615,19 +15643,27 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7680201796",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Dewan Meranti",
+        "name:ms": "Dewan Meranti",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "ref": "SA 1000",
-        "route_ref": "T101"
+        "ref": "SA1000",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5634199,
-          3.2191867
+          101.5634101,
+          3.2191531
         ]
       },
       "id": "node/7680201796"
@@ -15636,19 +15672,27 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7680201797",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Deret Kedai 1B/2",
+        "name:ms": "Deret Kedai 1B/2",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "ref": "SA 999",
-        "route_ref": "T101"
+        "ref": "SA999",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5668107,
-          3.2154211
+          101.5666608,
+          3.2155233
         ]
       },
       "id": "node/7680201797"
@@ -15657,19 +15701,27 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7680201804",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Perumahan 1A/6",
+        "name:ms": "Perumahan 1A/6",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "ref": "SA 998",
-        "route_ref": "T101"
+        "ref": "SA998",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5673995,
-          3.211839
+          101.5673899,
+          3.2118466
         ]
       },
       "id": "node/7680201804"
@@ -15699,18 +15751,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7680201841",
-        "bench": "yes",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Perumahan BRP 5",
+        "name:ms": "Perumahan BRP 5",
+        "operator": "RapidKL",
         "public_transport": "platform",
         "route_ref": "T101",
-        "shelter": "yes"
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5597181,
-          3.2170271
+          101.5590258,
+          3.216691
         ]
       },
       "id": "node/7680201841"
@@ -42708,6 +42767,116 @@
         ]
       },
       "id": "node/9630597344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9634626068",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial 1A/3",
+        "name:ms": "Komersial 1A/3",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5652549,
+          3.2095587
+        ]
+      },
+      "id": "node/9634626068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9634644628",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Deret Kedai 1D/2",
+        "name:ms": "Deret Kedai 1D/2",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5637559,
+          3.2204745
+        ]
+      },
+      "id": "node/9634644628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9634644630",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "BRP 4 Putra Jati",
+        "name:ms": "BRP 4 Putra Jati",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5618234,
+          3.2144869
+        ]
+      },
+      "id": "node/9634644630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9634644632",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "BRP 4 Putra Utama",
+        "name:ms": "BRP 4 Putra Utama",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5608874,
+          3.2171731
+        ]
+      },
+      "id": "node/9634644632"
     }
   ]
 }
