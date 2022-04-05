@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-04T02:10:40Z",
+  "timestamp": "2022-04-05T10:00:39Z",
   "features": [
     {
       "type": "Feature",
@@ -78663,13 +78663,21 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7680201852",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Perumahan BRP 6",
+        "name:ms": "Perumahan BRP 6",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "ref": "SL 996",
-        "route_ref": "T101"
+        "ref": "SL996",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -78685,14 +78693,20 @@
       "properties": {
         "@id": "node/7680201861",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Perumahan BRP 7",
+        "name:ms": "Perumahan BRP 7",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "ref": "SL 572",
+        "ref": "SL572",
         "route_ref": "T101",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -128473,6 +128487,146 @@
         ]
       },
       "id": "node/9634644632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9642761421",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial BRP 7",
+        "name:ms": "Komersial BRP 7",
+        "operator": "Smart Selangor",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.558521,
+          3.2294106
+        ]
+      },
+      "id": "node/9642761421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9642761423",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Bukit Rahman Putra",
+        "name:ms": "SK Bukit Rahman Putra",
+        "operator": "Smart Selangor",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.552331,
+          3.2280028
+        ]
+      },
+      "id": "node/9642761423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9642761425",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Bukit Rahman Putra",
+        "name:ms": "SK Bukit Rahman Putra",
+        "operator": "Smart Selangor",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5529255,
+          3.2281459
+        ]
+      },
+      "id": "node/9642761425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9642761427",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pinggiran Rahman Putra",
+        "name:ms": "Pinggiran Rahman Putra",
+        "operator": "Smart Selangor",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.547908,
+          3.2319997
+        ]
+      },
+      "id": "node/9642761427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9642761428",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pinggiran Rahman Putra",
+        "name:ms": "Pinggiran Rahman Putra",
+        "operator": "Smart Selangor",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5476537,
+          3.2323407
+        ]
+      },
+      "id": "node/9642761428"
     }
   ]
 }
