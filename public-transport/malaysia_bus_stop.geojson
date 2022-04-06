@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-05T10:00:39Z",
+  "timestamp": "2022-04-06T09:50:59Z",
   "features": [
     {
       "type": "Feature",
@@ -78781,19 +78781,27 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7680201929",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Stellars Grocer",
+        "name:ms": "Stellars Grocer",
+        "operator": "RapidKL, Smart Selangor",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "ref": "SL 552",
-        "route_ref": "T100;T101"
+        "ref": "SL552",
+        "route_ref": "T100;T101",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5776608,
-          3.2121032
+          101.5776769,
+          3.2121582
         ]
       },
       "id": "node/7680201929"
@@ -128627,6 +128635,382 @@
         ]
       },
       "id": "node/9642761428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9645173072",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Stellars Grocer (Opp)",
+        "name:ms": "Stellars Grocer (Opp)",
+        "operator": "Smart Selangor",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "SL564",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5774124,
+          3.2114212
+        ]
+      },
+      "id": "node/9645173072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9645173074",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Sierramas",
+        "name:ms": "SMK Sierramas",
+        "operator": "RapidKL, Smart Selangor",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "SL563",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5789365,
+          3.2145753
+        ]
+      },
+      "id": "node/9645173074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9645173076",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Sg Buloh",
+        "name:ms": "SK Sg Buloh",
+        "operator": "RapidKL, Smart Selangor",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "SL553",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5788108,
+          3.2147469
+        ]
+      },
+      "id": "node/9645173076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9645173078",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hospital Sg Buloh Pintu C (Opp)",
+        "name:en": "Hospital Sg Buloh Pintu C (Opp)",
+        "operator": "RapidKL, Smart Selangor",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "SL554",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5814402,
+          3.217672
+        ]
+      },
+      "id": "node/9645173078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9645173081",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hospital Sg Buloh Pintu C",
+        "name:ms": "Hospital Sg Buloh Pintu C",
+        "operator": "RapidKL, Smart Selangor",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "SL562",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5816566,
+          3.2178465
+        ]
+      },
+      "id": "node/9645173081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9645224215",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hospital Sg Buloh Utama (Opp)",
+        "name:ms": "Hospital Sg Buloh Utama (Opp)",
+        "operator": "RapidKL, Smart Selangor",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "SL555",
+        "route_ref": "T100;T101",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5834432,
+          3.2207886
+        ]
+      },
+      "id": "node/9645224215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9645242617",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hospital Sg Buloh Utama",
+        "name:ms": "Hospital Sg Buloh Utama",
+        "operator": "RapidKL, Smart Selangor",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "SL561",
+        "route_ref": "T100;T101",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.583826,
+          3.2207405
+        ]
+      },
+      "id": "node/9645242617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9645242619",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kolej Sains Kesihatan (Opp)",
+        "name:ms": "Kolej Sains Kesihatan (Opp)",
+        "operator": "RapidKL, Smart Selangor",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "SL556",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5871483,
+          3.2213933
+        ]
+      },
+      "id": "node/9645242619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9645242621",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kolej Sains Kesihatan",
+        "name:ms": "Kolej Sains Kesihatan",
+        "operator": "RapidKL, Smart Selangor",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "SL560",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5870714,
+          3.2212409
+        ]
+      },
+      "id": "node/9645242621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9645242623",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pusat Kusta Negara",
+        "name:ms": "Pusat Kusta Negara",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5902652,
+          3.2209886
+        ]
+      },
+      "id": "node/9645242623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9645242625",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "UiTM Sg Buloh",
+        "name:ms": "UiTM Sg Buloh",
+        "operator": "RapidKL, Smart Selangor",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "SL557",
+        "route_ref": "T100;T101",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5932844,
+          3.2196621
+        ]
+      },
+      "id": "node/9645242625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9645242627",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "UiTM Sg Buloh (Opp)",
+        "name:ms": "UiTM Sg Buloh (Opp)",
+        "operator": "RapidKL, Smart Selangor",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "SL559",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5933647,
+          3.2194396
+        ]
+      },
+      "id": "node/9645242627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9645242629",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kuarter Integrasi Sungai Buloh, Jalan Hospital",
+        "name:ms": "Kuarter Integrasi Sungai Buloh, Jalan Hospital",
+        "operator": "RapidKL, Smart Selangor",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "SL558",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5968969,
+          3.2192214
+        ]
+      },
+      "id": "node/9645242629"
     }
   ]
 }
