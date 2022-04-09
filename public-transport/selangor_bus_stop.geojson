@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-06T09:46:59Z",
+  "timestamp": "2022-04-09T14:31:30Z",
   "features": [
     {
       "type": "Feature",
@@ -15855,17 +15855,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7680201905",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Kg Melayu BT 13 (4)",
+        "name": "Kg Melayu Bt 13",
+        "name:ms": "Kg Melayu Bt 13",
+        "operator": "RapidKL, Smart Selangor",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "route_ref": "T101"
+        "ref": "SL569",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5693831,
+          101.5693196,
           3.2241197
         ]
       },
@@ -15875,19 +15884,27 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7680201910",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Kg Melayu BT 13 (2)",
+        "name": "Kg Melayu Bt 13",
+        "name:ms": "Kg Melayu Bt 13",
+        "operator": "RapidKL, Smart Selangor",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "ref": "SL 567",
-        "route_ref": "T101"
+        "ref": "SL567",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5735933,
-          3.219471
+          101.5733511,
+          3.2195236
         ]
       },
       "id": "node/7680201910"
@@ -43415,6 +43432,290 @@
         ]
       },
       "id": "node/9645242629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9653912397",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Melayu Bt 13",
+        "name:ms": "Kg Melayu Bt 13",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "SL568",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5715953,
+          3.2215916
+        ]
+      },
+      "id": "node/9653912397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9653953362",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Sg Buloh (Opp)",
+        "name:ms": "SK Sg Buloh (Opp)",
+        "operator": "RapidKL, Smart Selangor",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "SL565",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5775155,
+          3.2148926
+        ]
+      },
+      "id": "node/9653953362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9653953364",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Sg Buloh",
+        "name:ms": "SK Sg Buloh",
+        "operator": "RapidKL, Smart Selangor",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "SL607",
+        "route_ref": "T100;T101",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5777231,
+          3.2149755
+        ]
+      },
+      "id": "node/9653953364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9653953366",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Surau Zahidiah Jalan Kusta",
+        "name:ms": "Surau Zahidiah Jalan Kusta",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5770229,
+          3.2165475
+        ]
+      },
+      "id": "node/9653953366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9653953370",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Surau Zahidiah Jalan Kusta (Opp)",
+        "name:ms": "Surau Zahidiah Jalan Kusta (Opp)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5771441,
+          3.2164423
+        ]
+      },
+      "id": "node/9653953370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9653953372",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Melayu Bt 13",
+        "name:ms": "Kg Melayu Bt 13",
+        "operator": "RapidKL, Smart Selangor",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "SL566",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5754816,
+          3.2172395
+        ]
+      },
+      "id": "node/9653953372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9653953374",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Klinik Kesihatan Sg. Buloh",
+        "name:ms": "Klinik Kesihatan Sg. Buloh",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T100;T101",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.577907,
+          3.2196033
+        ]
+      },
+      "id": "node/9653953374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9653953376",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Klinik Kesihatan Sg. Buloh (Opp)",
+        "name:ms": "Klinik Kesihatan Sg. Buloh (Opp)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5780576,
+          3.219624
+        ]
+      },
+      "id": "node/9653953376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9653953378",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Makmal Kesihatan Awam Kebangsaan",
+        "name:ms": "Makmal Kesihatan Awam Kebangsaan",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5769856,
+          3.2211605
+        ]
+      },
+      "id": "node/9653953378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9653953382",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Makmal Kesihatan Awam Kebangsaan (Opp)",
+        "name:ms": "Makmal Kesihatan Awam Kebangsaan (Opp)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5771221,
+          3.2212259
+        ]
+      },
+      "id": "node/9653953382"
     }
   ]
 }
