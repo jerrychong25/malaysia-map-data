@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-09T14:31:30Z",
+  "timestamp": "2022-04-10T06:58:57Z",
   "features": [
     {
       "type": "Feature",
@@ -3465,15 +3465,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2035844912",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Skypod Residence",
+        "name:en": "Skypod Residence",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SJ447",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6206896,
-          3.0434673
+          101.6206948,
+          3.0434362
         ]
       },
       "id": "node/2035844912"
@@ -15837,16 +15847,24 @@
       "properties": {
         "@id": "node/7680201888",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Taman Perindustrian BRP 8/Daikin",
+        "name:ms": "Taman Perindustrian BRP 8/Daikin",
+        "operator": "Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "SL597",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5659018,
-          3.2286882
+          101.5658844,
+          3.2286861
         ]
       },
       "id": "node/7680201888"
@@ -16438,18 +16456,27 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7704986215",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Kawasan Perindustrian BRP 8",
+        "name": "Perindustrian BRP 8/Yamaha",
+        "name:ms": "Perindustrian BRP 8/Yamaha",
+        "operator": "RapidKL, Smart Selangor",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "route_ref": "T101"
+        "ref": "SL571",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5650919,
-          3.2298386
+          101.565059,
+          3.2298144
         ]
       },
       "id": "node/7704986215"
@@ -16458,18 +16485,27 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7704986216",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Dataran Villa Putra",
+        "name:ms": "Dataran Villa Putra",
+        "operator": "RapidKL, Smart Selangor",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "route_ref": "T101"
+        "ref": "SL570",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5671535,
-          3.2267041
+          101.5671555,
+          3.2266982
         ]
       },
       "id": "node/7704986216"
@@ -18196,17 +18232,26 @@
       "properties": {
         "@id": "node/7968399665",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Tesco Extra Puchong",
+        "name:en": "Tesco Extra Puchong",
+        "name:ms": "Tesco Extra Puchong",
+        "operator": "RapidKL, Smart Selangor",
         "passenger_information_display": "no",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "SJ516",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6165634,
-          3.0350593
+          101.6165953,
+          3.0350668
         ]
       },
       "id": "node/7968399665"
@@ -18216,11 +18261,20 @@
       "properties": {
         "@id": "node/7968399666",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "operator": "Smart Selangor",
-        "public_transport": "platform"
+        "name": "LRT Pusat Bandar Puchong",
+        "name:en": "LRT Pusat Bandar Puchong",
+        "name:ms": "LRT Pusat Bandar Puchong",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SJ735",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -43155,6 +43209,9 @@
         "highway": "bus_stop",
         "name": "Hospital Sg Buloh Pintu C (Opp)",
         "name:en": "Hospital Sg Buloh Pintu C (Opp)",
+        "name:zh": "双溪毛糯医院D门（对面）",
+        "name:zh-Hans": "双溪毛糯医院D门（对面）",
+        "name:zh-Hant": "雙溪毛糯醫院D門（對面）",
         "operator": "RapidKL, Smart Selangor",
         "passenger_information_display": "yes",
         "public_transport": "platform",
@@ -43184,6 +43241,9 @@
         "highway": "bus_stop",
         "name": "Hospital Sg Buloh Pintu C",
         "name:ms": "Hospital Sg Buloh Pintu C",
+        "name:zh": "双溪毛糯医院D门",
+        "name:zh-Hans": "双溪毛糯医院D门",
+        "name:zh-Hant": "雙溪毛糯醫院D門",
         "operator": "RapidKL, Smart Selangor",
         "passenger_information_display": "yes",
         "public_transport": "platform",
@@ -43716,6 +43776,481 @@
         ]
       },
       "id": "node/9653953382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9655314589",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Simpang 4 Jln Kusta (Barat)",
+        "name:ms": "Simpang 4 Jln Kusta (Barat)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5691207,
+          3.2252825
+        ]
+      },
+      "id": "node/9655314589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9655314591",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Simpang 4 Jln Kusta (Timur)",
+        "name:ms": "Simpang 4 Jln Kusta (Timur)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5691272,
+          3.2251549
+        ]
+      },
+      "id": "node/9655314591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9655314594",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Villa Putra",
+        "name:ms": "Taman Villa Putra",
+        "operator": "RapidKL, Smart Selangor",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "SL598",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5675363,
+          3.2266031
+        ]
+      },
+      "id": "node/9655314594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9655314598",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SPG BRP 8/2",
+        "name:ms": "SPG BRP 8/2",
+        "operator": "RapidKL, Smart Selangor",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "SL596",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5649258,
+          3.2305948
+        ]
+      },
+      "id": "node/9655314598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9655314600",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perindustrian BRP 9",
+        "name:ms": "Perindustrian BRP 9",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5640614,
+          3.2325872
+        ]
+      },
+      "id": "node/9655314600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9655320612",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Setiawalk Mall",
+        "name:en": "Setiawalk Mall",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SJ611",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6152119,
+          3.0288463
+        ]
+      },
+      "id": "node/9655320612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9655320614",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Setia Walk (Selatan)",
+        "name:en": "Setia Walk (South)",
+        "name:ms": "Setia Walk (Selatan)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SJ609",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6148029,
+          3.0289782
+        ]
+      },
+      "id": "node/9655320614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9655321828",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Anjung Damai",
+        "name:ms": "Taman Anjung Damai",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5758427,
+          3.2223165
+        ]
+      },
+      "id": "node/9655321828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9655321830",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Anjung Damai (Opp)",
+        "name:ms": "Taman Anjung Damai (Opp)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5754621,
+          3.2229985
+        ]
+      },
+      "id": "node/9655321830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9655321832",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Lot 129 KG Melayu (Opp)",
+        "name:ms": "Lot 129 KG Melayu (Opp)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5745196,
+          3.2240985
+        ]
+      },
+      "id": "node/9655321832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9655321834",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Lorong Melor Kg Melayu",
+        "name:ms": "Lorong Melor Kg Melayu",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5742247,
+          3.2242545
+        ]
+      },
+      "id": "node/9655321834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9655321836",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Sri Indah B (Timur)",
+        "name:ms": "Kg Sri Indah B (Timur)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5727963,
+          3.2257909
+        ]
+      },
+      "id": "node/9655321836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9655321841",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kg Sri Indah B (Barat)",
+        "name:ms": "Kg Sri Indah B (Barat)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5725804,
+          3.2258735
+        ]
+      },
+      "id": "node/9655321841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9655321843",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Persimpangan Sri Indah 9B",
+        "name:ms": "Persimpangan Sri Indah 9B",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5705207,
+          3.225735
+        ]
+      },
+      "id": "node/9655321843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9655321845",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Persimpangan Sri Indah 9B (Opp)",
+        "name:ms": "Persimpangan Sri Indah 9B (Opp)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T100;T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5705816,
+          3.2256407
+        ]
+      },
+      "id": "node/9655321845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9655340018",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bus Stop Kolej Putra - LDP,Puchong",
+        "name:en": "Bus Stop Kolej Putra - LDP,Puchong",
+        "operator": "RapidKL, Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6187305,
+          3.0435089
+        ]
+      },
+      "id": "node/9655340018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9655340020",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "LRT IOI Puchong",
+        "name:en": "LRT IOI Puchong",
+        "name:ms": "LRT IOI Puchong",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "SJ680",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6207748,
+          3.0479776
+        ]
+      },
+      "id": "node/9655340020"
     }
   ]
 }
