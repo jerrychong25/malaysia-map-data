@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-10T07:16:13Z",
+  "timestamp": "2022-04-11T04:12:59Z",
   "features": [
     {
       "type": "Feature",
@@ -86817,10 +86817,18 @@
         "@id": "node/8082463775",
         "bench": "yes",
         "bin": "yes",
+        "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Kampung Tradisi Sungai Choh, Jalan Sungai Choh",
+        "name:ms": "Kampung Tradisi Sungai Choh, Jalan Sungai Choh",
+        "operator": "Setara Jaya",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "HS23",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -87995,15 +88003,24 @@
       "properties": {
         "@id": "node/8112076031",
         "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "SMK Sungai Choh, Jalan Sungai Choh",
+        "name:ms": "SMK Sungai Choh, Jalan Sungai Choh",
+        "operator": "Setara Jaya",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "HS3",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5855839,
-          3.349918
+          101.5855797,
+          3.3499172
         ]
       },
       "id": "node/8112076031"
@@ -129898,6 +129915,624 @@
         ]
       },
       "id": "node/9655352785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657386709",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Sri Putra",
+        "name:ms": "Komersial Sri Putra",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5582089,
+          3.249268
+        ]
+      },
+      "id": "node/9657386709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657386711",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Sri Putra",
+        "name:ms": "Taman Sri Putra",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5584038,
+          3.2494522
+        ]
+      },
+      "id": "node/9657386711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657386713",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Apartment Seri Mawar (Opp)",
+        "name:ms": "Apartment Seri Mawar (Opp)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.558293,
+          3.2510411
+        ]
+      },
+      "id": "node/9657386713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657386715",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Apt Seri Mawar",
+        "name:ms": "Apt Seri Mawar",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5584034,
+          3.2510559
+        ]
+      },
+      "id": "node/9657386715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657411121",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Medan Selera Kaw. Industri Putra",
+        "name:ms": "Medan Selera Kaw. Industri Putra",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5630172,
+          3.2344956
+        ]
+      },
+      "id": "node/9657411121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657411124",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kawasan Perindustrian Putra",
+        "name:ms": "Kawasan Perindustrian Putra",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5635182,
+          3.2340356
+        ]
+      },
+      "id": "node/9657411124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657411126",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Persimpangan MP 2 (Opp)",
+        "name:ms": "Persimpangan MP 2 (Opp)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5622154,
+          3.2361515
+        ]
+      },
+      "id": "node/9657411126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657411128",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Persimpangan MP 3",
+        "name:ms": "Persimpangan MP 3",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5622862,
+          3.2364322
+        ]
+      },
+      "id": "node/9657411128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657411130",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Surau Darul Ulum (Opp)",
+        "name:ms": "Surau Darul Ulum (Opp)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5608245,
+          3.2389837
+        ]
+      },
+      "id": "node/9657411130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657411132",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Surau Darul Ulum, Jalan Matang Pagar",
+        "name:ms": "Surau Darul Ulum, Jalan Matang Pagar",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5610781,
+          3.2392683
+        ]
+      },
+      "id": "node/9657411132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657411134",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Persimpangan MP 36",
+        "name:ms": "Persimpangan MP 36",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5612177,
+          3.2407819
+        ]
+      },
+      "id": "node/9657411134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657411136",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Persimpangan MP 37 (Opp)",
+        "name:ms": "Persimpangan MP 37 (Opp)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5610427,
+          3.241145
+        ]
+      },
+      "id": "node/9657411136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657421364",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Persimpangan MP 43",
+        "name:ms": "Persimpangan MP 43",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5612177,
+          3.243917
+        ]
+      },
+      "id": "node/9657421364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657421366",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Persimpangan MP 43 (Opp)",
+        "name:ms": "Persimpangan MP 43 (Opp)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5610697,
+          3.2441482
+        ]
+      },
+      "id": "node/9657421366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657421368",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Saujana Akasia",
+        "name:ms": "Komersial Saujana Akasia",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5614775,
+          3.2454172
+        ]
+      },
+      "id": "node/9657421368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657421370",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Apartment Impian Indah",
+        "name:ms": "Apartment Impian Indah",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5638498,
+          3.2463595
+        ]
+      },
+      "id": "node/9657421370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657421376",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Persimpangan MP 58",
+        "name:ms": "Persimpangan MP 58",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5647193,
+          3.2463774
+        ]
+      },
+      "id": "node/9657421376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657421378",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Impian Indah",
+        "name:ms": "Taman Impian Indah",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5664607,
+          3.2478241
+        ]
+      },
+      "id": "node/9657421378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657421380",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Saujana Akasia (Opp)",
+        "name:ms": "Saujana Akasia (Opp)",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5600072,
+          3.2460145
+        ]
+      },
+      "id": "node/9657421380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657437517",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Apt Sri Putra Fasa 2",
+        "name:ms": "Apt Sri Putra Fasa 2",
+        "operator": "RapidKL",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5561471,
+          3.2542664
+        ]
+      },
+      "id": "node/9657437517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657437519",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Sungai Choh, Jalan Sungai Choh",
+        "name:ms": "SMK Sungai Choh, Jalan Sungai Choh",
+        "operator": "Setara Jaya",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "HS24",
+        "route_ref": "T101",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5861292,
+          3.3498382
+        ]
+      },
+      "id": "node/9657437519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657437524",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Tradisi Sungai Choh, Jalan Sungai Choh",
+        "name:ms": "Kampung Tradisi Sungai Choh, Jalan Sungai Choh",
+        "operator": "Setara Jaya",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "ref": "HS4",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5826148,
+          3.3514719
+        ]
+      },
+      "id": "node/9657437524"
     }
   ]
 }
