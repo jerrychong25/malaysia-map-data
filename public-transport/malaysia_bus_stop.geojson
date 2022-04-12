@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-11T04:12:59Z",
+  "timestamp": "2022-04-12T03:59:38Z",
   "features": [
     {
       "type": "Feature",
@@ -86778,16 +86778,25 @@
       "properties": {
         "@id": "node/8082200092",
         "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Taman Bukit Teratai, Jalan Bukit Beruntung",
+        "name:ms": "Taman Bukit Teratai, Jalan Bukit Beruntung",
+        "operator": "Setara Jaya, Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "HS83",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5627484,
-          3.3677841
+          101.5627501,
+          3.3677774
         ]
       },
       "id": "node/8082200092"
@@ -86797,16 +86806,25 @@
       "properties": {
         "@id": "node/8082307085",
         "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Kuil Sri Sithi Vingayagar, Jalan Bukit Beruntung",
+        "name:ms": "Kuil Sri Sithi Vingayagar, Jalan Bukit Beruntung",
+        "operator": "Setara Jaya, Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "HS84",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5651916,
-          3.3623288
+          101.5651893,
+          3.362324
         ]
       },
       "id": "node/8082307085"
@@ -88114,11 +88132,19 @@
       "properties": {
         "@id": "node/8115008533",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Anugerah Suria, Jalan Sungai Choh",
+        "name:ms": "Anugerah Suria, Jalan Sungai Choh",
+        "operator": "Setara Jaya",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "HS21",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -88134,15 +88160,24 @@
       "properties": {
         "@id": "node/8115186245",
         "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Taman Ehsan Ibu, Jalan Sungai Buaya",
+        "name:ms": "Taman Ehsan Ibu, Jalan Sungai Buaya",
+        "operator": "Setara Jaya, Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "HS8",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5594652,
-          3.3613163
+          101.5594667,
+          3.3613112
         ]
       },
       "id": "node/8115186245"
@@ -130533,6 +130568,196 @@
         ]
       },
       "id": "node/9657437524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9659800732",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Anugerah Suria, Jalan Bukit Beruntung",
+        "name:ms": "Anugerah Suria, Jalan Bukit Beruntung",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS6",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5689368,
+          3.3601532
+        ]
+      },
+      "id": "node/9659800732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9659800734",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kuil Sri Sithi Vingayagar, Jalan Bukit Beruntung",
+        "name:ms": "Kuil Sri Sithi Vingayagar, Jalan Bukit Beruntung",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS84",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5648856,
+          3.36248
+        ]
+      },
+      "id": "node/9659800734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9659800736",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Koskan,Jalan Sungai Buaya",
+        "name:ms": "Kampung Koskan,Jalan Sungai Buaya",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS20",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5623126,
+          3.3606153
+        ]
+      },
+      "id": "node/9659800736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9659800739",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Ehsan Ibu,Jalan Sungai Buaya",
+        "name:ms": "Taman Ehsan Ibu, Jalan Sungai Buaya",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS19",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5586975,
+          3.3618149
+        ]
+      },
+      "id": "node/9659800739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9659800741",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Bukit Teratai, Jalan Bukit Beruntung",
+        "name:ms": "Taman Bukit Teratai, Jalan Bukit Beruntung",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS27",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5624299,
+          3.3684533
+        ]
+      },
+      "id": "node/9659800741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9659813365",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Stesen, Jalan Sungai Choh",
+        "name:ms": "Kampung Stesen, Jalan Sungai Choh",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS22",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5750799,
+          3.3575625
+        ]
+      },
+      "id": "node/9659813365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9659813367",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Stesen,Jalan Sungai Choh",
+        "name:ms": "Kampung Stesen, Jalan Sungai Choh",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS5",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5746474,
+          3.3575171
+        ]
+      },
+      "id": "node/9659813367"
     }
   ]
 }
