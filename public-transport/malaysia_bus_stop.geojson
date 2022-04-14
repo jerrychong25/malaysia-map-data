@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-12T03:59:38Z",
+  "timestamp": "2022-04-14T08:35:54Z",
   "features": [
     {
       "type": "Feature",
@@ -38872,14 +38872,15 @@
         "@id": "node/5460953622",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "KL371 TMN MALURI (TIMUR)",
-        "public_transport": "platform"
+        "name": "Tmn Maluri (Barat)",
+        "public_transport": "platform",
+        "ref": "KL371"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7320479,
-          3.1286782
+          101.7322383,
+          3.1288791
         ]
       },
       "id": "node/5460953622"
@@ -38926,8 +38927,9 @@
         "@id": "node/5460963521",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "KL377 TMN MALURI (TIMUR)",
-        "public_transport": "platform"
+        "name": "Tmn Maluri (Timur)",
+        "public_transport": "platform",
+        "ref": "KL377"
       },
       "geometry": {
         "type": "Point",
@@ -41379,8 +41381,9 @@
         "@id": "node/5521738122",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "KL378 WISMA SISTEM 2",
-        "public_transport": "platform"
+        "name": "Wisma Sistem 2",
+        "public_transport": "platform",
+        "ref": "KL378"
       },
       "geometry": {
         "type": "Point",
@@ -86448,11 +86451,18 @@
       "properties": {
         "@id": "node/8081612798",
         "bench": "yes",
-        "bin": "no",
+        "bin": "yes",
+        "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Opposite Klinik Ibu Dan Anak Bukit Sentosa, Persiaran Seroja",
+        "name:ms": "Opposite Klinik Ibu Dan Anak Bukit Sentosa, Persiaran Seroja",
+        "operator": "Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -86468,17 +86478,24 @@
       "properties": {
         "@id": "node/8081612799",
         "bench": "yes",
-        "bin": "no",
+        "bin": "yes",
+        "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Klinik Ibu Dan Anak Bukit Sentosa, Persiaran Seroja",
+        "name:ms": "Klinik Ibu Dan Anak Bukit Sentosa, Persiaran Seroja",
+        "operator": "Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5787298,
-          3.4179757
+          101.5787236,
+          3.4179732
         ]
       },
       "id": "node/8081612799"
@@ -86489,16 +86506,23 @@
         "@id": "node/8081647661",
         "bench": "yes",
         "bin": "yes",
+        "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "BB3 Jejarum, Persiaran Seroja",
+        "name:ms": "BB3 Jejarum, Persiaran Seroja",
+        "operator": "Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5816041,
-          3.417431
+          101.5815955,
+          3.4174324
         ]
       },
       "id": "node/8081647661"
@@ -86511,15 +86535,22 @@
         "bin": "yes",
         "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Masjid As Salam Bukit Sentosa, Persiaran As Salam",
+        "name:ms": "Masjid As Salam Bukit Sentosa, Persiaran As Salam",
+        "operator": "Setara Jaya, Selangor Bus",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "HS72",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5710588,
-          3.4046761
+          101.5710578,
+          3.4046859
         ]
       },
       "id": "node/8081748521"
@@ -86533,9 +86564,11 @@
         "bus": "yes",
         "covered": "yes",
         "highway": "bus_stop",
+        "operator": "Smart Selangor",
         "public_transport": "platform",
         "shelter": "yes",
-        "tactile_paving": "no"
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
@@ -86551,18 +86584,24 @@
       "properties": {
         "@id": "node/8081778027",
         "bench": "yes",
-        "bin": "yes",
+        "bin": "no",
         "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "BS2 Cempaka, Persiaran As Salam",
+        "name:ms": "BS2 Cempaka, Persiaran As Salam",
+        "operator": "Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5676651,
-          3.4049572
+          101.5676594,
+          3.4049629
         ]
       },
       "id": "node/8081778027"
@@ -86634,17 +86673,25 @@
       "properties": {
         "@id": "node/8081855852",
         "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Adenium, Jalan Bukit Beruntung",
+        "name:ms": "Adenium, Jalan Bukit Beruntung",
+        "operator": "RapidKL, Setara Jaya",
         "public_transport": "platform",
+        "ref": "HS52",
         "shelter": "yes",
-        "tactile_paving": "no"
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5572068,
-          3.419366
+          101.5571938,
+          3.4193617
         ]
       },
       "id": "node/8081855852"
@@ -86674,17 +86721,24 @@
         "@id": "node/8081899577",
         "bench": "yes",
         "bin": "no",
+        "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Jasmine, Jalan Bukit Beruntung",
+        "name:ms": "Jasmine, Jalan Bukit Beruntung",
+        "operator": "RapidKL, Setara Jaya, Smart Selangor",
         "public_transport": "platform",
+        "ref": "HS76",
         "shelter": "yes",
-        "tactile_paving": "no"
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5572863,
-          3.4103124
+          101.5572806,
+          3.4103036
         ]
       },
       "id": "node/8081899577"
@@ -86697,9 +86751,16 @@
         "bin": "yes",
         "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Bunga Kertas 1B, Jalan Bunga Kertas",
+        "name:ms": "Bunga Kertas 1B, Jalan Bunga Kertas",
+        "operator": "Setara Jaya, Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "HS28",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
@@ -86715,18 +86776,25 @@
       "properties": {
         "@id": "node/8082146416",
         "bench": "yes",
-        "bin": "yes",
+        "bin": "no",
         "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Jenjarum 3B, Jalan Bukit Beruntung",
+        "name:ms": "Jenjarum 3B, Jalan Bukit Beruntung",
+        "operator": "RapidKL, Setara Jaya, Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "HS81",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.557302,
-          3.4068061
+          101.5572969,
+          3.4068035
         ]
       },
       "id": "node/8082146416"
@@ -86739,15 +86807,22 @@
         "bin": "yes",
         "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Jenjarum 3B, Jalan Bukit Beruntung",
+        "name:ms": "Jenjarum 3B, Jalan Bukit Beruntung",
+        "operator": "RapidKL, Setara Jaya",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "HS29",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5570166,
-          3.4069212
+          101.5570323,
+          3.4067859
         ]
       },
       "id": "node/8082179817"
@@ -86757,12 +86832,19 @@
       "properties": {
         "@id": "node/8082180157",
         "bench": "yes",
-        "bin": "yes",
+        "bin": "no",
         "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Bunga Kertas 1B, Jalan Bukit Beruntung",
+        "name:ms": "Bunga Kertas 1B, Jalan Bukit Beruntung",
+        "operator": "Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "HS382",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -87795,6 +87877,7 @@
       "properties": {
         "@id": "node/8109430736",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
         "shelter": "yes"
@@ -87802,8 +87885,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5920916,
-          3.4163781
+          101.5920851,
+          3.4163749
         ]
       },
       "id": "node/8109430736"
@@ -87813,15 +87896,23 @@
       "properties": {
         "@id": "node/8109430737",
         "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Opposite BS8 Kemboja, Persiaran Kuala Kali",
+        "name:ms": "Opposite BS8 Kemboja, Persiaran Kuala Kali",
+        "operator": "Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5917845,
-          3.4166713
+          101.5917856,
+          3.4166681
         ]
       },
       "id": "node/8109430737"
@@ -87831,9 +87922,17 @@
       "properties": {
         "@id": "node/8109442820",
         "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Opposite BB7 Anggerik, Persiaran Seroja",
+        "name:ms": "Opposite BB7 Anggerik, Persiaran Seroja",
+        "operator": "Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
@@ -87849,9 +87948,17 @@
       "properties": {
         "@id": "node/8109442821",
         "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "BB7 Anggerik, Persiaran Seroja",
+        "name:ms": "BB7 Anggerik, Persiaran Seroja",
+        "operator": "Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
@@ -88111,12 +88218,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8114645221",
-        "bench": "yes",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Bunga Kertas 1B, Jalan Bunga Kertas",
+        "name:ms": "Bunga Kertas 1B, Jalan Bunga Kertas",
+        "operator": "Setara Jaya",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "HS28",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -96797,6 +96912,7 @@
         "@id": "node/9223580765",
         "bench": "yes",
         "bin": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "name": "Ulu Klang FTZ (Selatan",
         "public_transport": "platform",
@@ -130758,6 +130874,591 @@
         ]
       },
       "id": "node/9659813367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665090780",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Simpang Bandar Baru Sungai Buaya, Persairan Bakawali",
+        "name:ms": "Simpang Bandar Baru Sungai Buaya, Persairan Bakawali",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS10",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5383847,
+          3.3744021
+        ]
+      },
+      "id": "node/9665090780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665090782",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Persiaran Bakawali, Jalan Sungai Buaya",
+        "name:ms": "Persiaran Bakawali, Jalan Sungai Buaya",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS18",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5382586,
+          3.37481
+        ]
+      },
+      "id": "node/9665090782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665090784",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Ar-Rahman Kampung Sungai Buaya, Persiaran Bakawali",
+        "name:ms": "Masjid Ar-Rahman Kampung Sungai Buaya, Persiaran Bakawali",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS69",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5331426,
+          3.3725028
+        ]
+      },
+      "id": "node/9665090784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665090786",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Sungai Buaya, Persiaran Bakawali",
+        "name:ms": "Kampung Sungai Buaya, Persiaran Bakawali",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS71",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5330144,
+          3.3732572
+        ]
+      },
+      "id": "node/9665090786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665090788",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Surau Al-Firdaus, Kampung Sungai Buaya",
+        "name:ms": "Surau Al-Firdaus, Kampung Sungai Buaya",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS371",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5327693,
+          3.3752522
+        ]
+      },
+      "id": "node/9665090788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665090796",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Simpang Bandar Baru Sungai Buaya, Jalan Sungai Buaya",
+        "name:ms": "Simpang Bandar Baru Sungai Buaya, Jalan Sungai Buaya",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS17",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5339578,
+          3.3764627
+        ]
+      },
+      "id": "node/9665090796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665197324",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Terminal Bas Bukit Sentosa, Jalan Orkid 1D/1",
+        "name:ms": "Terminal Bas Bukit Sentosa, Jalan Orkid 1D/1",
+        "operator": "RapidKL, Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS57",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5583581,
+          3.4037372
+        ]
+      },
+      "id": "node/9665197324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665197326",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bunga Kertas 1D, Jalan Bukit Sentosa 1",
+        "name:ms": "Bunga Kertas 1D, Jalan Bukit Sentosa 1",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS370",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5610804,
+          3.4025144
+        ]
+      },
+      "id": "node/9665197326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665197328",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Balai Polis Bukit Sentosa, Jalan Cempaka",
+        "name:ms": "Balai Polis Bukit Sentosa, Jalan Cempaka",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS61",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.562327,
+          3.4018542
+        ]
+      },
+      "id": "node/9665197328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665197330",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Bukit Sentosa, Jalan Cempaka",
+        "name:ms": "SMK Bukit Sentosa, Jalan Cempaka",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS70",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5675007,
+          3.4018688
+        ]
+      },
+      "id": "node/9665197330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665217778",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kantan, Persiaran As Salam",
+        "name:ms": "Kantan, Persiaran As Salam",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS73",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5654597,
+          3.4046407
+        ]
+      },
+      "id": "node/9665217778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665217780",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Jasmine, Jalan Bukit Beruntung",
+        "name:ms": "Jasmine, Jalan Bukit Beruntung",
+        "operator": "RapidKL, Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS30",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5570047,
+          3.4105796
+        ]
+      },
+      "id": "node/9665217780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665217782",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "BB9 Jenjarum, Persiaran Jenjarum",
+        "name:ms": "BB9 Jenjarum, Persiaran Jenjarum",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5604635,
+          3.4115312
+        ]
+      },
+      "id": "node/9665217782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665240482",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "BB9 Padang Jenjarum, Persiaran Semarak",
+        "name:ms": "BB9 Padang Jenjarum, Persiaran Semarak",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5650489,
+          3.4149443
+        ]
+      },
+      "id": "node/9665240482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665240484",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "BB7 Semarak, Jalan Bukit Beruntung 7A",
+        "name:ms": "BB7 Semarak, Jalan Bukit Beruntung 7A",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5666972,
+          3.4217253
+        ]
+      },
+      "id": "node/9665240484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665240486",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "BB7 Apartment Seri Trompet, Lingkaran Seri Kembangan",
+        "name:ms": "BB7 Apartment Seri Trompet, Lingkaran Seri Kembangan",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5712364,
+          3.4135815
+        ]
+      },
+      "id": "node/9665240486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665240489",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "BB7 Apartment Seri Seroja, Lingkaran Seri Kembangan",
+        "name:ms": "BB7 Apartment Seri Seroja, Lingkaran Seri Kembangan",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5748686,
+          3.4193057
+        ]
+      },
+      "id": "node/9665240489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665240491",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kediaman BB3 Jejarum, Persiaran Seroja",
+        "name:ms": "Kediaman BB3 Jejarum, Persiaran Seroja",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5816852,
+          3.4176792
+        ]
+      },
+      "id": "node/9665240491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665333136",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Kebangsaan Bukit Sentosa , Persiaran Seroja",
+        "name:ms": "Sekolah Kebangsaan Bukit Sentosa , Persiaran Seroja",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5858522,
+          3.4150993
+        ]
+      },
+      "id": "node/9665333136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665333138",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite BB18 Widuri, Persiaran Kuala Kali",
+        "name:ms": "Opposite BB18 Widuri, Persiaran Kuala Kali",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5929024,
+          3.4324048
+        ]
+      },
+      "id": "node/9665333138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665333140",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite BB18 Widuri, Persiaran Kuala Kali",
+        "name:ms": "Opposite BB18 Widuri, Persiaran Kuala Kali",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5924802,
+          3.4323987
+        ]
+      },
+      "id": "node/9665333140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665333142",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Adenium, Jalan Bukit Beruntung",
+        "name:ms": "Adenium, Jalan Bukit Beruntung",
+        "operator": "RapidKL, Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS31",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5569218,
+          3.420302
+        ]
+      },
+      "id": "node/9665333142"
     }
   ]
 }
