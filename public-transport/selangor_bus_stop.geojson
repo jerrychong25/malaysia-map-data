@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-14T08:32:55Z",
+  "timestamp": "2022-04-15T03:47:38Z",
   "features": [
     {
       "type": "Feature",
@@ -20142,17 +20142,25 @@
       "properties": {
         "@id": "node/8081796501",
         "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "TBR Anggerik, Jalan Bunga Raya 2",
+        "name:ms": "TBR Anggerik, Jalan Bunga Raya 2",
+        "operator": "Setara Jaya",
         "public_transport": "platform",
+        "ref": "HS40",
         "shelter": "yes",
-        "tactile_paving": "no"
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5459498,
-          3.4443939
+          101.5459456,
+          3.4443931
         ]
       },
       "id": "node/8081796501"
@@ -20162,17 +20170,24 @@
       "properties": {
         "@id": "node/8081816075",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "TBR Kenanga, Persiaran Bunga Raya",
+        "name:ms": "TBR Kenanga, Persiaran Bunga Raya",
+        "operator": "Setara Jaya",
         "public_transport": "platform",
+        "ref": "HS42",
         "shelter": "yes",
-        "tactile_paving": "no"
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5520046,
+          101.5520074,
           3.4335721
         ]
       },
@@ -20183,18 +20198,25 @@
       "properties": {
         "@id": "node/8081838586",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Perniagaan Inai, Jalan Bukit Beruntung",
+        "name:ms": "Perniagaan Inai, Jalan Bukit Beruntung",
+        "operator": "Setara Jaya",
         "public_transport": "platform",
+        "ref": "HS51",
         "shelter": "yes",
-        "tactile_paving": "no"
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5571138,
-          3.4302189
+          101.5571013,
+          3.4302095
         ]
       },
       "id": "node/8081838586"
@@ -21169,16 +21191,20 @@
       "properties": {
         "@id": "node/8112635043",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5731807,
-          3.399826
+          101.5731818,
+          3.3998004
         ]
       },
       "id": "node/8112635043"
@@ -22564,8 +22590,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6260584,
-          3.1095773
+          101.6261116,
+          3.1095929
         ]
       },
       "id": "node/8244725769"
@@ -45843,6 +45869,312 @@
         ]
       },
       "id": "node/9665333142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9667186267",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perniagaan Inai, Jalan Bukit Beruntung",
+        "name:ms": "Perniagaan Inai, Jalan Bukit Beruntung",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS32",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.556836,
+          3.4308636
+        ]
+      },
+      "id": "node/9667186267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9667186269",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Golf Bukit Beruntung (Barat), Persiaran Bunga Raya",
+        "name:ms": "Golf Bukit Beruntung (Barat), Persiaran Bunga Raya",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS44",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5557095,
+          3.4335735
+        ]
+      },
+      "id": "node/9667186269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9667186271",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Golf Bukit Beruntung, Persiaran Bunga Raya",
+        "name:ms": "Golf Bukit Beruntung, Persiaran Bunga Raya",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS33",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5520619,
+          3.4333435
+        ]
+      },
+      "id": "node/9667186271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9667186273",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "TBR Kenanga, Persiaran Bunga Raya",
+        "name:ms": "TBR Kenanga, Persiaran Bunga Raya",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS34",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5457609,
+          3.4360272
+        ]
+      },
+      "id": "node/9667186273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9667186275",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "TBR Mawar, Persiaran Bunga Raya",
+        "name:ms": "TBR Mawar, Persiaran Bunga Raya",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS35",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5459789,
+          3.4380934
+        ]
+      },
+      "id": "node/9667186275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9667186277",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "TBR Mawar, Persiaran Bunga Raya",
+        "name:ms": "TBR Mawar, Persiaran Bunga Raya",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS41",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5463199,
+          3.4380499
+        ]
+      },
+      "id": "node/9667186277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9667224322",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "TBR Anggerik, Persiaran Bunga Raya 2",
+        "name:ms": "TBR Anggerik, Persiaran Bunga Raya 2",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5458307,
+          3.4445785
+        ]
+      },
+      "id": "node/9667224322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9667224324",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "TBR Kemuning, Persiaran Bunga Raya 2",
+        "name:ms": "TBR Kemuning, Persiaran Bunga Raya 2",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS37",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5478926,
+          3.4460597
+        ]
+      },
+      "id": "node/9667224324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9667224326",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "TBR Kemuning, Jalan Bunga Raya 2",
+        "name:ms": "TBR Kemuning, Jalan Bunga Raya 2",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS39",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5480829,
+          3.445927
+        ]
+      },
+      "id": "node/9667224326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9667224328",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "TBR Teratai, Jalan Bunga Raya 3",
+        "name:ms": "TBR Teratai, Jalan Bunga Raya 3",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS38",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5515088,
+          3.4450481
+        ]
+      },
+      "id": "node/9667224328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9667224330",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Sekolah Kebangsaan Taman Bunga Raya, Jalan Bunga Raya 2",
+        "name:ms": "Opposite Sekolah Kebangsaan Taman Bunga Raya, Jalan Bunga Raya 2",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5515264,
+          3.4447856
+        ]
+      },
+      "id": "node/9667224330"
     }
   ]
 }
