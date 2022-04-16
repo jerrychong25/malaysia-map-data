@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-15T03:48:34Z",
+  "timestamp": "2022-04-16T10:25:13Z",
   "features": [
     {
       "type": "Feature",
@@ -30007,10 +30007,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4586744018",
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Hentian Bas Medan Gopeng",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -30025,10 +30027,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4586774391",
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Gunung Rapat",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -62482,10 +62486,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7234882087",
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Taman Saujana",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -62980,10 +62986,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7236339706",
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Hentian Bas Medan Gopeng",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -83353,7 +83361,9 @@
       "properties": {
         "@id": "node/8006953125",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
+        "public_transport": "platform",
         "shelter": "yes",
         "shelter_type": "public_transport"
       },
@@ -83371,7 +83381,9 @@
       "properties": {
         "@id": "node/8007016076",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
+        "public_transport": "platform",
         "shelter": "yes",
         "shelter_type": "public_transport"
       },
@@ -83389,7 +83401,9 @@
       "properties": {
         "@id": "node/8007031956",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
+        "public_transport": "platform",
         "shelter": "yes",
         "shelter_type": "public_transport"
       },
@@ -86221,16 +86235,22 @@
         "bin": "no",
         "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Sungai Gapi, Serendah",
+        "name:ms": "Sungai Gapi, Serendah",
+        "operator": "Setara Jaya",
         "public_transport": "platform",
+        "ref": "HS97",
         "shelter": "yes",
-        "tactile_paving": "no"
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           101.6291456,
-          3.3996884
+          3.3996802
         ]
       },
       "id": "node/8075872984"
@@ -86286,16 +86306,22 @@
         "bin": "no",
         "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Taman Tasik Teratai, Hulu Yam",
+        "name:ms": "Taman Tasik Teratai, Hulu Yam",
+        "operator": "Setara Jaya",
         "public_transport": "platform",
+        "ref": "HS341",
         "shelter": "yes",
-        "tactile_paving": "no"
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6288165,
-          3.4033075
+          101.628815,
+          3.4032967
         ]
       },
       "id": "node/8075882137"
@@ -86326,19 +86352,25 @@
       "properties": {
         "@id": "node/8075886017",
         "bench": "yes",
-        "bin": "no",
+        "bin": "yes",
         "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Taman Tasik Teratai, Serendah",
+        "name:ms": "Taman Tasik Teratai, Serendah",
+        "operator": "Setara Jaya",
         "public_transport": "platform",
+        "ref": "HS98",
         "shelter": "yes",
-        "tactile_paving": "no"
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           101.6285246,
-          3.4038664
+          3.4038433
         ]
       },
       "id": "node/8075886017"
@@ -86393,16 +86425,22 @@
         "bin": "no",
         "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Laman Gapimas, Hulu Yam",
+        "name:ms": "Laman Gapimas, Hulu Yam",
+        "operator": "Setara Jaya",
         "public_transport": "platform",
+        "ref": "HS340",
         "shelter": "yes",
-        "tactile_paving": "no"
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6270989,
-          3.4206909
+          101.6270826,
+          3.4206793
         ]
       },
       "id": "node/8075898390"
@@ -131791,6 +131829,116 @@
         ]
       },
       "id": "node/9667224330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9669859009",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Serendah Makmur, Serendah",
+        "name:ms": "Taman Serendah Makmur, Serendah",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS96",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6279962,
+          3.3916899
+        ]
+      },
+      "id": "node/9669859009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9669859011",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Serendah Makmur, Serendah",
+        "name:ms": "Taman Serendah Makmur, Serendah",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS95",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6282652,
+          3.3916958
+        ]
+      },
+      "id": "node/9669859011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9669859014",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sungai Gapi, Hulu Yam",
+        "name:ms": "Sungai Gapi, Hulu Yam",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS342",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6293739,
+          3.399908
+        ]
+      },
+      "id": "node/9669859014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9669877518",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Laman Gapimas, Serendah",
+        "name:ms": "Laman Gapimas, Serendah",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS99",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6266751,
+          3.4201827
+        ]
+      },
+      "id": "node/9669877518"
     }
   ]
 }
