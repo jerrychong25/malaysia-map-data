@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-16T10:21:13Z",
+  "timestamp": "2022-04-23T05:24:51Z",
   "features": [
     {
       "type": "Feature",
@@ -1602,9 +1602,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1186781590",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -4965,8 +4968,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5404762,
-          3.2071617
+          101.54044,
+          3.207161
         ]
       },
       "id": "node/2965400538"
@@ -17400,6 +17403,7 @@
       "properties": {
         "@id": "node/7780782452",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
         "shelter": "yes"
@@ -17418,6 +17422,7 @@
       "properties": {
         "@id": "node/7780782453",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
         "shelter": "yes"
@@ -17810,6 +17815,7 @@
       "properties": {
         "@id": "node/7822870214",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "name": "Batu Tiga Federal Highway",
         "passenger_information_display": "yes",
@@ -17833,6 +17839,7 @@
         "@id": "node/7822870227",
         "bench": "yes",
         "bin": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "name": "Seksyen 15 (Timur)",
         "passenger_information_display": "yes",
@@ -19781,28 +19788,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8075877231",
-        "bench": "yes",
-        "bin": "no",
-        "bus": "yes",
-        "covered": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform",
-        "shelter": "yes",
-        "tactile_paving": "no"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.627041,
-          3.4224588
-        ]
-      },
-      "id": "node/8075877231"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8075877232",
         "bench": "yes",
         "bin": "no",
@@ -19993,16 +19978,22 @@
         "bin": "no",
         "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Antara Gapi, Serendah",
+        "name:ms": "Antara Gapi, Serendah",
+        "operator": "Setara Jaya, Smart Selangor",
         "public_transport": "platform",
+        "ref": "HS100",
         "shelter": "yes",
-        "tactile_paving": "no"
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6270792,
-          3.4232169
+          101.6270514,
+          3.4232132
         ]
       },
       "id": "node/8081416759"
@@ -21761,6 +21752,7 @@
       "properties": {
         "@id": "node/8125179718",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
         "shelter": "yes"
@@ -22861,6 +22853,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8263518085",
+        "bus": "yes",
         "highway": "bus_stop",
         "name": "SS17 (Utara)",
         "passenger_information_display": "yes",
@@ -23308,6 +23301,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8543664805",
+        "bus": "yes",
         "highway": "bus_stop",
         "passenger_information_display": "no",
         "public_transport": "platform",
@@ -24309,6 +24303,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9098524967",
+        "bus": "yes",
         "highway": "bus_stop",
         "passenger_information_display": "yes",
         "public_transport": "platform"
@@ -24326,6 +24321,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9098524969",
+        "bus": "yes",
         "highway": "bus_stop",
         "passenger_information_display": "yes",
         "public_transport": "platform",
@@ -24928,6 +24924,7 @@
         "@id": "node/9309768080",
         "bench": "yes",
         "bin": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "passenger_information_display": "yes",
         "public_transport": "platform",
@@ -24947,6 +24944,7 @@
       "properties": {
         "@id": "node/9309768081",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "passenger_information_display": "no",
         "public_transport": "platform",
@@ -24965,6 +24963,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9309768083",
+        "bus": "yes",
         "highway": "bus_stop",
         "passenger_information_display": "no",
         "public_transport": "platform",
@@ -24984,6 +24983,7 @@
       "properties": {
         "@id": "node/9309768084",
         "bench": "no",
+        "bus": "yes",
         "highway": "bus_stop",
         "passenger_information_display": "yes",
         "public_transport": "platform",
@@ -25005,6 +25005,7 @@
         "@id": "node/9309768085",
         "bench": "yes",
         "bin": "yes",
+        "bus": "yes",
         "covered": "no",
         "highway": "bus_stop",
         "passenger_information_display": "yes",
@@ -25025,6 +25026,7 @@
       "properties": {
         "@id": "node/9309768086",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
         "shelter": "yes"
@@ -35575,6 +35577,7 @@
       "properties": {
         "@id": "node/9537216573",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
         "route_ref": "T640",
@@ -35594,6 +35597,7 @@
       "properties": {
         "@id": "node/9537216575",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "passenger_information_display": "no",
         "public_transport": "platform",
@@ -46315,6 +46319,366 @@
         ]
       },
       "id": "node/9669877518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9671494897",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5146528,
+          3.2188011
+        ]
+      },
+      "id": "node/9671494897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9671494899",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4856415,
+          3.2377358
+        ]
+      },
+      "id": "node/9671494899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9671494900",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5372353,
+          3.2317411
+        ]
+      },
+      "id": "node/9671494900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9676155837",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4276499,
+          3.2459239
+        ]
+      },
+      "id": "node/9676155837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9676155841",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4877138,
+          3.2026161
+        ]
+      },
+      "id": "node/9676155841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9676155842",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4283385,
+          3.2400891
+        ]
+      },
+      "id": "node/9676155842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9676155843",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4841426,
+          3.2023467
+        ]
+      },
+      "id": "node/9676155843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9676155851",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5156928,
+          3.2187011
+        ]
+      },
+      "id": "node/9676155851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9676155852",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4337136,
+          3.2430336
+        ]
+      },
+      "id": "node/9676155852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9676155855",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4259078,
+          3.2422848
+        ]
+      },
+      "id": "node/9676155855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9687186701",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Dataran Antara Gapi, Persiaran Antara Gapi",
+        "name:ms": "Dataran Antara Gapi, Persiaran Antara Gapi",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6281822,
+          3.4218587
+        ]
+      },
+      "id": "node/9687186701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9687186703",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pusat Perniagaan Sri Intan, Persiaran Antara Gapi",
+        "name:ms": "Pusat Perniagaan Sri Intan, Persiaran Antara Gapi",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6301239,
+          3.421216
+        ]
+      },
+      "id": "node/9687186703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9687186705",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bandar Antara Gapi Seksyen 1, Persiaran Antara Gapi",
+        "name:ms": "Bandar Antara Gapi Seksyen 1, Persiaran Antara Gapi",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6360533,
+          3.4255783
+        ]
+      },
+      "id": "node/9687186705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9687186707",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bandar Antara Gapi Seksyen 2c, Persiaran Antara Gapi",
+        "name:ms": "Bandar Antara Gapi Seksyen 2c, Persiaran Antara Gapi",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6390962,
+          3.426911
+        ]
+      },
+      "id": "node/9687186707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9687186709",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Commercial Antara Gapi, Persiaran Antara Gapi",
+        "name:ms": "Commercial Antara Gapi, Persiaran Antara Gapi",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6422251,
+          3.4266885
+        ]
+      },
+      "id": "node/9687186709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9687186711",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Commercial Antara Gapi, Persiaran Antara Gapi",
+        "name:ms": "Commercial Antara Gapi, Persiaran Antara Gapi",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6421025,
+          3.4263939
+        ]
+      },
+      "id": "node/9687186711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9687186713",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Antara Gapi, Hulu Yam",
+        "name:ms": "Antara Gapi, Hulu Yam",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS118",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6272827,
+          3.4234697
+        ]
+      },
+      "id": "node/9687186713"
     }
   ]
 }
