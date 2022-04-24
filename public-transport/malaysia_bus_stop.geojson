@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-23T05:28:55Z",
+  "timestamp": "2022-04-24T06:47:58Z",
   "features": [
     {
       "type": "Feature",
@@ -83426,7 +83426,9 @@
       "properties": {
         "@id": "node/8006848195",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
+        "public_transport": "platform",
         "shelter": "yes",
         "shelter_type": "public_transport"
       },
@@ -83444,7 +83446,9 @@
       "properties": {
         "@id": "node/8006890302",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
+        "public_transport": "platform",
         "shelter": "yes",
         "shelter_type": "public_transport"
       },
@@ -83462,7 +83466,9 @@
       "properties": {
         "@id": "node/8006901918",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
+        "public_transport": "platform",
         "shelter": "yes",
         "shelter_type": "public_transport"
       },
@@ -83683,6 +83689,7 @@
       "properties": {
         "@id": "node/8009978030",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
         "shelter": "yes"
@@ -86331,17 +86338,24 @@
         "@id": "node/8075849091",
         "bench": "yes",
         "bin": "no",
+        "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Perindustrian Batu 29 (Selatan), Hulu Yam",
+        "name:ms": "Perindustrian Batu 29 (Selatan), Hulu Yam",
+        "operator": "Setara Jaya, Smart Selangor",
         "public_transport": "platform",
+        "ref": "HS117",
         "shelter": "yes",
-        "tactile_paving": "no"
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6272468,
-          3.4299191
+          101.6272286,
+          3.4299021
         ]
       },
       "id": "node/8075849091"
@@ -86380,17 +86394,24 @@
         "@id": "node/8075877232",
         "bench": "yes",
         "bin": "no",
+        "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Kampung Batu 30, Hulu Yam",
+        "name:ms": "Kampung Batu 30, Hulu Yam",
+        "operator": "Setara Jaya, Smart Selangor",
         "public_transport": "platform",
+        "ref": "HS115",
         "shelter": "yes",
-        "tactile_paving": "no"
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.632741,
-          3.4423609
+          101.6327103,
+          3.4423572
         ]
       },
       "id": "node/8075877232"
@@ -86429,17 +86450,24 @@
         "@id": "node/8075883777",
         "bench": "yes",
         "bin": "no",
+        "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Perindustrian Batu 29 (Selatan), Hulu Yam",
+        "name:ms": "Perindustrian Batu 29 (Selatan), Hulu Yam",
+        "operator": "Setara Jaya, Smart Selangor",
         "public_transport": "platform",
+        "ref": "HS101",
         "shelter": "yes",
-        "tactile_paving": "no"
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6273238,
-          3.4306369
+          101.6273042,
+          3.4306334
         ]
       },
       "id": "node/8075883777"
@@ -86477,18 +86505,25 @@
       "properties": {
         "@id": "node/8075887922",
         "bench": "yes",
-        "bin": "no",
+        "bin": "yes",
+        "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Perindustrian Batu 29 (Utara), Hulu Yam",
+        "name:ms": "Perindustrian Batu 29 (Utara), Hulu Yam",
+        "operator": "Setara Jaya, Smart Selangor",
         "public_transport": "platform",
+        "ref": "HS102",
         "shelter": "yes",
-        "tactile_paving": "no"
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6292524,
-          3.4348111
+          101.6292356,
+          3.4347748
         ]
       },
       "id": "node/8075887922"
@@ -86499,11 +86534,14 @@
         "@id": "node/8075891734",
         "bench": "yes",
         "bin": "no",
+        "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "public_transport": "platform",
         "shelter": "yes",
-        "tactile_paving": "no"
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -87203,16 +87241,24 @@
       "properties": {
         "@id": "node/8085633808",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Taman Emas, Hulu Yam",
+        "name:ms": "Taman Emas, Hulu Yam",
+        "operator": "Setara Jaya, Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "HS106",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6369569,
-          3.457749
+          101.6369478,
+          3.4577394
         ]
       },
       "id": "node/8085633808"
@@ -87222,16 +87268,24 @@
       "properties": {
         "@id": "node/8085685763",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Taman Emas, Hulu Yam",
+        "name:ms": "Taman Emas, Hulu Yam",
+        "operator": "Setara Jaya, Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "HS112",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6350794,
-          3.4508
+          101.6350508,
+          3.4507801
         ]
       },
       "id": "node/8085685763"
@@ -87241,16 +87295,24 @@
       "properties": {
         "@id": "node/8085685764",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Rumah Murah Batu 30 (Utara), Hulu Yam",
+        "name:ms": "Rumah Murah Batu 30 (Utara), Hulu Yam",
+        "operator": "Setara Jaya, Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "HS105",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6349265,
-          3.4509928
+          101.6349066,
+          3.4509807
         ]
       },
       "id": "node/8085685764"
@@ -132527,6 +132589,313 @@
         ]
       },
       "id": "node/9687186713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9689156905",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perindustrian Batu 29 (Utara), Hulu Yam",
+        "name:ms": "Perindustrian Batu 29 (Utara), Hulu Yam",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS116",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6294642,
+          3.434758
+        ]
+      },
+      "id": "node/9689156905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9689156909",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Batu 30, Hulu Yam",
+        "name:ms": "Kampung Batu 30, Hulu Yam",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS103",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6335256,
+          3.4457004
+        ]
+      },
+      "id": "node/9689156909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9689156911",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Rumah Murah Batu 30 (Selatan), Hulu Yam",
+        "name:ms": "Rumah Murah Batu 30 (Selatan), Hulu Yam",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS114",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6336416,
+          3.4457356
+        ]
+      },
+      "id": "node/9689156911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9689156913",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Rumah Murah Batu 30 (Selatan), Hulu Yam",
+        "name:ms": "Rumah Murah Batu 30 (Selatan), Hulu Yam",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS104",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6340052,
+          3.4475011
+        ]
+      },
+      "id": "node/9689156913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9689179364",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Rumah Murah Batu 30 (Utara), Hulu Yam",
+        "name:ms": "Rumah Murah Batu 30 (Utara), Hulu Yam",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS113",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6341913,
+          3.4476489
+        ]
+      },
+      "id": "node/9689179364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9689179368",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hulu Yam Lama, Hulu Yam",
+        "name:ms": "Hulu Yam Lama, Hulu Yam",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS111",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6370431,
+          3.4565743
+        ]
+      },
+      "id": "node/9689179368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9689179371",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Bukit Chandang, Batang Kali",
+        "name:ms": "Kampung Bukit Chandang, Batang Kali",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS110",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6388534,
+          3.4656314
+        ]
+      },
+      "id": "node/9689179371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9689179373",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bandar Baru Batang Kali, Batang Kali",
+        "name:ms": "Bandar Baru Batang Kali, Batang Kali",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS109",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.639291,
+          3.4677077
+        ]
+      },
+      "id": "node/9689179373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9689179375",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hulu Yam Lama, Hulu Yam",
+        "name:ms": "Hulu Yam Lama, Hulu Yam",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS107",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6392101,
+          3.4682745
+        ]
+      },
+      "id": "node/9689179375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9689179377",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "KTM Batang Kali",
+        "name:ms": "KTM Batang Kali",
+        "operator": "Smart Selangor, Aerobus",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6380075,
+          3.468216
+        ]
+      },
+      "id": "node/9689179377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9689179379",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Terminal Bas Batang Kali, Jalan Batang Kali",
+        "name:ms": "Terminal Bas Batang Kali, Jalan Batang Kali",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS171",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.640003,
+          3.469198
+        ]
+      },
+      "id": "node/9689179379"
     }
   ]
 }
