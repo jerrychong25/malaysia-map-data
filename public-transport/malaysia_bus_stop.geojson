@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-24T06:47:58Z",
+  "timestamp": "2022-04-29T15:37:34Z",
   "features": [
     {
       "type": "Feature",
@@ -19563,7 +19563,8 @@
         "@id": "node/2696332061",
         "bus": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "ref": "SA640"
       },
       "geometry": {
         "type": "Point",
@@ -21214,8 +21215,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6218673,
-          3.1207114
+          101.6217892,
+          3.1207353
         ]
       },
       "id": "node/3440280932"
@@ -40424,8 +40425,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7271997,
-          3.1244167
+          101.7271504,
+          3.1244082
         ]
       },
       "id": "node/5484616688"
@@ -45171,8 +45172,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6650669,
-          3.1184868
+          101.6650366,
+          3.1184926
         ]
       },
       "id": "node/5793555853"
@@ -45191,8 +45192,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6671826,
-          3.1175534
+          101.6671598,
+          3.1175382
         ]
       },
       "id": "node/5793555854"
@@ -78499,6 +78500,7 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "KTM Sungai Buloh (Timur), Jalan Kuala Selangor",
         "name:ms": "KTM Sungai Buloh (Timur), Jalan Kuala Selangor",
         "operator": "RapidKL",
@@ -132896,6 +132898,289 @@
         ]
       },
       "id": "node/9689179379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9691732215",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6095635,
+          3.0162493
+        ]
+      },
+      "id": "node/9691732215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9703266836",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Batang Kali, Jalan Batang Kali - Hulu Yam Bharu",
+        "name:ms": "SK Batang Kali, Jalan Batang Kali - Hulu Yam Bharu",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6449117,
+          3.4675006
+        ]
+      },
+      "id": "node/9703266836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9703266838",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Syed Mashor, Jalan Batang Kali",
+        "name:ms": "SMK Syed Mashor, Jalan Batang Kali",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS172",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6483809,
+          3.46593
+        ]
+      },
+      "id": "node/9703266838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9703266840",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Syed Mashor, Jalan Batang Kali - Hulu Yam Bharu",
+        "name:ms": "SMK Syed Mashor, Jalan Batang Kali - Hulu Yam Bharu",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS211",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6482115,
+          3.4657135
+        ]
+      },
+      "id": "node/9703266840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9703266842",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Sri",
+        "name:ms": "Taman Sri",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS173",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6495985,
+          3.4652391
+        ]
+      },
+      "id": "node/9703266842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9703266844",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Sri, Jalan Batang Kali - Hulu Yam Bharu",
+        "name:ms": "Taman Sri, Jalan Batang Kali - Hulu Yam Bharu",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS210",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6514527,
+          3.464081
+        ]
+      },
+      "id": "node/9703266844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9703266846",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Seksyen 3, Bandar Utama",
+        "name:ms": "Seksyen 3, Bandar Utama",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS173",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6541779,
+          3.4630947
+        ]
+      },
+      "id": "node/9703266846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9703266848",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Seksyen 3 Bandar Utama, Jalan Batang Kali - Hulu Yam Bharu",
+        "name:ms": "Seksyen 3 Bandar Utama, Jalan Batang Kali - Hulu Yam Bharu",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS209",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6544794,
+          3.4626666
+        ]
+      },
+      "id": "node/9703266848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9703301715",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perpustakaan Desa Sungai Masin, Jalan Batang Kali",
+        "name:ms": "Perpustakaan Desa Sungai Masin, Jalan Batang Kali",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6580716,
+          3.4649592
+        ]
+      },
+      "id": "node/9703301715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9703315717",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Genting Permai, Jalan Batang Kali",
+        "name:ms": "Taman Genting Permai, Jalan Batang Kali",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6590816,
+          3.4648495
+        ]
+      },
+      "id": "node/9703315717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9703315719",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Desa Alam Ria, Jalan Batang Kali",
+        "name:ms": "Desa Alam Ria, Jalan Batang Kali",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6601128,
+          3.4669137
+        ]
+      },
+      "id": "node/9703315719"
     }
   ]
 }
