@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-29T15:37:34Z",
+  "timestamp": "2022-04-30T04:59:46Z",
   "features": [
     {
       "type": "Feature",
@@ -6937,15 +6937,16 @@
         "@id": "node/1610800796",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Kem Watania 509",
+        "name": "Kem Wataniah 509",
         "operator": "Rapid Penang",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.3172252,
-          5.422689
+          100.3171695,
+          5.422598
         ]
       },
       "id": "node/1610800796"
@@ -9345,13 +9346,14 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Sri Pinang",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.3173124,
-          5.4219619
+          100.3173073,
+          5.4208236
         ]
       },
       "id": "node/1731728612"
@@ -133181,6 +133183,566 @@
         ]
       },
       "id": "node/9703315719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9704430402",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hulu Yam Baru, Jalan Hulu Yam Bharu - Batu Caves",
+        "name:ms": "Hulu Yam Baru, Jalan Hulu Yam Bharu - Batu Caves",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6613134,
+          3.4246399
+        ]
+      },
+      "id": "node/9704430402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9704430404",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Desa Kelisa, Jalan Hulu Yam Bharu - Batu Caves",
+        "name:ms": "Taman Desa Kelisa, Jalan Hulu Yam Bharu - Batu Caves",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6642491,
+          3.4199694
+        ]
+      },
+      "id": "node/9704430404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9704430406",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Menengah Sains Hulu Selangor, Jalan Antara Gapi - Ulu Yam",
+        "name:ms": "Sekolah Menengah Sains Hulu Selangor, Jalan Antara Gapi - Ulu Yam",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6606023,
+          3.4116461
+        ]
+      },
+      "id": "node/9704430406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9704451814",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Desa Hulu Yam, Jalan Hulu Yam",
+        "name:ms": "Desa Hulu Yam, Jalan Hulu Yam",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS194",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6574376,
+          3.4332022
+        ]
+      },
+      "id": "node/9704451814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9704451816",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Desa Hulu Yam, Jalan Hulu Yam",
+        "name:ms": "Desa Hulu Yam, Jalan Hulu Yam",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS203",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.657585,
+          3.4332758
+        ]
+      },
+      "id": "node/9704451816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9704454506",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Seksyen 3 Bandar Utama, Jalan Batang Kali",
+        "name:ms": "Seksyen 3 Bandar Utama, Jalan Batang Kali",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS174",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6597384,
+          3.4593544
+        ]
+      },
+      "id": "node/9704454506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9704454508",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Seksyen 4 Bandar Utama, Jalan Batang Kali - Hulu Yam Bharu",
+        "name:ms": "Seksyen 4 Bandar Utama, Jalan Batang Kali - Hulu Yam Bharu",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS208",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.66009,
+          3.4585654
+        ]
+      },
+      "id": "node/9704454508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9704454510",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Seksyen 4 Bandar Utama",
+        "name:ms": "Seksyen 4 Bandar Utama",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS187",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6619963,
+          3.4571719
+        ]
+      },
+      "id": "node/9704454510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9704454512",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perniagaan Kelah, Jalan Batang Kali - Hulu Yam Bharu",
+        "name:ms": "Perniagaan Kelah, Jalan Batang Kali - Hulu Yam Bharu",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS188",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6654693,
+          3.4509453
+        ]
+      },
+      "id": "node/9704454512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9704454514",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perniagaan Kelah, Jalan Batang Kali - Hulu Yam Bharu",
+        "name:ms": "Perniagaan Kelah, Jalan Batang Kali - Hulu Yam Bharu",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS207",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6652586,
+          3.4507222
+        ]
+      },
+      "id": "node/9704454514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9704462703",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Kalong Hilir, Batu 17 Batang Kali",
+        "name:ms": "Kampung Kalong Hilir, Batu 17 Batang Kali",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6591512,
+          3.4473508
+        ]
+      },
+      "id": "node/9704462703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9704462705",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Kalong Tengah, Batu 17 Batang Kali",
+        "name:ms": "Kampung Kalong Tengah, Batu 17 Batang Kali",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6564731,
+          3.4421387
+        ]
+      },
+      "id": "node/9704462705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9704462707",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Rendah Agama Ulu Yam, Jalan Ulu Yam",
+        "name:ms": "Sekolah Rendah Agama Ulu Yam, Jalan Ulu Yam",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.655764,
+          3.4376527
+        ]
+      },
+      "id": "node/9704462707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9704462709",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Seri Liam, Jalan Ulu Yam",
+        "name:ms": "Taman Seri Liam, Jalan Ulu Yam",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6560057,
+          3.4371433
+        ]
+      },
+      "id": "node/9704462709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9704462711",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Klinik Kesihatan Hulu Yam Bharu, Jalan Ulu Yam",
+        "name:ms": "Klinik Kesihatan Hulu Yam Bharu, Jalan Ulu Yam",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS196",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6566867,
+          3.4343526
+        ]
+      },
+      "id": "node/9704462711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9704497925",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Kalong Hilir, Jalan Batang Kali - Hulu Yam Bharu",
+        "name:ms": "Kampung Kalong Hilir, Jalan Batang Kali - Hulu Yam Bharu",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS189",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6658361,
+          3.447493
+        ]
+      },
+      "id": "node/9704497925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9704497927",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Kalong Hilir, Jalan Batang Kali - Hulu Yam Bharu",
+        "name:ms": "Kampung Kalong Hilir, Jalan Batang Kali - Hulu Yam Bharu",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS206",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.665769,
+          3.4468975
+        ]
+      },
+      "id": "node/9704497927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9704524118",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Sungai Kamin (Selatan), Jalan Batang Kali - Hulu Yam Bharu",
+        "name:ms": "Kampung Sungai Kamin (Selatan), Jalan Batang Kali - Hulu Yam Bharu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS204",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6609862,
+          3.4364311
+        ]
+      },
+      "id": "node/9704524118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9704524120",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Sungai Kamin (Selatan), Jalan Batang Kali - Hulu Yam",
+        "name:ms": "Kampung Sungai Kamin (Selatan), Jalan Batang Kali - Hulu Yam",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS193",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6611773,
+          3.4363379
+        ]
+      },
+      "id": "node/9704524120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9704524122",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Sungai Kamin (Utara), Jalan Batang Kali - Hulu Yam Bharu",
+        "name:ms": "Kampung Sungai Kamin (Utara), Jalan Batang Kali - Hulu Yam Bharu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS192",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6659594,
+          3.4382857
+        ]
+      },
+      "id": "node/9704524122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9704524124",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Sungai Kamin (Utara), Jalan Batang Kali - Hulu Yam Bharu",
+        "name:ms": "Kampung Sungai Kamin (Utara), Jalan Batang Kali - Hulu Yam Bharu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS205",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6661697,
+          3.4385711
+        ]
+      },
+      "id": "node/9704524124"
     }
   ]
 }
