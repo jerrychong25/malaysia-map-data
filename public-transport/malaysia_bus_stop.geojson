@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-30T04:59:46Z",
+  "timestamp": "2022-05-01T09:56:00Z",
   "features": [
     {
       "type": "Feature",
@@ -32929,8 +32929,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.2054511,
-          5.2053103
+          103.2056091,
+          5.2053147
         ]
       },
       "id": "node/4761916875"
@@ -33501,15 +33501,24 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4844374916",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Pekan Rasa",
+        "name:ms": "Pekan Rasa",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6321954,
-          3.4958466
+          101.6321836,
+          3.4958446
         ]
       },
       "id": "node/4844374916"
@@ -87167,18 +87176,158 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8085536153",
+        "@id": "node/8085459647",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perindustrian Miel, Rasa",
+        "name:ms": "Perindustrian Miel, Rasa",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS214",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.633687,
+          3.5060856
+        ]
+      },
+      "id": "node/8085459647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8085471256",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Napi, Rasa",
+        "name:ms": "Kampung Napi, Rasa",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS328",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6340375,
+          3.505406
+        ]
+      },
+      "id": "node/8085471256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8085482510",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Seri Cahaya, Rasa",
+        "name:ms": "Taman Seri Cahaya, Rasa",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS213",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6346916,
+          3.5032959
+        ]
+      },
+      "id": "node/8085482510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8085488293",
         "bench": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Kampung Bukit Rasa, Rasa",
+        "name:ms": "Kampung Bukit Rasa, Rasa",
+        "operator": "Setara Jaya",
         "public_transport": "platform",
+        "ref": "HS330",
         "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6400468,
-          3.4806064
+          101.6368422,
+          3.5014767
+        ]
+      },
+      "id": "node/8085488293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8085488346",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Sentosa, Batang Kali",
+        "name:ms": "Kampung Sentosa, Batang Kali",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS212",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6361523,
+          3.5019078
+        ]
+      },
+      "id": "node/8085488346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8085536153",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bandar Baru Batang Kali, Batang Kali",
+        "name:ms": "Bandar Baru Batang Kali, Batang Kali",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS338",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6400456,
+          3.4805454
         ]
       },
       "id": "node/8085536153"
@@ -87188,16 +87337,24 @@
       "properties": {
         "@id": "node/8085560394",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Kampung Bukit Chandang, Hulu Yam",
+        "name:ms": "Kampung Bukit Chandang, Hulu Yam",
+        "operator": "Setara Jaya",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "HS108",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.639497,
-          3.4763041
+          101.6394739,
+          3.4762858
         ]
       },
       "id": "node/8085560394"
@@ -87207,16 +87364,24 @@
       "properties": {
         "@id": "node/8085601856",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Taman Seri Cahaya, Batang Kali",
+        "name:ms": "Taman Seri Cahaya, Batang Kali",
+        "operator": "Setara Jaya",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "HS335",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6396257,
-          3.4753028
+          101.6396215,
+          3.475286
         ]
       },
       "id": "node/8085601856"
@@ -87226,16 +87391,24 @@
       "properties": {
         "@id": "node/8085604969",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Kampung Sentosa, Batang Kali",
+        "name:ms": "Kampung Sentosa, Batang Kali",
+        "operator": "Setara Jaya",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "HS336",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6394742,
-          3.4716844
+          101.639454,
+          3.4716626
         ]
       },
       "id": "node/8085604969"
@@ -117469,6 +117642,7 @@
       "properties": {
         "@id": "node/9537216589",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "name": "Bayview Court",
         "passenger_information_display": "yes",
@@ -117512,6 +117686,7 @@
       "properties": {
         "@id": "node/9537216598",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "name": "Pinang 1A Sri Sentosa (Barat)",
         "passenger_information_display": "yes",
@@ -132907,6 +133082,7 @@
         "@id": "node/9691732215",
         "bus": "yes",
         "highway": "bus_stop",
+        "public_transport": "platform",
         "shelter": "yes"
       },
       "geometry": {
@@ -133743,6 +133919,350 @@
         ]
       },
       "id": "node/9704524124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9706616887",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perindusitrian Miel, Rasa",
+        "name:ms": "Perindusitrian Miel, Rasa",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS334",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6402435,
+          3.4807752
+        ]
+      },
+      "id": "node/9706616887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9706652781",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Klinik Kesihatan Rasa",
+        "name:ms": "Klinik Kesihatan Rasa",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6369923,
+          3.4980241
+        ]
+      },
+      "id": "node/9706652781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9706652784",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Keruing, Persiaran Zurah 1",
+        "name:ms": "Taman Keruing, Persiaran Zurah 1",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6270931,
+          3.4979164
+        ]
+      },
+      "id": "node/9706652784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9706652786",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Taman Keruing, Persiaran Zurah 1",
+        "name:ms": "Opposite Taman Keruing, Persiaran Zurah 1",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6270946,
+          3.4974614
+        ]
+      },
+      "id": "node/9706652786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9706652788",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Kawasan Perindustrian Zurah, Persiaran Zurah 1",
+        "name:ms": "Opposite Kawasan Perindustrian Zurah, Persiaran Zurah 1",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6260444,
+          3.5082872
+        ]
+      },
+      "id": "node/9706652788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9706652790",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kawasan Perindustrian Zurah, Persiaran Zurah 1",
+        "name:ms": "Kawasan Perindustrian Zurah, Persiaran Zurah 1",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6261792,
+          3.5080397
+        ]
+      },
+      "id": "node/9706652790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9706690747",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Al Khalidiah Rasa, Rasa",
+        "name:ms": "Masjid Al Khalidiah Rasa, Rasa",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS216",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6308101,
+          3.5214174
+        ]
+      },
+      "id": "node/9706690747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9706690749",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Darul Atiq, Rasa",
+        "name:ms": "Darul Atiq, Rasa",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS326",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6311115,
+          3.5215408
+        ]
+      },
+      "id": "node/9706690749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9706690751",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Desa Rening, Jalan Ampang Pechah",
+        "name:ms": "Taman Desa Rening, Jalan Ampang Pechah",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6450086,
+          3.5166736
+        ]
+      },
+      "id": "node/9706690751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9706690753",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Taman Desa Rening, Jalan Ampang Pechah",
+        "name:ms": "Opposite Taman Desa Rening, Jalan Ampang Pechah",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6457552,
+          3.5166776
+        ]
+      },
+      "id": "node/9706690753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9706694985",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Al Khalidiah Rasa, Rasa",
+        "name:ms": "Masjid Al Khalidiah Rasa, Rasa",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS329",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6345822,
+          3.5037421
+        ]
+      },
+      "id": "node/9706694985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9706694989",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Bukit Rasa, Rasa",
+        "name:ms": "Kampung Bukit Rasa, Rasa",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS215",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6324557,
+          3.5119557
+        ]
+      },
+      "id": "node/9706694989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9706694991",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Rasa Tambahan, Rasa",
+        "name:ms": "Rasa Tambahan, Rasa",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS327",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6325345,
+          3.5124001
+        ]
+      },
+      "id": "node/9706694991"
     }
   ]
 }
