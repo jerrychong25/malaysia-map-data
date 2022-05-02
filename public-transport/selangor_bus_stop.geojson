@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-05-01T09:48:56Z",
+  "timestamp": "2022-05-02T12:32:39Z",
   "features": [
     {
       "type": "Feature",
@@ -2825,8 +2825,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1818698552",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Dagang Avenue",
         "public_transport": "platform",
         "ref": "AJ156",
@@ -7140,9 +7143,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4846170367",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Masjid Ar-Rahimah KKB, Kuala Kubu",
+        "name:ms": "Masjid Ar-Rahimah KKB, Kuala Kubu",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS230",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -20565,6 +20578,58 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/8085347521",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Taman Damai Utama, Jalan Ampang Pechah",
+        "name:ms": "Opposite Taman Damai Utama, Jalan Ampang Pechah",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6578326,
+          3.5371156
+        ]
+      },
+      "id": "node/8085347521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8085347522",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Damai Utama, Jalan Ampang Pechah",
+        "name:ms": "Taman Damai Utama, Jalan Ampang Pechah",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6577092,
+          3.5372649
+        ]
+      },
+      "id": "node/8085347522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/8085459647",
         "bench": "yes",
         "bin": "yes",
@@ -21037,11 +21102,19 @@
       "properties": {
         "@id": "node/8108687080",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Pejabat Pos KKB, Kuala Kubu",
+        "name:ms": "Pejabat Pos KKB, Kuala Kubu",
+        "operator": "Setara Jaya, Smart Selangor",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "HS229",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -21057,16 +21130,23 @@
       "properties": {
         "@id": "node/8108732381",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Desa Bukit Bujang, Jalan Ampang Pechah",
+        "name:ms": "Desa Bukit Bujang, Jalan Ampang Pechah",
+        "operator": "Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6599059,
-          3.5535375
+          101.6599045,
+          3.5535332
         ]
       },
       "id": "node/8108732381"
@@ -21076,16 +21156,23 @@
       "properties": {
         "@id": "node/8108795977",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Darul Quran, Jalan Ampang Pechah",
+        "name:ms": "Darul Quran, Jalan Ampang Pechah",
+        "operator": "Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6638809,
-          3.541306
+          101.6638788,
+          3.5412917
         ]
       },
       "id": "node/8108795977"
@@ -21095,16 +21182,23 @@
       "properties": {
         "@id": "node/8108801624",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Balai Polis Kuala Kubu Baru, Jalan Ampang Pechah",
+        "name:ms": "Balai Polis Kuala Kubu Baru, Jalan Ampang Pechah",
+        "operator": "Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6624419,
-          3.5457968
+          101.6624409,
+          3.5457943
         ]
       },
       "id": "node/8108801624"
@@ -21114,16 +21208,23 @@
       "properties": {
         "@id": "node/8108803574",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Taman Tanjuk, Jalan Ampang Ancheh",
+        "name:ms": "Taman Tanjuk, Jalan Ampang Ancheh",
+        "operator": "Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6633713,
-          3.5449522
+          101.6633725,
+          3.5449487
         ]
       },
       "id": "node/8108803574"
@@ -48411,6 +48512,488 @@
         ]
       },
       "id": "node/9706694991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9709059423",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Ampang Pechah, Jalan Ampang Pechah",
+        "name:ms": "SMK Ampang Pechah, Jalan Ampang Pechah",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6637641,
+          3.5417023
+        ]
+      },
+      "id": "node/9709059423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9709071001",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Terminal Bas Kuala Kubu Bharu, Kuala Kubu",
+        "name:ms": "Terminal Bas Kuala Kubu Bharu, Kuala Kubu",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS170",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6604467,
+          3.565598
+        ]
+      },
+      "id": "node/9709071001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9709071004",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Ar-Rahimah KKB, Kuala Kubu",
+        "name:ms": "Masjid Ar-Rahimah KKB, Kuala Kubu",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS160",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6550067,
+          3.5607985
+        ]
+      },
+      "id": "node/9709071004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9709074706",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Hospital Kuala Kubu Bharu, Jalan Syed Masyor",
+        "name:ms": "Hospital Kuala Kubu Bharu, Jalan Syed Masyor",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.654456,
+          3.5624925
+        ]
+      },
+      "id": "node/9709074706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9709074708",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Ampang Pechah, Jalan Hospital",
+        "name:ms": "Ampang Pechah, Jalan Hospital",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6545978,
+          3.5640022
+        ]
+      },
+      "id": "node/9709074708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9709074710",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Kuala Kubu Utama, Kuala Kubu",
+        "name:ms": "Taman Kuala Kubu Utama, Kuala Kubu",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS159",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6505997,
+          3.5600852
+        ]
+      },
+      "id": "node/9709074710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9709074712",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Kuala Kubu Utama, Kuala Kubu",
+        "name:ms": "Taman Kuala Kubu Utama, Kuala Kubu",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS231",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6501136,
+          3.5593933
+        ]
+      },
+      "id": "node/9709074712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9709074714",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Seri Teratai, Kuala Kubu",
+        "name:ms": "Taman Seri Teratai, Kuala Kubu",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS158",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6476227,
+          3.5588162
+        ]
+      },
+      "id": "node/9709074714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9709074716",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Seri Teratai, Kuala Kubu",
+        "name:ms": "Taman Seri Teratai, Kuala Kubu",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS232",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6476171,
+          3.5586548
+        ]
+      },
+      "id": "node/9709074716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9709110818",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "JPJ KKB, Kuala Kubu",
+        "name:ms": "JPJ KKB, Kuala Kubu",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS233",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6461408,
+          3.5581741
+        ]
+      },
+      "id": "node/9709110818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9709110820",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "JPJ KKB, Kuala Kubu",
+        "name:ms": "JPJ KKB, Kuala Kubu",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS157",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6452275,
+          3.5581528
+        ]
+      },
+      "id": "node/9709110820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9709110822",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Dataran KKB, Kuala Kubu",
+        "name:ms": "Dataran KKB, Kuala Kubu",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS156",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6435053,
+          3.5571374
+        ]
+      },
+      "id": "node/9709110822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9709110824",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Dataran KKB, Kuala Kubu",
+        "name:ms": "Dataran KKB, Kuala Kubu",
+        "operator": "Setara Jaya, Smart Selangor",
+        "public_transport": "platform",
+        "ref": "HS235",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6433422,
+          3.5568472
+        ]
+      },
+      "id": "node/9709110824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9709115675",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Napi, Rasa",
+        "name:ms": "Kampung Napi, Rasa",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS217",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6309753,
+          3.5263544
+        ]
+      },
+      "id": "node/9709115675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9709115677",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Ladang Ulu Selangor, Rasa",
+        "name:ms": "Ladang Ulu Selangor, Rasa",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS325",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6314552,
+          3.5273168
+        ]
+      },
+      "id": "node/9709115677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9709115679",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Stesen KTM KKB",
+        "name:ms": "Stesen KTM KKB",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6397264,
+          3.5531989
+        ]
+      },
+      "id": "node/9709115679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9709115681",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Paya Dalam, Kuala Kubu",
+        "name:ms": "Kampung Paya Dalam, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS236",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6305577,
+          3.5621344
+        ]
+      },
+      "id": "node/9709115681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9709115683",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Paya Dalam, Kuala Kubu",
+        "name:ms": "Kampung Paya Dalam, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS155",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6297289,
+          3.5628747
+        ]
+      },
+      "id": "node/9709115683"
     }
   ]
 }
