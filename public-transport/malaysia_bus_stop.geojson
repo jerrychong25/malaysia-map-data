@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-05-02T12:34:47Z",
+  "timestamp": "2022-05-03T16:35:12Z",
   "features": [
     {
       "type": "Feature",
@@ -37774,9 +37774,17 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5420039812",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Maktab Rendah Sains MARA Bentong, Lebuhraya Karak",
+        "name:ms": "Maktab Rendah Sains MARA Bentong, Lebuhraya Karak",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -37791,9 +37799,18 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5420039813",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Maktab Rendah Sains MARA Bentong, Lebuhraya Karak",
+        "name:ms": "Maktab Rendah Sains MARA Bentong, Lebuhraya Karak",
+        "operator": "MARA Liner, Sri Manong",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -134846,6 +134863,370 @@
         ]
       },
       "id": "node/9709115683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9711596815",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Awana Sky Central",
+        "name:en": "Awana Sky Central",
+        "operator": "Resort World Genting, Aerobus, Billion Star Express, Sri Manong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7831281,
+          3.4042679
+        ]
+      },
+      "id": "node/9711596815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9711644368",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Bukit Tinggi, Lebuhraya Karak",
+        "name:ms": "Kampung Bukit Tinggi, Lebuhraya Karak",
+        "operator": "MARA Liner, Sri Manong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8213807,
+          3.3502283
+        ]
+      },
+      "id": "node/9711644368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9711644370",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Temiang, Lebuhraya Karak",
+        "name:ms": "Kampung Temiang, Lebuhraya Karak",
+        "operator": "MARA Liner, Sri Manong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.890048,
+          3.4205787
+        ]
+      },
+      "id": "node/9711644370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9711644372",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Lubuk Mandi, Lebuhraya Karak",
+        "name:ms": "Kampung Lubuk Mandi, Lebuhraya Karak",
+        "operator": "MARA Liner, Sri Manong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8905176,
+          3.4216445
+        ]
+      },
+      "id": "node/9711644372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9711655317",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "yes",
+        "highway": "bus_stop",
+        "name": "First World Hotel",
+        "name:en": "First World Hotel",
+        "operator": "Billion Star Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7945455,
+          3.4247985
+        ]
+      },
+      "id": "node/9711655317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9711688976",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Sirai, Jalan Kuala Lumpur",
+        "name:ms": "Kampung Sirai, Jalan Kuala Lumpur",
+        "operator": "Sri Manong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9149725,
+          3.4844372
+        ]
+      },
+      "id": "node/9711688976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9711735137",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kolej Vokasional Tengku Ampuan Afzan, Jalan Kuala Lumpur",
+        "name:ms": "Kolej Vokasional Tengku Ampuan Afzan, Jalan Kuala Lumpur",
+        "operator": "MARA Liner, Sri Manong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9154543,
+          3.4851133
+        ]
+      },
+      "id": "node/9711735137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9711735139",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Taman Kolej, Jalan Kuala Lumpur",
+        "name:ms": "Opposite Taman Kolej, Jalan Kuala Lumpur",
+        "operator": "Sri Manong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9163349,
+          3.4860551
+        ]
+      },
+      "id": "node/9711735139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9711735141",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Kolej, Jalan Kuala Lumpur",
+        "name:ms": "Taman Kolej, Jalan Kuala Lumpur",
+        "operator": "MARA Liner, Sri Manong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.916554,
+          3.4871607
+        ]
+      },
+      "id": "node/9711735141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9711735143",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Orkid, Jalan Kuala Lumpur",
+        "name:ms": "Taman Orkid, Jalan Kuala Lumpur",
+        "operator": "MARA Liner, Sri Manong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9144426,
+          3.4922485
+        ]
+      },
+      "id": "node/9711735143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9711735145",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Darul Farqan, Jalan Kuala Lumpur",
+        "name:ms": "Masjid Darul Farqan, Jalan Kuala Lumpur",
+        "operator": "MARA Liner, Sri Manong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9134841,
+          3.4922064
+        ]
+      },
+      "id": "node/9711735145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9711735147",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Sri Siantan, Jalan Kuala Lumpur",
+        "name:ms": "Taman Sri Siantan, Jalan Kuala Lumpur",
+        "operator": "Sri Manong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9115164,
+          3.4929786
+        ]
+      },
+      "id": "node/9711735147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9711735149",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Menengah Kebangsaan Sulaiman, Jalan Kuala Lumpur",
+        "name:ms": "Sekolah Menengah Kebangsaan Sulaiman, Jalan Kuala Lumpur",
+        "operator": "Sri Manong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9111357,
+          3.5011377
+        ]
+      },
+      "id": "node/9711735149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9711735151",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Ketari, Jalan Kuala Lumpur",
+        "name:ms": "Kampung Ketari, Jalan Kuala Lumpur",
+        "operator": "Sri Manong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9137271,
+          3.504957
+        ]
+      },
+      "id": "node/9711735151"
     }
   ]
 }
