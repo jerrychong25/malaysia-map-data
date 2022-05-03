@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-05T09:35:33Z",
+  "timestamp": "2022-05-03T15:52:39Z",
   "features": [
     {
       "type": "Feature",
@@ -1854,6 +1854,7 @@
       "properties": {
         "@id": "node/8870598523",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
         "shelter": "yes"
@@ -2305,6 +2306,173 @@
         ]
       },
       "id": "node/9480578117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9673202630",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.446115,
+          3.448705
+        ]
+      },
+      "id": "node/9673202630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9673239142",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Kg. Seberang Temerloh",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.4313297,
+          3.446376
+        ]
+      },
+      "id": "node/9673239142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9711596815",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Awana Sky Central",
+        "name:en": "Awana Sky Central",
+        "operator": "Resort World Genting, Aerobus, Billion Star Express, Sri Marong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7831281,
+          3.4042679
+        ]
+      },
+      "id": "node/9711596815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9711644368",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Bukit Tinggi, Lebuhraya Karak",
+        "name:ms": "Kampung Bukit Tinggi, Lebuhraya Karak",
+        "operator": "MARA Liner, Sri Marong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8213807,
+          3.3502283
+        ]
+      },
+      "id": "node/9711644368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9711644370",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Temiang, Lebuhraya Karak",
+        "name:ms": "Kampung Temiang, Lebuhraya Karak",
+        "operator": "MARA Liner, Sri Marong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.890048,
+          3.4205787
+        ]
+      },
+      "id": "node/9711644370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9711644372",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Lubuk Mandi, Lebuhraya Karak",
+        "name:ms": "Kampung Lubuk Mandi, Lebuhraya Karak",
+        "operator": "MARA Liner, Sri Marong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8905176,
+          3.4216445
+        ]
+      },
+      "id": "node/9711644372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9711655317",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "yes",
+        "highway": "bus_stop",
+        "name": "First World Hotel",
+        "name:en": "First World Hotel",
+        "operator": "Billion Star Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7945455,
+          3.4247985
+        ]
+      },
+      "id": "node/9711655317"
     }
   ]
 }
