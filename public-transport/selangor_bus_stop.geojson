@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-05-02T12:32:39Z",
+  "timestamp": "2022-05-07T08:57:39Z",
   "features": [
     {
       "type": "Feature",
@@ -7353,15 +7353,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5018097875",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kampung Gumut Tamabahan, Kuala Kubu",
+        "name:ms": "Kampung Gumut Tamabahan, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS243",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5756227,
-          3.624634
+          101.5756505,
+          3.6246764
         ]
       },
       "id": "node/5018097875"
@@ -7370,15 +7380,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5018097876",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kampung Gumut Tambahan, Kuala Kubu",
+        "name:ms": "Kampung Gumut Tambahan, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS148",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5758158,
-          3.6247143
+          101.575855,
+          3.6247607
         ]
       },
       "id": "node/5018097876"
@@ -7387,9 +7407,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5018098430",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kampung Gumut (Selatan), Kuala Kubu",
+        "name:ms": "Kampung Gumut (Selatan), Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS244",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -7404,15 +7434,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5018098436",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kampung Gumut (Selatan), Kuala Kubu",
+        "name:ms": "Kampung Gumut (Selatan), Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS147",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5745783,
-          3.6300829
+          101.5745386,
+          3.6302225
         ]
       },
       "id": "node/5018098436"
@@ -7421,15 +7461,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5018098444",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Tanah Perkuburan Kalumpang, Kuala Kubu",
+        "name:ms": "Tanah Perkuburan Kalumpang, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS245",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5740297,
-          3.6331093
+          101.5740559,
+          3.6331671
         ]
       },
       "id": "node/5018098444"
@@ -7438,15 +7488,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5018098469",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kampung Gumut (Utara), Kuala Kubu",
+        "name:ms": "Kampung Gumut (Utara), Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS247",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5729655,
-          3.6370761
+          101.5730051,
+          3.6371407
         ]
       },
       "id": "node/5018098469"
@@ -7455,15 +7515,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5018257673",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kampung Sejantung, Kuala Kubu",
+        "name:ms": "Kampung Sejantung, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS144",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5707279,
-          3.6382298
+          101.5707657,
+          3.6382737
         ]
       },
       "id": "node/5018257673"
@@ -7472,15 +7542,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5023084859",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Desa Keliang, Kuala Kubu",
+        "name:ms": "Desa Keliang, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS137",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5469861,
-          3.6539668
+          101.547032,
+          3.6540126
         ]
       },
       "id": "node/5023084859"
@@ -7489,15 +7569,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5023084868",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Suria Al Wastiah Kampung Keliang, Kuala Kubu",
+        "name:ms": "Suria Al Wastiah Kampung Keliang, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS255",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5459718,
-          3.6545258
+          101.5460242,
+          3.6545844
         ]
       },
       "id": "node/5023084868"
@@ -7506,15 +7596,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5023085050",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kampung Keliang, Kuala Kubu",
+        "name:ms": "Kampung Keliang, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS136",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5453824,
-          3.6553428
+          101.5454529,
+          3.6552992
         ]
       },
       "id": "node/5023085050"
@@ -7523,15 +7623,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5023085250",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kampung Keliang, Kuala Kubu",
+        "name:ms": "Kampung Keliang, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS257",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5418461,
-          3.6580742
+          101.5418891,
+          3.6581458
         ]
       },
       "id": "node/5023085250"
@@ -48994,6 +49104,978 @@
         ]
       },
       "id": "node/9709115683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9717690702",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kuala Kubu Road, Kuala Kubu",
+        "name:ms": "Kuala Kubu Road, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS154",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6228651,
+          3.5667417
+        ]
+      },
+      "id": "node/9717690702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9717690704",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kuala Kubu Road, Kuala Kubu",
+        "name:ms": "Kuala Kubu Road, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS237",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6228461,
+          3.5664186
+        ]
+      },
+      "id": "node/9717690704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9717690706",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sungai Jang, Kuala Kubu",
+        "name:ms": "Sungai Jang, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS238",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6147668,
+          3.5755835
+        ]
+      },
+      "id": "node/9717690706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9717690708",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sungai Jang, Kuala Kubu",
+        "name:ms": "Sungai Jang, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS153",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6113688,
+          3.5784636
+        ]
+      },
+      "id": "node/9717690708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9717690710",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Tahfiz Kerling, Kuala Kubu",
+        "name:ms": "Tahfiz Kerling, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS239",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6072677,
+          3.586997
+        ]
+      },
+      "id": "node/9717690710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9717690712",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Zamrub, Kerling",
+        "name:ms": "Taman Zamrub, Kerling",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS151",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6068633,
+          3.5880977
+        ]
+      },
+      "id": "node/9717690712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9721967545",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Klinik Kesihatan Kalumpang, Kuala Kubu",
+        "name:ms": "Klinik Kesihatan Kalumpang, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS145",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5739535,
+          3.6350959
+        ]
+      },
+      "id": "node/9721967545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9721973696",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Zamrud, Kuala Kubu",
+        "name:ms": "Taman Zamrud, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS240",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6053411,
+          3.5898307
+        ]
+      },
+      "id": "node/9721973696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9721973698",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pekan Kerling, Kerling",
+        "name:ms": "Pekan Kerling, Kerling",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS150",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6053011,
+          3.5902917
+        ]
+      },
+      "id": "node/9721973698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9721973700",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pekan Kerling, Kerling",
+        "name:ms": "Pekan Kerling, Kerling",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS241",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6045177,
+          3.5916923
+        ]
+      },
+      "id": "node/9721973700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9721973702",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Rumah Murah Kerling, Kerling",
+        "name:ms": "Rumah Murah Kerling, Kerling",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS242",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.602921,
+          3.5953087
+        ]
+      },
+      "id": "node/9721973702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9721973704",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Rumah Murah Kerling, Kuala Kubu",
+        "name:ms": "Rumah Murah Kerling, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS149",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6026566,
+          3.5959664
+        ]
+      },
+      "id": "node/9721973704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9721997681",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Tanah Perkuburan Kalumpang, Kuala Kubu",
+        "name:ms": "Tanah Perkuburan Kalumpang, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS246",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5742101,
+          3.6331486
+        ]
+      },
+      "id": "node/9721997681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722057569",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Klinik Kesihatan Kalumpang, Kuala Kubu",
+        "name:ms": "Klinik Kesihatan Kalumpang, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS248",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5690506,
+          3.6385021
+        ]
+      },
+      "id": "node/9722057569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722057571",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Tittiwangsa, Kuala Kubu",
+        "name:ms": "Taman Tittiwangsa, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS143",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5680537,
+          3.6392558
+        ]
+      },
+      "id": "node/9722057571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722057573",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Sejantung, Kuala Kubu",
+        "name:ms": "Kampung Sejantung, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS249",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5676688,
+          3.6392308
+        ]
+      },
+      "id": "node/9722057573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722057575",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Titiwangsa, Kuala Kubu",
+        "name:ms": "Taman Titiwangsa, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS250",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5629561,
+          3.6417526
+        ]
+      },
+      "id": "node/9722057575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722057577",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perindustrian Kalumpang, Kuala Kubu",
+        "name:ms": "Perindustrian Kalumpang, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS142",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5630239,
+          3.6419879
+        ]
+      },
+      "id": "node/9722057577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722057579",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Rajawali, Kuala Kubu",
+        "name:ms": "Taman Rajawali, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS141",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.55814,
+          3.6448183
+        ]
+      },
+      "id": "node/9722057579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722057581",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Rajawali, Kuala Kubu",
+        "name:ms": "Taman Rajawali, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS252",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5576537,
+          3.6447874
+        ]
+      },
+      "id": "node/9722057581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722069562",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Jelutong Tambuhan, Kuala Kubu",
+        "name:ms": "Jelutong Tambuhan, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS135",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5419638,
+          3.6583434
+        ]
+      },
+      "id": "node/9722069562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722069564",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SJK (T) Ladang Kalumpang, Hulu Bernam",
+        "name:ms": "SJK (T) Ladang Kalumpang, Hulu Bernam",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS128",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5337812,
+          3.6651622
+        ]
+      },
+      "id": "node/9722069564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722069566",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SJK (T) Ladang Kalumpang, Hulu Bernam",
+        "name:ms": "SJK (T) Ladang Kalumpang, Hulu Bernam",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS129",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5335982,
+          3.665115
+        ]
+      },
+      "id": "node/9722069566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722069568",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Seri Asa, Hulu Bernam",
+        "name:ms": "Taman Seri Asa, Hulu Bernam",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS130",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5311604,
+          3.6672278
+        ]
+      },
+      "id": "node/9722069568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722069570",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Seri Asa, Hulu Bernam",
+        "name:ms": "Taman Seri Asa, Hulu Bernam",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS127",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5300731,
+          3.6683484
+        ]
+      },
+      "id": "node/9722069570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722069572",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Nakhoda, Hulu Bernam",
+        "name:ms": "Taman Nakhoda, Hulu Bernam",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS126",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5283621,
+          3.6695101
+        ]
+      },
+      "id": "node/9722069572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722069574",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Baru A, Hulu Bernam",
+        "name:ms": "Kampung Baru A, Hulu Bernam",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS132",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5270199,
+          3.670714
+        ]
+      },
+      "id": "node/9722069574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722070307",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sungai Serian, Kuala Kubu",
+        "name:ms": "Sungai Serian, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS139",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5512199,
+          3.6504173
+        ]
+      },
+      "id": "node/9722070307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722070309",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Benggali, Kuala Kubu",
+        "name:ms": "Kampung Benggali, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS253",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5509959,
+          3.6503612
+        ]
+      },
+      "id": "node/9722070309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722070311",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Surau Al Wastiah Kampung Keliang, Kuala Kubu",
+        "name:ms": "Surau Al Wastiah Kampung Keliang, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS138",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5481961,
+          3.6530307
+        ]
+      },
+      "id": "node/9722070311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722070313",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sungai Serian, Kuala Kubu",
+        "name:ms": "Sungai Serian, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS254",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5474959,
+          3.6533751
+        ]
+      },
+      "id": "node/9722070313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722097318",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Desa Keliang, Kuala Kubu",
+        "name:ms": "Desa Keliang, Kuala Kubu",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS256",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5443625,
+          3.6560012
+        ]
+      },
+      "id": "node/9722097318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722145575",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Baru B, Hulu Bernam",
+        "name:ms": "Kampung Baru B, Hulu Bernam",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS133",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.523859,
+          3.673269
+        ]
+      },
+      "id": "node/9722145575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722145577",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Baru B, Hulu Bernam",
+        "name:ms": "Kampung Baru B, Hulu Bernam",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS124",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5240388,
+          3.6733362
+        ]
+      },
+      "id": "node/9722145577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722145579",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Masjid, Ulu Bernam",
+        "name:ms": "Kampung Masjid, Ulu Bernam",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS134",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5212887,
+          3.6759538
+        ]
+      },
+      "id": "node/9722145579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722145581",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Masjid, Ulu Bernam",
+        "name:ms": "Kampung Masjid, Ulu Bernam",
+        "operator": "Setara Jaya",
+        "public_transport": "platform",
+        "ref": "HS123",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5213866,
+          3.676172
+        ]
+      },
+      "id": "node/9722145581"
     }
   ]
 }
