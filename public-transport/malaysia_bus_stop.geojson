@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-05-07T08:59:39Z",
+  "timestamp": "2022-05-08T08:36:13Z",
   "features": [
     {
       "type": "Feature",
@@ -1476,7 +1476,6 @@
       "properties": {
         "@id": "way/416502354",
         "bench": "yes",
-        "building": "roof",
         "highway": "bus_stop",
         "layer": "1",
         "public_transport": "platform",
@@ -4304,6 +4303,44 @@
         ]
       },
       "id": "way/833498271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/926134915",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.4009881,
+              4.793578
+            ],
+            [
+              103.4010304,
+              4.7935526
+            ],
+            [
+              103.4010692,
+              4.7936167
+            ],
+            [
+              103.401027,
+              4.7936422
+            ],
+            [
+              103.4009881,
+              4.793578
+            ]
+          ]
+        ]
+      },
+      "id": "way/926134915"
     },
     {
       "type": "Feature",
@@ -10837,9 +10874,11 @@
       "properties": {
         "@id": "node/1817092638",
         "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
+        "lit": "no",
         "local_ref": "31205",
         "name": "Tesco Sungai Dua",
         "operator": "Rapid Penang",
@@ -37121,25 +37160,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/5329609172",
-        "bench": "yes",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform",
-        "shelter": "yes"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.406378,
-          4.7563071
-        ]
-      },
-      "id": "node/5329609172"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/5329627617",
         "bus": "yes",
         "highway": "bus_stop",
@@ -50244,9 +50264,11 @@
       "properties": {
         "@id": "node/6287730526",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "departures_board": "timetable",
         "highway": "bus_stop",
+        "lit": "no",
         "local_ref": "31204",
         "name": "Jalan Sungai Dua",
         "network": "CT11, 301, 303, 304, 308",
@@ -50268,9 +50290,11 @@
       "properties": {
         "@id": "node/6287730527",
         "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "departures_board": "timetable",
         "highway": "bus_stop",
+        "lit": "no",
         "local_ref": "31203",
         "name": "Nasi Kandar Pelita",
         "network": "301, 303, 304, 308",
@@ -132438,8 +132462,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6672182,
-          3.1026179
+          101.6672971,
+          3.1026213
         ]
       },
       "id": "node/9670853988"
@@ -136223,6 +136247,475 @@
         ]
       },
       "id": "node/9722145581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722424521",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4063499,
+          4.7563584
+        ]
+      },
+      "id": "node/9722424521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722425712",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "passenger_information_display": "no",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4131291,
+          4.660727
+        ]
+      },
+      "id": "node/9722425712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722425713",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "passenger_information_display": "no",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4133504,
+          4.6608781
+        ]
+      },
+      "id": "node/9722425713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9724206655",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Toyota Bentong, Jalan Karak",
+        "name:ms": "Toyota Bentong, Jalan Karak",
+        "operator": "MARA Liner, Union",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9335893,
+          3.4935367
+        ]
+      },
+      "id": "node/9724206655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9724206657",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Benus, Jalan Karak",
+        "name:ms": "Kampung Benus, Jalan Karak",
+        "operator": "MARA Liner, Union",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9344392,
+          3.4930228
+        ]
+      },
+      "id": "node/9724206657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9724206659",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Kawan Perindustrian Bentong, Jalan Karak",
+        "name:ms": "Opposite Kawan Perindustrian Bentong, Jalan Karak",
+        "operator": "MARA Liner, Union",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9348447,
+          3.4929945
+        ]
+      },
+      "id": "node/9724206659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9724206661",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Taman Chegar Medang, Jalan Karak",
+        "name:ms": "Opposite Taman Chegar Medang, Jalan Karak",
+        "operator": "MARA Liner, Union",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.937043,
+          3.4914718
+        ]
+      },
+      "id": "node/9724206661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9724206663",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Chegar Medang, Jalan Karak",
+        "name:ms": "Kampung Chegar Medang, Jalan Karak",
+        "operator": "MARA Liner, Union",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9373901,
+          3.4915212
+        ]
+      },
+      "id": "node/9724206663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9724206665",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kawan Perindustrian Bentong, Jalan Karak",
+        "name:ms": "Kawan Perindustrian Bentong, Jalan Karak",
+        "operator": "MARA Liner, Union",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.93973,
+          3.4899013
+        ]
+      },
+      "id": "node/9724206665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9724206667",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Kawan Perindustrian Bentong, Jalan Karak",
+        "name:ms": "Opposite Kawan Perindustrian Bentong, Jalan Karak",
+        "operator": "MARA Liner, Union",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9398293,
+          3.4900745
+        ]
+      },
+      "id": "node/9724206667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9724206669",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Benus Jaya, Jalan Lama Bentong - Bentong",
+        "name:ms": "Taman Benus Jaya, Jalan Lama Bentong - Bentong",
+        "operator": "Union",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9511411,
+          3.4820829
+        ]
+      },
+      "id": "node/9724206669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9724206671",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "The Acacia Retreat, Karak Highway",
+        "name:en": "The Acacia Retreat, Karak Highway",
+        "operator": "MARA Liner, Union",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9680433,
+          3.4781485
+        ]
+      },
+      "id": "node/9724206671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9724256823",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Tengku Sulaiman, Jalan Karak",
+        "name:ms": "Masjid Tengku Sulaiman, Jalan Karak",
+        "operator": "MARA Liner, Union",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9147113,
+          3.5047474
+        ]
+      },
+      "id": "node/9724256823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9724256825",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Anggerik, Jalan Karak",
+        "name:ms": "Taman Anggerik, Jalan Karak",
+        "operator": "MARA Liner, Union",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9159196,
+          3.5032694
+        ]
+      },
+      "id": "node/9724256825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9724256827",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Klinik Komuniti Taman Anggerik, Jalan Karak",
+        "name:ms": "Klinik Komuniti Taman Anggerik, Jalan Karak",
+        "operator": "MARA Liner, Union",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9186363,
+          3.5017825
+        ]
+      },
+      "id": "node/9724256827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9724256829",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Harmoni, Jalan Karak",
+        "name:ms": "Taman Harmoni, Jalan Karak",
+        "operator": "MARA Liner, Union",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9193486,
+          3.5012013
+        ]
+      },
+      "id": "node/9724256829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9724256831",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Klinik Desa Benus, Jalan Karak",
+        "name:ms": "Klinik Desa Benus, Jalan Karak",
+        "operator": "MARA Liner, Union",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9255967,
+          3.4964238
+        ]
+      },
+      "id": "node/9724256831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9724256833",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Klinik Desa Benus, Jalan Karak",
+        "name:ms": "Opposite Klinik Desa Benus, Jalan Karak",
+        "operator": "MARA Liner, Union",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9267443,
+          3.4953092
+        ]
+      },
+      "id": "node/9724256833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9724256835",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Surau Kampung Benus, Jalan Karak",
+        "name:ms": "Surau Kampung Benus, Jalan Karak",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.930372,
+          3.4941739
+        ]
+      },
+      "id": "node/9724256835"
     }
   ]
 }
