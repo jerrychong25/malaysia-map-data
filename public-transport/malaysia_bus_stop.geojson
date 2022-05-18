@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-05-08T08:36:13Z",
+  "timestamp": "2022-05-18T09:58:22Z",
   "features": [
     {
       "type": "Feature",
@@ -4689,7 +4689,6 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1053405206",
-        "amenity": "shelter",
         "bench": "yes",
         "building": "yes",
         "bus": "yes",
@@ -5096,10 +5095,14 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1129299988",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Indah Kembara",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -11652,7 +11655,7 @@
         "bus": "yes",
         "highway": "bus_stop",
         "location": "Johor Bahru",
-        "name": "Johor Bahru Checkpoint (Departure Alighting)",
+        "name": "Johor Bahru Checkpoint",
         "name:en": "Johor Bahru Checkpoint (Departure Alighting)",
         "operator": "Land Transport Authority",
         "public_transport": "platform",
@@ -25605,7 +25608,10 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Ampang Park",
+        "name:en": "Ampang Park",
         "name:zh": "安邦购物中心",
+        "name:zh-Hans": "安邦购物中心",
+        "name:zh-Hant": "安邦購物中心",
         "public_transport": "platform",
         "ref": "KL91"
       },
@@ -37146,6 +37152,7 @@
         "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
+        "route_ref": "303",
         "shelter": "yes"
       },
       "geometry": {
@@ -37394,13 +37401,14 @@
         "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
+        "route_ref": "303",
         "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.3022319,
-          3.826807
+          103.302362,
+          3.8265902
         ]
       },
       "id": "node/5377863820"
@@ -37413,13 +37421,14 @@
         "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
+        "route_ref": "303",
         "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.3056691,
-          3.8239514
+          103.3058059,
+          3.8238055
         ]
       },
       "id": "node/5377865921"
@@ -41031,6 +41040,8 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "LRT Abdullah Hukum",
+        "name:en": "LRT Abdullah Hukum",
+        "name:ms": "LRT Abdullah Hukum",
         "public_transport": "platform",
         "ref": "KL1113"
       },
@@ -87230,20 +87241,105 @@
       "properties": {
         "@id": "node/8084691912",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "covered": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Kampung Chamang, Jalan Tras",
+        "name:ms": "Kampung Chamang, Jalan Tras",
+        "operator": "MARA Liner, Central Pahang",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.904172,
-          3.5302589
+          101.9042018,
+          3.5302376
         ]
       },
       "id": "node/8084691912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8084882144",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Kuala Repas, Jalan Tras",
+        "name:ms": "Kampung Kuala Repas, Jalan Tras",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.899749,
+          3.5449361
+        ]
+      },
+      "id": "node/8084882144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8084896056",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "covered": "no",
+        "highway": "bus_stop",
+        "name": "Taman Bentong Jaya, Jalan Tras",
+        "name:ms": "Taman Bentong Jaya, Jalan Tras",
+        "operator": "MARA Liner, Central Pahang",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9005698,
+          3.5425375
+        ]
+      },
+      "id": "node/8084896056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8084934557",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Desa Damai, Jalan Tras",
+        "name:ms": "Taman Desa Damai, Jalan Tras",
+        "operator": "MARA Liner, Central Pahang",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8907813,
+          3.5728248
+        ]
+      },
+      "id": "node/8084934557"
     },
     {
       "type": "Feature",
@@ -94280,9 +94376,10 @@
         "bus": "yes",
         "description": "Arrival, before Immigration and Customs",
         "highway": "bus_stop",
-        "location": "Jalan Sultan Iskandar CIQ",
-        "name": "Johor Bahru Checkpoint (Arrival Alighting)",
+        "location": "Johor Bahru",
+        "name": "Johor Bahru Checkpoint",
         "name:en": "Johor Bahru Checkpoint (Arrival Alighting)",
+        "operator": "Land Transport Authority",
         "public_transport": "platform",
         "ref": "46211",
         "route_ref": "160;170;170X;950"
@@ -94583,6 +94680,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8971962298",
+        "bus": "yes",
         "highway": "bus_stop",
         "passenger_information_display": "yes",
         "public_transport": "platform"
@@ -107700,8 +107798,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9498085667",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Bakti Permai",
         "public_transport": "platform",
         "ref": "6",
@@ -136716,6 +136817,401 @@
         ]
       },
       "id": "node/9724256835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9742999924",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "route_ref": "303",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.2965389,
+          3.8239394
+        ]
+      },
+      "id": "node/9742999924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9742999944",
+        "bench": "yes",
+        "bin": "no",
+        "highway": "bus_stop",
+        "passenger_information_display": "no",
+        "public_transport": "platform",
+        "route_ref": "303",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3140698,
+          3.818144
+        ]
+      },
+      "id": "node/9742999944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9742999983",
+        "bench": "yes",
+        "bin": "no",
+        "highway": "bus_stop",
+        "passenger_information_display": "no",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3221486,
+          3.8151546
+        ]
+      },
+      "id": "node/9742999983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9748325711",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Arrêt de bus lfkl",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6550873,
+          3.1793319
+        ]
+      },
+      "id": "node/9748325711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9751344108",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Baru Ketari, Jalan Ketari",
+        "name:ms": "Kampung Baru Ketari, Jalan Ketari",
+        "operator": "MARA Liner, Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.913696,
+          3.5093777
+        ]
+      },
+      "id": "node/9751344108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9751344110",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Ketari, Jalan Ketari",
+        "name:ms": "Taman Ketari, Jalan Ketari",
+        "operator": "MARA Liner, Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9134561,
+          3.5096463
+        ]
+      },
+      "id": "node/9751344110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9751344112",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pusat Komersial Bentong Prima, Jalan Ketari",
+        "name:ms": "Pusat Komersial Bentong Prima, Jalan Ketari",
+        "operator": "MARA Liner, Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9138713,
+          3.5144413
+        ]
+      },
+      "id": "node/9751344112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9751344114",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Pusat Komersial Bentong Prima, Jalan Ketari",
+        "name:ms": "Opposite Pusat Komersial Bentong Prima, Jalan Ketari",
+        "operator": "MARA Liner, Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9142008,
+          3.5150284
+        ]
+      },
+      "id": "node/9751344114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9751344116",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bus Terminal Bentong",
+        "name:ms": "Bus Terminal Bentong",
+        "operator": "MARA Liner, Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9101215,
+          3.5220128
+        ]
+      },
+      "id": "node/9751344116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9751402518",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Klinik Kesihatan Bentong, Jalan Tras",
+        "name:ms": "Klinik Kesihatan Bentong, Jalan Tras",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9019944,
+          3.5396281
+        ]
+      },
+      "id": "node/9751402518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9751402521",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Batu 1 1/4, Jalan Tras",
+        "name:ms": "Batu 1 1/4, Jalan Tras",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9003419,
+          3.5426927
+        ]
+      },
+      "id": "node/9751402521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9751418314",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Bentong Golf Club, Jalan Tras",
+        "name:en": "Opposite Bentong Golf Club, Tras Road",
+        "name:ms": "Opposite Bentong Golf Club, Jalan Tras",
+        "operator": "MARA Liner, Central Pahang",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8950543,
+          3.5549208
+        ]
+      },
+      "id": "node/9751418314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9751418316",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bentong Golf Club, Jalan Tras",
+        "name:en": "Bentong Golf Club, Tras Road",
+        "name:ms": "Bentong Golf Club, Jalan Tras",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8947239,
+          3.5552127
+        ]
+      },
+      "id": "node/9751418316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9751464018",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Taman Desa Damai, Jalan Tras",
+        "name:en": "Opposite Taman Desa Damai, Tras Road",
+        "name:ms": "Opposite Taman Desa Damai, Jalan Tras",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8916498,
+          3.5717869
+        ]
+      },
+      "id": "node/9751464018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9751464021",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Gelanggang Futsal Kampung RPT Lebu, Lurah Belit",
+        "name:ms": "Gelanggang Futsal Kampung RPT Lebu, Lurah Belit",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9198995,
+          3.5797119
+        ]
+      },
+      "id": "node/9751464021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9751464023",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung RPT Lebu, Lurah Belit",
+        "name:ms": "Kampung RPT Lebu, Lurah Belit",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9217243,
+          3.5773327
+        ]
+      },
+      "id": "node/9751464023"
     }
   ]
 }
