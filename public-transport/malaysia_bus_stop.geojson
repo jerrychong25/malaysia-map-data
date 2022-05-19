@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-05-18T09:58:22Z",
+  "timestamp": "2022-05-19T09:03:53Z",
   "features": [
     {
       "type": "Feature",
@@ -137212,6 +137212,320 @@
         ]
       },
       "id": "node/9751464023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9753719676",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Sekolah Kebangsaan Lebu, Lurah Belit",
+        "name:en": "Opposite Sekolah Kebangsaan Lebu, Lurah Belit",
+        "name:ms": "Opposite Sekolah Kebangsaan Lebu, Lurah Belit",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9263537,
+          3.603464
+        ]
+      },
+      "id": "node/9753719676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9753719677",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Kebangsaan Lebu, Lurah Belit",
+        "name:ms": "Sekolah Kebangsaan Lebu, Lurah Belit",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9265177,
+          3.6036617
+        ]
+      },
+      "id": "node/9753719677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9753719681",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Klinik Desa Kampung Lebu, Lurah Belit",
+        "name:ms": "Klinik Desa Kampung Lebu, Lurah Belit",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9248739,
+          3.6066058
+        ]
+      },
+      "id": "node/9753719681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9753719683",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "GDW Kampung Lebu, Lurah Belit",
+        "name:ms": "GDW Kampung Lebu, Lurah Belit",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9249383,
+          3.6067894
+        ]
+      },
+      "id": "node/9753719683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9753719685",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Keru, Lurah Belit",
+        "name:ms": "Kampung Keru, Lurah Belit",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9042662,
+          3.6113919
+        ]
+      },
+      "id": "node/9753719685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9753719687",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Lurah Bilut, Bentong",
+        "name:ms": "Lurah Bilut, Bentong",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8901735,
+          3.6599857
+        ]
+      },
+      "id": "node/9753719687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9753974331",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Felda Lurah Bilut, Jalan Tras",
+        "name:ms": "Felda Lurah Bilut, Jalan Tras",
+        "operator": "Central Pahang",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8658263,
+          3.7109083
+        ]
+      },
+      "id": "node/9753974331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9753974333",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Wawasan, Jalan Kuala Lumpur - Gua Musang",
+        "name:ms": "Taman Wawasan, Jalan Kuala Lumpur - Gua Musang",
+        "operator": "Central Pahang",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8522927,
+          3.7684335
+        ]
+      },
+      "id": "node/9753974333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9753974335",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Raub Jaya 5, Jalan Kuala Lumpur - Gua Musang",
+        "name:ms": "Taman Raub Jaya 5, Jalan Kuala Lumpur - Gua Musang",
+        "operator": "Central Pahang",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8541743,
+          3.7749402
+        ]
+      },
+      "id": "node/9753974335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9753974337",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Intan, Jalan Kuala Lumpur - Gua Musang",
+        "name:ms": "Taman Intan, Jalan Kuala Lumpur - Gua Musang",
+        "operator": "Central Pahang",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8570623,
+          3.7780559
+        ]
+      },
+      "id": "node/9753974337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9753974339",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Raub Jaya, Jalan Kuala Lumpur - Gua Musang",
+        "name:ms": "Taman Raub Jaya, Jalan Kuala Lumpur - Gua Musang",
+        "operator": "Central Pahang",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8592828,
+          3.7826864
+        ]
+      },
+      "id": "node/9753974339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9753974341",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Terminal Bas Raub",
+        "name:en": "Raub Bus Terminal",
+        "name:ms": "Terminal Bas Raub",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8558355,
+          3.7926069
+        ]
+      },
+      "id": "node/9753974341"
     }
   ]
 }
