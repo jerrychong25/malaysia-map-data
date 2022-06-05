@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-18T09:15:30Z",
+  "timestamp": "2022-06-05T07:59:25Z",
   "features": [
     {
       "type": "Feature",
@@ -92,16 +92,16 @@
               3.1318391
             ],
             [
-              101.6586269,
-              3.1317995
+              101.6586255,
+              3.1317984
             ],
             [
-              101.6587156,
-              3.1317901
+              101.6587154,
+              3.1317903
             ],
             [
-              101.6587203,
-              3.1318321
+              101.6587191,
+              3.1318311
             ],
             [
               101.6586292,
@@ -281,6 +281,52 @@
         ]
       },
       "id": "way/1031964084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1053405206",
+        "bench": "yes",
+        "building": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Stesen MRT Cochrane Pintu A",
+        "network": "420;T352;T400;T401;GREY",
+        "operator": "RapidKL;DBKL",
+        "public_transport": "platform",
+        "ref": "KL892",
+        "shelter": "yes",
+        "shelter_type": "public_transport"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.7226436,
+              3.1333614
+            ],
+            [
+              101.7226347,
+              3.1333291
+            ],
+            [
+              101.7228111,
+              3.1332808
+            ],
+            [
+              101.72282,
+              3.1333131
+            ],
+            [
+              101.7226436,
+              3.1333614
+            ]
+          ]
+        ]
+      },
+      "id": "way/1053405206"
     },
     {
       "type": "Feature",
@@ -519,44 +565,6 @@
         ]
       },
       "id": "node/1748550538"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/1748550632",
-        "bench": "yes",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform",
-        "shelter": "yes"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.7095566,
-          3.1427005
-        ]
-      },
-      "id": "node/1748550632"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/1748550634",
-        "bench": "yes",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform",
-        "shelter": "yes"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.7097674,
-          3.1430168
-        ]
-      },
-      "id": "node/1748550634"
     },
     {
       "type": "Feature",
@@ -1415,8 +1423,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7102299,
-          3.1705383
+          101.7098979,
+          3.1707972
         ]
       },
       "id": "node/2364022016"
@@ -1692,8 +1700,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6980793,
-          3.1674582
+          101.6981389,
+          3.1674017
         ]
       },
       "id": "node/2505580082"
@@ -2532,6 +2540,7 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Kolej Kediaman Pertama",
+        "name:ms": "Kolej Kediaman Pertama",
         "network": "T815",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -2711,7 +2720,10 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Ampang Park",
+        "name:en": "Ampang Park",
         "name:zh": "安邦购物中心",
+        "name:zh-Hans": "安邦购物中心",
+        "name:zh-Hant": "安邦購物中心",
         "public_transport": "platform",
         "ref": "KL91"
       },
@@ -3185,25 +3197,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/4282463791",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name": "Pavilion",
-        "public_transport": "platform",
-        "ref": "KL 83"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.7134227,
-          3.1480017
-        ]
-      },
-      "id": "node/4282463791"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/4282463792",
         "bus": "yes",
         "highway": "bus_stop",
@@ -3546,8 +3539,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7099431,
-          3.1511901
+          101.7101447,
+          3.1514065
         ]
       },
       "id": "node/4535190389"
@@ -4040,8 +4033,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7054536,
-          3.1553249
+          101.7054656,
+          3.1553435
         ]
       },
       "id": "node/4820061623"
@@ -5452,24 +5445,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/5460900622",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name": "KL892 STESEN MRT COCHRANE PINTU A",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.7226684,
-          3.1333114
-        ]
-      },
-      "id": "node/5460900622"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/5460918822",
         "bench": "yes",
         "bin": "yes",
@@ -5515,14 +5490,15 @@
         "@id": "node/5460953622",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "KL371 TMN MALURI (TIMUR)",
-        "public_transport": "platform"
+        "name": "Tmn Maluri (Barat)",
+        "public_transport": "platform",
+        "ref": "KL371"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7320479,
-          3.1286782
+          101.7322383,
+          3.1288791
         ]
       },
       "id": "node/5460953622"
@@ -5569,8 +5545,9 @@
         "@id": "node/5460963521",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "KL377 TMN MALURI (TIMUR)",
-        "public_transport": "platform"
+        "name": "Tmn Maluri (Timur)",
+        "public_transport": "platform",
+        "ref": "KL377"
       },
       "geometry": {
         "type": "Point",
@@ -5825,8 +5802,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7271997,
-          3.1244167
+          101.7271504,
+          3.1244082
         ]
       },
       "id": "node/5484616688"
@@ -6221,6 +6198,8 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "LRT Abdullah Hukum",
+        "name:en": "LRT Abdullah Hukum",
+        "name:ms": "LRT Abdullah Hukum",
         "public_transport": "platform",
         "ref": "KL1113"
       },
@@ -6528,8 +6507,9 @@
         "@id": "node/5521738122",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "KL378 WISMA SISTEM 2",
-        "public_transport": "platform"
+        "name": "Wisma Sistem 2",
+        "public_transport": "platform",
+        "ref": "KL378"
       },
       "geometry": {
         "type": "Point",
@@ -7499,8 +7479,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6650669,
-          3.1184868
+          101.6650366,
+          3.1184926
         ]
       },
       "id": "node/5793555853"
@@ -7519,8 +7499,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6671826,
-          3.1175534
+          101.6671598,
+          3.1175382
         ]
       },
       "id": "node/5793555854"
@@ -8592,8 +8572,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7084453,
-          3.1535042
+          101.7083671,
+          3.1534214
         ]
       },
       "id": "node/6180537406"
@@ -8872,6 +8852,23 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/6860580246",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7056923,
+          3.1728478
+        ]
+      },
+      "id": "node/6860580246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/6876957585",
         "bus": "yes",
         "highway": "bus_stop",
@@ -9097,8 +9094,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7096251,
-          3.1427218
+          101.7095973,
+          3.1427617
         ]
       },
       "id": "node/7108833685"
@@ -13347,8 +13344,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7065133,
-          3.1550264
+          101.7064813,
+          3.1550025
         ]
       },
       "id": "node/7537317502"
@@ -13369,8 +13366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7004167,
-          3.1593529
+          101.7004323,
+          3.1594233
         ]
       },
       "id": "node/7537317503"
@@ -14729,7 +14726,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.711548,
+          101.7115313,
           3.0646095
         ]
       },
@@ -15142,6 +15139,7 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Fakulti Undang-Undang, UM",
+        "name:ms": "Fakulti Undang-Undang, UM",
         "network": "T815",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -15164,6 +15162,7 @@
         "departures_board": "no",
         "highway": "bus_stop",
         "name": "Jabatan Kejuruteraan Bioperubatan, UM",
+        "name:ms": "Jabatan Kejuruteraan Bioperubatan, UM",
         "network": "T815;T789",
         "old_name": "Fakulti Kejuruteraan (Utara)",
         "operator": "RapidKL",
@@ -20991,23 +20990,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/9508388056",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.7092277,
-          3.1428507
-        ]
-      },
-      "id": "node/9508388056"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/9509560789",
         "bench": "no",
         "bin": "yes",
@@ -22213,6 +22195,7 @@
       "properties": {
         "@id": "node/9537216589",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "name": "Bayview Court",
         "passenger_information_display": "yes",
@@ -22256,6 +22239,7 @@
       "properties": {
         "@id": "node/9537216598",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "name": "Pinang 1A Sri Sentosa (Barat)",
         "passenger_information_display": "yes",
@@ -25730,6 +25714,98 @@
         ]
       },
       "id": "node/9587314135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9646222648",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7079598,
+          3.0629017
+        ]
+      },
+      "id": "node/9646222648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9670853988",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Hab Pantai Hillpark",
+        "network": "T789;T791;821",
+        "public_transport": "platform",
+        "ref": "KL1412"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6672971,
+          3.1026213
+        ]
+      },
+      "id": "node/9670853988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9680764348",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7222435,
+          3.1299872
+        ]
+      },
+      "id": "node/9680764348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9748325711",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Arrêt de bus lfkl",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6550873,
+          3.1793319
+        ]
+      },
+      "id": "node/9748325711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774145272",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Stesen MRT/KTM Kampung Batu",
+        "network": "MAROON",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.675877,
+          3.2054875
+        ]
+      },
+      "id": "node/9774145272"
     }
   ]
 }
