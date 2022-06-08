@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-06-05T07:59:25Z",
+  "timestamp": "2022-06-08T15:30:43Z",
   "features": [
     {
       "type": "Feature",
@@ -159,6 +159,7 @@
         "highway": "bus_stop",
         "layer": "1",
         "name": "Perpustakaan UM",
+        "name:ms": "Perpustakaan UM",
         "network": "T815",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -2038,6 +2039,35 @@
         ]
       },
       "id": "node/3336036076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3440282000",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "PPUM (Utara), Jalan Universiti",
+        "name:en": "PPUM (Utara), University Road",
+        "name:ms": "PPUM (Utara), Jalan Universiti",
+        "operator": "RapidKL, PJ City Bus, Causeway Link, Wawasan Sutera",
+        "public_transport": "platform",
+        "ref": "PJ249",
+        "route_ref": "780",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6515714,
+          3.1130275
+        ]
+      },
+      "id": "node/3440282000"
     },
     {
       "type": "Feature",
@@ -4138,13 +4168,19 @@
       "properties": {
         "@id": "node/4898439097",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Jalan Lebuh Persekutuan",
+        "name": "PPUM (Selatan), Persekutuan Highway",
+        "name:ms": "PPUM (Selatan), Persekutuan Highway",
+        "operator": "Causeway Link, Wawasan Sutera",
         "passenger_information_display": "yes",
         "public_transport": "platform",
+        "ref": "PJ471",
         "route_ref": "780",
-        "shelter": "yes"
+        "shelter": "yes",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -7946,11 +7982,11 @@
         "@id": "node/6126053388",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Pusat Asasi Sains",
+        "name": "Pusat Asasi Sains (Dari Stn)",
+        "name:ms": "Pusat Asasi Sains (Dari Stn)",
         "network": "T789",
         "operator": "RapidKL",
         "public_transport": "platform",
-        "ref": "KL1108",
         "shelter": "yes"
       },
       "geometry": {
@@ -14551,6 +14587,27 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/7975702085",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perpustakaan UM",
+        "name:ms": "Perpustakaan UM",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "KL1109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6536003,
+          3.1210503
+        ]
+      },
+      "id": "node/7975702085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/7996643008",
         "bus": "yes",
         "highway": "bus_stop",
@@ -14909,7 +14966,8 @@
         "bus": "yes",
         "departures_board": "timetable",
         "highway": "bus_stop",
-        "name": "Kolej Kediaman Ke Lima",
+        "name": "Kolej Kediaman Kelima",
+        "name:ms": "Kolej Kediaman Kelima",
         "network": "T815",
         "old_ref": "PJ2343",
         "operator": "RapidKL",
@@ -14934,6 +14992,7 @@
         "departures_board": "timetable",
         "highway": "bus_stop",
         "name": "Pusat Sukan UM",
+        "name:ms": "Pusat Sukan UM",
         "network": "T815",
         "old_ref": "PJ2344",
         "operator": "RapidKL",
@@ -14973,7 +15032,8 @@
         "@id": "node/9196355752",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Kolej Kediaman Ke Sepuluh",
+        "name": "Kolej Kediaman Kesepuluh",
+        "name:ms": "Kolej Kediaman Kesepuluh",
         "network": "T815",
         "old_ref": "PJ2345",
         "operator": "RapidKL",
@@ -15012,15 +15072,17 @@
         "@id": "node/9196355789",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Dewan Tunku Canselor, UM",
+        "name": "Dewan Tunku Canselor UM",
+        "name:ms": "Dewan Tunku Canselor UM",
+        "operator": "RapidKL",
         "public_transport": "platform",
         "ref": "KL1107"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.657161,
-          3.1218828
+          101.6571663,
+          3.1218723
         ]
       },
       "id": "node/9196355789"
@@ -15033,6 +15095,7 @@
         "departures_board": "timetable",
         "highway": "bus_stop",
         "name": "Institut Pengajian Siswazah",
+        "name:ms": "Institut Pengajian Siswazah",
         "network": "T815",
         "old_ref": "PJ2342",
         "operator": "RapidKL",
@@ -15056,6 +15119,7 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Fakulti Perniagaan dan Perakaunan",
+        "name:ms": "Fakulti Perniagaan dan Perakaunan",
         "network": "T815",
         "operator": "RapidKL",
         "public_transport": "platform"
@@ -15063,8 +15127,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6541931,
-          3.1183681
+          101.6541855,
+          3.1183635
         ]
       },
       "id": "node/9197001767"
@@ -15076,6 +15140,7 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Fakulti Sains Komputer",
+        "name:ms": "Fakulti Sains Komputer",
         "network": "T815",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -15097,6 +15162,7 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Fakulti Pengajian Melayu",
+        "name:ms": "Fakulti Pengajian Melayu",
         "network": "T815",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -15117,7 +15183,8 @@
         "@id": "node/9197001786",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Kolej Kediaman Ke Empat",
+        "name": "Kolej Kediaman Keempat",
+        "name:ms": "Kolej Kediaman Keempat",
         "network": "T815",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -15138,8 +15205,8 @@
         "@id": "node/9197001787",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Fakulti Undang-Undang, UM",
-        "name:ms": "Fakulti Undang-Undang, UM",
+        "name": "Fakulti Undang-Undang UM",
+        "name:ms": "Fakulti Undang-Undang UM",
         "network": "T815",
         "operator": "RapidKL",
         "public_transport": "platform",
@@ -15161,8 +15228,8 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Jabatan Kejuruteraan Bioperubatan, UM",
-        "name:ms": "Jabatan Kejuruteraan Bioperubatan, UM",
+        "name": "Jabatan Kejuruteraan Bioperubatan UM",
+        "name:ms": "Jabatan Kejuruteraan Bioperubatan UM",
         "network": "T815;T789",
         "old_name": "Fakulti Kejuruteraan (Utara)",
         "operator": "RapidKL",
@@ -15173,8 +15240,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6556468,
-          3.1190411
+          101.6556792,
+          3.1190565
         ]
       },
       "id": "node/9197001788"
@@ -15220,6 +15287,7 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Fakulti Kejuruteraan (Barat)",
+        "name:ms": "Fakulti Kejuruteraan (Barat)",
         "public_transport": "platform",
         "ref": "KL1105"
       },
@@ -18954,8 +19022,8 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Utar Pintu 2",
-        "name:ms": "Utar Pintu 2",
+        "name": "TARUMT Pintu 2",
+        "name:ms": "TARUMT Pintu 2",
         "operator": "RapidKL",
         "public_transport": "platform",
         "shelter": "no",
@@ -18980,8 +19048,8 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Utar Pintu 4 (Opp)",
-        "name:ms": "Utar Pintu 4 (Opp)",
+        "name": "TARUMT Pintu 4 (Opp)",
+        "name:ms": "TARUMT Pintu 4 (Opp)",
         "operator": "RapidKL",
         "public_transport": "platform",
         "shelter": "no",
@@ -19006,8 +19074,8 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Utar Pintu 4",
-        "name:ms": "Utar Pintu 4",
+        "name": "TARUMT Pintu 4",
+        "name:ms": "TARUMT Pintu 4",
         "operator": "RapidKL",
         "public_transport": "platform",
         "shelter": "no",
@@ -19032,8 +19100,8 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Utar Main Gate (Opp)",
-        "name:ms": "Utar Main Gate (Opp)",
+        "name": "TARUMT Main Gate (Opp)",
+        "name:en": "TARUMT Main Gate (Opp)",
         "operator": "RapidKL",
         "public_transport": "platform",
         "ref": "KL163",
@@ -19113,8 +19181,8 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Utar Main Gate",
-        "name:ms": "Utar Main Gate",
+        "name": "TARUMT Main Gate",
+        "name:en": "TARUMT Main Gate",
         "operator": "RapidKL",
         "public_transport": "platform",
         "ref": "KL162",
