@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-05-07T08:57:39Z",
+  "timestamp": "2022-06-08T15:34:51Z",
   "features": [
     {
       "type": "Feature",
@@ -3681,11 +3681,20 @@
       "properties": {
         "@id": "node/2083111539",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "realtime",
         "highway": "bus_stop",
+        "name": "PPUM Federal",
+        "name:en": "PPUM Federal",
+        "name:ms": "PPUM Federal",
+        "operator": "RapidKL, Wawasan Sutera, Seranas",
         "passenger_information_display": "no",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "PJ597",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -5223,6 +5232,8 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "INTAN",
+        "name:en": "INTAN",
+        "name:ms": "INTAN",
         "public_transport": "platform"
       },
       "geometry": {
@@ -5233,25 +5244,6 @@
         ]
       },
       "id": "node/3440281999"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/3440282000",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name": "PPUM",
-        "public_transport": "platform",
-        "route_ref": "780"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.6515245,
-          3.1128936
-        ]
-      },
-      "id": "node/3440282000"
     },
     {
       "type": "Feature",
@@ -7065,6 +7057,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4836459272",
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
@@ -10178,16 +10171,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5765396053",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "PJ01 JALAN UNIVERSITY",
-        "public_transport": "platform"
+        "name": "PPUM Main Gate",
+        "name:en": "PPUM Main Gate",
+        "operator": "RapidKL, PJ City Bus",
+        "public_transport": "platform",
+        "ref": "PJ248",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6510697,
-          3.114298
+          101.6510432,
+          3.1143157
         ]
       },
       "id": "node/5765396053"
@@ -17250,6 +17252,7 @@
       "properties": {
         "@id": "node/7746234465",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
         "shelter": "yes"
@@ -22674,6 +22677,7 @@
       "properties": {
         "@id": "node/8167529472",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
         "shelter": "yes"
@@ -23198,6 +23202,7 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Bunga Raya Apartment",
+        "name:en": "Bunga Raya Apartment",
         "public_transport": "platform",
         "ref": "AJ160",
         "route_ref": "301;420;T305;T351",
@@ -23235,8 +23240,30 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/8263518065",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "T305",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7603734,
+          3.130414
+        ]
+      },
+      "id": "node/8263518065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/8263518066",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "passenger_information_display": "yes",
         "public_transport": "platform",
@@ -23323,6 +23350,7 @@
       "properties": {
         "@id": "node/8289287938",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
         "shelter": "yes"
@@ -23859,6 +23887,7 @@
       "properties": {
         "@id": "node/8668126878",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
         "shelter": "yes"
@@ -23877,6 +23906,7 @@
       "properties": {
         "@id": "node/8668126879",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
         "shelter": "yes"
@@ -24547,6 +24577,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8971962298",
+        "bus": "yes",
         "highway": "bus_stop",
         "passenger_information_display": "yes",
         "public_transport": "platform"
@@ -24807,6 +24838,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9122427674",
+        "bus": "yes",
         "highway": "bus_stop",
         "passenger_information_display": "yes",
         "public_transport": "platform"
@@ -24825,6 +24857,7 @@
       "properties": {
         "@id": "node/9122427675",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "name": "Mah Sing Park (Timur)",
         "note": "name missing a word",
@@ -24848,6 +24881,7 @@
       "properties": {
         "@id": "node/9122427676",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "name": "Mah Sing Park (Barat)",
         "note": "name missing a word",
@@ -24869,6 +24903,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9122427683",
+        "bus": "yes",
         "highway": "bus_stop",
         "passenger_information_display": "yes",
         "public_transport": "platform"
@@ -24887,6 +24922,7 @@
       "properties": {
         "@id": "node/9122427684",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "passenger_information_display": "yes",
         "public_transport": "platform",
@@ -50076,6 +50112,144 @@
         ]
       },
       "id": "node/9722145581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9759264092",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "420",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.742986,
+          3.1419155
+        ]
+      },
+      "id": "node/9759264092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9796437567",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.505282,
+          3.22101
+        ]
+      },
+      "id": "node/9796437567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9802992553",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.44756,
+          3.2393668
+        ]
+      },
+      "id": "node/9802992553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9804194872",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Menara Universiti, Jalan Bukit 11/2",
+        "name:ms": "Menara Universiti, Jalan Bukit 11/2",
+        "operator": "RapidKL, PJ City Bus, Causeway Link, Wawasan Sutera",
+        "public_transport": "platform",
+        "ref": "PJ251",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6503336,
+          3.1135079
+        ]
+      },
+      "id": "node/9804194872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9804194874",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "PPUM",
+        "name:en": "PPUM",
+        "name:ms": "PPUM",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "ref": "PJ258",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6507705,
+          3.1143855
+        ]
+      },
+      "id": "node/9804194874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9804194876",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Mahsa University (Timur)",
+        "name:en": "Mahsa University (East)",
+        "name:ms": "Mahsa University (Timur)",
+        "operator": "RapidKL, PJ City Bus",
+        "public_transport": "platform",
+        "ref": "PJ247",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6497149,
+          3.1170839
+        ]
+      },
+      "id": "node/9804194876"
     }
   ]
 }
