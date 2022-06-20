@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-06-08T15:30:43Z",
+  "timestamp": "2022-06-20T12:36:38Z",
   "features": [
     {
       "type": "Feature",
@@ -3223,6 +3223,25 @@
         ]
       },
       "id": "node/4282431892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4282463791",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pavilion",
+        "public_transport": "platform",
+        "ref": "KL 83"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7134227,
+          3.1480017
+        ]
+      },
+      "id": "node/4282463791"
     },
     {
       "type": "Feature",
@@ -17113,6 +17132,9 @@
         "name": "Wisma TNB Kepong (Timur), Jalan Kepong",
         "name:en": "Wisma TNB Kepong (North), Kepong Road",
         "name:ms": "Wisma TNB Kepong (Timur), Jalan Kepong",
+        "name:zh": "甲洞路甲洞北国能大厦",
+        "name:zh-Hans": "甲洞路甲洞北国能大厦",
+        "name:zh-Hant": "甲洞路甲洞北國能大廈",
         "operator": "Selangor Omnibus",
         "public_transport": "platform",
         "ref": "KL475",
@@ -25860,20 +25882,368 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9774145272",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Stesen MRT/KTM Kampung Batu",
-        "network": "MAROON",
-        "public_transport": "platform"
+        "name": "MRT Kg Batu",
+        "name:en": "MRT Kg Batu",
+        "name:ms": "MRT Kg Batu",
+        "network": "GoKL Maroon Line",
+        "operator": "RapidKL, GoKL",
+        "public_transport": "platform",
+        "ref": "KL594",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.675877,
-          3.2054875
+          101.6758054,
+          3.2054036
         ]
       },
       "id": "node/9774145272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9833277290",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Raja Abdullah (Opp)",
+        "name:ms": "SMK Raja Abdullah (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.667626,
+          3.2022295
+        ]
+      },
+      "id": "node/9833277290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9833277292",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Raja Abdullah",
+        "name:ms": "SMK Raja Abdullah",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6673777,
+          3.2019575
+        ]
+      },
+      "id": "node/9833277292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9833277294",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Surau Mahmudiah Tmn Sri Delima",
+        "name:ms": "Surau Mahmudiah Tmn Sri Delima",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6670365,
+          3.2004245
+        ]
+      },
+      "id": "node/9833277294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9833277296",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Pusat Kepong (Selatan)",
+        "name:ms": "Taman Pusat Kepong (Selatan)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6586682,
+          3.2002236
+        ]
+      },
+      "id": "node/9833277296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9833287683",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Pusat Kepong (Utara)",
+        "name:ms": "Taman Pusat Kepong (Utara)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6552169,
+          3.2031156
+        ]
+      },
+      "id": "node/9833287683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9833287685",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Depoh Bas MRT Jinjang",
+        "name:ms": "Depoh Bas MRT Jinjang",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.656704,
+          3.2057402
+        ]
+      },
+      "id": "node/9833287685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9833287687",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "MRT Jinjang Pintu B",
+        "name:ms": "MRT Jinjang Pintu B",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6559158,
+          3.2086119
+        ]
+      },
+      "id": "node/9833287687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9833391162",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "MRT Kepong Baru Pintu B",
+        "name:en": "MRT Kepong Baru Pintu B",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6480637,
+          3.2106127
+        ]
+      },
+      "id": "node/9833391162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9833391164",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "TSI Business Industrial Park",
+        "name:en": "TSI Business Industrial Park",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.650886,
+          3.2054002
+        ]
+      },
+      "id": "node/9833391164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9833391166",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kaw. Perusahaan Kepong",
+        "name:ms": "Kaw. Perusahaan Kepong",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6523023,
+          3.2032464
+        ]
+      },
+      "id": "node/9833391166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9833391168",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Pusat Kepong",
+        "name:ms": "Taman Pusat Kepong",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6550521,
+          3.2012296
+        ]
+      },
+      "id": "node/9833391168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9833391170",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Sri Segambut",
+        "name:ms": "Taman Sri Segambut",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6552057,
+          3.1994315
+        ]
+      },
+      "id": "node/9833391170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9833391172",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SRA Al-Qurtubi (Opp)",
+        "name:ms": "SRA Al-Qurtubi (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6592204,
+          3.194714
+        ]
+      },
+      "id": "node/9833391172"
     }
   ]
 }
