@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-06-20T12:40:39Z",
+  "timestamp": "2022-06-21T15:46:50Z",
   "features": [
     {
       "type": "Feature",
@@ -47063,6 +47063,9 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Perumahan Jln Antoi Kiri 1",
+        "name:ms": "Perumahan Jln Antoi Kiri 1",
+        "operator": "RapidKL",
         "public_transport": "platform",
         "shelter": "yes",
         "tactile_paving": "no",
@@ -47086,6 +47089,9 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Perumahan Jln Api Api",
+        "name:ms": "Perumahan Jln Api Api",
+        "operator": "RapidKL",
         "public_transport": "platform",
         "shelter": "yes",
         "tactile_paving": "no",
@@ -47094,8 +47100,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6437762,
-          3.2061615
+          101.6437919,
+          3.2062097
         ]
       },
       "id": "node/5997196832"
@@ -63854,24 +63860,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7273838187",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name": "Opposite Klinik Kesihatan Tampoi",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.7076825,
-          1.4927318
-        ]
-      },
-      "id": "node/7273838187"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/7273840385",
         "bus": "yes",
         "highway": "bus_stop",
@@ -80223,6 +80211,7 @@
       "properties": {
         "@id": "node/7741089342",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "name": "Masjid Besar Batu 9",
         "passenger_information_display": "yes",
@@ -80575,6 +80564,7 @@
       "properties": {
         "@id": "node/7746220453",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "passenger_information_display": "no",
         "public_transport": "platform",
@@ -106522,9 +106512,6 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Masjid Lackam An- Nur Kampar, Kampar",
-        "name:en": "Lackam An- Nur Kampar Mosque, Kampar",
-        "name:ms": "Masjid Lackam An- Nur Kampar, Kampar",
         "public_transport": "platform",
         "shelter": "yes",
         "tactile_paving": "no",
@@ -106533,8 +106520,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.1568112,
-          4.3036876
+          101.1568461,
+          4.3036849
         ]
       },
       "id": "node/9482909254"
@@ -147511,6 +147498,1520 @@
         ]
       },
       "id": "node/9833391172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835106895",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pangsapuri Mutiara Magna",
+        "name:ms": "Pangsapuri Mutiara Magna",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6401321,
+          3.2112001
+        ]
+      },
+      "id": "node/9835106895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835106897",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Jln Bidara",
+        "name:ms": "Perumahan Jln Bidara",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6432672,
+          3.2042592
+        ]
+      },
+      "id": "node/9835106897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835106899",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Pers Mergastua",
+        "name:ms": "Perumahan Pers Mergastua",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.643717,
+          3.2036656
+        ]
+      },
+      "id": "node/9835106899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835111219",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Jln Api Kiri 1",
+        "name:ms": "Perumahan Jln Api Kiri 1",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6451917,
+          3.2076978
+        ]
+      },
+      "id": "node/9835111219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835111221",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Jln Antoi Kiri",
+        "name:ms": "Perumahan Jln Antoi Kiri",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6450371,
+          3.2077633
+        ]
+      },
+      "id": "node/9835111221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835111223",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kepong B.C",
+        "name:ms": "Kepong B.C",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6403601,
+          3.2078075
+        ]
+      },
+      "id": "node/9835111223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835141001",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Jln Bangau",
+        "name:ms": "Perumahan Jln Bangau",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6428508,
+          3.201899
+        ]
+      },
+      "id": "node/9835141001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835141003",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Jln Beberek",
+        "name:ms": "Perumahan Jln Beberek",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6427923,
+          3.2020238
+        ]
+      },
+      "id": "node/9835141003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835141005",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Persimpangan Jln Bubut",
+        "name:ms": "Persimpangan Jln Bubut",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6417943,
+          3.200467
+        ]
+      },
+      "id": "node/9835141005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835141007",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Jln Helang (Barat)",
+        "name:ms": "Perumahan Jln Helang (Barat)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6421086,
+          3.1999605
+        ]
+      },
+      "id": "node/9835141007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835146004",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Persimpangan Jln Pelanduk",
+        "name:ms": "Persimpangan Jln Pelanduk",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6446152,
+          3.1985302
+        ]
+      },
+      "id": "node/9835146004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835146006",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Jln Helang (Timur)",
+        "name:ms": "Perumahan Jln Helang (Timur)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6447221,
+          3.1983452
+        ]
+      },
+      "id": "node/9835146006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835146008",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kaw. Industri Kepong Baru",
+        "name:ms": "Kaw. Industri Kepong Baru",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6441382,
+          3.1953106
+        ]
+      },
+      "id": "node/9835146008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835146011",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Jln Helang Belalang",
+        "name:ms": "Komersial Jln Helang Belalang",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6440974,
+          3.1947993
+        ]
+      },
+      "id": "node/9835146011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835162957",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kondominium Mulberi",
+        "name:ms": "Kondominium Mulberi",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6497281,
+          3.1913646
+        ]
+      },
+      "id": "node/9835162957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835162959",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "S.K Taman Sri Sinar",
+        "name:ms": "S.K Taman Sri Sinar",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6550193,
+          3.1883421
+        ]
+      },
+      "id": "node/9835162959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835162961",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pangsapuri Angsa",
+        "name:ms": "Pangsapuri Angsa",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6535198,
+          3.1869079
+        ]
+      },
+      "id": "node/9835162961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835614516",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Balai Polis Segambut",
+        "name:en": "Segambut Police Station",
+        "name:ms": "Balai Polis Segambut",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.651782,
+          3.1865034
+        ]
+      },
+      "id": "node/9835614516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835669718",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Sri Sinar (Barat)",
+        "name:ms": "Taman Sri Sinar (Barat)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6500997,
+          3.187629
+        ]
+      },
+      "id": "node/9835669718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835669720",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "S.K Seri Kepong",
+        "name:ms": "S.K Seri Kepong",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6471627,
+          3.1891371
+        ]
+      },
+      "id": "node/9835669720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835669722",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Kepong Baru Tambahan",
+        "name:ms": "Taman Kepong Baru Tambahan",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6446884,
+          3.1902419
+        ]
+      },
+      "id": "node/9835669722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835669724",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Kepong Baru Tambahan",
+        "name:ms": "Komersial Kepong Baru Tambahan",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6447072,
+          3.1922636
+        ]
+      },
+      "id": "node/9835669724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835763234",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Menjalara 62B",
+        "name:ms": "Perumahan Menjalara 62B",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6386957,
+          3.1918799
+        ]
+      },
+      "id": "node/9835763234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835763236",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "TM Kepong Menjalara",
+        "name:ms": "TM Kepong Menjalara",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.635102,
+          3.1913356
+        ]
+      },
+      "id": "node/9835763236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835763238",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Villa Manja",
+        "name:ms": "Villa Manja",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.631564,
+          3.1905182
+        ]
+      },
+      "id": "node/9835763238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835763240",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Menara Menjalara",
+        "name:ms": "Menara Menjalara",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6277533,
+          3.1904448
+        ]
+      },
+      "id": "node/9835763240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835784185",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Menjalara",
+        "name:ms": "SK Menjalara",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6381787,
+          3.1948212
+        ]
+      },
+      "id": "node/9835784185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835784187",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Wisma Caritas",
+        "name:ms": "Wisma Caritas",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6414427,
+          3.2040755
+        ]
+      },
+      "id": "node/9835784187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835784189",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "KTM Kepong",
+        "name:en": "KTM Kepong",
+        "name:ms": "KTM Kepong",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6383533,
+          3.2030566
+        ]
+      },
+      "id": "node/9835784189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835784191",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perindustrian Taman Kepong",
+        "name:ms": "Perindustrian Taman Kepong",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6359136,
+          3.2054654
+        ]
+      },
+      "id": "node/9835784191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835784193",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pemadam Kaw. Parlimen Kepong",
+        "name:ms": "Pemadam Kaw. Parlimen Kepong",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6339104,
+          3.2081677
+        ]
+      },
+      "id": "node/9835784193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9835784199",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Kepong Garden",
+        "name:ms": "Perumahan Kepong Garden",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6327517,
+          3.2097251
+        ]
+      },
+      "id": "node/9835784199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836342463",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pusat Komuniti Menjalara",
+        "name:ms": "Pusat Komuniti Menjalara",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6261665,
+          3.1930237
+        ]
+      },
+      "id": "node/9836342463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836342465",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Menjalara 62 & 62C",
+        "name:ms": "Perumahan Menjalara 62 & 62C",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6227993,
+          3.1929195
+        ]
+      },
+      "id": "node/9836342465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836342467",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perumahan Menjalara 62&62C (Opp)",
+        "name:ms": "Perumahan Menjalara 62&62C (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6230942,
+          3.1930532
+        ]
+      },
+      "id": "node/9836342467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836342470",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Menjalara (Utara)",
+        "name:ms": "Taman Menjalara (Utara)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6263255,
+          3.1956252
+        ]
+      },
+      "id": "node/9836342470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836342472",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sek. Men. Agama K.L",
+        "name:ms": "Sek. Men. Agama K.L",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6268039,
+          3.1961164
+        ]
+      },
+      "id": "node/9836342472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836355882",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Levenue",
+        "name:en": "Levenue",
+        "name:ms": "Levenue",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6238281,
+          3.1879872
+        ]
+      },
+      "id": "node/9836355882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836355884",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Levenue (Opp)",
+        "name:en": "Levenue (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6239313,
+          3.1878159
+        ]
+      },
+      "id": "node/9836355884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836355886",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Adora Parkcity",
+        "name:en": "Adora Parkcity",
+        "name:ms": "Adora Parkcity",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6249546,
+          3.1863276
+        ]
+      },
+      "id": "node/9836355886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836355888",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "The Westside Condo",
+        "name:en": "The Westside Condo",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.624637,
+          3.1841728
+        ]
+      },
+      "id": "node/9836355888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836425188",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kaw. Pusat Bandar Manjalara",
+        "name:ms": "Kaw. Pusat Bandar Manjalara",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6296887,
+          3.1955649
+        ]
+      },
+      "id": "node/9836425188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836425190",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Wisma Fiamma",
+        "name:ms": "Wisma Fiamma",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6339559,
+          3.1947479
+        ]
+      },
+      "id": "node/9836425190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836425192",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kepong Village Mall",
+        "name:ms": "Kepong Village Mall",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6327517,
+          3.1923673
+        ]
+      },
+      "id": "node/9836425192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836425194",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kaw. Pusat Bandar Manjalara Jln 11",
+        "name:ms": "Kaw. Pusat Bandar Manjalara Jln 11",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6322549,
+          3.1938721
+        ]
+      },
+      "id": "node/9836425194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836437063",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Waterfront Parkcity",
+        "name:en": "Waterfront Parkcity",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6273279,
+          3.1878323
+        ]
+      },
+      "id": "node/9836437063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836437065",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Nadia Parkfront",
+        "name:en": "Nadia Parkfront",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6315561,
+          3.187882
+        ]
+      },
+      "id": "node/9836437065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836437067",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Southlake Terrace",
+        "name:en": "Southlake Terrace",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6290041,
+          3.1850394
+        ]
+      },
+      "id": "node/9836437067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836437069",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Zenia Parkhome",
+        "name:en": "Zenia Parkhome",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6270494,
+          3.1857478
+        ]
+      },
+      "id": "node/9836437069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836451810",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Usahawan Kepong",
+        "name:ms": "Taman Usahawan Kepong",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6429289,
+          3.2178532
+        ]
+      },
+      "id": "node/9836451810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836451812",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Residensi Fortune Perdana",
+        "name:ms": "Residensi Fortune Perdana",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6431371,
+          3.2177603
+        ]
+      },
+      "id": "node/9836451812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836451814",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Residensi Kepongmas (Opp)",
+        "name:en": "Residensi Kepongmas (Opp)",
+        "name:ms": "Residensi Kepongmas (Opp)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6407757,
+          3.2203661
+        ]
+      },
+      "id": "node/9836451814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836451816",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Residensi Kepongmas",
+        "name:en": "Residensi Kepongmas",
+        "name:ms": "Residensi Kepongmas",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6409345,
+          3.220538
+        ]
+      },
+      "id": "node/9836451816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836458082",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Plaza Arkadia (Entrance a)",
+        "name:en": "Plaza Arkadia (Entrance a)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6362239,
+          3.18599
+        ]
+      },
+      "id": "node/9836458082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836458084",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Plaza Arkadia (Outdoor Park)",
+        "name:en": "Plaza Arkadia (Outdoor Park)",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6343991,
+          3.1871622
+        ]
+      },
+      "id": "node/9836458084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836458086",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "PPR Pekan Kepong Blok B",
+        "name:ms": "PPR Pekan Kepong Blok B",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6369257,
+          3.2154475
+        ]
+      },
+      "id": "node/9836458086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836458088",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "PPR Pekan Kepong Blok C",
+        "name:ms": "PPR Pekan Kepong Blok C",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6379436,
+          3.2177196
+        ]
+      },
+      "id": "node/9836458088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836458090",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sri Edaran Industrial Park",
+        "name:en": "Sri Edaran Industrial Park",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6408081,
+          3.2183901
+        ]
+      },
+      "id": "node/9836458090"
     }
   ]
 }
