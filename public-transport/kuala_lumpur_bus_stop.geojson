@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-06-21T15:45:46Z",
+  "timestamp": "2022-06-22T04:06:09Z",
   "features": [
     {
       "type": "Feature",
@@ -27764,6 +27764,84 @@
         ]
       },
       "id": "node/9836458090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9837606421",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Permainan Metro Perdana",
+        "name:ms": "Taman Permainan Metro Perdana",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6461323,
+          3.2147022
+        ]
+      },
+      "id": "node/9837606421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9837606423",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kawasan Perusahaan Metro Perdana",
+        "name:ms": "Kawasan Perusahaan Metro Perdana",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6479805,
+          3.2167582
+        ]
+      },
+      "id": "node/9837606423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9837606425",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komersial Metro Perdana",
+        "name:ms": "Komersial Metro Perdana",
+        "operator": "RapidKL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6466832,
+          3.2182696
+        ]
+      },
+      "id": "node/9837606425"
     }
   ]
 }
