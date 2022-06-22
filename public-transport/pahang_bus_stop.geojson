@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-05-19T09:00:54Z",
+  "timestamp": "2022-06-22T04:07:05Z",
   "features": [
     {
       "type": "Feature",
@@ -187,10 +187,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4059873501",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Central Pahang Ekspress Bus Terminal",
-        "public_transport": "platform"
+        "name": "Terminal Bas Express Raub",
+        "name:en": "Central Pahang Ekspress Bus Terminal",
+        "name:ms": "Terminal Bas Express Raub",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -1410,6 +1419,7 @@
         "@id": "node/8068943250",
         "bench": "yes",
         "bin": "no",
+        "bus": "yes",
         "covered": "yes",
         "highway": "bus_stop",
         "passenger_information_display": "no",
@@ -1432,6 +1442,7 @@
         "@id": "node/8068953672",
         "bench": "yes",
         "bin": "no",
+        "bus": "yes",
         "covered": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
@@ -1475,6 +1486,7 @@
         "@id": "node/8068966076",
         "bench": "yes",
         "bin": "no",
+        "bus": "yes",
         "covered": "yes",
         "highway": "bus_stop",
         "passenger_information_display": "no",
@@ -1565,6 +1577,7 @@
         "@id": "node/8069135450",
         "bench": "yes",
         "bin": "no",
+        "bus": "yes",
         "covered": "yes",
         "highway": "bus_stop",
         "passenger_information_display": "no",
@@ -3918,6 +3931,266 @@
         ]
       },
       "id": "node/9753974341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9837552445",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bandar Raub Perdana, Jalan Lipis",
+        "name:ms": "Bandar Raub Perdana, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8620193,
+          3.7974261
+        ]
+      },
+      "id": "node/9837552445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9837552447",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pejabar Renjer Hutan, Jalan Lipis",
+        "name:ms": "Pejabar Renjer Hutan, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8653348,
+          3.7990026
+        ]
+      },
+      "id": "node/9837552447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9837552449",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "TF Value Mart, Jalan Lipis",
+        "name:ms": "TF Value Mart, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8700047,
+          3.8034961
+        ]
+      },
+      "id": "node/9837552449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9837552451",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite TF Value Mart Raub",
+        "name:en": "Opposite TF Value Mart Raub",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8704223,
+          3.8035364
+        ]
+      },
+      "id": "node/9837552451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9837601737",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Amalin, Jalan Lipis",
+        "name:ms": "Taman Amalin, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8747875,
+          3.8053631
+        ]
+      },
+      "id": "node/9837601737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9837601739",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Baharu Sempalit Hilir, Jalan Lipis",
+        "name:ms": "Kampung Baharu Sempalit Hilir, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8754347,
+          3.8053131
+        ]
+      },
+      "id": "node/9837601739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9837601741",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Kebangsaan Methodist, Jalan Cheroh - Batu Malim",
+        "name:ms": "Sekolah Kebangsaan Methodist, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8490498,
+          3.7989854
+        ]
+      },
+      "id": "node/9837601741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9837601744",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Kebangsaan Mahmud, Jalan Cheroh - Batu Malim",
+        "name:ms": "Sekolah Kebangsaan Mahmud, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8487355,
+          3.7999334
+        ]
+      },
+      "id": "node/9837601744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9837601747",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Sekolah Menengah Kebangsaan Dato Shahbandar Hussain, Jalan Charoh - Batu Malim",
+        "name:ms": "Opposite Sekolah Menengah Kebangsaan Dato Shahbandar Hussain, Jalan Charoh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.848593,
+          3.8015829
+        ]
+      },
+      "id": "node/9837601747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9837601749",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Menengah Kebangsaan Dato Shahbandar Hussain, Jalan Charoh - Batu Malim",
+        "name:ms": "Sekolah Menengah Kebangsaan Dato Shahbandar Hussain, Jalan Charoh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8487457,
+          3.802304
+        ]
+      },
+      "id": "node/9837601749"
     }
   ]
 }
