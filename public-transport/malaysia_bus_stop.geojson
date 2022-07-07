@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-06-22T04:11:09Z",
+  "timestamp": "2022-07-07T06:57:24Z",
   "features": [
     {
       "type": "Feature",
@@ -4313,10 +4313,16 @@
       "type": "Feature",
       "properties": {
         "@id": "way/995934921",
+        "bench": "yes",
+        "bin": "yes",
         "building": "service",
         "bus": "yes",
+        "departures_board": "timetable",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Raja Dr Nazrin Shah RC (KK12)",
+        "operator": "Universiti Malaya",
+        "public_transport": "platform",
+        "route_ref": "AB"
       },
       "geometry": {
         "type": "Polygon",
@@ -4896,6 +4902,23 @@
         ]
       },
       "id": "node/478561933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/618799611",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0830586,
+          5.9681299
+        ]
+      },
+      "id": "node/618799611"
     },
     {
       "type": "Feature",
@@ -9012,13 +9035,14 @@
         "@id": "node/1731695224",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Jalan Gurdwara",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.3281378,
-          5.411532
+          100.3281094,
+          5.4114881
         ]
       },
       "id": "node/1731695224"
@@ -10069,10 +10093,14 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1769238060",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "operator": "MPSepang",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -11523,8 +11551,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.3363112,
-          5.4184031
+          100.3363194,
+          5.418388
         ]
       },
       "id": "node/1823784647"
@@ -11571,6 +11599,7 @@
         "@id": "node/1842696497",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Hub Desa Rakyat",
         "public_transport": "platform"
       },
       "geometry": {
@@ -11683,13 +11712,14 @@
         "@id": "node/1868501170",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Smart Pandan",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.7844685,
-          1.5354143
+          103.7844397,
+          1.5353962
         ]
       },
       "id": "node/1868501170"
@@ -12450,9 +12480,13 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1924789804",
+        "bench": "no",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "realtime",
         "highway": "bus_stop",
-        "name": "Stadium Bola Sepak KL",
+        "name": "Stadium Bola Sepak Kuala Lumpur",
+        "operator": "Rapid KL;DBKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
         "ref": "KL250",
@@ -14621,6 +14655,25 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2202560421",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminal Pontian",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3882441,
+          1.479333
+        ]
+      },
+      "id": "node/2202560421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2264595468",
         "bus": "yes",
         "highway": "bus_stop",
@@ -15259,6 +15312,7 @@
         "@id": "node/2398963388",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Opposite Sekolah Menegah Kebangsan Dato Penggawa Timur",
         "public_transport": "platform"
       },
       "geometry": {
@@ -15276,13 +15330,14 @@
         "@id": "node/2398963389",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Opposite Maybank Bandar Seri Alam",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8740572,
-          1.4930965
+          103.8740357,
+          1.4930737
         ]
       },
       "id": "node/2398963389"
@@ -15349,8 +15404,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8839277,
-          1.4959263
+          103.8839129,
+          1.4959075
         ]
       },
       "id": "node/2398963427"
@@ -15361,13 +15416,14 @@
         "@id": "node/2398963433",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Dewanraya Bandar Seri Alam Jalan Suria",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8803618,
-          1.4961612
+          103.8808473,
+          1.4962792
         ]
       },
       "id": "node/2398963433"
@@ -15412,12 +15468,13 @@
         "@id": "node/2398963453",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Pangsapuri Sri Intan",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8762234,
+          103.8761939,
           1.4975231
         ]
       },
@@ -15515,13 +15572,14 @@
         "@id": "node/2398963566",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Jalan Tasek 10",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8802666,
-          1.500485
+          103.879879,
+          1.5006405
         ]
       },
       "id": "node/2398963566"
@@ -15532,13 +15590,14 @@
         "@id": "node/2398963567",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Jalan Tasek 15",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8826879,
-          1.5005045
+          103.8824733,
+          1.500526
         ]
       },
       "id": "node/2398963567"
@@ -15600,13 +15659,14 @@
         "@id": "node/2398963592",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Jalan Tasek 20",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8847059,
-          1.5014004
+          103.8846938,
+          1.5013977
         ]
       },
       "id": "node/2398963592"
@@ -15639,8 +15699,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8860226,
-          1.5024171
+          103.8857705,
+          1.5021409
         ]
       },
       "id": "node/2398963623"
@@ -15668,13 +15728,14 @@
         "@id": "node/2398963660",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Pangsapuri Sri Ilham",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8852864,
-          1.5039874
+          103.8852328,
+          1.5038842
         ]
       },
       "id": "node/2398963660"
@@ -15771,13 +15832,14 @@
         "@id": "node/2398963888",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "PPR Seri Alam",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8884394,
-          1.5079205
+          103.8882409,
+          1.5077958
         ]
       },
       "id": "node/2398963888"
@@ -16153,13 +16215,14 @@
         "@id": "node/2407022283",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Sekolah Menegah Taman Rinting 3",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8598535,
-          1.4839432
+          103.8593358,
+          1.4842328
         ]
       },
       "id": "node/2407022283"
@@ -16188,13 +16251,14 @@
         "@id": "node/2407022431",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Flat Ketapang",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.857603,
-          1.48739
+          103.8578498,
+          1.486784
         ]
       },
       "id": "node/2407022431"
@@ -16205,13 +16269,14 @@
         "@id": "node/2407022528",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Kampung Sungai Rinting D",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8703685,
-          1.4889686
+          103.8703846,
+          1.4888975
         ]
       },
       "id": "node/2407022528"
@@ -16222,13 +16287,14 @@
         "@id": "node/2407022573",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Sekolah Jenis Kebangsaan (C) Chee Tong",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8498142,
-          1.4897678
+          103.8498437,
+          1.4896874
         ]
       },
       "id": "node/2407022573"
@@ -16256,13 +16322,14 @@
         "@id": "node/2407022665",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Sekolah Kebangsaan Sri Kota Puteri",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8529354,
-          1.4987405
+          103.8528482,
+          1.4988169
         ]
       },
       "id": "node/2407022665"
@@ -16659,6 +16726,27 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2409009365",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminal Bas Pasir Gudang",
+        "name:en": "Pasir Gudang Bus Terminal",
+        "name:ms": "Terminal Bas Pasir Gudang",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9011473,
+          1.4660048
+        ]
+      },
+      "id": "node/2409009365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2409009371",
         "bus": "yes",
         "highway": "bus_stop",
@@ -16701,8 +16789,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.9169965,
-          1.4553109
+          103.9169536,
+          1.4553377
         ]
       },
       "id": "node/2409009391"
@@ -16798,13 +16886,14 @@
         "@id": "node/2409009500",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Sekolah Islam Ah Tahfiz Taman Mawar",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8983847,
-          1.4676481
+          103.8981554,
+          1.4676856
         ]
       },
       "id": "node/2409009500"
@@ -16815,13 +16904,14 @@
         "@id": "node/2409009502",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Sekolah Menegah Kebangsan Pasir Gudang",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.9061655,
-          1.4706306
+          103.9059965,
+          1.4703397
         ]
       },
       "id": "node/2409009502"
@@ -16900,13 +16990,14 @@
         "@id": "node/2409009515",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Opposite KPJ Pasir Gudang",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8955432,
-          1.4782103
+          103.8955311,
+          1.4782023
         ]
       },
       "id": "node/2409009515"
@@ -16917,6 +17008,7 @@
         "@id": "node/2409009519",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "KipMall Masai",
         "public_transport": "platform"
       },
       "geometry": {
@@ -16934,13 +17026,14 @@
         "@id": "node/2409009522",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Opposite KipMall Masai",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8917469,
-          1.4820421
+          103.8917579,
+          1.4820375
         ]
       },
       "id": "node/2409009522"
@@ -16991,8 +17084,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.9108256,
-          1.4878343
+          103.9107921,
+          1.4878088
         ]
       },
       "id": "node/2409009680"
@@ -17025,8 +17118,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.9105117,
-          1.4879779
+          103.9105466,
+          1.4879806
         ]
       },
       "id": "node/2409009760"
@@ -17037,13 +17130,14 @@
         "@id": "node/2409009823",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Opposite Taman Cendana Blok 10",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.9070626,
-          1.4885807
+          103.9067246,
+          1.4884949
         ]
       },
       "id": "node/2409009823"
@@ -17127,8 +17221,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.9127445,
-          1.4961052
+          103.9127096,
+          1.4961481
         ]
       },
       "id": "node/2409010236"
@@ -17178,8 +17272,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.9160294,
-          1.5040974
+          103.9159543,
+          1.5041041
         ]
       },
       "id": "node/2409010733"
@@ -17195,8 +17289,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.9162743,
-          1.5080091
+          103.9161603,
+          1.5081016
         ]
       },
       "id": "node/2409010919"
@@ -17771,24 +17865,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/2450171857",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name": "MS06. Pekan Tanjung Aru Bus Stop",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.0548962,
-          5.9530703
-        ]
-      },
-      "id": "node/2450171857"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/2451338294",
         "bus": "yes",
         "highway": "bus_stop",
@@ -17900,24 +17976,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/2452391735",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name": "Bus Stop",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.0525061,
-          5.9550727
-        ]
-      },
-      "id": "node/2452391735"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/2457727071",
         "bus": "yes",
         "comment": "RISM OSM Contest 2013",
@@ -18019,23 +18077,6 @@
         ]
       },
       "id": "node/2461550446"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/2466202134",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.0579489,
-          5.9535133
-        ]
-      },
-      "id": "node/2466202134"
     },
     {
       "type": "Feature",
@@ -19940,7 +19981,8 @@
         "bus": "yes",
         "covered": "yes",
         "highway": "bus_stop",
-        "name": "HAB Pasar Seni - Platform A3-A5",
+        "name": "Hab Pasar Seni - Platform A3-A5",
+        "name:ms": "Hab Pasar Seni - Platform A3-A5",
         "public_transport": "platform",
         "shelter": "yes"
       },
@@ -20387,6 +20429,28 @@
         ]
       },
       "id": "node/3004968010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3018417117",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kota Tinggi Bus Terminal",
+        "name:ms": "Terminal Kota Tinggi",
+        "public_transport": "station",
+        "source": "Bing",
+        "wikidata": "Q95991786"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9021573,
+          1.7292818
+        ]
+      },
+      "id": "node/3018417117"
     },
     {
       "type": "Feature",
@@ -24342,15 +24406,17 @@
       "type": "Feature",
       "properties": {
         "@id": "node/3832013267",
+        "alt_name": "Tuanku Abdul Rahman RC (KK1)",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "timetable",
         "highway": "bus_stop",
         "name": "Kolej Kediaman Pertama",
-        "name:ms": "Kolej Kediaman Pertama",
-        "network": "T815",
-        "operator": "RapidKL",
+        "operator": "Rapid KL;Universiti Malaya",
         "public_transport": "platform",
         "ref": "KL1103",
+        "route_ref": "AB;C;T789;T815",
         "shelter": "yes"
       },
       "geometry": {
@@ -24447,8 +24513,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.3017315,
-          3.8189079
+          103.3017449,
+          3.8188825
         ]
       },
       "id": "node/3883297080"
@@ -27187,13 +27253,14 @@
         "@id": "node/4223621091",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Jalan Bayu",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8568965,
-          1.5014349
+          103.8571352,
+          1.5013759
         ]
       },
       "id": "node/4223621091"
@@ -27204,13 +27271,14 @@
         "@id": "node/4223624093",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Taman Bunga Ros",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8208953,
-          1.5211944
+          103.8206687,
+          1.5212681
         ]
       },
       "id": "node/4223624093"
@@ -27221,13 +27289,14 @@
         "@id": "node/4223625191",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Taman Ria Plentong",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8245935,
-          1.520311
+          103.8246284,
+          1.5203619
         ]
       },
       "id": "node/4223625191"
@@ -27238,7 +27307,7 @@
         "@id": "node/4223625192",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Today's Market",
+        "name": "Todays Market (Jalan Masai Lama)",
         "public_transport": "platform"
       },
       "geometry": {
@@ -27256,13 +27325,14 @@
         "@id": "node/4223633290",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Kia Motors Plentong",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8169892,
-          1.5261326
+          103.8170589,
+          1.5261246
         ]
       },
       "id": "node/4223633290"
@@ -30660,24 +30730,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/4624779489",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name": "Bus Station Sunny Garden",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.0830828,
-          5.9680595
-        ]
-      },
-      "id": "node/4624779489"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/4625323164",
         "bus": "yes",
         "highway": "bus_stop",
@@ -32994,6 +33046,25 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4789274623",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminal Ulu Tiram",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8225261,
+          1.5978952
+        ]
+      },
+      "id": "node/4789274623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4789609523",
         "bus": "yes",
         "highway": "bus_stop",
@@ -33020,8 +33091,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.9031789,
-          1.4835013
+          103.9031413,
+          1.4834075
         ]
       },
       "id": "node/4789929122"
@@ -34710,6 +34781,7 @@
         "@id": "node/4967385016",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Prima Regency 2",
         "public_transport": "platform"
       },
       "geometry": {
@@ -34727,6 +34799,7 @@
         "@id": "node/4967385017",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Opposite Prima Regency 2",
         "public_transport": "platform"
       },
       "geometry": {
@@ -34744,6 +34817,7 @@
         "@id": "node/4967385018",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Lotus Plentong",
         "public_transport": "platform"
       },
       "geometry": {
@@ -35644,6 +35718,7 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Chinatown",
+        "name:en": "Chinatown",
         "network": "Hop-on Hop-off",
         "public_transport": "platform",
         "ref": "08"
@@ -37827,13 +37902,14 @@
         "@id": "node/5423715578",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Taman Cendana Blok 34",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.9120401,
-          1.487979
+          103.9118336,
+          1.4879223
         ]
       },
       "id": "node/5423715578"
@@ -37892,24 +37968,6 @@
         ]
       },
       "id": "node/5431317063"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5432919022",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name:fr": "City bus pour terminal de bus nord, Inanam, ( bus 4,5,6,7 ou 8)",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.0758274,
-          5.9804966
-        ]
-      },
-      "id": "node/5432919022"
     },
     {
       "type": "Feature",
@@ -47173,6 +47231,7 @@
         "@id": "node/6035939897",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Tampoi Indah",
         "public_transport": "platform"
       },
       "geometry": {
@@ -47584,7 +47643,6 @@
         "@id": "node/6069076489",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Consortium Bus Express",
         "public_transport": "platform"
       },
       "geometry": {
@@ -48299,9 +48357,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6116119727",
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "passenger_information_display": "no",
+        "public_transport": "platform",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -48323,7 +48384,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.4097488,
+          100.4097528,
           5.3729404
         ]
       },
@@ -49440,12 +49501,18 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6160294585",
+        "alt_name": "UKM",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "realtime",
         "highway": "bus_stop",
-        "name": "UKM",
+        "name": "Sekolah Menengah Teknik Kuala Lumpur (Opp)",
+        "operator": "Rapid KL;DBKL",
         "public_transport": "platform",
         "ref": "KL281",
-        "route_ref": "T402"
+        "route_ref": "T400;T402;GREY",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -49878,8 +49945,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.9058003,
-          1.4879231
+          103.9058124,
+          1.4878936
         ]
       },
       "id": "node/6243521686"
@@ -50321,13 +50388,16 @@
         "@id": "node/6298866186",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Terminal Bas Masai",
+        "name:en": "Masai Bus Terminal",
+        "name:ms": "Terminal Bas Masai",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.885242,
-          1.4864544
+          103.8853037,
+          1.4868325
         ]
       },
       "id": "node/6298866186"
@@ -50338,13 +50408,14 @@
         "@id": "node/6298873485",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Opposite Terminal Bas Masai",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8854115,
-          1.4862719
+          103.8854021,
+          1.4863175
         ]
       },
       "id": "node/6298873485"
@@ -50391,13 +50462,14 @@
         "@id": "node/6336736885",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Restoran Pekin Johor Jaya",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8075313,
-          1.5242466
+          103.8077271,
+          1.5240589
         ]
       },
       "id": "node/6336736885"
@@ -50408,13 +50480,14 @@
         "@id": "node/6336736985",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Opposite Restoran Pekin Johor Jaya",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.807478,
-          1.524347
+          103.8080413,
+          1.5242237
         ]
       },
       "id": "node/6336736985"
@@ -50425,13 +50498,14 @@
         "@id": "node/6336737085",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Tangki Air Taman Molek",
         "public_transport": "platform"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.7960034,
-          1.5282269
+          103.7958143,
+          1.5284494
         ]
       },
       "id": "node/6336737085"
@@ -53521,8 +53595,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.0749887,
-          5.9760923
+          116.0750182,
+          5.9760976
         ]
       },
       "id": "node/6765534385"
@@ -55889,8 +55963,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.5080784,
-          5.3196428
+          100.5080499,
+          5.3196574
         ]
       },
       "id": "node/7052764173"
@@ -55974,8 +56048,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.4931628,
-          5.2849966
+          100.4931579,
+          5.2849825
         ]
       },
       "id": "node/7052785987"
@@ -56180,8 +56254,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.4923536,
-          5.2308563
+          100.492384,
+          5.2308448
         ]
       },
       "id": "node/7054366081"
@@ -56197,8 +56271,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.4963258,
-          5.2151531
+          100.4963063,
+          5.2151355
         ]
       },
       "id": "node/7054366129"
@@ -57482,8 +57556,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.5155365,
-          5.2847264
+          100.5155481,
+          5.2847499
         ]
       },
       "id": "node/7099779230"
@@ -73817,8 +73891,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.68664,
-          1.4875885
+          103.6863262,
+          1.4892402
         ]
       },
       "id": "node/7554112207"
@@ -73835,8 +73909,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.6842978,
-          1.4945505
+          103.6833067,
+          1.4956176
         ]
       },
       "id": "node/7554112208"
@@ -78771,19 +78845,27 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7680201805",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Komersial 1A/3",
+        "name:ms": "Komersial 1A/3",
+        "operator": "RapidKL",
         "passenger_information_display": "yes",
         "public_transport": "platform",
-        "ref": "SA 997",
-        "route_ref": "T101"
+        "ref": "SA997",
+        "route_ref": "T101",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5663048,
-          3.2101988
+          101.5652549,
+          3.2095587
         ]
       },
       "id": "node/7680201805"
@@ -79652,6 +79734,23 @@
         ]
       },
       "id": "node/7711260905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7712040457",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0579114,
+          5.9534622
+        ]
+      },
+      "id": "node/7712040457"
     },
     {
       "type": "Feature",
@@ -81742,6 +81841,7 @@
         "@id": "node/7806480645",
         "bench": "yes",
         "bin": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "passenger_information_display": "yes",
         "public_transport": "platform",
@@ -83869,7 +83969,9 @@
       "properties": {
         "@id": "node/8010471625",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
+        "public_transport": "platform",
         "shelter": "yes",
         "shelter_type": "public_transport"
       },
@@ -83887,7 +83989,9 @@
       "properties": {
         "@id": "node/8010491706",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
+        "public_transport": "platform",
         "shelter": "yes",
         "shelter_type": "public_transport"
       },
@@ -87678,8 +87782,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8661744,
-          1.490495
+          103.8661315,
+          1.4904508
         ]
       },
       "id": "node/8085889282"
@@ -87690,14 +87794,15 @@
         "@id": "node/8085914319",
         "bench": "yes",
         "highway": "bus_stop",
+        "name": "Opposite Mydin Taman Rinting 1",
         "public_transport": "platform",
         "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.8664734,
-          1.4908784
+          103.8664358,
+          1.4908449
         ]
       },
       "id": "node/8085914319"
@@ -88996,6 +89101,7 @@
       "properties": {
         "@id": "node/8119269581",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "passenger_information_display": "yes",
         "public_transport": "platform",
@@ -89015,6 +89121,7 @@
       "properties": {
         "@id": "node/8119333852",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
         "shelter": "yes"
@@ -89033,6 +89140,7 @@
       "properties": {
         "@id": "node/8119333856",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
         "shelter": "yes"
@@ -90135,6 +90243,7 @@
         "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Opposite Kampung Parit Kechil",
         "passenger_information_display": "yes",
         "public_transport": "platform",
         "shelter": "yes"
@@ -90155,6 +90264,7 @@
         "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Kampung Parit Kechil",
         "passenger_information_display": "yes",
         "public_transport": "platform",
         "shelter": "yes"
@@ -90175,6 +90285,7 @@
         "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Opposite Kilang JCS",
         "passenger_information_display": "yes",
         "public_transport": "platform",
         "shelter": "yes"
@@ -90195,6 +90306,7 @@
         "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Kilang JCS",
         "passenger_information_display": "yes",
         "public_transport": "platform",
         "shelter": "yes"
@@ -90215,6 +90327,7 @@
         "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Pertiwi Sejagat",
         "passenger_information_display": "yes",
         "public_transport": "platform",
         "shelter": "yes"
@@ -90235,6 +90348,7 @@
         "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Opposite Kampung Sungai Bunyi Parit Haji Isma",
         "passenger_information_display": "yes",
         "public_transport": "platform",
         "shelter": "yes"
@@ -90255,6 +90369,7 @@
         "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Opposite Taman Impian Indah",
         "passenger_information_display": "yes",
         "public_transport": "platform",
         "shelter": "yes"
@@ -91694,16 +91809,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8377393130",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "network": "Smart Selangor MBSA",
         "public_transport": "platform",
         "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.5331963,
-          3.0505658
+          101.5331978,
+          3.0504919
         ]
       },
       "id": "node/8377393130"
@@ -91730,6 +91848,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8377393132",
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
@@ -91748,6 +91867,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8377393133",
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
@@ -91801,6 +91921,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8377394137",
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "operator": "school nearby",
@@ -97763,6 +97884,28 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/9229552292",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "MRT Sri Damansara Sentral Pintu A",
+        "operator": "Rapid KL",
+        "public_transport": "platform",
+        "ref": "PJ866",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6211992,
+          3.1982888
+        ]
+      },
+      "id": "node/9229552292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/9230399950",
         "bench": "yes",
         "bus": "yes",
@@ -98523,9 +98666,9 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Sek Keb BTHO",
-        "network": "MRT Feeder Bus T414",
         "public_transport": "platform",
-        "ref": "15"
+        "ref": "15",
+        "route_ref": "T414"
       },
       "geometry": {
         "type": "Point",
@@ -100494,8 +100637,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6665307,
-          3.1996589
+          101.6665173,
+          3.1996187
         ]
       },
       "id": "node/9460484051"
@@ -100989,12 +101132,12 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "SK LA Salle Jinjang, Jalan Tebing Timor",
-        "name:ms": "SK LA Salle Jinjang, Jalan Tebing Timor",
+        "name": "SK La Salle Jinjang",
         "operator": "Selangor Omnibus",
         "public_transport": "platform",
         "ref": "KL464",
         "shelter": "yes",
+        "source": "https://www.mapillary.com/app/?pKey=923091075195190&focus=photo",
         "tactile_paving": "no",
         "wheelchair": "yes"
       },
@@ -101473,15 +101616,16 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9462392802",
+        "alt_name": "Komplek Niaga Desa Jaya",
         "bench": "no",
         "bin": "no",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Komplek Niaga Desa Jaya",
-        "name:ms": "Komplek Niaga Desa Jaya",
-        "operator": "RapidKL",
+        "name": "Flat Taman Indah Perdana",
+        "operator": "Rapid KL",
         "public_transport": "platform",
+        "ref": "SL464",
         "shelter": "no",
         "tactile_paving": "no",
         "wheelchair": "no"
@@ -101708,7 +101852,7 @@
         "name:zh": "永旺购物中心美娜园",
         "name:zh-Hans": "永旺购物中心美娜园",
         "name:zh-Hant": "永旺購物中心美娜園",
-        "operator": "Selangor Omnibus, RapidKL",
+        "operator": "Selangor Omnibus, Rapid KL",
         "public_transport": "platform",
         "ref": "KL560",
         "shelter": "yes",
@@ -101718,8 +101862,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6394483,
-          3.2140664
+          101.6394826,
+          3.2140808
         ]
       },
       "id": "node/9462444757"
@@ -115074,14 +115218,16 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9528660496",
+        "alt_name": "Petronas Taman Kepong Indah, Jalan 2/1",
         "bench": "no",
         "bin": "no",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Petronas Taman Kepong Indah, Jalan 2/1",
-        "name:ms": "Petronas Taman Kepong Indah, Jalan 2/1",
+        "name": "Apartment Hijau Ria",
+        "operator": "Rapid KL",
         "public_transport": "platform",
+        "ref": "KL1987",
         "shelter": "no",
         "tactile_paving": "no",
         "wheelchair": "no"
@@ -115938,9 +116084,8 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Desa Jaya (Barat), Jalan 5",
-        "name:ms": "Desa Jaya (Barat), Jalan 5",
-        "operator": "Selangor Bus",
+        "name": "Desa Jaya (Barat)",
+        "operator": "Rapid KL;Selangor Bus",
         "public_transport": "platform",
         "ref": "SL4",
         "shelter": "no",
@@ -115993,7 +116138,7 @@
         "highway": "bus_stop",
         "name": "Pasar Moden Taman Ehsan",
         "name:ms": "Pasar Moden Taman Ehsan",
-        "operator": "Smart Selangor",
+        "operator": "Rapid KL;Smart Selangor",
         "public_transport": "platform",
         "ref": "SL629",
         "shelter": "no",
@@ -116021,7 +116166,7 @@
         "name": "Padang Bola Taman Ehsan",
         "name:en": "Ehsan Garden Football Field",
         "name:ms": "Padang Bola Taman Ehsan",
-        "operator": "Smart Selangor",
+        "operator": "Rapid KL;Smart Selangor",
         "public_transport": "platform",
         "ref": "SL628",
         "shelter": "no",
@@ -116072,9 +116217,8 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Perumahan Taman Ehsan Jln E5/1",
-        "name:ms": "Perumahan Taman Ehsan Jln E5/1",
-        "operator": "Smart Selangor",
+        "name": "Perumahan Taman Ehsan Jalan E5/2 (Opp)",
+        "operator": "Rapid KL;Smart Selangor",
         "public_transport": "platform",
         "ref": "SL631",
         "shelter": "no",
@@ -116125,9 +116269,8 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Perumahan Taman Ehsan Jln E5/1",
-        "name:ms": "Perumahan Taman Ehsan Jln E5/1",
-        "operator": "Smart Selangor",
+        "name": "Perumahan Taman Ehsan Jalan E5/1",
+        "operator": "Rapid KL;Smart Selangor",
         "public_transport": "platform",
         "ref": "SL630",
         "shelter": "no",
@@ -116147,14 +116290,14 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9533643245",
+        "alt_name": "Pusat Pemulihan Komuniti Taman Ehsan, Jalan 5",
         "bench": "no",
         "bin": "no",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Pusat Pemulihan Komuniti Taman Ehsan, Jalan 5",
-        "name:ms": "Pusat Pemulihan Komuniti Taman Ehsan, Jalan 5",
-        "operator": "Selangor Bus",
+        "name": "Pusat Komuniti Taman Ehsan",
+        "operator": "Rapid KL;Selangor Bus",
         "public_transport": "platform",
         "ref": "SL5",
         "shelter": "no",
@@ -116333,14 +116476,14 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9533651722",
+        "alt_name": "Desa Jaya (Timur), Jalan 5",
         "bench": "no",
         "bin": "no",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Desa Jaya (Timur), Jalan 5",
-        "name:ms": "Desa Jaya (Timur), Jalan 5",
-        "operator": "Selangor Bus",
+        "name": "BHP Desa Jaya",
+        "operator": "Rapid KL;Selangor Bus",
         "public_transport": "platform",
         "ref": "SL541",
         "shelter": "no",
@@ -116391,9 +116534,8 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Kg Kepong Ulu",
-        "name:ms": "Kg Kepong Ulu",
-        "operator": "Smart Selangor",
+        "name": "Kampung Kepong Ulu",
+        "operator": "Rapid KL;Smart Selangor",
         "public_transport": "platform",
         "ref": "SL632",
         "shelter": "no",
@@ -124137,16 +124279,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9572823416",
+        "bench": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Taman Free School",
         "public_transport": "platform",
-        "ref": "TER"
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.308675,
-          5.404572
+          100.3086758,
+          5.4045605
         ]
       },
       "id": "node/9572823416"
@@ -129148,7 +129293,7 @@
         "highway": "bus_stop",
         "name": "Komersial Pekaka",
         "name:ms": "Komersial Pekaka",
-        "operator": "RapidKL",
+        "operator": "Rapid KL",
         "public_transport": "platform",
         "shelter": "no",
         "tactile_paving": "no",
@@ -129303,32 +129448,6 @@
         ]
       },
       "id": "node/9630597344"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/9634626068",
-        "bench": "no",
-        "bin": "no",
-        "bus": "yes",
-        "departures_board": "no",
-        "highway": "bus_stop",
-        "name": "Komersial 1A/3",
-        "name:ms": "Komersial 1A/3",
-        "operator": "RapidKL",
-        "public_transport": "platform",
-        "shelter": "no",
-        "tactile_paving": "no",
-        "wheelchair": "no"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.5652549,
-          3.2095587
-        ]
-      },
-      "id": "node/9634626068"
     },
     {
       "type": "Feature",
@@ -132649,6 +132768,7 @@
       "properties": {
         "@id": "node/9673239142",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "name": "Kg. Seberang Temerloh",
         "public_transport": "platform",
@@ -133351,6 +133471,23 @@
         ]
       },
       "id": "node/9691732215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9701152262",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6082147,
+          3.1978969
+        ]
+      },
+      "id": "node/9701152262"
     },
     {
       "type": "Feature",
@@ -141374,7 +141511,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9793245244",
-        "highway": "bus_stop"
+        "highway": "bus_stop",
+        "name": "Jalan Indah 2/1-2/11"
       },
       "geometry": {
         "type": "Point",
@@ -146595,7 +146733,7 @@
         "type": "Point",
         "coordinates": [
           103.6085227,
-          1.5663973
+          1.5664174
         ]
       },
       "id": "node/9831052862"
@@ -147363,7 +147501,7 @@
         "highway": "bus_stop",
         "name": "MRT Kepong Baru Pintu B",
         "name:en": "MRT Kepong Baru Pintu B",
-        "operator": "RapidKL",
+        "operator": "Rapid KL",
         "public_transport": "platform",
         "shelter": "yes",
         "tactile_paving": "yes",
@@ -148379,8 +148517,9 @@
         "highway": "bus_stop",
         "name": "Perumahan Menjalara 62 & 62C",
         "name:ms": "Perumahan Menjalara 62 & 62C",
-        "operator": "RapidKL",
+        "operator": "Rapid KL",
         "public_transport": "platform",
+        "ref": "KL509",
         "shelter": "yes",
         "tactile_paving": "no",
         "wheelchair": "no"
@@ -148405,8 +148544,9 @@
         "highway": "bus_stop",
         "name": "Perumahan Menjalara 62&62C (Opp)",
         "name:ms": "Perumahan Menjalara 62&62C (Opp)",
-        "operator": "RapidKL",
+        "operator": "Rapid KL",
         "public_transport": "platform",
+        "ref": "KL513",
         "shelter": "yes",
         "tactile_paving": "no",
         "wheelchair": "yes"
@@ -148431,8 +148571,9 @@
         "highway": "bus_stop",
         "name": "Taman Menjalara (Utara)",
         "name:ms": "Taman Menjalara (Utara)",
-        "operator": "RapidKL",
+        "operator": "Rapid KL",
         "public_transport": "platform",
+        "ref": "KL512",
         "shelter": "yes",
         "tactile_paving": "no",
         "wheelchair": "yes"
@@ -148455,10 +148596,10 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Sek. Men. Agama K.L",
-        "name:ms": "Sek. Men. Agama K.L",
-        "operator": "RapidKL",
+        "name": "Sekolah Menengah Agama Kuala Lumpur",
+        "operator": "Rapid KL",
         "public_transport": "platform",
+        "ref": "KL511",
         "shelter": "yes",
         "tactile_paving": "no",
         "wheelchair": "yes"
@@ -148484,8 +148625,9 @@
         "name": "Levenue",
         "name:en": "Levenue",
         "name:ms": "Levenue",
-        "operator": "RapidKL",
+        "operator": "Rapid KL",
         "public_transport": "platform",
+        "ref": "KL2432",
         "shelter": "no",
         "tactile_paving": "no",
         "wheelchair": "no"
@@ -148510,8 +148652,9 @@
         "highway": "bus_stop",
         "name": "Levenue (Opp)",
         "name:en": "Levenue (Opp)",
-        "operator": "RapidKL",
+        "operator": "Rapid KL",
         "public_transport": "platform",
+        "ref": "KL2441",
         "shelter": "no",
         "tactile_paving": "no",
         "wheelchair": "no"
@@ -148537,8 +148680,9 @@
         "name": "Adora Parkcity",
         "name:en": "Adora Parkcity",
         "name:ms": "Adora Parkcity",
-        "operator": "RapidKL",
+        "operator": "Rapid KL",
         "public_transport": "platform",
+        "ref": "KL2440",
         "shelter": "no",
         "tactile_paving": "no",
         "wheelchair": "no"
@@ -148563,8 +148707,9 @@
         "highway": "bus_stop",
         "name": "The Westside Condo",
         "name:en": "The Westside Condo",
-        "operator": "RapidKL",
+        "operator": "Rapid KL",
         "public_transport": "platform",
+        "ref": "KL2439",
         "shelter": "no",
         "tactile_paving": "no",
         "wheelchair": "no"
@@ -148693,8 +148838,9 @@
         "highway": "bus_stop",
         "name": "Waterfront Parkcity",
         "name:en": "Waterfront Parkcity",
-        "operator": "RapidKL",
+        "operator": "Rapid KL",
         "public_transport": "platform",
+        "ref": "KL2433",
         "shelter": "no",
         "tactile_paving": "no",
         "wheelchair": "no"
@@ -148719,8 +148865,9 @@
         "highway": "bus_stop",
         "name": "Nadia Parkfront",
         "name:en": "Nadia Parkfront",
-        "operator": "RapidKL",
+        "operator": "Rapid KL",
         "public_transport": "platform",
+        "ref": "KL2434",
         "shelter": "no",
         "tactile_paving": "no",
         "wheelchair": "no"
@@ -148745,8 +148892,9 @@
         "highway": "bus_stop",
         "name": "Southlake Terrace",
         "name:en": "Southlake Terrace",
-        "operator": "RapidKL",
+        "operator": "Rapid KL",
         "public_transport": "platform",
+        "ref": "KL2437",
         "shelter": "no",
         "tactile_paving": "no",
         "wheelchair": "no"
@@ -148754,8 +148902,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6290041,
-          3.1850394
+          101.6290179,
+          3.1850927
         ]
       },
       "id": "node/9836437067"
@@ -148771,8 +148919,9 @@
         "highway": "bus_stop",
         "name": "Zenia Parkhome",
         "name:en": "Zenia Parkhome",
-        "operator": "RapidKL",
+        "operator": "Rapid KL",
         "public_transport": "platform",
+        "ref": "KL2438",
         "shelter": "no",
         "tactile_paving": "no",
         "wheelchair": "no"
@@ -148780,8 +148929,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6270494,
-          3.1857478
+          101.6270683,
+          3.1857805
         ]
       },
       "id": "node/9836437069"
@@ -148901,10 +149050,11 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Plaza Arkadia (Entrance a)",
-        "name:en": "Plaza Arkadia (Entrance a)",
-        "operator": "RapidKL",
+        "name": "Plaza Arkadia (Entrance A)",
+        "name:en": "Plaza Arkadia (Entrance A)",
+        "operator": "Rapid KL",
         "public_transport": "platform",
+        "ref": "KL2435",
         "shelter": "yes",
         "tactile_paving": "yes",
         "wheelchair": "limited"
@@ -148912,8 +149062,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6362239,
-          3.18599
+          101.6361045,
+          3.1861603
         ]
       },
       "id": "node/9836458082"
@@ -148929,7 +149079,7 @@
         "highway": "bus_stop",
         "name": "Plaza Arkadia (Outdoor Park)",
         "name:en": "Plaza Arkadia (Outdoor Park)",
-        "operator": "RapidKL",
+        "operator": "Rapid KL",
         "public_transport": "platform",
         "shelter": "no",
         "tactile_paving": "no",
@@ -149378,6 +149528,4686 @@
         ]
       },
       "id": "node/9837606425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841757013",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Opposite Kia Motors Plentong",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8166662,
+          1.5262995
+        ]
+      },
+      "id": "node/9841757013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841757014",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Opposite Taman Ria Plentong",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8242032,
+          1.5203457
+        ]
+      },
+      "id": "node/9841757014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841757015",
+        "highway": "bus_stop",
+        "name": "Opposite Sri Plentong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.825732,
+          1.5190829
+        ]
+      },
+      "id": "node/9841757015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841757016",
+        "highway": "bus_stop",
+        "name": "Jalan Masai Lama 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8274701,
+          1.5163868
+        ]
+      },
+      "id": "node/9841757016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841758758",
+        "highway": "bus_stop",
+        "name": "Ecoworld Business Park III"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9382829,
+          1.4842516
+        ]
+      },
+      "id": "node/9841758758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841758759",
+        "highway": "bus_stop",
+        "name": "FELDA Sungai Tiram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8910076,
+          1.5654884
+        ]
+      },
+      "id": "node/9841758759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841759791",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8847983,
+          1.501243
+        ]
+      },
+      "id": "node/9841759791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841759792",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8798147,
+          1.5004667
+        ]
+      },
+      "id": "node/9841759792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841759793",
+        "highway": "bus_stop",
+        "name": "Sekolah Kebangsaan Seri Alam 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8846494,
+          1.4954909
+        ]
+      },
+      "id": "node/9841759793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841759794",
+        "highway": "bus_stop",
+        "name": "Jalan Suria 80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8832252,
+          1.4961767
+        ]
+      },
+      "id": "node/9841759794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841759795",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Opposite Klinik Kesihatan Tampoi",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7077376,
+          1.4926789
+        ]
+      },
+      "id": "node/9841759795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841759796",
+        "highway": "bus_stop",
+        "name": "PPR Uda Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6657074,
+          1.4957289
+        ]
+      },
+      "id": "node/9841759796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841759797",
+        "highway": "bus_stop",
+        "name": "Sri Selera Court Apartment Taman Tan Sri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6628053,
+          1.4972371
+        ]
+      },
+      "id": "node/9841759797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841759798",
+        "highway": "bus_stop",
+        "name": "Opposite Jalan Indah 2/1-2/11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6566442,
+          1.4879183
+        ]
+      },
+      "id": "node/9841759798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841759799",
+        "highway": "bus_stop",
+        "name": "Opposite Persiaran Indah (2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6508171,
+          1.4777145
+        ]
+      },
+      "id": "node/9841759799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841759800",
+        "highway": "bus_stop",
+        "name": "Opposite Persiaran Indah (1)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6556894,
+          1.4788246
+        ]
+      },
+      "id": "node/9841759800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841759801",
+        "highway": "bus_stop",
+        "name": "Lotus Bukit Indah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6617592,
+          1.4818961
+        ]
+      },
+      "id": "node/9841759801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841759802",
+        "highway": "bus_stop",
+        "name": "Opposite AmBank Bukit Indah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6639962,
+          1.4816936
+        ]
+      },
+      "id": "node/9841759802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841759803",
+        "highway": "bus_stop",
+        "name": "Opposite 7-Eleven Bukit Indah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6650918,
+          1.480849
+        ]
+      },
+      "id": "node/9841759803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841759804",
+        "highway": "bus_stop",
+        "name": "Shell Taman Perling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6830908,
+          1.4797282
+        ]
+      },
+      "id": "node/9841759804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841759805",
+        "highway": "bus_stop",
+        "name": "Dewan Raya Taman Perling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6865012,
+          1.4840183
+        ]
+      },
+      "id": "node/9841759805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841759806",
+        "highway": "bus_stop",
+        "name": "Opposite Simpang Jalan Sutera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6869478,
+          1.4852504
+        ]
+      },
+      "id": "node/9841759806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841759807",
+        "highway": "bus_stop",
+        "name": "Simpang Jalan Belibis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6866461,
+          1.4874303
+        ]
+      },
+      "id": "node/9841759807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841759808",
+        "highway": "bus_stop",
+        "name": "Persisiran Perling 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6858857,
+          1.4917257
+        ]
+      },
+      "id": "node/9841759808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841759809",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sekolah Kebangsaan Taman Perling",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6842656,
+          1.4946202
+        ]
+      },
+      "id": "node/9841759809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841759810",
+        "highway": "bus_stop",
+        "name": "Medan Selera Perling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6812568,
+          1.4976487
+        ]
+      },
+      "id": "node/9841759810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841759811",
+        "highway": "bus_stop",
+        "name": "Opposite Medan Selera Perling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6810248,
+          1.4979436
+        ]
+      },
+      "id": "node/9841759811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841759812",
+        "highway": "bus_stop",
+        "name": "Tampoi Indah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.68479,
+          1.5017926
+        ]
+      },
+      "id": "node/9841759812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841763368",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Taman Cendana Blok 10",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9067616,
+          1.4883299
+        ]
+      },
+      "id": "node/9841763368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841763369",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Opposite Taman Cendana Blok 34",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9118256,
+          1.4877547
+        ]
+      },
+      "id": "node/9841763369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841763370",
+        "highway": "bus_stop",
+        "name": "Opposite Dewan Serbaguna Taman Cendana 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9125699,
+          1.4877815
+        ]
+      },
+      "id": "node/9841763370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841763371",
+        "highway": "bus_stop",
+        "name": "Opposite Eco Tropics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9228052,
+          1.4929712
+        ]
+      },
+      "id": "node/9841763371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841763372",
+        "highway": "bus_stop",
+        "name": "Opposite Petronas Kota Masai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9268205,
+          1.4904025
+        ]
+      },
+      "id": "node/9841763372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841763373",
+        "highway": "bus_stop",
+        "name": "Opposite Jalan Jambu (Eco Rainforest)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9502817,
+          1.4877386
+        ]
+      },
+      "id": "node/9841763373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841763374",
+        "highway": "bus_stop",
+        "name": "Jalan Nenas Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9482044,
+          1.482309
+        ]
+      },
+      "id": "node/9841763374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841763375",
+        "highway": "bus_stop",
+        "name": "Opposite Masjid At-Taqwa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9513506,
+          1.4803838
+        ]
+      },
+      "id": "node/9841763375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841763376",
+        "highway": "bus_stop",
+        "name": "Petron Pasir Gudang East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8533735,
+          1.5031815
+        ]
+      },
+      "id": "node/9841763376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841763377",
+        "highway": "bus_stop",
+        "name": "Opposite Petron Pasir Gudang East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8538375,
+          1.5031708
+        ]
+      },
+      "id": "node/9841763377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841763378",
+        "highway": "bus_stop",
+        "name": "Jalan Bayu 11 (Caltex)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8633876,
+          1.4998581
+        ]
+      },
+      "id": "node/9841763378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841763379",
+        "highway": "bus_stop",
+        "name": "Maybank Bandar Seri Alam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8743658,
+          1.493238
+        ]
+      },
+      "id": "node/9841763379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841763380",
+        "highway": "bus_stop",
+        "name": "Sekolah Menegah Kebangsan Dato Penggawa Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8782121,
+          1.4926454
+        ]
+      },
+      "id": "node/9841763380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841763381",
+        "highway": "bus_stop",
+        "name": "Kampung Baru Masai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8810767,
+          1.4904514
+        ]
+      },
+      "id": "node/9841763381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841763382",
+        "highway": "bus_stop",
+        "name": "Opposite Kampung Baru Masai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8809198,
+          1.490375
+        ]
+      },
+      "id": "node/9841763382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841763383",
+        "highway": "bus_stop",
+        "name": "JNT Taman Masai Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8816655,
+          1.4879504
+        ]
+      },
+      "id": "node/9841763383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841763384",
+        "highway": "bus_stop",
+        "name": "Opposite JNT Taman Masai Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.881809,
+          1.4879933
+        ]
+      },
+      "id": "node/9841763384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841771501",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9103356,
+          1.4926092
+        ]
+      },
+      "id": "node/9841771501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841771502",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9128099,
+          1.4959059
+        ]
+      },
+      "id": "node/9841771502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841771503",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Hub Desa Rakyat",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9222272,
+          1.5138061
+        ]
+      },
+      "id": "node/9841771503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841772416",
+        "highway": "bus_stop",
+        "name": "Jalan Masai Lama 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8335641,
+          1.5109827
+        ]
+      },
+      "id": "node/9841772416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841773877",
+        "highway": "bus_stop",
+        "name": "Taman Bukit Dahlia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8982925,
+          1.4752786
+        ]
+      },
+      "id": "node/9841773877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841773878",
+        "highway": "bus_stop",
+        "name": "Taman Mawar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8981517,
+          1.4749796
+        ]
+      },
+      "id": "node/9841773878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841773879",
+        "fixme": "location",
+        "highway": "bus_stop",
+        "name": "UTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6411169,
+          1.5593484
+        ]
+      },
+      "id": "node/9841773879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841773880",
+        "highway": "bus_stop",
+        "name": "Educity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6125809,
+          1.429764
+        ]
+      },
+      "id": "node/9841773880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841773881",
+        "highway": "bus_stop",
+        "name": "East Ledang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6145255,
+          1.4238543
+        ]
+      },
+      "id": "node/9841773881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841773882",
+        "fixme": "location",
+        "highway": "bus_stop",
+        "name": "Nusajaya Tech Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5941622,
+          1.434309
+        ]
+      },
+      "id": "node/9841773882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841773883",
+        "highway": "bus_stop",
+        "name": "Jalan Tembusu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8641158,
+          1.4938319
+        ]
+      },
+      "id": "node/9841773883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841773884",
+        "highway": "bus_stop",
+        "name": "Sekolah Menegah Kebangsan Sri Kota Puteri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.857071,
+          1.4992803
+        ]
+      },
+      "id": "node/9841773884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841773885",
+        "highway": "bus_stop",
+        "name": "Putri Ria Apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8556883,
+          1.5000847
+        ]
+      },
+      "id": "node/9841773885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841773886",
+        "highway": "bus_stop",
+        "name": "Jalan Bayan 26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8542211,
+          1.4996959
+        ]
+      },
+      "id": "node/9841773886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841773887",
+        "highway": "bus_stop",
+        "name": "Jalan Bayan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8510025,
+          1.5000578
+        ]
+      },
+      "id": "node/9841773887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841773888",
+        "highway": "bus_stop",
+        "name": "Opposite Jalan Kota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8423657,
+          1.4921293
+        ]
+      },
+      "id": "node/9841773888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841773889",
+        "highway": "bus_stop",
+        "name": "Jalan Jelatang 27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8430537,
+          1.4907296
+        ]
+      },
+      "id": "node/9841773889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841773890",
+        "highway": "bus_stop",
+        "name": "Jalan Jelatang 27 (Taman Permainan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8457145,
+          1.4889854
+        ]
+      },
+      "id": "node/9841773890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841773891",
+        "highway": "bus_stop",
+        "name": "Jalan Jelatang 14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848681,
+          1.4886945
+        ]
+      },
+      "id": "node/9841773891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841773892",
+        "highway": "bus_stop",
+        "name": "PPR Megah Ria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8549721,
+          1.487008
+        ]
+      },
+      "id": "node/9841773892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841773893",
+        "highway": "bus_stop",
+        "name": "Jalan Balau 11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8650358,
+          1.4837891
+        ]
+      },
+      "id": "node/9841773893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841773894",
+        "highway": "bus_stop",
+        "name": "Flat Balau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8674685,
+          1.483222
+        ]
+      },
+      "id": "node/9841773894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841773895",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Mydin Taman Rinting 1",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8664024,
+          1.4912243
+        ]
+      },
+      "id": "node/9841773895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841773896",
+        "highway": "bus_stop",
+        "name": "Lotus Bandar Seri Alam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8701092,
+          1.4961552
+        ]
+      },
+      "id": "node/9841773896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841776300",
+        "highway": "bus_stop",
+        "name": "The Store Pandan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7819302,
+          1.531418
+        ]
+      },
+      "id": "node/9841776300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841776301",
+        "highway": "bus_stop",
+        "name": "Opposite The Store Pandan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7820576,
+          1.5321051
+        ]
+      },
+      "id": "node/9841776301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777036",
+        "highway": "bus_stop",
+        "name": "McDonald's Sri Alam Masai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.870824,
+          1.4966928
+        ]
+      },
+      "id": "node/9841777036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777037",
+        "highway": "bus_stop",
+        "name": "Opposite Regency Specialist Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8715415,
+          1.4968135
+        ]
+      },
+      "id": "node/9841777037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777038",
+        "highway": "bus_stop",
+        "name": "Todays Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8718338,
+          1.4952409
+        ]
+      },
+      "id": "node/9841777038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777039",
+        "highway": "bus_stop",
+        "name": "Regency Specialist Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8717681,
+          1.4969837
+        ]
+      },
+      "id": "node/9841777039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777040",
+        "highway": "bus_stop",
+        "name": "Bina Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8738361,
+          1.5053212
+        ]
+      },
+      "id": "node/9841777040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777041",
+        "highway": "bus_stop",
+        "name": "Opposite Sri Mutiara Apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8660711,
+          1.5088766
+        ]
+      },
+      "id": "node/9841777041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777043",
+        "highway": "bus_stop",
+        "name": "Opposite Amansari Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8606597,
+          1.5073027
+        ]
+      },
+      "id": "node/9841777043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777044",
+        "highway": "bus_stop",
+        "name": "Amansari Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8606477,
+          1.5069984
+        ]
+      },
+      "id": "node/9841777044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777045",
+        "highway": "bus_stop",
+        "name": "Hospital Pasir Gudang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8605672,
+          1.5114734
+        ]
+      },
+      "id": "node/9841777045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777046",
+        "highway": "bus_stop",
+        "name": "Dewanraya Bandar Seri Alam Jalan Gunung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8644055,
+          1.512554
+        ]
+      },
+      "id": "node/9841777046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777047",
+        "highway": "bus_stop",
+        "name": "UITM Johor Bahru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.87831,
+          1.5273572
+        ]
+      },
+      "id": "node/9841777047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777048",
+        "highway": "bus_stop",
+        "name": "Tasik Tun Jeanne Abdullah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8681941,
+          1.5167421
+        ]
+      },
+      "id": "node/9841777048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777049",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8719344,
+          1.5124078
+        ]
+      },
+      "id": "node/9841777049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777050",
+        "highway": "bus_stop",
+        "name": "Sekolah Jepun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871858,
+          1.5121799
+        ]
+      },
+      "id": "node/9841777050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777057",
+        "highway": "bus_stop",
+        "name": "UNIKL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8940801,
+          1.5247363
+        ]
+      },
+      "id": "node/9841777057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777058",
+        "highway": "bus_stop",
+        "name": "MRSM Johor Bahru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8911672,
+          1.5194475
+        ]
+      },
+      "id": "node/9841777058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777059",
+        "highway": "bus_stop",
+        "name": "MRSM Johor Bahru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8909043,
+          1.5194944
+        ]
+      },
+      "id": "node/9841777059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777061",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jalan Tasek 24",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8856566,
+          1.502219
+        ]
+      },
+      "id": "node/9841777061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777383",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Opposite Sekolah Menegah Kebangsan Pasir Gudang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9058831,
+          1.4707136
+        ]
+      },
+      "id": "node/9841777383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777384",
+        "highway": "bus_stop",
+        "name": "KPJ Pasir Gudang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8952535,
+          1.4781409
+        ]
+      },
+      "id": "node/9841777384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777386",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Opposite Sekolah Islam Ah Tahfiz Taman Mawar",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.898385,
+          1.4676033
+        ]
+      },
+      "id": "node/9841777386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777387",
+        "highway": "bus_stop",
+        "name": "Taman Bandar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9024191,
+          1.4765964
+        ]
+      },
+      "id": "node/9841777387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777388",
+        "highway": "bus_stop",
+        "name": "Taman Bandar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9022568,
+          1.4766487
+        ]
+      },
+      "id": "node/9841777388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777389",
+        "highway": "bus_stop",
+        "name": "Bukit Dahlia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9032371,
+          1.4790646
+        ]
+      },
+      "id": "node/9841777389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777390",
+        "highway": "bus_stop",
+        "name": "Dewan Serbaguna Taman Cendana 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9125578,
+          1.4879183
+        ]
+      },
+      "id": "node/9841777390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777391",
+        "highway": "bus_stop",
+        "name": "Taman Kota Masai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.917831,
+          1.4896075
+        ]
+      },
+      "id": "node/9841777391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777392",
+        "highway": "bus_stop",
+        "name": "Opposite Taman Kota Masai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9177358,
+          1.4899735
+        ]
+      },
+      "id": "node/9841777392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777402",
+        "highway": "bus_stop",
+        "name": "McDonald's Jalan Kongkong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9190286,
+          1.4924296
+        ]
+      },
+      "id": "node/9841777402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777403",
+        "highway": "bus_stop",
+        "name": "Opposite McDonald's Jalan Kongkong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9193545,
+          1.4922982
+        ]
+      },
+      "id": "node/9841777403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777404",
+        "highway": "bus_stop",
+        "name": "Eco Tropics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9231002,
+          1.4932152
+        ]
+      },
+      "id": "node/9841777404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777405",
+        "highway": "bus_stop",
+        "name": "Petronas Kota Masai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9269331,
+          1.4907243
+        ]
+      },
+      "id": "node/9841777405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777406",
+        "highway": "bus_stop",
+        "name": "Jalan Jambu (Eco Rainforest)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9504226,
+          1.48774
+        ]
+      },
+      "id": "node/9841777406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777407",
+        "highway": "bus_stop",
+        "name": "Jalan Nenas Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9483774,
+          1.4823023
+        ]
+      },
+      "id": "node/9841777407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777408",
+        "highway": "bus_stop",
+        "name": "Masjid At-Taqwa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9513506,
+          1.4805406
+        ]
+      },
+      "id": "node/9841777408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777409",
+        "amenity": "bus_station",
+        "highway": "bus_stop",
+        "name": "Terminal Bas Kota Masai",
+        "name:en": "Kota Masai Bus Terminal",
+        "name:ms": "Terminal Bas Kota Masai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9537887,
+          1.4817955
+        ]
+      },
+      "id": "node/9841777409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777411",
+        "highway": "bus_stop",
+        "name": "Desa Perwira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7895222,
+          1.5350564
+        ]
+      },
+      "id": "node/9841777411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777590",
+        "highway": "bus_stop",
+        "name": "Opposite Smart Pandan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7845239,
+          1.5341931
+        ]
+      },
+      "id": "node/9841777590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777591",
+        "highway": "bus_stop",
+        "name": "Opposite Balai Polis Johor Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7944467,
+          1.5297073
+        ]
+      },
+      "id": "node/9841777591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777592",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Tangki Air Taman Molek",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7956752,
+          1.5283292
+        ]
+      },
+      "id": "node/9841777592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777593",
+        "highway": "bus_stop",
+        "name": "Rosmerah 9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.800585,
+          1.5263692
+        ]
+      },
+      "id": "node/9841777593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777594",
+        "highway": "bus_stop",
+        "name": "Warung Abadi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8044889,
+          1.5254066
+        ]
+      },
+      "id": "node/9841777594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777595",
+        "highway": "bus_stop",
+        "name": "Opposite Prima Regency 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8113245,
+          1.5234667
+        ]
+      },
+      "id": "node/9841777595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777729",
+        "highway": "bus_stop",
+        "name": "Opposite Petronas Tampoi Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6869773,
+          1.5022873
+        ]
+      },
+      "id": "node/9841777729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777817",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jalan Bayu",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8569972,
+          1.5011652
+        ]
+      },
+      "id": "node/9841777817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777818",
+        "highway": "bus_stop",
+        "name": "Opposite Jalan Bayu 11 (Caltex)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8632843,
+          1.4996476
+        ]
+      },
+      "id": "node/9841777818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777819",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Opposite Todays Market (Jalan Masai Lama)",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8723019,
+          1.4933948
+        ]
+      },
+      "id": "node/9841777819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777820",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminal Bas Masai",
+        "name:en": "Masai Bus Terminal",
+        "name:ms": "Terminal Bas Masai",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8853884,
+          1.4864476
+        ]
+      },
+      "id": "node/9841777820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777861",
+        "highway": "bus_stop",
+        "name": "Opposite Bukit Dahlia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9034101,
+          1.4789935
+        ]
+      },
+      "id": "node/9841777861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841777862",
+        "highway": "bus_stop",
+        "name": "Taman Bukit Dahlia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9049564,
+          1.4864208
+        ]
+      },
+      "id": "node/9841777862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841779018",
+        "highway": "bus_stop",
+        "name": "Sri Plentong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8259077,
+          1.5191365
+        ]
+      },
+      "id": "node/9841779018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841779032",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Opposite Taman Bunga Ros",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8204682,
+          1.5211568
+        ]
+      },
+      "id": "node/9841779032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841779033",
+        "highway": "bus_stop",
+        "name": "Prima Regency 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8114788,
+          1.5236249
+        ]
+      },
+      "id": "node/9841779033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841779034",
+        "highway": "bus_stop",
+        "name": "Opposite Taman Rosmerah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7983507,
+          1.5268451
+        ]
+      },
+      "id": "node/9841779034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841779035",
+        "highway": "bus_stop",
+        "name": "Taman Rosmerah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7985358,
+          1.5270006
+        ]
+      },
+      "id": "node/9841779035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841779036",
+        "highway": "bus_stop",
+        "name": "Balai Polis Johor Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.794605,
+          1.529832
+        ]
+      },
+      "id": "node/9841779036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841779037",
+        "highway": "bus_stop",
+        "name": "Taman Molek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7926523,
+          1.5317974
+        ]
+      },
+      "id": "node/9841779037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841779038",
+        "highway": "bus_stop",
+        "name": "Opposite Taman Molek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7922554,
+          1.5325964
+        ]
+      },
+      "id": "node/9841779038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9841779058",
+        "highway": "bus_stop",
+        "name": "Opposite Desa Perwira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7895879,
+          1.5352616
+        ]
+      },
+      "id": "node/9841779058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9844447384",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "Smart Selangor MBSA",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.536948,
+          3.0529396
+        ]
+      },
+      "id": "node/9844447384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845736966",
+        "highway": "bus_stop",
+        "name": "Taman Mewah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5183321,
+          1.4984504
+        ]
+      },
+      "id": "node/9845736966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845736967",
+        "highway": "bus_stop",
+        "name": "Taman Perindustrian Pekan Nenas 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5221609,
+          1.4971379
+        ]
+      },
+      "id": "node/9845736967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845736968",
+        "highway": "bus_stop",
+        "name": "Taman Perindustrian Pekan Nenas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5253876,
+          1.4959514
+        ]
+      },
+      "id": "node/9845736968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845736970",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.527292,
+          1.4957584
+        ]
+      },
+      "id": "node/9845736970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845736992",
+        "highway": "bus_stop",
+        "name": "Nature at Work (Nursery)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5654987,
+          1.5565278
+        ]
+      },
+      "id": "node/9845736992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777373",
+        "highway": "bus_stop",
+        "name": "JPN Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.399069,
+          1.4808999
+        ]
+      },
+      "id": "node/9845777373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777374",
+        "highway": "bus_stop",
+        "name": "Opposite JKR Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4013677,
+          1.4815783
+        ]
+      },
+      "id": "node/9845777374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777375",
+        "highway": "bus_stop",
+        "name": "Petron Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4027061,
+          1.4819939
+        ]
+      },
+      "id": "node/9845777375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777376",
+        "highway": "bus_stop",
+        "name": "The Cookies Factory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4059006,
+          1.483604
+        ]
+      },
+      "id": "node/9845777376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777377",
+        "highway": "bus_stop",
+        "name": "Taman Pontian Perdana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4263176,
+          1.4890404
+        ]
+      },
+      "id": "node/9845777377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777378",
+        "highway": "bus_stop",
+        "name": "Taman Desa Molek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4303704,
+          1.4915689
+        ]
+      },
+      "id": "node/9845777378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777379",
+        "highway": "bus_stop",
+        "name": "Opposite Taman Mutiara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4350334,
+          1.4944419
+        ]
+      },
+      "id": "node/9845777379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777380",
+        "highway": "bus_stop",
+        "name": "Kampung Pinang Sari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4369659,
+          1.4956498
+        ]
+      },
+      "id": "node/9845777380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777381",
+        "highway": "bus_stop",
+        "name": "Opposite Simpang Parit Haji Othman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4423089,
+          1.5002281
+        ]
+      },
+      "id": "node/9845777381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777382",
+        "highway": "bus_stop",
+        "name": "Mardi Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4450179,
+          1.508831
+        ]
+      },
+      "id": "node/9845777382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777383",
+        "highway": "bus_stop",
+        "name": "Setia Ibarat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.446461,
+          1.5122738
+        ]
+      },
+      "id": "node/9845777383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777384",
+        "highway": "bus_stop",
+        "name": "Opposite Kampung Parit Selangor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4480542,
+          1.5147352
+        ]
+      },
+      "id": "node/9845777384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777385",
+        "highway": "bus_stop",
+        "name": "Opposite Kampung Parit Baru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4534964,
+          1.5193791
+        ]
+      },
+      "id": "node/9845777385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777386",
+        "highway": "bus_stop",
+        "name": "Bend Weld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.464236,
+          1.5248382
+        ]
+      },
+      "id": "node/9845777386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777387",
+        "highway": "bus_stop",
+        "name": "Masjid Kampung Pengkalan Raja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4716764,
+          1.5243556
+        ]
+      },
+      "id": "node/9845777387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777388",
+        "highway": "bus_stop",
+        "name": "Klinik Desa Pengkalan Raja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4777892,
+          1.5234573
+        ]
+      },
+      "id": "node/9845777388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777389",
+        "highway": "bus_stop",
+        "name": "Desa Sri Aman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4852189,
+          1.5206956
+        ]
+      },
+      "id": "node/9845777389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777390",
+        "highway": "bus_stop",
+        "name": "Sekolah Kebangsaan Pengkalan Raja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4867075,
+          1.5179956
+        ]
+      },
+      "id": "node/9845777390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777391",
+        "highway": "bus_stop",
+        "name": "Sekolah Agama Pengkalan Raja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4873271,
+          1.5169043
+        ]
+      },
+      "id": "node/9845777391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777392",
+        "highway": "bus_stop",
+        "name": "Opposite GiatMARA Tanjung Piai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4930858,
+          1.5101998
+        ]
+      },
+      "id": "node/9845777392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777393",
+        "highway": "bus_stop",
+        "name": "Opposite Dewan Serbaguna Kampung Parit Pasir Baru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5027418,
+          1.5096702
+        ]
+      },
+      "id": "node/9845777393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777394",
+        "highway": "bus_stop",
+        "name": "Medan Selera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5071607,
+          1.508709
+        ]
+      },
+      "id": "node/9845777394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777395",
+        "highway": "bus_stop",
+        "name": "Hentian Jalan Besar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5096712,
+          1.5080159
+        ]
+      },
+      "id": "node/9845777395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777396",
+        "highway": "bus_stop",
+        "name": "Opposite BSN Pekan Nenas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.512222,
+          1.5072772
+        ]
+      },
+      "id": "node/9845777396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845777397",
+        "highway": "bus_stop",
+        "name": "Opposite Pekan Nenas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.517227,
+          1.5021171
+        ]
+      },
+      "id": "node/9845777397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792453",
+        "highway": "bus_stop",
+        "name": "Opposite Taman Sri Pulai (Lebuhraya Skudai - Pontian)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6176033,
+          1.5627415
+        ]
+      },
+      "id": "node/9845792453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792454",
+        "highway": "bus_stop",
+        "name": "Opposite Arked Pulai Perdana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6137637,
+          1.5651291
+        ]
+      },
+      "id": "node/9845792454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792455",
+        "highway": "bus_stop",
+        "name": "Petronas Pulai Perdana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5948461,
+          1.567266
+        ]
+      },
+      "id": "node/9845792455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792456",
+        "highway": "bus_stop",
+        "name": "Bandar Baru Kangkar Pulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5874218,
+          1.5644896
+        ]
+      },
+      "id": "node/9845792456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792457",
+        "highway": "bus_stop",
+        "name": "Kampung Kangkar Pulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5833448,
+          1.5620859
+        ]
+      },
+      "id": "node/9845792457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792458",
+        "highway": "bus_stop",
+        "name": "Pulai Hijauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5758239,
+          1.5599785
+        ]
+      },
+      "id": "node/9845792458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792459",
+        "highway": "bus_stop",
+        "name": "Nature at Work (Nursery)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5653982,
+          1.5567128
+        ]
+      },
+      "id": "node/9845792459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792460",
+        "highway": "bus_stop",
+        "name": "Taman Perindustrian Pekan Nenas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5254735,
+          1.4962129
+        ]
+      },
+      "id": "node/9845792460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792461",
+        "highway": "bus_stop",
+        "name": "Taman Perindustrian Pekan Nenas 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5223192,
+          1.4973578
+        ]
+      },
+      "id": "node/9845792461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792462",
+        "highway": "bus_stop",
+        "name": "Taman Mewah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5184541,
+          1.498559
+        ]
+      },
+      "id": "node/9845792462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792463",
+        "highway": "bus_stop",
+        "name": "Opposite Maybank Pekan Nenas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5171318,
+          1.5032486
+        ]
+      },
+      "id": "node/9845792463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792464",
+        "highway": "bus_stop",
+        "name": "Hentian Jalan Besar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5097316,
+          1.5082398
+        ]
+      },
+      "id": "node/9845792464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792465",
+        "highway": "bus_stop",
+        "name": "Medan Selera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5071526,
+          1.5088994
+        ]
+      },
+      "id": "node/9845792465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792466",
+        "highway": "bus_stop",
+        "name": "Dewan Serbaguna Kampung Parit Pasir Baru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5027659,
+          1.5098365
+        ]
+      },
+      "id": "node/9845792466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792467",
+        "highway": "bus_stop",
+        "name": "GiatMARA Tanjung Piai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4923509,
+          1.5106462
+        ]
+      },
+      "id": "node/9845792467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792468",
+        "highway": "bus_stop",
+        "name": "Sekolah Agama Pengkalan Raja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4874907,
+          1.5170089
+        ]
+      },
+      "id": "node/9845792468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792469",
+        "highway": "bus_stop",
+        "name": "Sekolah Kebangsaan Pengkalan Raja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4869516,
+          1.5180894
+        ]
+      },
+      "id": "node/9845792469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792470",
+        "highway": "bus_stop",
+        "name": "Desa Sri Aman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4854388,
+          1.5208538
+        ]
+      },
+      "id": "node/9845792470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792471",
+        "highway": "bus_stop",
+        "name": "Klinik Desa Pengkalan Raja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4778401,
+          1.5237523
+        ]
+      },
+      "id": "node/9845792471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792472",
+        "highway": "bus_stop",
+        "name": "Masjid Kampung Pengkalan Raja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4716684,
+          1.5246049
+        ]
+      },
+      "id": "node/9845792472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792473",
+        "highway": "bus_stop",
+        "name": "Opposite Bend Weld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4645042,
+          1.5251385
+        ]
+      },
+      "id": "node/9845792473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792474",
+        "highway": "bus_stop",
+        "name": "Kampung Parit Baru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4531021,
+          1.519414
+        ]
+      },
+      "id": "node/9845792474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792475",
+        "highway": "bus_stop",
+        "name": "Kampung Parit Selangor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.447845,
+          1.514955
+        ]
+      },
+      "id": "node/9845792475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792476",
+        "highway": "bus_stop",
+        "name": "Setia Ibarat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4461364,
+          1.5122577
+        ]
+      },
+      "id": "node/9845792476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792477",
+        "highway": "bus_stop",
+        "name": "Opposite Mardi Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4448127,
+          1.5090884
+        ]
+      },
+      "id": "node/9845792477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792478",
+        "highway": "bus_stop",
+        "name": "Simpang Parit Haji Othman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4420246,
+          1.5003018
+        ]
+      },
+      "id": "node/9845792478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792479",
+        "highway": "bus_stop",
+        "name": "Kampung Pinang Sari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4368291,
+          1.4958723
+        ]
+      },
+      "id": "node/9845792479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792480",
+        "highway": "bus_stop",
+        "name": "Taman Mutiara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4347317,
+          1.4946363
+        ]
+      },
+      "id": "node/9845792480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792481",
+        "highway": "bus_stop",
+        "name": "Opposite Taman Desa Molek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4295148,
+          1.4913651
+        ]
+      },
+      "id": "node/9845792481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792482",
+        "highway": "bus_stop",
+        "name": "Taman Pontian Perdana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4261459,
+          1.4892898
+        ]
+      },
+      "id": "node/9845792482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792483",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kampung Sungai Bunyi Parit Haji Isma",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4170076,
+          1.4842382
+        ]
+      },
+      "id": "node/9845792483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792484",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pertiwi Sejagat",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.412877,
+          1.483954
+        ]
+      },
+      "id": "node/9845792484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792485",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Taman Impian Indah",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.409358,
+          1.4845412
+        ]
+      },
+      "id": "node/9845792485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792486",
+        "highway": "bus_stop",
+        "name": "Opposite The Cookies Factory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4057745,
+          1.483836
+        ]
+      },
+      "id": "node/9845792486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792487",
+        "highway": "bus_stop",
+        "name": "Opposite Petron Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.402631,
+          1.4822486
+        ]
+      },
+      "id": "node/9845792487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792488",
+        "highway": "bus_stop",
+        "name": "Opposite JKR Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4012631,
+          1.4818223
+        ]
+      },
+      "id": "node/9845792488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792489",
+        "highway": "bus_stop",
+        "name": "JPN Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3989644,
+          1.4811493
+        ]
+      },
+      "id": "node/9845792489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792490",
+        "highway": "bus_stop",
+        "name": "Econsave Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3966389,
+          1.480487
+        ]
+      },
+      "id": "node/9845792490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792491",
+        "highway": "bus_stop",
+        "name": "Baitulmal Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3915146,
+          1.4786946
+        ]
+      },
+      "id": "node/9845792491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792492",
+        "highway": "bus_stop",
+        "name": "Sekolah Kebangsaan Bandar Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3874014,
+          1.4914241
+        ]
+      },
+      "id": "node/9845792492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792493",
+        "fixme": "position",
+        "highway": "bus_stop",
+        "name": "Bangunan Komuniti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3895177,
+          1.4853536
+        ]
+      },
+      "id": "node/9845792493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792494",
+        "highway": "bus_stop",
+        "name": "EcoShop Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3885413,
+          1.4779813
+        ]
+      },
+      "id": "node/9845792494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792495",
+        "highway": "bus_stop",
+        "name": "Baitulmal Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3915561,
+          1.4784774
+        ]
+      },
+      "id": "node/9845792495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845792496",
+        "highway": "bus_stop",
+        "name": "Opposite Econsave Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3969957,
+          1.4803422
+        ]
+      },
+      "id": "node/9845792496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845796800",
+        "highway": "bus_stop",
+        "name": "Orchid Valley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5694322,
+          1.5587545
+        ]
+      },
+      "id": "node/9845796800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845796801",
+        "highway": "bus_stop",
+        "name": "Kampung Kangkar Pulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5834736,
+          1.5618124
+        ]
+      },
+      "id": "node/9845796801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845796802",
+        "highway": "bus_stop",
+        "name": "Bandar Baru Kangkar Pulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5875894,
+          1.5642322
+        ]
+      },
+      "id": "node/9845796802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845797828",
+        "highway": "bus_stop",
+        "name": "Opposite Petronas Pulai Perdana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5948019,
+          1.5669242
+        ]
+      },
+      "id": "node/9845797828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845797829",
+        "highway": "bus_stop",
+        "name": "Arked Pulai Perdana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6134875,
+          1.5649186
+        ]
+      },
+      "id": "node/9845797829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845797830",
+        "highway": "bus_stop",
+        "name": "Taman Sri Pulai (Lebuhraya Skudai - Pontian)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6176811,
+          1.5623634
+        ]
+      },
+      "id": "node/9845797830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845867817",
+        "bus": "yes",
+        "bus_bay": "left",
+        "highway": "bus_stop",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0549567,
+          5.9530137
+        ]
+      },
+      "id": "node/9845867817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9846405643",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "passenger_information_display": "no",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.694131,
+          4.8475082
+        ]
+      },
+      "id": "node/9846405643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9846405651",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "passenger_information_display": "no",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.69478,
+          4.8465888
+        ]
+      },
+      "id": "node/9846405651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9846617834",
+        "highway": "bus_stop",
+        "name": "Sekolah Menegah Kebangsan Bandar Kota Tinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9042845,
+          1.7447567
+        ]
+      },
+      "id": "node/9846617834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9846620843",
+        "highway": "bus_stop",
+        "name": "Sekolah Kebangsaan Datuk Usman Awang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9050248,
+          1.7436897
+        ]
+      },
+      "id": "node/9846620843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9846620848",
+        "highway": "bus_stop",
+        "name": "Ibu Pejabat Polis Daerah Kota Tinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9017244,
+          1.7457701
+        ]
+      },
+      "id": "node/9846620848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9846624800",
+        "highway": "bus_stop",
+        "name": "Quarters Polis PDRM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8871747,
+          1.7418452
+        ]
+      },
+      "id": "node/9846624800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9846625392",
+        "highway": "bus_stop",
+        "name": "Plaza Kota Tinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.902474,
+          1.7312928
+        ]
+      },
+      "id": "node/9846625392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9846625393",
+        "highway": "bus_stop",
+        "name": "KIP Mart Kota Tinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9056444,
+          1.7337513
+        ]
+      },
+      "id": "node/9846625393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9846625994",
+        "highway": "bus_stop",
+        "name": "Sekolah Menegah Kebangsan Taman Kota Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8901077,
+          1.742939
+        ]
+      },
+      "id": "node/9846625994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9846626456",
+        "highway": "bus_stop",
+        "name": "Sekolah Agama Taman Kota Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8925365,
+          1.7375208
+        ]
+      },
+      "id": "node/9846626456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9846626457",
+        "highway": "bus_stop",
+        "name": "Sekolah Agama Taman Kota Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8925217,
+          1.7377232
+        ]
+      },
+      "id": "node/9846626457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9846626477",
+        "fixme": "position",
+        "highway": "bus_stop",
+        "name": "Taman Muhibbah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8980484,
+          1.7379363
+        ]
+      },
+      "id": "node/9846626477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9846626478",
+        "highway": "bus_stop",
+        "name": "Majlis Daerah Kota Tinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8997865,
+          1.7354242
+        ]
+      },
+      "id": "node/9846626478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9846626479",
+        "highway": "bus_stop",
+        "name": "Hospital Kota Tinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8996068,
+          1.735435
+        ]
+      },
+      "id": "node/9846626479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9846627277",
+        "highway": "bus_stop",
+        "name": "Taman Ria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9066797,
+          1.7345717
+        ]
+      },
+      "id": "node/9846627277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9846627278",
+        "highway": "bus_stop",
+        "name": "Taman Hidayat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9070901,
+          1.7370033
+        ]
+      },
+      "id": "node/9846627278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9846627279",
+        "highway": "bus_stop",
+        "name": "Taman Guru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9029354,
+          1.7385744
+        ]
+      },
+      "id": "node/9846627279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9846627280",
+        "highway": "bus_stop",
+        "name": "Sekolah Jenis Kebangsaan (C) New Kota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9044535,
+          1.7429296
+        ]
+      },
+      "id": "node/9846627280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848448693",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Free School",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3088286,
+          5.404268
+        ]
+      },
+      "id": "node/9848448693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849592642",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5924642,
+          3.2001144
+        ]
+      },
+      "id": "node/9849592642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849815430",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Stesen MRT Sri Damansara Timur",
+        "public_transport": "platform",
+        "ref": "KL938",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6305798,
+          3.2095557
+        ]
+      },
+      "id": "node/9849815430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9852572639",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5532967,
+          3.200257
+        ]
+      },
+      "id": "node/9852572639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9852572641",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5489597,
+          3.200228
+        ]
+      },
+      "id": "node/9852572641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9852756461",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4253834,
+          3.2432833
+        ]
+      },
+      "id": "node/9852756461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9852756468",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5618298,
+          3.2058444
+        ]
+      },
+      "id": "node/9852756468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9855601248",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Komersial Taman Ehsan",
+        "operator": "Rapid KL",
+        "public_transport": "platform",
+        "ref": "SL625",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.624655,
+          3.222446
+        ]
+      },
+      "id": "node/9855601248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9855601249",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "S.M.K Taman Ehsan",
+        "operator": "Rapid KL",
+        "public_transport": "platform",
+        "ref": "SL10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6227063,
+          3.2234458
+        ]
+      },
+      "id": "node/9855601249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9855601250",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan Taman Ehsan Jalan E3/1",
+        "operator": "Rapid KL",
+        "public_transport": "platform",
+        "ref": "SL626"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6202118,
+          3.2220339
+        ]
+      },
+      "id": "node/9855601250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9855601251",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kawasan Industri Taman Ehsan",
+        "operator": "Rapid KL",
+        "public_transport": "platform",
+        "ref": "SL627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6195554,
+          3.2190118
+        ]
+      },
+      "id": "node/9855601251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9855601252",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "SMK Kepong (Opp)",
+        "operator": "Rapid KL",
+        "public_transport": "platform",
+        "ref": "SL633"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6355313,
+          3.2263329
+        ]
+      },
+      "id": "node/9855601252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9855601253",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Taman Warisan FRIM",
+        "operator": "Rapid KL",
+        "public_transport": "platform",
+        "ref": "KL2444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6389571,
+          3.2264794
+        ]
+      },
+      "id": "node/9855601253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9855670598",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Plaza Arkadia (Davidson)",
+        "name:en": "Plaza Arkadia (Davidson)",
+        "operator": "Rapid KL",
+        "public_transport": "platform",
+        "ref": "KL2436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6357335,
+          3.1875468
+        ]
+      },
+      "id": "node/9855670598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9855670600",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "The Breezeway",
+        "operator": "Rapid KL",
+        "public_transport": "platform",
+        "ref": "KL2487"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6326079,
+          3.1846854
+        ]
+      },
+      "id": "node/9855670600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9855670601",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Komersial Dagang SD2",
+        "operator": "Rapid KL",
+        "public_transport": "platform",
+        "ref": "PJ871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6236702,
+          3.2013249
+        ]
+      },
+      "id": "node/9855670601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9859379735",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0524585,
+          5.9550102
+        ]
+      },
+      "id": "node/9859379735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9859921906",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0586064,
+          5.9564077
+        ]
+      },
+      "id": "node/9859921906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871437076",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Bahagia, Jalan Cheroh - Batu Malim",
+        "name:ms": "Taman Bahagia, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8479159,
+          3.8048572
+        ]
+      },
+      "id": "node/9871437076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871437080",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Muhibbah,Jalan Cheroh - Batu Malim",
+        "name:ms": "Taman Muhibbah,Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8475621,
+          3.8061686
+        ]
+      },
+      "id": "node/9871437080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871449606",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Baru Sungai Lui, Jalan Cheroh - Batu Malim",
+        "name:ms": "Kampung Baru Sungai Lui, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8460209,
+          3.8115483
+        ]
+      },
+      "id": "node/9871449606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871449608",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Benggal, Jalan Cheroh - Batu Malim",
+        "name:ms": "Kampung Benggal, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8451134,
+          3.8134471
+        ]
+      },
+      "id": "node/9871449608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871449610",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Mutiara 1 & 2, Jalan Cheroh - Batu Malim",
+        "name:ms": "Taman Mutiara 1 & 2, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8434985,
+          3.8183613
+        ]
+      },
+      "id": "node/9871449610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871449612",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Kampung Sempan Baru, Jalan Cheroh - Batu Malim",
+        "name:ms": "Masjid Kampung Sempan Baru, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8421824,
+          3.8226157
+        ]
+      },
+      "id": "node/9871449612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871449614",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Sempam Baru, Jalan Cheroh - Batu Malim",
+        "name:ms": "Kampung Sempam Baru, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8408052,
+          3.8242858
+        ]
+      },
+      "id": "node/9871449614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871458087",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Ling, Jalan Cheroh - Batu Malim",
+        "name:ms": "Kampung Ling, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8381432,
+          3.8280028
+        ]
+      },
+      "id": "node/9871458087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871458089",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Lorong Sempam Baru 23 Kampung Sempam Baru, Jalan Cheroh - Batu Malim",
+        "name:ms": "Lorong Sempam Baru 23 Kampung Sempam Baru, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8356717,
+          3.831489
+        ]
+      },
+      "id": "node/9871458089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871458091",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perkampungan Ibadan Wangsa, Jalan Cheroh - Batu Malim",
+        "name:ms": "Perkampungan Ibadan Wangsa, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.834179,
+          3.8336936
+        ]
+      },
+      "id": "node/9871458091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871458094",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Amalina Perdana, Jalan Cheroh - Batu Malim",
+        "name:ms": "Taman Amalina Perdana, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8313217,
+          3.8360168
+        ]
+      },
+      "id": "node/9871458094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871475137",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Konsortimum P.S.M.P Institut Pemandu, Jalan Cheroh - Batu Malim",
+        "name:ms": "Konsortimum P.S.M.P Institut Pemandu, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8239701,
+          3.8660291
+        ]
+      },
+      "id": "node/9871475137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871475139",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Cheroh Murni, Jalan Cheroh - Batu Malim",
+        "name:ms": "Kampung Cheroh Murni, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8170712,
+          3.8960472
+        ]
+      },
+      "id": "node/9871475139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871475141",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Taman Cheroh Murni, Jalan Cheroh - Batu Malim",
+        "name:en": "Opposite Taman Cheroh Murni, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8171983,
+          3.8961524
+        ]
+      },
+      "id": "node/9871475141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871482228",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Taman Bintang, Jalan Cheroh - Batu Malim",
+        "name:en": "Opposite Taman Bintang, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8170497,
+          3.8971874
+        ]
+      },
+      "id": "node/9871482228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871482230",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Bintang, Jalan Cheoh - Batu Malim",
+        "name:ms": "Taman Bintang, Jalan Cheoh - Batu Malim",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8168393,
+          3.8975441
+        ]
+      },
+      "id": "node/9871482230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871482233",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Felda Mempaga 2, Karak",
+        "name:ms": "Felda Mempaga 2, Karak",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9566332,
+          3.5500708
+        ]
+      },
+      "id": "node/9871482233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871482235",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perkampungan Felda Mempaga 3, Karak",
+        "name:ms": "Perkampungan Felda Mempaga 3, Karak",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9640529,
+          3.544245
+        ]
+      },
+      "id": "node/9871482235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871482237",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pasar Awam Felda Mempaga, Karak",
+        "name:ms": "Pasar Awam Felda Mempaga, Karak",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9650112,
+          3.5424097
+        ]
+      },
+      "id": "node/9871482237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871482239",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Stesen Bas Menpaga, Karak",
+        "name:ms": "Opposite Stesen Bas Menpaga, Karak",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9670662,
+          3.5391483
+        ]
+      },
+      "id": "node/9871482239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871482241",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SM Agama Persekutuan (SMAP) Bentong, Karak",
+        "name:ms": "SM Agama Persekutuan (SMAP) Bentong, Karak",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9711617,
+          3.5327678
+        ]
+      },
+      "id": "node/9871482241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871482243",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pusat Komuniti Kampung Sertik, Jalan Utama Mempaga",
+        "name:ms": "Pusat Komuniti Kampung Sertik, Jalan Utama Mempaga",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9723376,
+          3.5313309
+        ]
+      },
+      "id": "node/9871482243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871482245",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Felda Mempaga 1, Karak",
+        "name:ms": "Felda Mempaga 1, Karak",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9721481,
+          3.5311885
+        ]
+      },
+      "id": "node/9871482245"
     }
   ]
 }
