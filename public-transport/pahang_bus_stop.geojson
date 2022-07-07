@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-06-22T04:07:05Z",
+  "timestamp": "2022-07-07T06:55:24Z",
   "features": [
     {
       "type": "Feature",
@@ -177,8 +177,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.3017315,
-          3.8189079
+          103.3017449,
+          3.8188825
         ]
       },
       "id": "node/3883297080"
@@ -2448,6 +2448,7 @@
       "properties": {
         "@id": "node/9673239142",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "name": "Kg. Seberang Temerloh",
         "public_transport": "platform",
@@ -4191,6 +4192,604 @@
         ]
       },
       "id": "node/9837601749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871437076",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Bahagia, Jalan Cheroh - Batu Malim",
+        "name:ms": "Taman Bahagia, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8479159,
+          3.8048572
+        ]
+      },
+      "id": "node/9871437076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871437080",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Muhibbah,Jalan Cheroh - Batu Malim",
+        "name:ms": "Taman Muhibbah,Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8475621,
+          3.8061686
+        ]
+      },
+      "id": "node/9871437080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871449606",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Baru Sungai Lui, Jalan Cheroh - Batu Malim",
+        "name:ms": "Kampung Baru Sungai Lui, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8460209,
+          3.8115483
+        ]
+      },
+      "id": "node/9871449606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871449608",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Benggal, Jalan Cheroh - Batu Malim",
+        "name:ms": "Kampung Benggal, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8451134,
+          3.8134471
+        ]
+      },
+      "id": "node/9871449608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871449610",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Mutiara 1 & 2, Jalan Cheroh - Batu Malim",
+        "name:ms": "Taman Mutiara 1 & 2, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8434985,
+          3.8183613
+        ]
+      },
+      "id": "node/9871449610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871449612",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Kampung Sempan Baru, Jalan Cheroh - Batu Malim",
+        "name:ms": "Masjid Kampung Sempan Baru, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8421824,
+          3.8226157
+        ]
+      },
+      "id": "node/9871449612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871449614",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Sempam Baru, Jalan Cheroh - Batu Malim",
+        "name:ms": "Kampung Sempam Baru, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8408052,
+          3.8242858
+        ]
+      },
+      "id": "node/9871449614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871458087",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Ling, Jalan Cheroh - Batu Malim",
+        "name:ms": "Kampung Ling, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8381432,
+          3.8280028
+        ]
+      },
+      "id": "node/9871458087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871458089",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Lorong Sempam Baru 23 Kampung Sempam Baru, Jalan Cheroh - Batu Malim",
+        "name:ms": "Lorong Sempam Baru 23 Kampung Sempam Baru, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8356717,
+          3.831489
+        ]
+      },
+      "id": "node/9871458089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871458091",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perkampungan Ibadan Wangsa, Jalan Cheroh - Batu Malim",
+        "name:ms": "Perkampungan Ibadan Wangsa, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.834179,
+          3.8336936
+        ]
+      },
+      "id": "node/9871458091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871458094",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Amalina Perdana, Jalan Cheroh - Batu Malim",
+        "name:ms": "Taman Amalina Perdana, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8313217,
+          3.8360168
+        ]
+      },
+      "id": "node/9871458094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871475137",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Konsortimum P.S.M.P Institut Pemandu, Jalan Cheroh - Batu Malim",
+        "name:ms": "Konsortimum P.S.M.P Institut Pemandu, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8239701,
+          3.8660291
+        ]
+      },
+      "id": "node/9871475137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871475139",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Cheroh Murni, Jalan Cheroh - Batu Malim",
+        "name:ms": "Kampung Cheroh Murni, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8170712,
+          3.8960472
+        ]
+      },
+      "id": "node/9871475139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871475141",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Taman Cheroh Murni, Jalan Cheroh - Batu Malim",
+        "name:en": "Opposite Taman Cheroh Murni, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8171983,
+          3.8961524
+        ]
+      },
+      "id": "node/9871475141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871482228",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Taman Bintang, Jalan Cheroh - Batu Malim",
+        "name:en": "Opposite Taman Bintang, Jalan Cheroh - Batu Malim",
+        "operator": "MARA Liner, Pahang Lin Siong",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8170497,
+          3.8971874
+        ]
+      },
+      "id": "node/9871482228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871482230",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Bintang, Jalan Cheoh - Batu Malim",
+        "name:ms": "Taman Bintang, Jalan Cheoh - Batu Malim",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8168393,
+          3.8975441
+        ]
+      },
+      "id": "node/9871482230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871482233",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Felda Mempaga 2, Karak",
+        "name:ms": "Felda Mempaga 2, Karak",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9566332,
+          3.5500708
+        ]
+      },
+      "id": "node/9871482233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871482235",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perkampungan Felda Mempaga 3, Karak",
+        "name:ms": "Perkampungan Felda Mempaga 3, Karak",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9640529,
+          3.544245
+        ]
+      },
+      "id": "node/9871482235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871482237",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pasar Awam Felda Mempaga, Karak",
+        "name:ms": "Pasar Awam Felda Mempaga, Karak",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9650112,
+          3.5424097
+        ]
+      },
+      "id": "node/9871482237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871482239",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Stesen Bas Menpaga, Karak",
+        "name:ms": "Opposite Stesen Bas Menpaga, Karak",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9670662,
+          3.5391483
+        ]
+      },
+      "id": "node/9871482239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871482241",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SM Agama Persekutuan (SMAP) Bentong, Karak",
+        "name:ms": "SM Agama Persekutuan (SMAP) Bentong, Karak",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9711617,
+          3.5327678
+        ]
+      },
+      "id": "node/9871482241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871482243",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pusat Komuniti Kampung Sertik, Jalan Utama Mempaga",
+        "name:ms": "Pusat Komuniti Kampung Sertik, Jalan Utama Mempaga",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9723376,
+          3.5313309
+        ]
+      },
+      "id": "node/9871482243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871482245",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Felda Mempaga 1, Karak",
+        "name:ms": "Felda Mempaga 1, Karak",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9721481,
+          3.5311885
+        ]
+      },
+      "id": "node/9871482245"
     }
   ]
 }
