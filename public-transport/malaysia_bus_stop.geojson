@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-07-08T03:10:35Z",
+  "timestamp": "2022-07-09T15:46:24Z",
   "features": [
     {
       "type": "Feature",
@@ -10096,17 +10096,21 @@
         "bench": "yes",
         "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "operator": "MPSepang",
+        "name": "Station Salak Tinggi, Jalan Warisan Megah",
+        "name:en": "Station Salak Tinggi, Jalan Warisan Megah",
+        "operator": "Smart Selangor",
         "public_transport": "platform",
         "shelter": "yes",
+        "tactile_paving": "no",
         "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7129446,
-          2.8254954
+          101.7129406,
+          2.8254894
         ]
       },
       "id": "node/1769238060"
@@ -13288,11 +13292,14 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1985555473",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "local_ref": "Jejantas Stesen KTM Salak Selatan, Jalan Sungai Besi",
         "name": "T582 T583 T584",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -16789,8 +16796,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.9169536,
-          1.4553377
+          103.9169965,
+          1.4553109
         ]
       },
       "id": "node/2409009391"
@@ -17861,6 +17868,23 @@
         ]
       },
       "id": "node/2449627212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2450176035",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0573854,
+          5.9531099
+        ]
+      },
+      "id": "node/2450176035"
     },
     {
       "type": "Feature",
@@ -21089,23 +21113,6 @@
         ]
       },
       "id": "node/3386559966"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/3391076431",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.129291,
-          5.9926027
-        ]
-      },
-      "id": "node/3391076431"
     },
     {
       "type": "Feature",
@@ -29513,15 +29520,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4488753992",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Pentas Kebudayaan BBST, Jalan ST 1/2",
+        "name:ms": "Pentas Kebudayaan BBST, Jalan ST 1/2",
+        "operator": "Smart Selangor, Airport Liner",
+        "public_transport": "platform",
+        "ref": "SP151",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.73815,
-          2.8111646
+          101.7381202,
+          2.8112076
         ]
       },
       "id": "node/4488753992"
@@ -30005,17 +30022,18 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4578480695",
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Bus Rapit 104 and free bus",
-        "name:en": "Bus Rapit 104 and free bus",
-        "public_transport": "platform"
+        "name": "Hong Seng Estate",
+        "public_transport": "platform",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.3029656,
-          5.4410021
+          100.302974,
+          5.4409022
         ]
       },
       "id": "node/4578480695"
@@ -38660,14 +38678,15 @@
         "@id": "node/5459241769",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "KL1143 Bungsar Park Selatan",
-        "public_transport": "platform"
+        "name": "Bangsar Park (Selatan)",
+        "public_transport": "platform",
+        "ref": "KL1143"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6731545,
-          3.1307746
+          101.6733034,
+          3.130784
         ]
       },
       "id": "node/5459241769"
@@ -38696,8 +38715,9 @@
         "@id": "node/5459286923",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "KL1910 Simpang Lrg Maarof 4",
-        "public_transport": "platform"
+        "name": "Simpang Lrg Maarof 4",
+        "public_transport": "platform",
+        "ref": "KL1910"
       },
       "geometry": {
         "type": "Point",
@@ -38732,14 +38752,15 @@
         "@id": "node/5459317621",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "KL1912 Simpang Jln Maarof 2",
-        "public_transport": "platform"
+        "name": "Simpang Jln Maarof 2",
+        "public_transport": "platform",
+        "ref": "KL1912"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.673991,
-          3.1315155
+          101.6739213,
+          3.1315182
         ]
       },
       "id": "node/5459317621"
@@ -39303,8 +39324,9 @@
         "@id": "node/5461732621",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "KL1911 SIMPANG LRG MAAROF 2",
-        "public_transport": "platform"
+        "name": "Simpang Lrg Maarof 2",
+        "public_transport": "platform",
+        "ref": "KL1911"
       },
       "geometry": {
         "type": "Point",
@@ -40883,8 +40905,9 @@
         "@id": "node/5486057624",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "KL1134 KOMERSIAL TELAWI (SELATAN)",
-        "public_transport": "platform"
+        "name": "Komersial Telawi (Selatan)",
+        "public_transport": "platform",
+        "ref": "KL1134"
       },
       "geometry": {
         "type": "Point",
@@ -40946,14 +40969,15 @@
         "@id": "node/5486069821",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "KL1141 PREMISE NO83",
-        "public_transport": "platform"
+        "name": "Premise No 83",
+        "public_transport": "platform",
+        "ref": "KL1141"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6726784,
-          3.1317842
+          101.6726087,
+          3.1317922
         ]
       },
       "id": "node/5486069821"
@@ -43425,8 +43449,9 @@
         "@id": "node/5735938424",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "KL1153 BANGSAR PARK (SELATAN)",
-        "public_transport": "platform"
+        "name": "Bangsar Park (Selatan)",
+        "public_transport": "platform",
+        "ref": "KL1153"
       },
       "geometry": {
         "type": "Point",
@@ -45862,8 +45887,9 @@
         "@id": "node/5848224785",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "KL1135 KOMERSIAL TELAWI (UTARA)",
-        "public_transport": "platform"
+        "name": "Komersial Telawi (Utara)",
+        "public_transport": "platform",
+        "ref": "KL1135"
       },
       "geometry": {
         "type": "Point",
@@ -46064,14 +46090,15 @@
         "@id": "node/5907860389",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "KL1158 BANGSAR BARU (TIMUR)",
-        "public_transport": "platform"
+        "name": "Bangsar Baru (Timur)",
+        "public_transport": "platform",
+        "ref": "KL1158"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6732873,
-          3.1323814
+          101.6733269,
+          3.1323807
         ]
       },
       "id": "node/5907860389"
@@ -54957,13 +54984,17 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6964083971",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Komersial Medan PB",
         "passenger_information_display": "yes",
         "public_transport": "platform",
         "ref": "KJ873",
-        "route_ref": "T462;KJ04"
+        "route_ref": "T462;KJ04",
+        "shelter": "no"
       },
       "geometry": {
         "type": "Point",
@@ -55714,6 +55745,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7031889818",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
@@ -94463,16 +94496,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8881606247",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Jimart / KIP Sentral Sepang",
+        "name:en": "Jimart / KIP Sentral Sepang",
+        "name:ms": "Jimart / KIP Sentral Sepang",
         "operator": "Smart Selangor",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.69578,
-          2.8236168
+          101.695803,
+          2.8236219
         ]
       },
       "id": "node/8881606247"
@@ -154704,6 +154746,575 @@
         ]
       },
       "id": "node/9873521039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9873596808",
+        "bus": "yes",
+        "bus_bay": "left",
+        "highway": "bus_stop",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1293097,
+          5.992567
+        ]
+      },
+      "id": "node/9873596808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876040316",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Hong Seng Estate",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3031151,
+          5.4409297
+        ]
+      },
+      "id": "node/9876040316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876421605",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Jimart / KIP Sentral Sepang",
+        "name:en": "Opposite Jimart / KIP Sentral Sepang",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6957048,
+          2.823897
+        ]
+      },
+      "id": "node/9876421605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876464864",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "KIP Sentral Sepang, Sepang",
+        "name:en": "KIP Sentral Sepang, Sepang",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6933059,
+          2.8216937
+        ]
+      },
+      "id": "node/9876464864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876464866",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Taman Kota Warisan Permai, Persiaran Warisan",
+        "name:en": "Opposite Taman Kota Warisan Permai, Persiaran Warisan",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7006692,
+          2.826571
+        ]
+      },
+      "id": "node/9876464866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876464868",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Kota Warisan Permai, Persiaran Warisan",
+        "name:ms": "Taman Kota Warisan Permai, Persiaran Warisan",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7005334,
+          2.8266497
+        ]
+      },
+      "id": "node/9876464868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876464871",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Jimart / KIP Sentral Sepang",
+        "name:en": "Opposite Jimart / KIP Sentral Sepang",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7030711,
+          2.8269279
+        ]
+      },
+      "id": "node/9876464871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876464872",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Warisan Megah, Persiaran Warisan",
+        "name:ms": "Taman Warisan Megah, Persiaran Warisan",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7031619,
+          2.8270065
+        ]
+      },
+      "id": "node/9876464872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876528676",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite SK Kota Warisan, Persiaran Warisan",
+        "name:en": "Opposite SK Kota Warisan, Persiaran Warisan",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7043539,
+          2.8261424
+        ]
+      },
+      "id": "node/9876528676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876528679",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SK Kota Warisan, Persiaran Warisan",
+        "name:ms": "SK Kota Warisan, Persiaran Warisan",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7044654,
+          2.8261826
+        ]
+      },
+      "id": "node/9876528679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876528681",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Medan Selera Kota Warisan, Jalan Warisan Megah 1/4",
+        "name:en": "Opposite Medan Selera Kota Warisan, Jalan Warisan Megah 1/4",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7066016,
+          2.8244188
+        ]
+      },
+      "id": "node/9876528681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876528683",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Medan Selera Kota Warisan, Jalan Warisan Megah 1/4",
+        "name:ms": "Medan Selera Kota Warisan, Jalan Warisan Megah 1/4",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7067486,
+          2.8245513
+        ]
+      },
+      "id": "node/9876528683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876579667",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "IKTBN Sepang",
+        "name:en": "IKTBN Sepang",
+        "name:ms": "IKTBN Sepang",
+        "operator": "Smart Selangor, Airport Liner",
+        "public_transport": "platform",
+        "ref": "SP240",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7183471,
+          2.8057424
+        ]
+      },
+      "id": "node/9876579667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876579669",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "IKTBN Sepang",
+        "name:en": "IKTBN Sepang",
+        "name:ms": "IKTBN Sepang",
+        "operator": "Smart Selangor, Airport Liner",
+        "public_transport": "platform",
+        "ref": "SP98",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7183637,
+          2.805485
+        ]
+      },
+      "id": "node/9876579669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876651846",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "WRP Asia Pasific",
+        "name:en": "WRP Asia Pasific",
+        "operator": "Smart Selangor, Airport Liner",
+        "public_transport": "platform",
+        "ref": "SP239",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7311333,
+          2.8059903
+        ]
+      },
+      "id": "node/9876651846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876651848",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "WRP Asia Pasific",
+        "name:en": "WRP Asia Pasific",
+        "operator": "Smart Selangor, Airport Liner",
+        "public_transport": "platform",
+        "ref": "SP235",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7308629,
+          2.8057265
+        ]
+      },
+      "id": "node/9876651848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876651850",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Komplek Kerajaan Daerah Sepang",
+        "name:ms": "Komplek Kerajaan Daerah Sepang",
+        "operator": "Airport Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.746739,
+          2.8064637
+        ]
+      },
+      "id": "node/9876651850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876651852",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kompleks Pentadbiran Sepang, Jalan ST 1/1",
+        "name:ms": "Kompleks Pentadbiran Sepang, Jalan ST 1/1",
+        "operator": "Smart Selangor, Airport Liner",
+        "public_transport": "platform",
+        "ref": "SP153",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7425082,
+          2.8105863
+        ]
+      },
+      "id": "node/9876651852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876651854",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Seri Sepang (Timur), Jalan ST 1/1",
+        "name:ms": "SMK Seri Sepang (Timur), Jalan ST 1/1",
+        "operator": "Smart Selangor, Airport Liner",
+        "public_transport": "platform",
+        "ref": "SP154",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7423956,
+          2.810454
+        ]
+      },
+      "id": "node/9876651854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876651856",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Menegah Kebangsaan Seri Sepang, Jalan ST 1/2",
+        "name:ms": "Sekolah Menegah Kebangsaan Seri Sepang, Jalan ST 1/2",
+        "operator": "Smart Selangor, Airport Liner",
+        "public_transport": "platform",
+        "ref": "SP152",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7406774,
+          2.8112609
+        ]
+      },
+      "id": "node/9876651856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876651859",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMA BBST / Kawasan Industri BBST",
+        "name:ms": "SMA BBST / Kawasan Industri BBST",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SP160",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7339293,
+          2.8183809
+        ]
+      },
+      "id": "node/9876651859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876651860",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Agama Menengah BBST, Jalan Taman Dahlia",
+        "name:ms": "Sekolah Agama Menengah BBST, Jalan Taman Dahlia",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SP149",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7340045,
+          2.818635
+        ]
+      },
+      "id": "node/9876651860"
     }
   ]
 }
