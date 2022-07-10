@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-07-09T15:27:09Z",
+  "timestamp": "2022-07-10T05:54:39Z",
   "features": [
     {
       "type": "Feature",
@@ -6820,9 +6820,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4719933879",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Taman Seri Delima, Jalan Kajang - Dengkil",
+        "name:ms": "Taman Seri Delima, Jalan Kajang - Dengkil",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SP94",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -14288,16 +14298,24 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7404150883",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Medan Selera Taman Seroja, Jalan Seroja Indah",
+        "name:ms": "Medan Selera Taman Seroja, Jalan Seroja Indah",
+        "operator": "Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7290139,
-          2.8275236
+          101.7289998,
+          2.827531
         ]
       },
       "id": "node/7404150883"
@@ -14306,16 +14324,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7404150884",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "SK Taman Seroja, Jalan Seroja Indah",
+        "name:ms": "SK Taman Seroja, Jalan Seroja Indah",
+        "operator": "Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "SP387",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7288122,
-          2.8285479
+          101.7287934,
+          2.8285385
         ]
       },
       "id": "node/7404150884"
@@ -14324,9 +14351,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7404171705",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Taman Seroja, Bandar Baru Sepang",
+        "name:ms": "Taman Seroja, Bandar Baru Sepang",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SP164",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -14341,16 +14378,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7404298952",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Desa Vista, Dengkil",
+        "name:ms": "Desa Vista, Dengkil",
+        "operator": "Smart Selangor",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "SP166",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7400269,
-          2.8361358
+          101.7400183,
+          2.8361387
         ]
       },
       "id": "node/7404298952"
@@ -14574,15 +14620,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7418975493",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kolej Teknologi Timur, Dengkil",
+        "name:ms": "Kolej Teknologi Timur, Dengkil",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SP167",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7383971,
-          2.8528713
+          101.7384009,
+          2.8528617
         ]
       },
       "id": "node/7418975493"
@@ -14591,15 +14647,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7418975494",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Kolej Tekologi Timur, Dengkil",
+        "name:ms": "Kolej Tekologi Timur, Dengkil",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SP178",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7385753,
-          2.8534358
+          101.7385453,
+          2.8534658
         ]
       },
       "id": "node/7418975494"
@@ -51079,6 +51145,461 @@
         ]
       },
       "id": "node/9876651860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9877734627",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Seroja, Bandar Baru Sepang",
+        "name:ms": "Taman Seroja, Bandar Baru Sepang",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SP145",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7363312,
+          2.8293089
+        ]
+      },
+      "id": "node/9877734627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9877734629",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Mawar, Dengkil",
+        "name:ms": "Taman Mawar, Dengkil",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SP165",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.739814,
+          2.8335055
+        ]
+      },
+      "id": "node/9877734629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9877734632",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Mawar, Dengkil",
+        "name:ms": "Taman Mawar, Dengkil",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SP144",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7401077,
+          2.8340869
+        ]
+      },
+      "id": "node/9877734632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9877734635",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Desa Vista, Dengkil",
+        "name:ms": "Desa Vista, Dengkil",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SP179",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7401672,
+          2.8363776
+        ]
+      },
+      "id": "node/9877734635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9877773001",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Stadium BBST, Jalan Taman Dahlia",
+        "name:ms": "Stadium BBST, Jalan Taman Dahlia",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SP162",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7248444,
+          2.8220886
+        ]
+      },
+      "id": "node/9877773001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9877773003",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Stadium BBST, Jalan Taman Dahlia",
+        "name:ms": "Stadium BBST, Jalan Taman Dahlia",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SP147",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7250399,
+          2.8222553
+        ]
+      },
+      "id": "node/9877773003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9877773005",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Seroja",
+        "name:ms": "Taman Seroja",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SP164",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7268279,
+          2.8245335
+        ]
+      },
+      "id": "node/9877773005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9877773008",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Dahlia, Bandar Baru Sepang",
+        "name:ms": "Taman Dahlia, Bandar Baru Sepang",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.731215,
+          2.8267574
+        ]
+      },
+      "id": "node/9877773008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9877779293",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7036981,
+          2.8241277
+        ]
+      },
+      "id": "node/9877779293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9877779300",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SRA BBST/ Anjung Ixora, BBST",
+        "name:ms": "SRA BBST/ Anjung Ixora, BBST",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SP161",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7316186,
+          2.8185155
+        ]
+      },
+      "id": "node/9877779300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9877779302",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SRA BBST, Jalan Taman Dahlia",
+        "name:ms": "SRA BBST, Jalan Taman Dahlia",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SP148",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7314885,
+          2.8187161
+        ]
+      },
+      "id": "node/9877779302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9878301719",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Dahlia 1, Jalan Seroja Indah",
+        "name:ms": "Taman Dahlia 1, Jalan Seroja Indah",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SP389",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7273192,
+          2.831589
+        ]
+      },
+      "id": "node/9878301719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9878301722",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Dahlia 2, Jalan Seroja Indah",
+        "name:ms": "Taman Dahlia 2, Jalan Seroja Indah",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SP391",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7211225,
+          2.8320842
+        ]
+      },
+      "id": "node/9878301722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9878341130",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Bandar Baru Salak Tinggi, Jalan Dahlia Perwira",
+        "name:ms": "SMK Bandar Baru Salak Tinggi, Jalan Dahlia Perwira",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SP392",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7195361,
+          2.827846
+        ]
+      },
+      "id": "node/9878341130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9878341133",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Seri Delima, Jalan Kajang - Dengkil",
+        "name:ms": "Taman Seri Delima, Jalan Kajang - Dengkil",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SP12",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6840141,
+          2.8558618
+        ]
+      },
+      "id": "node/9878341133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9878341152",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "MIAT, Dengkil",
+        "name:en": "MIAT, Dengkil",
+        "name:ms": "MIAT, Dengkil",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SP168",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7343947,
+          2.859352
+        ]
+      },
+      "id": "node/9878341152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9878341154",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Malaysia Institute of Aviation Technology, Dengkil",
+        "name:en": "Malaysia Institute of Aviation Technology, Dengkil",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "ref": "SP177",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7345569,
+          2.8594314
+        ]
+      },
+      "id": "node/9878341154"
     }
   ]
 }
