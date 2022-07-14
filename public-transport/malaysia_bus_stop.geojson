@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-07-10T05:56:38Z",
+  "timestamp": "2022-07-14T14:21:29Z",
   "features": [
     {
       "type": "Feature",
@@ -47319,16 +47319,23 @@
       "properties": {
         "@id": "node/6040590678",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "SMK Karak, Karak",
+        "name:ms": "SMK Karak, Karak",
+        "operator": "Union Express",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.0362654,
-          3.4124583
+          102.0363119,
+          3.4124562
         ]
       },
       "id": "node/6040590678"
@@ -47338,16 +47345,23 @@
       "properties": {
         "@id": "node/6040590859",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Klinik Kesihatan Karak, Jalan Lama Bentong - Karak",
+        "name:ms": "Klinik Kesihatan Karak, Jalan Lama Bentong - Karak",
+        "operator": "Union Express",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.0302707,
-          3.4179966
+          102.0304181,
+          3.4180115
         ]
       },
       "id": "node/6040590859"
@@ -47357,16 +47371,23 @@
       "properties": {
         "@id": "node/6040590860",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Opposite Klinik Kesihatan Karak, Jalan Lama Bentong - Karak",
+        "name:en": "Opposite Klinik Kesihatan Karak, Jalan Lama Bentong - Karak",
+        "operator": "Union Express",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.0301661,
-          3.4177851
+          102.0303243,
+          3.4178641
         ]
       },
       "id": "node/6040590860"
@@ -47376,16 +47397,23 @@
       "properties": {
         "@id": "node/6040590869",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Kampung Sungai Cherpai, Jalan Lama Bentong - Karak",
+        "name:ms": "Kampung Sungai Cherpai, Jalan Lama Bentong - Karak",
+        "operator": "Union Express",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.0261535,
-          3.4228869
+          102.0261948,
+          3.422985
         ]
       },
       "id": "node/6040590869"
@@ -99676,8 +99704,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6747111,
-          3.2093509
+          101.6747005,
+          3.2093472
         ]
       },
       "id": "node/9459593061"
@@ -141521,8 +141549,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6758054,
-          3.2054036
+          101.6756808,
+          3.2050861
         ]
       },
       "id": "node/9774145272"
@@ -155836,6 +155864,188 @@
         ]
       },
       "id": "node/9878341154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9883444179",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Stesen MRT/KTM Kampung Batu",
+        "operator": "DBKL",
+        "public_transport": "platform",
+        "route_ref": "MAROON",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6759001,
+          3.2054144
+        ]
+      },
+      "id": "node/9883444179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9887270339",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Karak Jaya, Jalan Lama Bentong - Karak",
+        "name:ms": "Taman Karak Jaya, Jalan Lama Bentong - Karak",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0226641,
+          3.4248572
+        ]
+      },
+      "id": "node/9887270339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9887270341",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pasar Borong Karak Enterprise, Jalan Lama Bentong - Karak",
+        "name:ms": "Pasar Borong Karak Enterprise, Jalan Lama Bentong - Karak",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0226895,
+          3.424617
+        ]
+      },
+      "id": "node/9887270341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9887277725",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Hijau, Jalan Lama Bentong - Karak",
+        "name:ms": "Taman Hijau, Jalan Lama Bentong - Karak",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0260855,
+          3.4227744
+        ]
+      },
+      "id": "node/9887277725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9887437487",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pekan Karak, Karak",
+        "name:ms": "Pekan Karak, Karak",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0331093,
+          3.4153329
+        ]
+      },
+      "id": "node/9887437487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9887437489",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Baru Karak, Jalan Lama Bentong - Karak",
+        "name:ms": "Kampung Baru Karak, Jalan Lama Bentong - Karak",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0351656,
+          3.4135545
+        ]
+      },
+      "id": "node/9887437489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9887437491",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Medan Selera Karak, Jalan Lama Bentong - Karak",
+        "name:ms": "Medan Selera Karak, Jalan Lama Bentong - Karak",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0349556,
+          3.413329
+        ]
+      },
+      "id": "node/9887437491"
     }
   ]
 }
