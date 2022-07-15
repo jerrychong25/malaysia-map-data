@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-07-10T05:54:39Z",
+  "timestamp": "2022-07-15T08:23:01Z",
   "features": [
     {
       "type": "Feature",
@@ -5734,6 +5734,33 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4425419931",
+        "air_conditioning": "yes",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "yes",
+        "highway": "bus_stop",
+        "internet_access": "yes",
+        "name": "Terminal Bus KLIA, Jalan CTA 2",
+        "name:en": "Terminal Bus KLIA, Jalan CTA 2",
+        "operator": "Smart Selangor, Airport Liner, K.R. Travel & Tours, Jetbus, Aero Bus, SkyBus, Transnasional",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7044166,
+          2.755759
+        ]
+      },
+      "id": "node/4425419931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4444002348",
         "bench": "yes",
         "bin": "yes",
@@ -5891,17 +5918,28 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4702087192",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Free Shuttle Bus KLIA/KLIA2",
-        "name:en": "Free Shuttle Bus KLIA/KLIA2",
-        "public_transport": "platform"
+        "name": "Mitsui",
+        "name:en": "Mitsui",
+        "name:ms": "Mitsui",
+        "name:zh": "三井名牌城",
+        "name:zh-Hans": "三井名牌城",
+        "name:zh-Hant": "三井名牌城",
+        "operator": "Smart Selangor, Mitsui Outlet Park  KLIA Sepang Free Shuttle Bus",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.677747,
-          2.7789364
+          101.6777819,
+          2.7788951
         ]
       },
       "id": "node/4702087192"
@@ -10603,6 +10641,32 @@
         ]
       },
       "id": "node/6297460733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6338974785",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "yes",
+        "highway": "bus_stop",
+        "name": "KLIA2, Sepang",
+        "name:en": "KLIA2, Sepang",
+        "name:ms": "KLIA2, Sepang",
+        "operator": "Smart Selangor, Airport Liner, K.R. Travel & Tours, Jetbus, Aero Bus, SkyBus, Transnasional",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6847154,
+          2.7450794
+        ]
+      },
+      "id": "node/6338974785"
     },
     {
       "type": "Feature",
@@ -51600,6 +51664,59 @@
         ]
       },
       "id": "node/9878341154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889108978",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kompleks Tabung Haji",
+        "name:ms": "Kompleks Tabung Haji",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6788132,
+          2.7883743
+        ]
+      },
+      "id": "node/9889108978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889110226",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "LTCP, Sepang",
+        "name:en": "LTCP, Sepang",
+        "name:ms": "LTCP, Sepang",
+        "operator": "MAHB",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6989087,
+          2.7590074
+        ]
+      },
+      "id": "node/9889110226"
     }
   ]
 }
