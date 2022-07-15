@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-07-14T14:21:29Z",
+  "timestamp": "2022-07-15T08:25:09Z",
   "features": [
     {
       "type": "Feature",
@@ -29332,6 +29332,33 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4425419931",
+        "air_conditioning": "yes",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "yes",
+        "highway": "bus_stop",
+        "internet_access": "yes",
+        "name": "Terminal Bus KLIA, Jalan CTA 2",
+        "name:en": "Terminal Bus KLIA, Jalan CTA 2",
+        "operator": "Smart Selangor, Airport Liner, K.R. Travel & Tours, Jetbus, Aero Bus, SkyBus, Transnasional",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7044166,
+          2.755759
+        ]
+      },
+      "id": "node/4425419931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4427842697",
         "bus": "yes",
         "highway": "bus_stop",
@@ -31387,17 +31414,28 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4702087192",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Free Shuttle Bus KLIA/KLIA2",
-        "name:en": "Free Shuttle Bus KLIA/KLIA2",
-        "public_transport": "platform"
+        "name": "Mitsui",
+        "name:en": "Mitsui",
+        "name:ms": "Mitsui",
+        "name:zh": "三井名牌城",
+        "name:zh-Hans": "三井名牌城",
+        "name:zh-Hant": "三井名牌城",
+        "operator": "Smart Selangor, Mitsui Outlet Park  KLIA Sepang Free Shuttle Bus",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.677747,
-          2.7789364
+          101.6777819,
+          2.7788951
         ]
       },
       "id": "node/4702087192"
@@ -47477,15 +47515,24 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6044438365",
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Taman Industri Perabot, Lanchang",
+        "name:ms": "Taman Industri Perabot, Lanchang",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.1065621,
-          3.4688572
+          102.1066002,
+          3.4688735
         ]
       },
       "id": "node/6044438365"
@@ -47495,16 +47542,23 @@
       "properties": {
         "@id": "node/6044440027",
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
+        "name": "Rumah Awam Kampung Teroh, Jalan Mentakab - Karak",
+        "name:ms": "Rumah Awam Kampung Teroh, Jalan Mentakab - Karak",
+        "operator": "Union Express",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.0511678,
-          3.4226232
+          102.0512249,
+          3.4226123
         ]
       },
       "id": "node/6044440027"
@@ -50574,6 +50628,32 @@
         ]
       },
       "id": "node/6336737085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6338974785",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "yes",
+        "highway": "bus_stop",
+        "name": "KLIA2, Sepang",
+        "name:en": "KLIA2, Sepang",
+        "name:ms": "KLIA2, Sepang",
+        "operator": "Smart Selangor, Airport Liner, K.R. Travel & Tours, Jetbus, Aero Bus, SkyBus, Transnasional",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6847154,
+          2.7450794
+        ]
+      },
+      "id": "node/6338974785"
     },
     {
       "type": "Feature",
@@ -156046,6 +156126,995 @@
         ]
       },
       "id": "node/9887437491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9888870858",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Sentosa Karak, Jalan Lama Bentong - Karak",
+        "name:ms": "Taman Sentosa Karak, Jalan Lama Bentong - Karak",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0499282,
+          3.4207546
+        ]
+      },
+      "id": "node/9888870858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9888870861",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Kampung Poh, Kerak",
+        "name:en": "Opposite Kampung Poh, Kerak",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0511502,
+          3.4228916
+        ]
+      },
+      "id": "node/9888870861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9888870863",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Teroh, Jalan Mentakab - Karak",
+        "name:ms": "Kampung Teroh, Jalan Mentakab - Karak",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0520975,
+          3.4242877
+        ]
+      },
+      "id": "node/9888870863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9888870865",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Menengah Kebangsaan Karak Setia, Karak",
+        "name:ms": "Sekolah Menengah Kebangsaan Karak Setia, Karak",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0532763,
+          3.4268732
+        ]
+      },
+      "id": "node/9888870865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9888901872",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Jenis Kebangsaan (T) Karak",
+        "name:ms": "Sekolah Jenis Kebangsaan (T) Karak",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0423512,
+          3.4123239
+        ]
+      },
+      "id": "node/9888901872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9888901875",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Seri Makmur, Jalan Lama Bentong - Karak",
+        "name:ms": "Taman Seri Makmur, Jalan Lama Bentong - Karak",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0480373,
+          3.4179323
+        ]
+      },
+      "id": "node/9888901875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9888901877",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Bukit Dinding, Jalan Lama Bentong - Karak",
+        "name:ms": "Taman Bukit Dinding, Jalan Lama Bentong - Karak",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.048739,
+          3.4182569
+        ]
+      },
+      "id": "node/9888901877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9888948709",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Kampung Karak Setia, Jalan Mentakab - Karak",
+        "name:en": "Opposite Kampung Karak Setia, Jalan Mentakab - Karak",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0560901,
+          3.4313973
+        ]
+      },
+      "id": "node/9888948709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9888948715",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Karak Setia, Karak",
+        "name:ms": "Kampung Karak Setia, Karak",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0556795,
+          3.4313348
+        ]
+      },
+      "id": "node/9888948715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9888997456",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Ladang Sungei Pertang, Lanchang",
+        "name:ms": "Ladang Sungei Pertang, Lanchang",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0785246,
+          3.4476253
+        ]
+      },
+      "id": "node/9888997456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9888997458",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Kuala Pertang, Karak",
+        "name:ms": "Kampung Kuala Pertang, Karak",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0792343,
+          3.4483212
+        ]
+      },
+      "id": "node/9888997458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9888997471",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Kebangsaan Jambu Rias, Karak",
+        "name:ms": "Sekolah Kebangsaan Jambu Rias, Karak",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0966515,
+          3.4650283
+        ]
+      },
+      "id": "node/9888997471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9888999604",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Batu 3 Karak, Lanchang",
+        "name:ms": "Batu 3 Karak, Lanchang",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.06642,
+          3.4386313
+        ]
+      },
+      "id": "node/9888999604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9888999606",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Karak Setia Stop 2, Karak",
+        "name:ms": "Kampung Karak Setia Stop 2, Karak",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0666689,
+          3.4390582
+        ]
+      },
+      "id": "node/9888999606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9888999608",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kolej Komuniti Bentong, Bentong",
+        "name:ms": "Kolej Komuniti Bentong, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0698904,
+          3.4414079
+        ]
+      },
+      "id": "node/9888999608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9888999609",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Perumahan Batu 4, Lanchang",
+        "name:en": "Opposite Perumahan Batu 4, Lanchang",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0703641,
+          3.4415388
+        ]
+      },
+      "id": "node/9888999609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9888999612",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Sekolah Menengah Kebangsaan Seri Bentong, Bentong",
+        "name:en": "Opposite Sekolah Menengah Kebangsaan Seri Bentong, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0740597,
+          3.4446707
+        ]
+      },
+      "id": "node/9888999612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9888999614",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Menengah Kebangsaan Seri Bentong",
+        "name:ms": "Sekolah Menengah Kebangsaan Seri Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0741832,
+          3.4451086
+        ]
+      },
+      "id": "node/9888999614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889000117",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Karak Setia, Jalan Mentakab - Karak",
+        "name:ms": "Kampung Karak Setia, Jalan Mentakab - Karak",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0613095,
+          3.4350663
+        ]
+      },
+      "id": "node/9889000117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889000119",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pertubuhan Peladang Kawasan Bentong Subcenter Karak Setia, Jalan Mentakab - Karak",
+        "name:ms": "Pertubuhan Peladang Kawasan Bentong Subcenter Karak Setia, Jalan Mentakab - Karak",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0635784,
+          3.4365881
+        ]
+      },
+      "id": "node/9889000119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889000121",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Surau Batu 3 Karak, Lanchang",
+        "name:ms": "Surau Batu 3 Karak, Lanchang",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0649811,
+          3.4375861
+        ]
+      },
+      "id": "node/9889000121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889045327",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pusat Pertanian Jambu Rias, Lanchang",
+        "name:ms": "Pusat Pertanian Jambu Rias, Lanchang",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.104856,
+          3.4689627
+        ]
+      },
+      "id": "node/9889045327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889045329",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Jambu Rias, Karak",
+        "name:ms": "Kampung Jambu Rias, Karak",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1053604,
+          3.4690525
+        ]
+      },
+      "id": "node/9889045329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889045343",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Gado, Bentong",
+        "name:ms": "Kampung Gado, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0552725,
+          3.3793024
+        ]
+      },
+      "id": "node/9889045343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889056730",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "The Valley, Bentong",
+        "name:en": "The Valley, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0587604,
+          3.3707655
+        ]
+      },
+      "id": "node/9889056730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889056732",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Ladang Kelulut, Bentong",
+        "name:ms": "Ladang Kelulut, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0576423,
+          3.3692046
+        ]
+      },
+      "id": "node/9889056732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889056734",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Sjk Tamil Seri Taling, Bentong",
+        "name:en": "Opposite Sjk Tamil Seri Taling, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0568026,
+          3.3676131
+        ]
+      },
+      "id": "node/9889056734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889056736",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sjk Tamil Seri Taling, Bentong",
+        "name:ms": "Sjk Tamil Seri Taling, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0569387,
+          3.3669755
+        ]
+      },
+      "id": "node/9889056736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889059695",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Seri Telemong, Bentong",
+        "name:ms": "Kampung Seri Telemong, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0636555,
+          3.3587207
+        ]
+      },
+      "id": "node/9889059695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889059698",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Baru Seri Telemong, Bentong",
+        "name:ms": "Kampung Baru Seri Telemong, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0638423,
+          3.3582589
+        ]
+      },
+      "id": "node/9889059698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889059701",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Ladang Renjok, Bentong",
+        "name:ms": "Ladang Renjok, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0611599,
+          3.331575
+        ]
+      },
+      "id": "node/9889059701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889079282",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Balai Raya Kampung Sungai Perdak, Bentong",
+        "name:ms": "Balai Raya Kampung Sungai Perdak, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0614123,
+          3.3265564
+        ]
+      },
+      "id": "node/9889079282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889079286",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Kelab Rekreasi India Telemomg (  Pelangai), Bentong",
+        "name:en": "Opposite Kelab Rekreasi India Telemomg (  Pelangai), Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0765607,
+          3.3040921
+        ]
+      },
+      "id": "node/9889079286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889091840",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kelab Rekreasi India Telemomg (Pelangai), Bentong",
+        "name:ms": "Kelab Rekreasi India Telemomg (Pelangai), Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0766708,
+          3.3041546
+        ]
+      },
+      "id": "node/9889091840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889108967",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sjk (T) Ladang Renjok, Bentong",
+        "name:ms": "Sjk (T) Ladang Renjok, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0874092,
+          3.2940333
+        ]
+      },
+      "id": "node/9889108967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889108969",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SJK (C) Telemong, Bentong",
+        "name:ms": "SJK (C) Telemong, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0886439,
+          3.2928004
+        ]
+      },
+      "id": "node/9889108969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889108978",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kompleks Tabung Haji",
+        "name:ms": "Kompleks Tabung Haji",
+        "operator": "Smart Selangor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6788132,
+          2.7883743
+        ]
+      },
+      "id": "node/9889108978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9889110226",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "LTCP, Sepang",
+        "name:en": "LTCP, Sepang",
+        "name:ms": "LTCP, Sepang",
+        "operator": "MAHB",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6989087,
+          2.7590074
+        ]
+      },
+      "id": "node/9889110226"
     }
   ]
 }
