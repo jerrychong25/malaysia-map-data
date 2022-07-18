@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-05-17T15:45:24Z",
+  "timestamp": "2022-07-18T16:00:38Z",
   "features": [
     {
       "type": "Feature",
@@ -1692,14 +1692,13 @@
         "@id": "node/8025543543",
         "bench": "yes",
         "highway": "bus_stop",
-        "shelter": "yes",
-        "shelter_type": "public_transport"
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.1664634,
-          2.5100771
+          102.1664902,
+          2.5100731
         ]
       },
       "id": "node/8025543543"
@@ -1713,8 +1712,7 @@
         "highway": "bus_stop",
         "operator": "Majlis Daerah Rembau",
         "public_transport": "platform",
-        "shelter": "yes",
-        "shelter_type": "public_transport"
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -3035,6 +3033,7 @@
       "properties": {
         "@id": "node/8286630998",
         "bench": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
         "shelter": "yes"
@@ -3390,6 +3389,131 @@
         ]
       },
       "id": "node/9581034110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9798851554",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8496425,
+          2.8438183
+        ]
+      },
+      "id": "node/9798851554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9798851581",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8681532,
+          2.8347103
+        ]
+      },
+      "id": "node/9798851581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9798851608",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "passenger_information_display": "no",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8631624,
+          2.8351234
+        ]
+      },
+      "id": "node/9798851608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9798886961",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8596326,
+          2.8371949
+        ]
+      },
+      "id": "node/9798886961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895533561",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perhentian Bas Abdulah Kadir, Jalan Karak - Kuala Pilah",
+        "name:ms": "Perhentian Bas Abdulah Kadir, Jalan Karak - Kuala Pilah",
+        "operator": "Khidmat Rakyat NS",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.2000753,
+          3.1502611
+        ]
+      },
+      "id": "node/9895533561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895533564",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Baru Durian Tipus, Jalan Karak - Kuala Pilah",
+        "name:ms": "Kampung Baru Durian Tipus, Jalan Karak - Kuala Pilah",
+        "operator": "Khidmat Rakyat NS",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.2240027,
+          3.118762
+        ]
+      },
+      "id": "node/9895533564"
     }
   ]
 }
