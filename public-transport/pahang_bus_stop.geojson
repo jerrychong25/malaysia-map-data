@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-07-15T08:12:49Z",
+  "timestamp": "2022-07-18T15:56:39Z",
   "features": [
     {
       "type": "Feature",
@@ -6420,6 +6420,553 @@
         ]
       },
       "id": "node/9889108969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895363006",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Balai Polis Telemong, Bentong",
+        "name:ms": "Balai Polis Telemong, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0896597,
+          3.2903588
+        ]
+      },
+      "id": "node/9895363006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895384968",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Sungai Gapoi, Bentong",
+        "name:ms": "Kampung Sungai Gapoi, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1038546,
+          3.2747384
+        ]
+      },
+      "id": "node/9895384968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895384970",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pekan Sungai Gapoi, Bentong",
+        "name:ms": "Pekan Sungai Gapoi, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1062166,
+          3.2720848
+        ]
+      },
+      "id": "node/9895384970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895384971",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Dewan Serbaguna Sungai Gapoi, Bentong",
+        "name:ms": "Dewan Serbaguna Sungai Gapoi, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1062982,
+          3.2717168
+        ]
+      },
+      "id": "node/9895384971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895406227",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Thong Heng Estate, Bentong",
+        "name:en": "Thong Heng Estate, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.096812,
+          3.2832922
+        ]
+      },
+      "id": "node/9895406227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895406229",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Ladang Tuan, Bentong",
+        "name:ms": "Ladang Tuan, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0994455,
+          3.2791599
+        ]
+      },
+      "id": "node/9895406229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895463689",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Klinik Kesihatan Simpang Pelangai, Bentong",
+        "name:en": "Opposite Klinik Kesihatan Simpang Pelangai, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1870956,
+          3.1817433
+        ]
+      },
+      "id": "node/9895463689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895463691",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Klinik Kesihatan Simpang Pelangai, Bentong",
+        "name:ms": "Klinik Kesihatan Simpang Pelangai, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1872406,
+          3.1815126
+        ]
+      },
+      "id": "node/9895463691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895463694",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Kebangsaan Simpang Pelangai, Bentong",
+        "name:ms": "Sekolah Kebangsaan Simpang Pelangai, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1890712,
+          3.1797748
+        ]
+      },
+      "id": "node/9895463694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895464206",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "SMK Seri Pelangai, Bentong",
+        "name:ms": "SMK Seri Pelangai, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1897343,
+          3.1795408
+        ]
+      },
+      "id": "node/9895464206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895464207",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite SMK Seri Pelangai, Bentong",
+        "name:en": "Opposite SMK Seri Pelangai, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1900996,
+          3.1795576
+        ]
+      },
+      "id": "node/9895464207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895464210",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Simpang Pelangai, Bentong",
+        "name:ms": "Kampung Simpang Pelangai, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1919704,
+          3.1781917
+        ]
+      },
+      "id": "node/9895464210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895464212",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Pelangai Jaya, Bentong",
+        "name:ms": "Taman Pelangai Jaya, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1927332,
+          3.1767649
+        ]
+      },
+      "id": "node/9895464212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895464214",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pasar Awam Simpang Pelangai, Bentong",
+        "name:ms": "Pasar Awam Simpang Pelangai, Bentong",
+        "operator": "Union Express, Khidmat Rakyat NS",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1937563,
+          3.1749237
+        ]
+      },
+      "id": "node/9895464214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895464216",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Rmk, Jalan Karak - Kuala Pilah",
+        "name:ms": "Taman Rmk, Jalan Karak - Kuala Pilah",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.194314,
+          3.1709452
+        ]
+      },
+      "id": "node/9895464216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895470221",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Bentong",
+        "name:en": "Bentong",
+        "name:ms": "Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1098057,
+          3.2644867
+        ]
+      },
+      "id": "node/9895470221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895470222",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Air Terjun Sungai Gapoi, Bentong",
+        "name:ms": "Air Terjun Sungai Gapoi, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1097583,
+          3.2637467
+        ]
+      },
+      "id": "node/9895470222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895470226",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Safie, Bentong",
+        "name:ms": "Kampung Safie, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1618772,
+          3.2061026
+        ]
+      },
+      "id": "node/9895470226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895479883",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pekan Manchis, Bentong",
+        "name:ms": "Pekan Manchis, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1631247,
+          3.2027262
+        ]
+      },
+      "id": "node/9895479883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895479886",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Klinik Desa Manchis, Bentong",
+        "name:ms": "Klinik Desa Manchis, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1634197,
+          3.2014942
+        ]
+      },
+      "id": "node/9895479886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9895479888",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Klinik Desa Manchis, Bentong",
+        "name:en": "Opposite Klinik Desa Manchis, Bentong",
+        "operator": "Union Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1636174,
+          3.201471
+        ]
+      },
+      "id": "node/9895479888"
     }
   ]
 }
