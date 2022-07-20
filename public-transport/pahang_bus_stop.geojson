@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-07-19T15:06:36Z",
+  "timestamp": "2022-07-20T09:57:24Z",
   "features": [
     {
       "type": "Feature",
@@ -7985,6 +7985,1020 @@
         ]
       },
       "id": "node/9897161233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899350081",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Lorong Tok Machang 2, Jalan Pintu Padang - Ulu Gali",
+        "name:ms": "Lorong Tok Machang 2, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9163123,
+          3.8240016
+        ]
+      },
+      "id": "node/9899350081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899350083",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Sempalit Tok Lubuk, Jalan Pintu Padang - Ulu Gali",
+        "name:ms": "Kampung Sempalit Tok Lubuk, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9184451,
+          3.824326
+        ]
+      },
+      "id": "node/9899350083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899350085",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Tok Machang, Jalan Pintu Padang - Ulu Gali",
+        "name:ms": "Kampung Tok Machang, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9200303,
+          3.8243189
+        ]
+      },
+      "id": "node/9899350085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899350090",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Jalan Kuari Wan Ahmad Kampung Tok Machang, Jalan Pintu Padang - Ulu Gali",
+        "name:ms": "Jalan Kuari Wan Ahmad Kampung Tok Machang, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9243937,
+          3.8246597
+        ]
+      },
+      "id": "node/9899350090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899350092",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Lorong Sri Jaya 1 Kampung Tok Machang, Jalan Pintu Padang - Ulu Gali",
+        "name:ms": "Lorong Sri Jaya 1 Kampung Tok Machang, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9252423,
+          3.8246017
+        ]
+      },
+      "id": "node/9899350092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899350094",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Lorong Sri Jaya 2 Kampung Tok Machang, Jalan Pintu Padang - Ulu Gali",
+        "name:ms": "Lorong Sri Jaya 2 Kampung Tok Machang, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9261067,
+          3.8245654
+        ]
+      },
+      "id": "node/9899350094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899350234",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Pintu Padang, Jalan Pntu Padang - Ulu Gali",
+        "name:ms": "Kampung Pintu Padang, Jalan Pntu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9051485,
+          3.8235846
+        ]
+      },
+      "id": "node/9899350234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899350237",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Sekolah Kebangsaan Ulu Gali, Jalan Pintu Padang - Ulu Gali",
+        "name:en": "Opposite Sekolah Kebangsaan Ulu Gali, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9075393,
+          3.8232303
+        ]
+      },
+      "id": "node/9899350237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899350238",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Kebangsaan Ulu Gali, Jalan Pintu Padang - Ulu Gali",
+        "name:ms": "Sekolah Kebangsaan Ulu Gali, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9077377,
+          3.8234617
+        ]
+      },
+      "id": "node/9899350238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899350244",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Klinik Desa Ulu Gali, Jalan Pintu Padang - Ulu Gali",
+        "name:ms": "Klinik Desa Ulu Gali, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9141154,
+          3.8238146
+        ]
+      },
+      "id": "node/9899350244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899350245",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Klinik Desa Ulu Gali, Jalan Pintu Padang - Ulu Gali",
+        "name:en": "Opposite Klinik Desa Ulu Gali, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9139014,
+          3.8235881
+        ]
+      },
+      "id": "node/9899350245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899351279",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Kenanga, Jalan Lipis",
+        "name:ms": "Taman Kenanga, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8917161,
+          3.8231953
+        ]
+      },
+      "id": "node/9899351279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899351282",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Sempalit, Jalan Lipis",
+        "name:ms": "Kampung Sempalit, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8920779,
+          3.8261923
+        ]
+      },
+      "id": "node/9899351282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899351284",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Al-Hidayah, Jalan Pintu Padang - Ulu Gali",
+        "name:ms": "Masjid Al-Hidayah, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8968599,
+          3.8251684
+        ]
+      },
+      "id": "node/9899351284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899351286",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Jalan Manggis Kampung Pintu Padang, Jalan Pntu Padang - Ulu Gali",
+        "name:ms": "Jalan Manggis Kampung Pintu Padang, Jalan Pntu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8986532,
+          3.8248401
+        ]
+      },
+      "id": "node/9899351286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899351287",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Jalan Manggis Kampung Pintu Padang, Jalan Pntu Padang - Ulu Gali",
+        "name:en": "Opposite Jalan Manggis Kampung Pintu Padang, Jalan Pntu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8985981,
+          3.8247835
+        ]
+      },
+      "id": "node/9899351287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899362582",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Jalan Teratai Kampung Ulu Gali, Jalan Pintu Padang - Ulu Gali",
+        "name:ms": "Jalan Teratai Kampung Ulu Gali, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.934146,
+          3.8197525
+        ]
+      },
+      "id": "node/9899362582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899362585",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Bunga Raya, Jalan Pintu Padang - Ulu Gali",
+        "name:ms": "Taman Bunga Raya, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9351375,
+          3.8161097
+        ]
+      },
+      "id": "node/9899362585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899362587",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Baru Sungai Ruan, Jalan Pintu Padang - Ulu Gali",
+        "name:ms": "Kampung Baru Sungai Ruan, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9360493,
+          3.8150708
+        ]
+      },
+      "id": "node/9899362587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899362589",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Balai Polis Sungai Ruan, Jalan Pintu Padang - Ulu Gali",
+        "name:ms": "Balai Polis Sungai Ruan, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.936773,
+          3.8136875
+        ]
+      },
+      "id": "node/9899362589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899362591",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Mawar, Jalan Pintu Padang - Ulu Gali",
+        "name:ms": "Taman Mawar, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.937553,
+          3.8128783
+        ]
+      },
+      "id": "node/9899362591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899387999",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Amalin, Jalan Lipis",
+        "name:ms": "Taman Amalin, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8951676,
+          3.8418633
+        ]
+      },
+      "id": "node/9899387999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899388000",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Dewan Serbaguna Kampung Gali Tengah, Jalan Lipis",
+        "name:ms": "Dewan Serbaguna Kampung Gali Tengah, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8953535,
+          3.8422286
+        ]
+      },
+      "id": "node/9899388000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899388004",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Menengah Kebangsaan Gali Tengah, Jalan Lipis",
+        "name:ms": "Sekolah Menengah Kebangsaan Gali Tengah, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.895006,
+          3.8440769
+        ]
+      },
+      "id": "node/9899388004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899388007",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Gali Tengah, Jalan Lipis",
+        "name:ms": "Kampung Gali Tengah, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8952018,
+          3.8464018
+        ]
+      },
+      "id": "node/9899388007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899388008",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Gali, Jalan Lipis",
+        "name:ms": "Kampung Gali, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.894992,
+          3.846653
+        ]
+      },
+      "id": "node/9899388008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899391671",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Jamek Ulu Gali, Jalan Pintu Padang - Ulu Gali",
+        "name:ms": "Masjid Jamek Ulu Gali, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9274561,
+          3.8246461
+        ]
+      },
+      "id": "node/9899391671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899391672",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Dewan Orang Ramai Kampung Tok Machang, Jalan Pintu Padang - Ulu Gali",
+        "name:en": "Opposite Dewan Orang Ramai Kampung Tok Machang, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.927689,
+          3.8244418
+        ]
+      },
+      "id": "node/9899391672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899391675",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Amalin, Jalan Lipis",
+        "name:ms": "Taman Amalin, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9299429,
+          3.8242623
+        ]
+      },
+      "id": "node/9899391675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899391676",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Ulu Gali, Jalan Pintu Padang - Ulu Gali",
+        "name:ms": "Kampung Ulu Gali, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9302173,
+          3.8243777
+        ]
+      },
+      "id": "node/9899391676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899391679",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Hulu Gali, Jalan Pintu Padang - Ulu Gali",
+        "name:ms": "Kampung Hulu Gali, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9323813,
+          3.8240267
+        ]
+      },
+      "id": "node/9899391679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899391681",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Tok Macang, Jalan Pintu Padang - Ulu Gali",
+        "name:ms": "Kampung Tok Macang, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9334409,
+          3.8239759
+        ]
+      },
+      "id": "node/9899391681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899391688",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Mini Kompleks Kampung Ulu Gali, Jalan Pinti Padang - Ulu Gali",
+        "name:ms": "Mini Kompleks Kampung Ulu Gali, Jalan Pinti Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9343716,
+          3.8224516
+        ]
+      },
+      "id": "node/9899391688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899391689",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pekan Sehari Ulu Gali, Jalan Pintu Padang - Ulu Gali",
+        "name:ms": "Pekan Sehari Ulu Gali, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9345311,
+          3.8223685
+        ]
+      },
+      "id": "node/9899391689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899423231",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Sungai Ruan, Jalan Pintu Padang - Ulu Gali",
+        "name:ms": "Kampung Sungai Ruan, Jalan Pintu Padang - Ulu Gali",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9411471,
+          3.8061314
+        ]
+      },
+      "id": "node/9899423231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899423233",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Menengah Sains Tengku Abdullah, Jalan Lipis",
+        "name:ms": "Sekolah Menengah Sains Tengku Abdullah, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8933078,
+          3.8286445
+        ]
+      },
+      "id": "node/9899423233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899423235",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pejabat Pertanian Daerah Raub, Jalan Lipis",
+        "name:ms": "Pejabat Pertanian Daerah Raub, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8937204,
+          3.8303806
+        ]
+      },
+      "id": "node/9899423235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899423237",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pusat Latihan Pertanian Daerah Raub, Jalan Lipis",
+        "name:ms": "Pusat Latihan Pertanian Daerah Raub, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8945687,
+          3.8398786
+        ]
+      },
+      "id": "node/9899423237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899423238",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Surau Al-Hidayah, Jalan Lipis",
+        "name:ms": "Surau Al-Hidayah, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8949519,
+          3.8402371
+        ]
+      },
+      "id": "node/9899423238"
     }
   ]
 }
