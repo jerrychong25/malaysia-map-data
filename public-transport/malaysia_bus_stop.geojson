@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-07-20T10:01:24Z",
+  "timestamp": "2022-07-21T04:51:35Z",
   "features": [
     {
       "type": "Feature",
@@ -11644,6 +11644,24 @@
         ]
       },
       "id": "node/1849689356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1867404207",
+        "bus": "yes",
+        "bus_bay": "left",
+        "highway": "bus_stop",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0663325,
+          5.9594282
+        ]
+      },
+      "id": "node/1867404207"
     },
     {
       "type": "Feature",
@@ -74642,6 +74660,7 @@
         "@id": "node/7571949901",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Lip Sin 2",
         "public_transport": "platform"
       },
       "geometry": {
@@ -79831,8 +79850,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7580705,
-          2.9659208
+          101.7580487,
+          2.9658529
         ]
       },
       "id": "node/7704958883"
@@ -85070,8 +85089,7 @@
         "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
-        "shelter": "yes",
-        "shelter_type": "public_transport"
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -85130,8 +85148,7 @@
         "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
-        "shelter": "yes",
-        "shelter_type": "public_transport"
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -85150,8 +85167,7 @@
         "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
-        "shelter": "yes",
-        "shelter_type": "public_transport"
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -159910,6 +159926,1274 @@
         ]
       },
       "id": "node/9899423238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899469513",
+        "bus": "yes",
+        "bus_bay": "left",
+        "highway": "bus_stop",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0666206,
+          5.9592725
+        ]
+      },
+      "id": "node/9899469513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900455082",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "operator": "Majlis Perbandaran Kajang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7618087,
+          2.9817677
+        ]
+      },
+      "id": "node/9900455082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900455083",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "operator": "Majlis Perbandaran Kajang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7619521,
+          2.9816329
+        ]
+      },
+      "id": "node/9900455083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900930095",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Kebangsaa Gali, Jalan Lipis",
+        "name:ms": "Sekolah Kebangsaa Gali, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8937521,
+          3.854381
+        ]
+      },
+      "id": "node/9900930095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900930097",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Sekolah Kebangsaan Gali, Jalan Lipis",
+        "name:en": "Opposite Sekolah Kebangsaan Gali, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8938869,
+          3.8546478
+        ]
+      },
+      "id": "node/9900930097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900930099",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Klinik Desa Gali Hilir, Jalan Lipis",
+        "name:ms": "Klinik Desa Gali Hilir, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8934293,
+          3.8614206
+        ]
+      },
+      "id": "node/9900930099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900930100",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Balairaya Kampung Gali Hilir, Jalan Lipis",
+        "name:ms": "Balairaya Kampung Gali Hilir, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8936635,
+          3.8613985
+        ]
+      },
+      "id": "node/9900930100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900930103",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Gali Lurus, Jalan Lipis",
+        "name:ms": "Kampung Gali Lurus, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.893509,
+          3.8635465
+        ]
+      },
+      "id": "node/9900930103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900930105",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Sungai Pasu, Jalan Lipis",
+        "name:ms": "Kampung Sungai Pasu, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8929237,
+          3.867694
+        ]
+      },
+      "id": "node/9900930105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900930106",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Kampung Sungai Pasu, Jalan Lipis",
+        "name:en": "Opposite Kampung Sungai Pasu, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8931499,
+          3.8676947
+        ]
+      },
+      "id": "node/9900930106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900930110",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Omar Workshop Kampung Sungai Pasu, Jalan Lipis",
+        "name:en": "Omar Workshop Kampung Sungai Pasu, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8928484,
+          3.871069
+        ]
+      },
+      "id": "node/9900930110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900958182",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Perumahan Lechar, Raub",
+        "name:ms": "Taman Perumahan Lechar, Raub",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9108605,
+          3.8947292
+        ]
+      },
+      "id": "node/9900958182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900958184",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Jalan Kampung Lechar 2 Kampung Lechar, Raub",
+        "name:ms": "Jalan Kampung Lechar 2 Kampung Lechar, Raub",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9143174,
+          3.8941527
+        ]
+      },
+      "id": "node/9900958184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900958189",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Jalan Kampung Lechar 7 Kampung Lechar, Raub",
+        "name:ms": "Jalan Kampung Lechar 7 Kampung Lechar, Raub",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.916151,
+          3.8915247
+        ]
+      },
+      "id": "node/9900958189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900959520",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Pusat Pertanian Gali (Kejenteraan), Jalan Lipis",
+        "name:en": "Opposite Pusat Pertanian Gali (Kejenteraan), Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8924319,
+          3.8747479
+        ]
+      },
+      "id": "node/9900959520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900959521",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pusat Pertanian Gali (Kejenteraan), Jalan Lipis",
+        "name:ms": "Pusat Pertanian Gali (Kejenteraan), Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8922518,
+          3.874975
+        ]
+      },
+      "id": "node/9900959521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900959525",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Durian Sepatang, Jalan Lipis",
+        "name:ms": "Kampung Durian Sepatang, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8919788,
+          3.8862675
+        ]
+      },
+      "id": "node/9900959525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900959527",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Masjid Kampung Durian Sebatang, Jalan Lipis",
+        "name:en": "Opposite Masjid Kampung Durian Sebatang, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8929807,
+          3.8879203
+        ]
+      },
+      "id": "node/9900959527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900959528",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Gali, Jalan Lipis",
+        "name:ms": "Kampung Gali, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8929887,
+          3.8882812
+        ]
+      },
+      "id": "node/9900959528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900959531",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pekan Sehari Dong, Jalan Lipis",
+        "name:ms": "Pekan Sehari Dong, Jalan Lipis",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8963667,
+          3.8942249
+        ]
+      },
+      "id": "node/9900959531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900959534",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kuarter Guru Zon Dong, Jalan Kuala Lumpur - Gua Musang",
+        "name:ms": "Kuarter Guru Zon Dong, Jalan Kuala Lumpur - Gua Musang",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8958834,
+          3.8964299
+        ]
+      },
+      "id": "node/9900959534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900975706",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Hulu Kecok, Jalan Dong - Ulu Dong",
+        "name:ms": "Kampung Hulu Kecok, Jalan Dong - Ulu Dong",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9570532,
+          3.9033336
+        ]
+      },
+      "id": "node/9900975706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900975708",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Orang Asli Sungai Yol, Raub",
+        "name:ms": "Kampung Orang Asli Sungai Yol, Raub",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9663803,
+          3.9071494
+        ]
+      },
+      "id": "node/9900975708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900975711",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Jalan Kuala Keloi Kampung Kuala Keloi, Jalan Dong - Ulu Dong",
+        "name:ms": "Jalan Kuala Keloi Kampung Kuala Keloi, Jalan Dong - Ulu Dong",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9682348,
+          3.9075654
+        ]
+      },
+      "id": "node/9900975711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900975712",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Jalan Kuala Keloi Kampung Kuala Keloi, Jalan Dong - Ulu Dong",
+        "name:en": "Opposite Jalan Kuala Keloi Kampung Kuala Keloi, Jalan Dong - Ulu Dong",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9682379,
+          3.9076963
+        ]
+      },
+      "id": "node/9900975712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900975715",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Kuala Keloi, Jalan Dong - Ulu Dong",
+        "name:ms": "Kampung Kuala Keloi, Jalan Dong - Ulu Dong",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9732423,
+          3.9099903
+        ]
+      },
+      "id": "node/9900975715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900996169",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Sekolah Kebangsaan Tanjung Putus, Raub",
+        "name:en": "Opposite Sekolah Kebangsaan Tanjung Putus, Raub",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9194792,
+          3.8900102
+        ]
+      },
+      "id": "node/9900996169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900996170",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Kebangsaan Tanjung Putus, Raub",
+        "name:ms": "Sekolah Kebangsaan Tanjung Putus, Raub",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9196289,
+          3.8898307
+        ]
+      },
+      "id": "node/9900996170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900996173",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Tanjung Putus, Raub",
+        "name:ms": "Kampung Tanjung Putus, Raub",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9224499,
+          3.8906095
+        ]
+      },
+      "id": "node/9900996173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900996176",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Jalan Tanjung Putus 4 Kampung Tanjung Putus, Raub",
+        "name:ms": "Jalan Tanjung Putus 4 Kampung Tanjung Putus, Raub",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.92795,
+          3.8933492
+        ]
+      },
+      "id": "node/9900996176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900996178",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Jelu, Raub",
+        "name:ms": "Kampung Jelu, Raub",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9429753,
+          3.8966572
+        ]
+      },
+      "id": "node/9900996178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900996179",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Bukit Pampong, Raub",
+        "name:ms": "Kampung Bukit Pampong, Raub",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9430235,
+          3.8967979
+        ]
+      },
+      "id": "node/9900996179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900996186",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Cenara, Raub",
+        "name:ms": "Kampung Cenara, Raub",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9495565,
+          3.898535
+        ]
+      },
+      "id": "node/9900996186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9901006977",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0858058,
+          2.5797416
+        ]
+      },
+      "id": "node/9901006977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9901008270",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Nurseri Buah-Buah Kampung Pamah Kulat, Jalan Dong - Ulu Dong",
+        "name:ms": "Nurseri Buah-Buah Kampung Pamah Kulat, Jalan Dong - Ulu Dong",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0102863,
+          3.9367694
+        ]
+      },
+      "id": "node/9901008270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9901008274",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Klinik Desa Ulu Dong, Jalan Dong - Ulu Dong",
+        "name:ms": "Klinik Desa Ulu Dong, Jalan Dong - Ulu Dong",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0127858,
+          3.9382381
+        ]
+      },
+      "id": "node/9901008274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9901008276",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Kebangsaan Ulu Dong, Jalan Dong - Ulu Dong",
+        "name:ms": "Sekolah Kebangsaan Ulu Dong, Jalan Dong - Ulu Dong",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0155591,
+          3.9390664
+        ]
+      },
+      "id": "node/9901008276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9901008278",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Ubudiah Ulu Dong, Jalan Dong - Ulu Dong",
+        "name:ms": "Masjid Ubudiah Ulu Dong, Jalan Dong - Ulu Dong",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0167003,
+          3.9413504
+        ]
+      },
+      "id": "node/9901008278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9901008280",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Peruas, Jalan Dong - Ulu Dong",
+        "name:ms": "Kampung Peruas, Jalan Dong - Ulu Dong",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0193225,
+          3.9438787
+        ]
+      },
+      "id": "node/9901008280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9901008964",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Kampung Kuala Keloi, Jalan Dong - Ulu Dong",
+        "name:ms": "Masjid Kampung Kuala Keloi, Jalan Dong - Ulu Dong",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.975039,
+          3.9132015
+        ]
+      },
+      "id": "node/9901008964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9901008967",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Jalan Temurai 1 Kampung Kuala Keloi, Jalan Dong - Ulu Dong",
+        "name:ms": "Jalan Temurai 1 Kampung Kuala Keloi, Jalan Dong - Ulu Dong",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9767854,
+          3.913842
+        ]
+      },
+      "id": "node/9901008967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9901008969",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Bedu, Jalan Dong - Ulu Dong",
+        "name:ms": "Kampung Bedu, Jalan Dong - Ulu Dong",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9833664,
+          3.9144096
+        ]
+      },
+      "id": "node/9901008969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9901008971",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Temalian Pamah Kulat, Jalan Dong - Ulu Dong",
+        "name:ms": "Kampung Temalian Pamah Kulat, Jalan Dong - Ulu Dong",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9858628,
+          3.9159982
+        ]
+      },
+      "id": "node/9901008971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9901008973",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pekan Pamah Kulat, Jalan Dong - Ulu Dong",
+        "name:ms": "Pekan Pamah Kulat, Jalan Dong - Ulu Dong",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9913976,
+          3.9190488
+        ]
+      },
+      "id": "node/9901008973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9901008975",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pusat Komuniti Desa Pamah Kulat, Jalan Dong - Ulu Dong",
+        "name:ms": "Pusat Komuniti Desa Pamah Kulat, Jalan Dong - Ulu Dong",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.992317,
+          3.9199947
+        ]
+      },
+      "id": "node/9901008975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9901008978",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Kebangsaan Pamah Kulat, Jalan Dong - Ulu Dong",
+        "name:ms": "Sekolah Kebangsaan Pamah Kulat, Jalan Dong - Ulu Dong",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9935252,
+          3.9207448
+        ]
+      },
+      "id": "node/9901008978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9901008980",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Tengku Abdullah, Jalan Dong - Ulu Dong",
+        "name:ms": "Masjid Tengku Abdullah, Jalan Dong - Ulu Dong",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9956957,
+          3.9229318
+        ]
+      },
+      "id": "node/9901008980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9901008982",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Sol Pamah Kulat, Jalan Dong - Ulu Dong",
+        "name:ms": "Kampung Sol Pamah Kulat, Jalan Dong - Ulu Dong",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9968223,
+          3.9236796
+        ]
+      },
+      "id": "node/9901008982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9901008984",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Sungai Yah, Jalan Dong - Ulu Dong",
+        "name:ms": "Kampung Sungai Yah, Jalan Dong - Ulu Dong",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0019122,
+          3.9284789
+        ]
+      },
+      "id": "node/9901008984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9901008986",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Pamah Rawas, Jalan Dong - Ulu Dong",
+        "name:ms": "Kampung Pamah Rawas, Jalan Dong - Ulu Dong",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0064876,
+          3.932917
+        ]
+      },
+      "id": "node/9901008986"
     }
   ]
 }
