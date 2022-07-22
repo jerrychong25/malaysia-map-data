@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-07-21T04:39:25Z",
+  "timestamp": "2022-07-22T05:05:22Z",
   "features": [
     {
       "type": "Feature",
@@ -81,6 +81,34 @@
         ]
       },
       "id": "node/1225974904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1364082745",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kuala Lipis Bus Station",
+        "name:en": "Kuala Lipis Bus Station",
+        "name:zh": "瓜拉立卑巴士总站",
+        "name:zh-Hans": "瓜拉立卑巴士总站",
+        "name:zh-Hant": "瓜拉立卑巴士總站",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0577283,
+          4.1882993
+        ]
+      },
+      "id": "node/1364082745"
     },
     {
       "type": "Feature",
@@ -10195,6 +10223,1255 @@
         ]
       },
       "id": "node/9901008986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903084682",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Kuala Temau, Jalan Kuala Lumpur - Gua Musang",
+        "name:ms": "Kampung Kuala Temau, Jalan Kuala Lumpur - Gua Musang",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8941101,
+          3.9235953
+        ]
+      },
+      "id": "node/9903084682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903084683",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Kuala Temau, Jalan Kuala Lumpur - Gua Musang",
+        "name:ms": "Masjid Kuala Temau, Jalan Kuala Lumpur - Gua Musang",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8942405,
+          3.923166
+        ]
+      },
+      "id": "node/9903084683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903084697",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Hulu Temau, Jalan Kuala Lumpur - Gua Musang",
+        "name:ms": "Kampung Hulu Temau, Jalan Kuala Lumpur - Gua Musang",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8948098,
+          3.9277115
+        ]
+      },
+      "id": "node/9903084697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903084699",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Kampung Ajai, Jalan Kuala Lumpur - Gua Musang",
+        "name:en": "Opposite Kampung Ajai, Jalan Kuala Lumpur - Gua Musang",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8932584,
+          3.9320858
+        ]
+      },
+      "id": "node/9903084699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903084701",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Sungai Kelat, Jalan Kuala Lumpur - Gua Musang",
+        "name:ms": "Kampung Sungai Kelat, Jalan Kuala Lumpur - Gua Musang",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8948457,
+          3.9440915
+        ]
+      },
+      "id": "node/9903084701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903084703",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Kuala Dong, Jalan Kuala Lumpur - Gua Musang",
+        "name:ms": "Kampung Kuala Dong, Jalan Kuala Lumpur - Gua Musang",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8951428,
+          3.9457785
+        ]
+      },
+      "id": "node/9903084703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903170332",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Sekolah Menengah Agama Al-Ulum Adimiah, Jalan Kuala Lumpur - Gua Musang",
+        "name:en": "Opposite Sekolah Menengah Agama Al-Ulum Adimiah, Jalan Kuala Lumpur - Gua Musang",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.895261,
+          3.8985677
+        ]
+      },
+      "id": "node/9903170332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903170334",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Menengah Agama Al-Ulum Adimiah, Jalan Kuala Lumpur - Gua Musang",
+        "name:ms": "Sekolah Menengah Agama Al-Ulum Adimiah, Jalan Kuala Lumpur - Gua Musang",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8955164,
+          3.8990459
+        ]
+      },
+      "id": "node/9903170334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903170336",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Klinik Kesihatan Dong, Jalan Kuala Lumpur - Gua Musang",
+        "name:ms": "Klinik Kesihatan Dong, Jalan Kuala Lumpur - Gua Musang",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.895287,
+          3.9009949
+        ]
+      },
+      "id": "node/9903170336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903170339",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Sekolah Menengah Kebangsaan Dong,Jalan Kuala Lumpur - Gua Musang",
+        "name:en": "Opposite Sekolah Menengah Kebangsaan Dong,Jalan Kuala Lumpur - Gua Musang",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8950873,
+          3.903198
+        ]
+      },
+      "id": "node/9903170339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903170340",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Menengah Kebangsaan Dong, Jalan Kuala Lumpur - Gua Musang",
+        "name:ms": "Sekolah Menengah Kebangsaan Dong, Jalan Kuala Lumpur - Gua Musang",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8953165,
+          3.9033291
+        ]
+      },
+      "id": "node/9903170340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903170343",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Qariah Dong, Jalan Kuala Lumpur - Gua Musang",
+        "name:ms": "Masjid Qariah Dong, Jalan Kuala Lumpur - Gua Musang",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.895405,
+          3.9058314
+        ]
+      },
+      "id": "node/9903170343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903170345",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Sungai Sengkela, Jalan Kuala Lumpur - Gua Musang",
+        "name:ms": "Kampung Sungai Sengkela, Jalan Kuala Lumpur - Gua Musang",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8948472,
+          3.9094779
+        ]
+      },
+      "id": "node/9903170345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903170347",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Kuala Gali, Jalan Kuala Lumpur - Gua Musang",
+        "name:ms": "Kampung Kuala Gali, Jalan Kuala Lumpur - Gua Musang",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8947063,
+          3.9124605
+        ]
+      },
+      "id": "node/9903170347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903191730",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Kuala Dong, Jalan Gesing",
+        "name:ms": "Kampung Kuala Dong, Jalan Gesing",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.893782,
+          3.9462612
+        ]
+      },
+      "id": "node/9903191730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903191739",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Panchor, Jalan Gesing",
+        "name:ms": "Kampung Panchor, Jalan Gesing",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8811245,
+          3.9472661
+        ]
+      },
+      "id": "node/9903191739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903191747",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Gesing, Jalan Gesing",
+        "name:ms": "Kampung Gesing, Jalan Gesing",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8667885,
+          3.9482036
+        ]
+      },
+      "id": "node/9903191747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903191752",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Klinik Desa Gesing Raub, Jalan Gesing",
+        "name:ms": "Klinik Desa Gesing Raub, Jalan Gesing",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8646841,
+          3.948659
+        ]
+      },
+      "id": "node/9903191752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903202070",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Sengkela, Jalan Gesing",
+        "name:ms": "Kampung Sengkela, Jalan Gesing",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8564376,
+          3.9489079
+        ]
+      },
+      "id": "node/9903202070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903202082",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Tanjung Tengku, Jalan Gesing",
+        "name:ms": "Kampung Tanjung Tengku, Jalan Gesing",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.853483,
+          3.9489092
+        ]
+      },
+      "id": "node/9903202082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903202084",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Tanjung Manggig, Jalan Gesing",
+        "name:ms": "Kampung Tanjung Manggig, Jalan Gesing",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8519567,
+          3.9479632
+        ]
+      },
+      "id": "node/9903202084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903202087",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Ria, Jalan Semantan Ulu",
+        "name:ms": "Kampung Ria, Jalan Semantan Ulu",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8412449,
+          3.9388756
+        ]
+      },
+      "id": "node/9903202087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903202091",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Balai Penghulu Mukim Semantan Hulu, Jalan Semantan Ulu",
+        "name:ms": "Balai Penghulu Mukim Semantan Hulu, Jalan Semantan Ulu",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8411643,
+          3.9412417
+        ]
+      },
+      "id": "node/9903202091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903202093",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Kuala Semantan, Jalan Semantan Ulu",
+        "name:ms": "Kampung Kuala Semantan, Jalan Semantan Ulu",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.841345,
+          3.9441939
+        ]
+      },
+      "id": "node/9903202093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903202095",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Klinik Desa Kuala Semantan, Jalan Semantan Ulu",
+        "name:ms": "Klinik Desa Kuala Semantan, Jalan Semantan Ulu",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8416895,
+          3.9458665
+        ]
+      },
+      "id": "node/9903202095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903212108",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Taman Maju Jaya Stop 3, Jempol",
+        "name:ms": "Taman Maju Jaya Stop 3, Jempol",
+        "operator": "BH",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.3621245,
+          3.1281473
+        ]
+      },
+      "id": "node/9903212108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903212110",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Baharu Sentosa, Kemayan",
+        "name:ms": "Kampung Baharu Sentosa, Kemayan",
+        "operator": "BH",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.3654322,
+          3.137323
+        ]
+      },
+      "id": "node/9903212110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903212112",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Masjid Ubuddiah Kemayan, Kemayan",
+        "name:ms": "Masjid Ubuddiah Kemayan, Kemayan",
+        "operator": "BH",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.3696213,
+          3.1368412
+        ]
+      },
+      "id": "node/9903212112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903219795",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kuala Semantan, Jalan Semantan Ulu",
+        "name:ms": "Kuala Semantan, Jalan Semantan Ulu",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8408562,
+          3.9532532
+        ]
+      },
+      "id": "node/9903219795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903219798",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Ria, Jalan Gesing",
+        "name:ms": "Kampung Ria, Jalan Gesing",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.840835,
+          3.9379965
+        ]
+      },
+      "id": "node/9903219798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903219800",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kampung Kundang Patah, Jalan Gesing",
+        "name:ms": "Kampung Kundang Patah, Jalan Gesing",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8396163,
+          3.9326528
+        ]
+      },
+      "id": "node/9903219800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903219802",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Kebangsaan Kundang Patah, Jalan Gesing",
+        "name:ms": "Sekolah Kebangsaan Kundang Patah, Jalan Gesing",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8411878,
+          3.9275513
+        ]
+      },
+      "id": "node/9903219802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903219804",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Sekolah Kebangsaan Kundang Patah, Jalan Gesing",
+        "name:en": "Opposite Sekolah Kebangsaan Kundang Patah, Jalan Gesing",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8410829,
+          3.9273168
+        ]
+      },
+      "id": "node/9903219804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903219806",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "CCRC Raub, Jalan Gesing",
+        "name:ms": "CCRC Raub, Jalan Gesing",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8387911,
+          3.9182551
+        ]
+      },
+      "id": "node/9903219806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903221246",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Terminal Bas dan Teksi Triang",
+        "name:ms": "Terminal Bas dan Teksi Triang",
+        "operator": "Cepat Express",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.4130474,
+          3.2487783
+        ]
+      },
+      "id": "node/9903221246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903221248",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Perhentian Teksi dan Bas Daerah Bera, Jalan Utama Bera",
+        "name:ms": "Perhentian Teksi dan Bas Daerah Bera, Jalan Utama Bera",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.4562325,
+          3.2703718
+        ]
+      },
+      "id": "node/9903221248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903232018",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Masjid Ubuddiah Kemayan, Kemayan",
+        "name:en": "Opposite Masjid Ubuddiah Kemayan, Kemayan",
+        "operator": "BH",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.3703496,
+          3.1366802
+        ]
+      },
+      "id": "node/9903232018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903232020",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Mahkamah Sesyten Kemayan, Kemayan",
+        "name:en": "Opposite Mahkamah Sesyten Kemayan, Kemayan",
+        "operator": "BH",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.3710354,
+          3.138269
+        ]
+      },
+      "id": "node/9903232020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903269285",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Kian Seng Building Material, Jalan Utama Bera",
+        "name:en": "Kian Seng Building Material, Jalan Utama Bera",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.4831594,
+          3.273553
+        ]
+      },
+      "id": "node/9903269285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903269289",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Triang 1 & 2, Jalan Utama Bera",
+        "name:en": "Triang 1 & 2, Jalan Utama Bera",
+        "name:ms": "Triang 1 & 2, Jalan Utama Bera",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5392492,
+          3.2747554
+        ]
+      },
+      "id": "node/9903269289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903269290",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Opposite Triang 1 & 2, Jalan Utama Bera",
+        "name:en": "Opposite Triang 1 & 2, Jalan Utama Bera",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5398103,
+          3.2747347
+        ]
+      },
+      "id": "node/9903269290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903269293",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Jambatan Triang, Jalan Utama Bera",
+        "name:ms": "Jambatan Triang, Jalan Utama Bera",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5458024,
+          3.2745747
+        ]
+      },
+      "id": "node/9903269293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903280982",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Felda Triang 3, Jalan Utama Bera",
+        "name:ms": "Felda Triang 3, Jalan Utama Bera",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5669271,
+          3.2619605
+        ]
+      },
+      "id": "node/9903280982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903280984",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pekan Sebertak, Jalan Utama Bera",
+        "name:ms": "Pekan Sebertak, Jalan Utama Bera",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5858705,
+          3.2575787
+        ]
+      },
+      "id": "node/9903280984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903280985",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Pasar Borong Daerah Bera, Jalan Utama Bera",
+        "name:ms": "Pasar Borong Daerah Bera, Jalan Utama Bera",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.58434,
+          3.257667
+        ]
+      },
+      "id": "node/9903280985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903280988",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Menengah Kebangsaan Seri Bera, Temerloh",
+        "name:ms": "Sekolah Menengah Kebangsaan Seri Bera, Temerloh",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.4605868,
+          3.2906593
+        ]
+      },
+      "id": "node/9903280988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903280990",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Menengah Kebangsaan Mengkarak, Temerloh",
+        "name:ms": "Sekolah Menengah Kebangsaan Mengkarak, Temerloh",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.4611645,
+          3.3090675
+        ]
+      },
+      "id": "node/9903280990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903280992",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Sekolah Menengah Kebangsaan Mengkarak, Temerloh",
+        "name:ms": "Sekolah Menengah Kebangsaan Mengkarak, Temerloh",
+        "operator": "MARA Liner",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.4606874,
+          3.3093898
+        ]
+      },
+      "id": "node/9903280992"
     }
   ]
 }
