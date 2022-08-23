@@ -1,0 +1,1731 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-08-23T06:59:22Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/723349852",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.7480245,
+            4.8500459
+          ],
+          [
+            100.7479629,
+            4.8492009
+          ]
+        ]
+      },
+      "id": "way/723349852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/723349853",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.7480644,
+            4.8500225
+          ],
+          [
+            100.7480144,
+            4.8491943
+          ]
+        ]
+      },
+      "id": "way/723349853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/908776366",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.1417751,
+            4.621304
+          ],
+          [
+            101.1419441,
+            4.6207211
+          ],
+          [
+            101.1424349,
+            4.6208923
+          ],
+          [
+            101.1422981,
+            4.6210152
+          ],
+          [
+            101.1422606,
+            4.6212264
+          ],
+          [
+            101.1422364,
+            4.6213441
+          ],
+          [
+            101.1422471,
+            4.621427
+          ],
+          [
+            101.1419655,
+            4.6212959
+          ],
+          [
+            101.1417751,
+            4.621304
+          ]
+        ]
+      },
+      "id": "way/908776366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/908776367",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.1400638,
+            4.6221942
+          ],
+          [
+            101.1401202,
+            4.6216622
+          ],
+          [
+            101.1405761,
+            4.6217157
+          ],
+          [
+            101.1406593,
+            4.6216996
+          ],
+          [
+            101.1408604,
+            4.6216328
+          ],
+          [
+            101.140949,
+            4.6219911
+          ],
+          [
+            101.1409865,
+            4.6220231
+          ],
+          [
+            101.140957,
+            4.6221194
+          ],
+          [
+            101.1407719,
+            4.6222664
+          ],
+          [
+            101.1400638,
+            4.6221942
+          ]
+        ]
+      },
+      "id": "way/908776367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/917006954",
+        "natural": "tree_row"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.1400638,
+            4.6221942
+          ],
+          [
+            101.1401202,
+            4.6216622
+          ],
+          [
+            101.1405761,
+            4.6217157
+          ],
+          [
+            101.1406593,
+            4.6216996
+          ],
+          [
+            101.1408604,
+            4.6216328
+          ],
+          [
+            101.140949,
+            4.6219911
+          ],
+          [
+            101.1409865,
+            4.6220231
+          ],
+          [
+            101.140957,
+            4.6221194
+          ],
+          [
+            101.1407719,
+            4.6222664
+          ],
+          [
+            101.1400638,
+            4.6221942
+          ]
+        ]
+      },
+      "id": "way/917006954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1283644880",
+        "addr:city": "Kuala Kangsar",
+        "denotation": "natural_monument",
+        "name": "Pokok Getah Tertua Malaysia",
+        "name:en": "Malaysia's Oldest Rubber Tree",
+        "natural": "tree",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.941022,
+          4.7745105
+        ]
+      },
+      "id": "node/1283644880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6084827058",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7500382,
+          4.827059
+        ]
+      },
+      "id": "node/6084827058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6084827059",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7513575,
+          4.8266216
+        ]
+      },
+      "id": "node/6084827059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6084827060",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7514836,
+          4.82671
+        ]
+      },
+      "id": "node/6084827060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6084827061",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7519272,
+          4.8275221
+        ]
+      },
+      "id": "node/6084827061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6084827062",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7513925,
+          4.8304258
+        ]
+      },
+      "id": "node/6084827062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6084827063",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7514602,
+          4.8301512
+        ]
+      },
+      "id": "node/6084827063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6084827064",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7508531,
+          4.8298348
+        ]
+      },
+      "id": "node/6084827064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6084827362",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7509587,
+          4.8330391
+        ]
+      },
+      "id": "node/6084827362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6084827363",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7501507,
+          4.8335557
+        ]
+      },
+      "id": "node/6084827363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6084827364",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7516545,
+          4.8326948
+        ]
+      },
+      "id": "node/6084827364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6084827365",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7524297,
+          4.8325598
+        ]
+      },
+      "id": "node/6084827365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6084827366",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7514443,
+          4.8319246
+        ]
+      },
+      "id": "node/6084827366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6873208978",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7472371,
+          4.8493948
+        ]
+      },
+      "id": "node/6873208978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6873208979",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.74672,
+          4.8498021
+        ]
+      },
+      "id": "node/6873208979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6873208980",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7479766,
+          4.8489793
+        ]
+      },
+      "id": "node/6873208980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6873208981",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7496869,
+          4.8482642
+        ]
+      },
+      "id": "node/6873208981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6873208982",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7492732,
+          4.8484387
+        ]
+      },
+      "id": "node/6873208982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6873208983",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7489695,
+          4.8485489
+        ]
+      },
+      "id": "node/6873208983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6873208984",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7487352,
+          4.848653
+        ]
+      },
+      "id": "node/6873208984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6873234585",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7484456,
+          4.8487683
+        ]
+      },
+      "id": "node/6873234585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6873234586",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7506342,
+          4.8480867
+        ]
+      },
+      "id": "node/6873234586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6873234587",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7500796,
+          4.8481295
+        ]
+      },
+      "id": "node/6873234587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6873234588",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7502909,
+          4.8480683
+        ]
+      },
+      "id": "node/6873234588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6873234589",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7477101,
+          4.8490855
+        ]
+      },
+      "id": "node/6873234589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6873234590",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7464148,
+          4.8500467
+        ]
+      },
+      "id": "node/6873234590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6874510859",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7460092,
+          4.8518105
+        ]
+      },
+      "id": "node/6874510859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6874510860",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7460414,
+          4.8514965
+        ]
+      },
+      "id": "node/6874510860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6874510861",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7460213,
+          4.8516541
+        ]
+      },
+      "id": "node/6874510861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6874569002",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7461496,
+          4.8513811
+        ]
+      },
+      "id": "node/6874569002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6874569003",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7461267,
+          4.8512303
+        ]
+      },
+      "id": "node/6874569003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6874569004",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7462936,
+          4.8505516
+        ]
+      },
+      "id": "node/6874569004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6874569005",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7462032,
+          4.8509177
+        ]
+      },
+      "id": "node/6874569005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6874569006",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7462474,
+          4.850746
+        ]
+      },
+      "id": "node/6874569006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6874569007",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7461642,
+          4.8510869
+        ]
+      },
+      "id": "node/6874569007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6874569008",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7463718,
+          4.8501464
+        ]
+      },
+      "id": "node/6874569008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6874569009",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7468116,
+          4.8497351
+        ]
+      },
+      "id": "node/6874569009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6874569010",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7474747,
+          4.8492159
+        ]
+      },
+      "id": "node/6874569010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6895188492",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7460089,
+          4.8522242
+        ]
+      },
+      "id": "node/6895188492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6895188493",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7460903,
+          4.8524864
+        ]
+      },
+      "id": "node/6895188493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6895188494",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7461552,
+          4.8526944
+        ]
+      },
+      "id": "node/6895188494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6895188495",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7463193,
+          4.8530978
+        ]
+      },
+      "id": "node/6895188495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6895188496",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7464336,
+          4.8532426
+        ]
+      },
+      "id": "node/6895188496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6895188497",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7461185,
+          4.8525996
+        ]
+      },
+      "id": "node/6895188497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049612",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7441333,
+          4.855988
+        ]
+      },
+      "id": "node/6902049612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049613",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7441271,
+          4.8561843
+        ]
+      },
+      "id": "node/6902049613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049614",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7441717,
+          4.8563527
+        ]
+      },
+      "id": "node/6902049614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049615",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.743958,
+          4.8561048
+        ]
+      },
+      "id": "node/6902049615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049616",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7439995,
+          4.8562367
+        ]
+      },
+      "id": "node/6902049616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049617",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7440473,
+          4.8564227
+        ]
+      },
+      "id": "node/6902049617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049618",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7441303,
+          4.85675
+        ]
+      },
+      "id": "node/6902049618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049619",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7440888,
+          4.8565673
+        ]
+      },
+      "id": "node/6902049619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049620",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7443312,
+          4.8568342
+        ]
+      },
+      "id": "node/6902049620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049621",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7440473,
+          4.8555757
+        ]
+      },
+      "id": "node/6902049621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049622",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7444053,
+          4.8574131
+        ]
+      },
+      "id": "node/6902049622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049623",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7444522,
+          4.8575909
+        ]
+      },
+      "id": "node/6902049623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049624",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7443892,
+          4.8578768
+        ]
+      },
+      "id": "node/6902049624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049625",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7444281,
+          4.8579998
+        ]
+      },
+      "id": "node/6902049625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049626",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7444858,
+          4.8581989
+        ]
+      },
+      "id": "node/6902049626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049627",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7445649,
+          4.8583378
+        ]
+      },
+      "id": "node/6902049627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049628",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7446413,
+          4.8585142
+        ]
+      },
+      "id": "node/6902049628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049629",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7447097,
+          4.8586773
+        ]
+      },
+      "id": "node/6902049629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049630",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7447768,
+          4.8588242
+        ]
+      },
+      "id": "node/6902049630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049631",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7448519,
+          4.8589966
+        ]
+      },
+      "id": "node/6902049631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049632",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7449551,
+          4.8592051
+        ]
+      },
+      "id": "node/6902049632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049633",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7448948,
+          4.8590942
+        ]
+      },
+      "id": "node/6902049633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049634",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7450553,
+          4.8593244
+        ]
+      },
+      "id": "node/6902049634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049635",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7451532,
+          4.8594433
+        ]
+      },
+      "id": "node/6902049635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902049636",
+        "leaf_cycle": "evergreen",
+        "natural": "tree",
+        "species:wikidata": "Q979014",
+        "species:wikipedia": "en:Pterocarpus indicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7452779,
+          4.8596384
+        ]
+      },
+      "id": "node/6902049636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7069423842",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.1129341,
+          4.5497184
+        ]
+      },
+      "id": "node/7069423842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7069423843",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.1128214,
+          4.5498155
+        ]
+      },
+      "id": "node/7069423843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7069423844",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.112569,
+          4.5500302
+        ]
+      },
+      "id": "node/7069423844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7069423845",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.1124104,
+          4.5501546
+        ]
+      },
+      "id": "node/7069423845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7069423846",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.1132746,
+          4.5496002
+        ]
+      },
+      "id": "node/7069423846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7069423847",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.1130682,
+          4.5494712
+        ]
+      },
+      "id": "node/7069423847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7069423848",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.1129542,
+          4.5493529
+        ]
+      },
+      "id": "node/7069423848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7069423849",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.1128648,
+          4.5492393
+        ]
+      },
+      "id": "node/7069423849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7069423850",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.1125998,
+          4.5489414
+        ]
+      },
+      "id": "node/7069423850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7069423851",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.1118618,
+          4.5495743
+        ]
+      },
+      "id": "node/7069423851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8100154904",
+        "genus": "Ficus",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species": "Microcarpa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.1102998,
+          4.7157302
+        ]
+      },
+      "id": "node/8100154904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8900734574",
+        "alt_name": "Mangifera quadrifida",
+        "denotation": "single",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "name": "Pokok Asam Kumbang",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7271137,
+          4.8621221
+        ]
+      },
+      "id": "node/8900734574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8900734575",
+        "alt_name": "Mangifera quadrifida",
+        "denotation": "garden",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "name": "Pokok Asam Kumbang",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7285258,
+          4.8668656
+        ]
+      },
+      "id": "node/8900734575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8916826588",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7391609,
+          4.854914
+        ]
+      },
+      "id": "node/8916826588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8916826589",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7393146,
+          4.8546451
+        ]
+      },
+      "id": "node/8916826589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8916826590",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.739463,
+          4.8544365
+        ]
+      },
+      "id": "node/8916826590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8916826591",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "species:wikidata": "Q259500",
+        "species:wikipedia": "en:Samanea saman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7397395,
+          4.8543413
+        ]
+      },
+      "id": "node/8916826591"
+    }
+  ]
+}
