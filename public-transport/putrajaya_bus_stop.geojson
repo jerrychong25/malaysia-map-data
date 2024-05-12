@@ -1,40 +1,36 @@
 {
   "type": "FeatureCollection",
-  "generator": "overpass-ide",
+  "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-08T14:58:40Z",
+  "timestamp": "2024-05-12T16:23:29Z",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/2872238039",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.6724482,
-          2.9305036
-        ]
-      },
-      "id": "node/2872238039"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/2924315281",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Dataran Gemilang",
+        "name:ms": "Dataran Gemilang",
+        "network": "Rapid KL Bus",
+        "network:wikidata": "Q3271384",
+        "not:network:wikidata": "Q4259055",
+        "operator": "Rapid Bus",
+        "operator:wikidata": "Q7294127",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "PPJ34",
+        "route_ref": "P101;P104;P105;P107",
+        "shelter": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6811534,
-          2.9032965
+          101.681191,
+          2.903409
         ]
       },
       "id": "node/2924315281"
@@ -43,15 +39,27 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4037752971",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Hospital Putrajaya",
+        "name:en": "Hospital Putrajaya",
+        "name:ms": "Hospital Putrajaya",
+        "network": "Rapid KL Bus",
+        "network:wikidata": "Q3271384",
+        "operator": "Rapid Bus",
+        "operator:wikidata": "Q7294127",
+        "public_transport": "platform",
+        "ref": "PPJ86",
+        "route_ref": "P108",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6727017,
-          2.9303703
+          101.6726994,
+          2.9303519
         ]
       },
       "id": "node/4037752971"
@@ -78,23 +86,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/4741031726",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.6754557,
-          2.9334746
-        ]
-      },
-      "id": "node/4741031726"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/5356791349",
         "bus": "yes",
         "highway": "bus_stop",
@@ -113,16 +104,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5645453721",
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Lembaga Pembiayaan Perumahan (Utara)",
+        "name:ms": "Lembaga Pembiayaan Perumahan (Utara)",
+        "network": "Rapid KL Bus",
+        "network:wikidata": "Q3271384",
+        "not:network:wikidata": "Q4259055",
+        "old_name": "Pinjaman Perumahan (Opp)",
+        "operator": "Rapid Bus",
+        "operator:wikidata": "Q7294127",
         "public_transport": "platform",
-        "wheelchair": "yes"
+        "ref": "PPJ45",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6866417,
-          2.9227383
+          101.6866886,
+          2.9228921
         ]
       },
       "id": "node/5645453721"
@@ -131,16 +132,30 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5645453722",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Menara Perkeso",
+        "name:ms": "Menara Perkeso",
+        "network": "Rapid KL Bus",
+        "network:wikidata": "Q3271384",
+        "not:network:wikidata": "Q4259055",
+        "old_name": "Kementerian Kewangan (Opp)",
+        "operator": "Rapid Bus",
+        "operator:wikidata": "Q7294127",
         "public_transport": "platform",
+        "ref": "PPJ47",
+        "shelter": "yes",
+        "tactile_paving": "yes",
         "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6883136,
-          2.9276421
+          101.6881827,
+          2.9272561
         ]
       },
       "id": "node/5645453722"
@@ -149,18 +164,30 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5645453821",
+        "bench": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Masjid Putra",
+        "name:en": "Putra Mosque",
+        "name:ms": "Masjid Putra",
+        "name:zh": "布特拉清真寺",
+        "name:zh-Hans": "布特拉清真寺",
+        "name:zh-Hant": "布特拉清真寺",
+        "network": "Rapid KL Bus",
+        "network:wikidata": "Q3271384",
+        "operator": "Rapid Bus",
+        "operator:wikidata": "Q7294127",
         "public_transport": "platform",
+        "route_ref:rapidkl": "S1170",
         "shelter": "no",
+        "source": "data.gov.my",
         "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6906071,
-          2.9346314
+          101.6905126,
+          2.9339337
         ]
       },
       "id": "node/5645453821"
@@ -169,15 +196,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5645508025",
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Perbendaharaan 2 (Selatan)",
+        "name:ms": "Perbendaharaan 2 (Selatan)",
+        "network": "Rapid KL Bus",
+        "network:wikidata": "Q3271384",
+        "not:network:wikidata": "Q4259055",
+        "operator": "Rapid Bus",
+        "operator:wikidata": "Q7294127",
+        "public_transport": "platform",
+        "ref": "PPJ50",
+        "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6879188,
-          2.9252942
+          101.6879548,
+          2.9252839
         ]
       },
       "id": "node/5645508025"
@@ -186,16 +224,26 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5645732021",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Lembaga Pembiayaan Perumahan (Selatan)",
+        "name:ms": "Lembaga Pembiayaan Perumahan (Selatan)",
+        "network": "Rapid KL Bus",
+        "network:wikidata": "Q3271384",
+        "not:network:wikidata": "Q4259055",
+        "operator": "Rapid Bus",
+        "operator:wikidata": "Q7294127",
         "public_transport": "platform",
+        "ref": "PPJ51",
+        "shelter": "yes",
         "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6871779,
-          2.9233212
+          101.6872447,
+          2.9232252
         ]
       },
       "id": "node/5645732021"
@@ -220,37 +268,53 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/5912199085",
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.6840808,
-          2.9142489
-        ]
-      },
-      "id": "node/5912199085"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/5912199385",
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Kementerian Asas Tani",
+        "name:ms": "Kementerian Asas Tani",
+        "network": "Rapid KL Bus",
+        "network:wikidata": "Q3271384",
+        "not:network:wikidata": "Q4259055",
+        "operator": "Rapid Bus",
+        "operator:wikidata": "Q7294127",
         "public_transport": "platform",
+        "route_ref:rapidkl": "S1170",
+        "shelter": "yes",
+        "source": "data.gov.my",
         "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6837496,
-          2.9145916
+          101.68387,
+          2.9147854
         ]
       },
       "id": "node/5912199385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6329951285",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kementerian Belia & Sukan",
+        "public_transport": "platform",
+        "ref": "PPJ55",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6842462,
+          2.914198
+        ]
+      },
+      "id": "node/6329951285"
     },
     {
       "type": "Feature",
@@ -277,14 +341,15 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Kementerian Kesihatan (Utara)",
+        "name:ms": "Kementerian Kesihatan (Utara)",
         "public_transport": "platform",
         "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7079226,
-          2.944462
+          101.7079258,
+          2.9444277
         ]
       },
       "id": "node/6964083960"
@@ -293,13 +358,16 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6964083961",
+        "alt_name": "Kementerian Kesihatan (Barat)",
         "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Parcel F",
+        "name:en": "Parcel F",
         "public_transport": "platform",
-        "ref": "PPJ 191",
-        "shelter": "yes"
+        "ref": "PPJ191",
+        "shelter": "yes",
+        "tactile_paving": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -318,9 +386,10 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Parcel E",
+        "name:en": "Parcel E",
         "passenger_information_display": "no",
         "public_transport": "platform",
-        "ref": "PPJ 187",
+        "ref": "PPJ187",
         "route_ref": "KJ04",
         "shelter": "yes"
       },
@@ -346,8 +415,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6802597,
-          2.9369424
+          101.6802493,
+          2.9369338
         ]
       },
       "id": "node/7765682871"
@@ -357,16 +426,28 @@
       "properties": {
         "@id": "node/7772356768",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
+        "name": "MACC",
+        "name:en": "MACC",
+        "name:ms": "MACC",
+        "network": "Rapid KL Bus",
+        "network:wikidata": "Q3271384",
+        "not:network:wikidata": "Q4259055",
+        "operator": "Rapid Bus",
+        "operator:wikidata": "Q7294127",
         "public_transport": "platform",
+        "ref": "PPJ85",
+        "route_ref": "P107",
         "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6758758,
-          2.9328767
+          101.675913,
+          2.93289
         ]
       },
       "id": "node/7772356768"
@@ -376,16 +457,27 @@
       "properties": {
         "@id": "node/7772356769",
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "MACC (Opp)",
+        "name:en": "MACC (Opp)",
+        "network": "Rapid KL Bus",
+        "network:wikidata": "Q3271384",
+        "not:network:wikidata": "Q4259055",
+        "operator": "Rapid Bus",
+        "operator:wikidata": "Q7294127",
         "public_transport": "platform",
-        "shelter": "yes"
+        "ref": "PPJ169",
+        "route_ref": "P107",
+        "shelter": "yes",
+        "wheelchair": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6756091,
-          2.933342
+          101.6755924,
+          2.9333319
         ]
       },
       "id": "node/7772356769"
@@ -394,10 +486,17 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7968274487",
+        "alt_name": "Menara Usahawan",
         "bench": "yes",
         "bin": "yes",
+        "bus": "yes",
         "highway": "bus_stop",
-        "name": "Menara Usahawan",
+        "name": "Jabatan Pendaftaran Negara",
+        "network": "Rapid KL Bus",
+        "network:wikidata": "Q3271384",
+        "old_name": "JPN",
+        "operator": "Rapid Bus",
+        "operator:wikidata": "Q7294127",
         "passenger_information_display": "yes",
         "public_transport": "platform",
         "ref": "PPJ44",
@@ -407,8 +506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6858169,
-          2.9203289
+          101.6858584,
+          2.920399
         ]
       },
       "id": "node/7968274487"
@@ -419,17 +518,19 @@
         "@id": "node/8141224943",
         "bench": "yes",
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Laman Perdana (Barat)",
+        "name": "Kompleks B / Laman Perdana (Timur)",
         "public_transport": "platform",
-        "ref": "PPJ 277",
-        "shelter": "yes"
+        "ref": "PPJ190",
+        "shelter": "yes",
+        "wikimedia_commons": "File:Kompleks B-Laman Perdana (Timur) Bus Stop sign (221115).jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6954801,
-          2.9389367
+          101.6954604,
+          2.9388912
         ]
       },
       "id": "node/8141224943"
@@ -441,15 +542,16 @@
         "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Presint 1",
+        "name": "Taman Botani Presint 1",
+        "name:ms": "Taman Botani Presint 1",
         "public_transport": "platform",
         "shelter": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.6978795,
-          2.9460793
+          101.6978818,
+          2.9460816
         ]
       },
       "id": "node/8141224944"
@@ -461,14 +563,20 @@
         "bench": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Taman Putra Perdana (Timur)",
+        "name:ms": "Taman Putra Perdana (Timur)",
+        "operator": "Rapid KL",
         "public_transport": "platform",
-        "shelter": "no"
+        "ref": "PPJ186",
+        "route_ref:rapidkl": "S1170",
+        "shelter": "no",
+        "source": "data.gov.my"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.7036266,
-          2.9474453
+          101.7036329,
+          2.9474605
         ]
       },
       "id": "node/8141224945"
@@ -481,8 +589,9 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Dataran Pahlawan Putrajaya",
+        "name:ms": "Dataran Pahlawan Putrajaya",
         "public_transport": "platform",
-        "ref": "PPJ 188",
+        "ref": "PPJ188",
         "shelter": "yes"
       },
       "geometry": {
@@ -493,6 +602,1890 @@
         ]
       },
       "id": "node/8141224946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9898054908",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.728449,
+          2.9502574
+        ]
+      },
+      "id": "node/9898054908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10266244083",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "MRT Putrajaya Sentral",
+        "name:ms": "MRT Putrajaya Sentral",
+        "official_name": "MRT Putrajaya Sentral",
+        "operator": "Rapid KL;KR Travel & Tours",
+        "public_transport": "platform",
+        "ref": "PPJ254",
+        "route_ref": "T508;T509;T510;T511;T512;T523;506;P108",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6718126,
+          2.9324751
+        ]
+      },
+      "id": "node/10266244083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10544068314",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kementerian Wantia & Masyarakat",
+        "name:ms": "Kementerian Wantia & Masyarakat",
+        "public_transport": "platform",
+        "ref": "PPJ35",
+        "route_ref": "P101;P104",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6801585,
+          2.9024169
+        ]
+      },
+      "id": "node/10544068314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10544068315",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kementerian Wantia & Masyarakat",
+        "name:ms": "Kementerian Wantia & Masyarakat",
+        "public_transport": "platform",
+        "ref": "PPJ36",
+        "route_ref": "P101;P104",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6796837,
+          2.9025706
+        ]
+      },
+      "id": "node/10544068315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10544068316",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Dataran Gemilang",
+        "name:ms": "Dataran Gemilang",
+        "network": "Rapid KL Bus",
+        "network:wikidata": "Q3271384",
+        "not:network:wikidata": "Q4259055",
+        "operator": "Rapid Bus",
+        "operator:wikidata": "Q7294127",
+        "public_transport": "platform",
+        "ref": "PPJ37",
+        "route_ref": "P101;P104;P105;P107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6795465,
+          2.9040071
+        ]
+      },
+      "id": "node/10544068316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067345",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan P9 Fasa 7",
+        "public_transport": "platform",
+        "ref": "PPJ160",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6763626,
+          2.9344189
+        ]
+      },
+      "id": "node/10723067345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067358",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan P9 Fasa 8 (Selatan)",
+        "public_transport": "platform",
+        "ref": "PPJ161",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.67742,
+          2.9357763
+        ]
+      },
+      "id": "node/10723067358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067412",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Putra Harmoni (Utara)",
+        "public_transport": "platform",
+        "ref": "PPJ89",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6717912,
+          2.93915
+        ]
+      },
+      "id": "node/10723067412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067413",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6719611,
+          2.9391251
+        ]
+      },
+      "id": "node/10723067413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067414",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan Rajawali P9B",
+        "public_transport": "platform",
+        "ref": "PPJ93",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.672865,
+          2.942391
+        ]
+      },
+      "id": "node/10723067414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067415",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan Tempua P9B",
+        "public_transport": "platform",
+        "ref": "PPJ92",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6730705,
+          2.9423232
+        ]
+      },
+      "id": "node/10723067415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067416",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan P9 Fasa 5&6 (Selatan)",
+        "public_transport": "platform",
+        "ref": "PPJ90",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6757765,
+          2.9443023
+        ]
+      },
+      "id": "node/10723067416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067417",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan P9 Fasa 5&6 (Selatan)",
+        "public_transport": "platform",
+        "ref": "PPJ91",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6756791,
+          2.9440657
+        ]
+      },
+      "id": "node/10723067417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067418",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan P9 Fasa 10",
+        "public_transport": "platform",
+        "ref": "PPJ163",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6766729,
+          2.9387806
+        ]
+      },
+      "id": "node/10723067418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067419",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan P9 Fasa 11",
+        "public_transport": "platform",
+        "ref": "PPJ151",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6766332,
+          2.9390056
+        ]
+      },
+      "id": "node/10723067419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067420",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6785292,
+          2.9459624
+        ]
+      },
+      "id": "node/10723067420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067421",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6792054,
+          2.9459802
+        ]
+      },
+      "id": "node/10723067421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067433",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6784721,
+          2.943225
+        ]
+      },
+      "id": "node/10723067433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067435",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "SK Putrajaya P9 (1) (Timur)",
+        "public_transport": "platform",
+        "ref": "PPJ147"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6794751,
+          2.9429433
+        ]
+      },
+      "id": "node/10723067435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067436",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6816185,
+          2.9471761
+        ]
+      },
+      "id": "node/10723067436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067437",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6821503,
+          2.9472095
+        ]
+      },
+      "id": "node/10723067437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067503",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6816321,
+          2.9449258
+        ]
+      },
+      "id": "node/10723067503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067504",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6815513,
+          2.9447547
+        ]
+      },
+      "id": "node/10723067504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067505",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6802122,
+          2.947077
+        ]
+      },
+      "id": "node/10723067505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067506",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6803957,
+          2.9469759
+        ]
+      },
+      "id": "node/10723067506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067507",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan P9G",
+        "public_transport": "platform",
+        "ref": "PPJ146",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6781045,
+          2.9447692
+        ]
+      },
+      "id": "node/10723067507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067508",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan P9 Fasa 5&6 (Timur)",
+        "public_transport": "platform",
+        "ref": "PPJ98",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6778821,
+          2.9452195
+        ]
+      },
+      "id": "node/10723067508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067516",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan P9 Fasa 8 (Utara)",
+        "public_transport": "platform",
+        "ref": "PPJ162",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6784175,
+          2.9372504
+        ]
+      },
+      "id": "node/10723067516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067517",
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan P9 Fasa 8 (Utara)",
+        "public_transport": "platform",
+        "ref": "PPJ157",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.678596,
+          2.9374072
+        ]
+      },
+      "id": "node/10723067517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067518",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan P9 Fasa 8 (Selatan)",
+        "public_transport": "platform",
+        "ref": "PPJ158",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6775798,
+          2.9356923
+        ]
+      },
+      "id": "node/10723067518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067519",
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan P9 Fasa 7",
+        "public_transport": "platform",
+        "ref": "PPJ159",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6764279,
+          2.934309
+        ]
+      },
+      "id": "node/10723067519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067520",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Cenderawasih P9A",
+        "public_transport": "platform",
+        "ref": "PPJ168",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6728877,
+          2.9347127
+        ]
+      },
+      "id": "node/10723067520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067521",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Apartment Putra Harmoni (Selatan)",
+        "public_transport": "platform",
+        "ref": "PPJ88",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6727518,
+          2.9367869
+        ]
+      },
+      "id": "node/10723067521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067522",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "SRA Presint 9 (Opp)",
+        "public_transport": "platform",
+        "ref": "PPJ95",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6733595,
+          2.9389247
+        ]
+      },
+      "id": "node/10723067522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067523",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan Rajawali P9B",
+        "public_transport": "platform",
+        "ref": "PPJ93",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6744423,
+          2.9410501
+        ]
+      },
+      "id": "node/10723067523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723067524",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan Tempua P9B",
+        "public_transport": "platform",
+        "ref": "PPJ92",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6748863,
+          2.9412356
+        ]
+      },
+      "id": "node/10723067524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10769108138",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Hospital Putrajaya (Opp)",
+        "name:en": "Hospital Putrajaya (Opp)",
+        "name:ms": "Hospital Putrajaya (Opp)",
+        "network": "Rapid KL Bus",
+        "network:wikidata": "Q3271384",
+        "operator": "Rapid Bus",
+        "operator:wikidata": "Q7294127",
+        "public_transport": "platform",
+        "ref": "PPJ87",
+        "route_ref": "P108",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6724347,
+          2.9304773
+        ]
+      },
+      "id": "node/10769108138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10807143852",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "operator": "Rapid KL",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6793917,
+          2.9640091
+        ]
+      },
+      "id": "node/10807143852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10807143853",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "operator": "Rapid KL",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6795703,
+          2.9646752
+        ]
+      },
+      "id": "node/10807143853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11060812087",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6804711,
+          2.9049857
+        ]
+      },
+      "id": "node/11060812087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11189661390",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kementerian Pengajian Tinggi",
+        "name:en": "Ministry of Higher Education",
+        "name:ms": "Kementerian Pengajian Tinggi",
+        "name:zh": "高等教育部",
+        "name:zh-Hans": "高等教育部",
+        "name:zh-Hant": "高等教育部",
+        "operator": "Nadi Putra",
+        "public_transport": "platform",
+        "ref": "PPJ11",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6678488,
+          2.8959309
+        ]
+      },
+      "id": "node/11189661390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11189661391",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6676538,
+          2.8956025
+        ]
+      },
+      "id": "node/11189661391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11189661410",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Apartment 5R1 P5 (Opp)",
+        "public_transport": "platform",
+        "ref": "PPJ8",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6663783,
+          2.898645
+        ]
+      },
+      "id": "node/11189661410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11189661411",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.666189,
+          2.8989389
+        ]
+      },
+      "id": "node/11189661411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11189661416",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Presint 6 (Selatan)",
+        "name:ms": "Presint 6 (Selatan)",
+        "public_transport": "platform",
+        "ref": "PPJ9",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6657693,
+          2.8971043
+        ]
+      },
+      "id": "node/11189661416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11189661417",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6654183,
+          2.897224
+        ]
+      },
+      "id": "node/11189661417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11189661418",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kementerian Pelancongan",
+        "name:ms": "Kementerian Pelancongan",
+        "public_transport": "platform",
+        "ref": "PPJ7",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.668381,
+          2.8988233
+        ]
+      },
+      "id": "node/11189661418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11189661419",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6684213,
+          2.8992015
+        ]
+      },
+      "id": "node/11189661419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11189661420",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Heriot-Watt University P5",
+        "name:en": "Heriot-Watt University P5",
+        "public_transport": "platform",
+        "ref": "PPJ19",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6708891,
+          2.8982406
+        ]
+      },
+      "id": "node/11189661420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11189661421",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Heriot-Watt University P5 (Opp)",
+        "name:en": "Heriot-Watt University P5 (Opp)",
+        "public_transport": "platform",
+        "ref": "PPJ6",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6710647,
+          2.8977331
+        ]
+      },
+      "id": "node/11189661421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11189661422",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Presint 5 (Barat)",
+        "name:ms": "Presint 5 (Barat)",
+        "public_transport": "platform",
+        "ref": "PPJ327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6733549,
+          2.8959984
+        ]
+      },
+      "id": "node/11189661422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11189661423",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Presint 5 (Barat)",
+        "name:ms": "Presint 5 (Barat)",
+        "public_transport": "platform",
+        "ref": "PPJ5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6732738,
+          2.8955184
+        ]
+      },
+      "id": "node/11189661423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11189661425",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Istana Kehakiman (Utara)",
+        "public_transport": "platform",
+        "ref": "PPJ53",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6857228,
+          2.9185495
+        ]
+      },
+      "id": "node/11189661425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11189661426",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perbadanan Putrajaya (Utara)",
+        "public_transport": "platform",
+        "ref": "PPJ43",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.685166,
+          2.9184933
+        ]
+      },
+      "id": "node/11189661426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11189661427",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Menara Usahawan",
+        "public_transport": "platform",
+        "ref": "PPJ52",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6864259,
+          2.9208167
+        ]
+      },
+      "id": "node/11189661427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11189661428",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perbendaharaan 2 (Utara)",
+        "name:ms": "Perbendaharaan 2 (Utara)",
+        "network": "Rapid KL Bus",
+        "network:wikidata": "Q3271384",
+        "operator": "Rapid Bus",
+        "operator:wikidata": "Q7294127",
+        "public_transport": "platform",
+        "ref": "PPJ46",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6874235,
+          2.9249807
+        ]
+      },
+      "id": "node/11189661428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11269420615",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kementerian Pembangunan Luar Bandar",
+        "public_transport": "platform",
+        "ref": "PPJ33",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6810981,
+          2.9048552
+        ]
+      },
+      "id": "node/11269420615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11269420616",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "PICC P5",
+        "name:en": "PICC P5",
+        "network": "Rapid Penang",
+        "network:wikidata": "Q4259055",
+        "operator": "Rapid Bus",
+        "operator:wikidata": "Q7294127",
+        "public_transport": "platform",
+        "ref": "PPJ1",
+        "route_ref": "P104",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6752057,
+          2.8935223
+        ]
+      },
+      "id": "node/11269420616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11336089335",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "PICC Main Entrance",
+        "name:en": "PICC Main Entrance",
+        "public_transport": "platform",
+        "ref": "PPJ29",
+        "route_ref": "P104",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6775311,
+          2.8955613
+        ]
+      },
+      "id": "node/11336089335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11336089640",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "SK Putrajaya P5 (1)",
+        "name:ms": "SK Putrajaya P5 (1)",
+        "network": "Rapid Penang",
+        "network:wikidata": "Q4259055",
+        "operator": "Rapid Bus",
+        "operator:wikidata": "Q7294127",
+        "public_transport": "platform",
+        "ref": "PPJ23",
+        "route_ref": "P104",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6784216,
+          2.8889696
+        ]
+      },
+      "id": "node/11336089640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11336089662",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Apartment 5R6 P5",
+        "name:en": "Apartment 5R6 P5",
+        "network": "Rapid Penang",
+        "network:wikidata": "Q4259055",
+        "operator": "Rapid Bus",
+        "operator:wikidata": "Q7294127",
+        "public_transport": "platform",
+        "ref": "PPJ26",
+        "route_ref": "P104",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6796686,
+          2.890648
+        ]
+      },
+      "id": "node/11336089662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11470443832",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kompleks Lanai",
+        "public_transport": "platform",
+        "ref": "PPJ69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6873717,
+          2.944782
+        ]
+      },
+      "id": "node/11470443832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11470443833",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kompleks Lanai",
+        "public_transport": "platform",
+        "ref": "PPJ76"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6875481,
+          2.9447106
+        ]
+      },
+      "id": "node/11470443833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11470443834",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Presint 10 (Barat)",
+        "public_transport": "platform",
+        "ref": "PPJ70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.68752,
+          2.9481994
+        ]
+      },
+      "id": "node/11470443834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11470443835",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kompleks Seri Perdana",
+        "public_transport": "platform",
+        "ref": "PPJ75",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6872596,
+          2.9490331
+        ]
+      },
+      "id": "node/11470443835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11470443836",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kompleks Seri Perdana (Barat)",
+        "name:ms": "Kompleks Seri Perdana (Barat)",
+        "public_transport": "platform",
+        "ref": "PPJ71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.686796,
+          2.9525774
+        ]
+      },
+      "id": "node/11470443836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11470443837",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan P10/9",
+        "name:ms": "Perumahan P10/9",
+        "public_transport": "platform",
+        "ref": "PPJ74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6868314,
+          2.9520567
+        ]
+      },
+      "id": "node/11470443837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11470443838",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan P11A 1/1",
+        "public_transport": "platform",
+        "ref": "PPJ129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6864254,
+          2.9585846
+        ]
+      },
+      "id": "node/11470443838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11470443839",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Presint 11A5",
+        "public_transport": "platform",
+        "ref": "PPJ130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6864465,
+          2.9583118
+        ]
+      },
+      "id": "node/11470443839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11470443840",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Presint 11A2",
+        "public_transport": "platform",
+        "ref": "PPJ131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6828323,
+          2.9573434
+        ]
+      },
+      "id": "node/11470443840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11470443841",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan P11A 1/3",
+        "public_transport": "platform",
+        "ref": "PPJ128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6828421,
+          2.9575826
+        ]
+      },
+      "id": "node/11470443841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11470443842",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Apartment Presint 11B",
+        "name:en": "Apartment Presint 11B",
+        "public_transport": "platform",
+        "ref": "PPJ132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6766347,
+          2.9570661
+        ]
+      },
+      "id": "node/11470443842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11470443843",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan Presint 11H (Opp)",
+        "public_transport": "platform",
+        "ref": "PPJ133"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6747388,
+          2.9541231
+        ]
+      },
+      "id": "node/11470443843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11470443844",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan Presint 11H",
+        "public_transport": "platform",
+        "ref": "PPJ101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6744841,
+          2.9540179
+        ]
+      },
+      "id": "node/11470443844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11470443845",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kompleks Sekolah Putrajaya Presint 11 (Barat)",
+        "public_transport": "platform",
+        "ref": "PPJ134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6763277,
+          2.9500283
+        ]
+      },
+      "id": "node/11470443845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11470443846",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kompleks Sekolah Putrajaya Presint 11 (Opp)",
+        "public_transport": "platform",
+        "ref": "PPJ100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6761222,
+          2.9499112
+        ]
+      },
+      "id": "node/11470443846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11470443847",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perumahan Presint 11K",
+        "public_transport": "platform",
+        "ref": "PPJ135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6770698,
+          2.9481682
+        ]
+      },
+      "id": "node/11470443847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11521715171",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6767084,
+          2.943062
+        ]
+      },
+      "id": "node/11521715171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11521715172",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6824997,
+          2.9388102
+        ]
+      },
+      "id": "node/11521715172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11521715173",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6822346,
+          2.9355326
+        ]
+      },
+      "id": "node/11521715173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11521715174",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6852128,
+          2.9383164
+        ]
+      },
+      "id": "node/11521715174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11521715175",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6865451,
+          2.9395027
+        ]
+      },
+      "id": "node/11521715175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11581546042",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6861217,
+          2.9235716
+        ]
+      },
+      "id": "node/11581546042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11581546054",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.683489,
+          2.9189934
+        ]
+      },
+      "id": "node/11581546054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11581546055",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6830375,
+          2.9178378
+        ]
+      },
+      "id": "node/11581546055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11581546060",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6827694,
+          2.9202279
+        ]
+      },
+      "id": "node/11581546060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11581546061",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6834554,
+          2.9214895
+        ]
+      },
+      "id": "node/11581546061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11581546064",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6850776,
+          2.9239296
+        ]
+      },
+      "id": "node/11581546064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11581546065",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6851813,
+          2.9265851
+        ]
+      },
+      "id": "node/11581546065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11581546066",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6864079,
+          2.9262726
+        ]
+      },
+      "id": "node/11581546066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11611082796",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "SK Putrajaya Presint 9 (2)",
+        "public_transport": "platform",
+        "ref": "PPJ167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6732787,
+          2.9377156
+        ]
+      },
+      "id": "node/11611082796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11635666550",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7284997,
+          2.9507141
+        ]
+      },
+      "id": "node/11635666550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11635757589",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Menara PJH",
+        "network": "MRT Feeder Bus",
+        "operator": "Rapid Bus",
+        "public_transport": "platform",
+        "ref": "PPJ83"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.686747,
+          2.9277315
+        ]
+      },
+      "id": "node/11635757589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11635757591",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kementerian Kewangan",
+        "public_transport": "platform",
+        "ref": "PPJ49",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6887183,
+          2.927526
+        ]
+      },
+      "id": "node/11635757591"
     }
   ]
 }

@@ -12,6 +12,12 @@ This repo stores Malaysia map data retrieved from [OpenStreetMap](https://www.op
 
 **Jerry Chong** - [jerrychong25](https://github.com/jerrychong25)
 
+## Overpass API
+
+### Public Transport
+
+Putrajaya Bus Stop - https://overpass-api.de/api/interpreter?data=%2F*%0AThis%20has%20been%20generated%20by%20the%20overpass-turbo%20wizard.%0A*%2F%0A%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%2F%2F%20fetch%20area%20%E2%80%9CPutrajaya%E2%80%9D%20to%20search%20in%0Aarea%28id%3A3604443881%29-%3E.putrajaya%3B%0A%2F%2F%20gather%20results%0A%28%0A%20%20node%5Bhighway~%22bus_stop%22%5D%28area.putrajaya%29%3B%0A%20%20way%5Bhighway~%22bus_stop%22%5D%28area.putrajaya%29%3B%0A%20%20relation%5Bhighway~%22bus_stop%22%5D%28area.putrajaya%29%3B%0A%29%3B%0A%2F%2F%20print%20results%0Aout%20body%3B%0A%3E%3B%0Aout%20skel%20qt%3B
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
